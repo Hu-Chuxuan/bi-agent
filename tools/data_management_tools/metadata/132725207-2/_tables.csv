@@ -1,0 +1,8 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Sales","","",False,55,2022-08-07 14:14:13.306,2018-04-10 22:16:05.173,0,False,False,,0,,,False,"6747f96f-c735-44e1-899a-fbc106e403f8",""
+13,1,"DateTableTemplate_678fad20-b2da-4fd6-8a81-d3344e1b103b","","",True,57,2022-08-07 14:14:13.306,2018-03-26 04:29:12.373,2,False,True,,0,,,False,"6c1226f8-ebf6-46e3-b57f-06e2945c2612",""
+268,1,"Product","","",False,313,2022-08-07 14:14:13.306,2018-04-12 02:46:08.043,0,False,False,,0,,,False,"db142618-c642-49e2-bc6f-51f914bd06da",""
+348,1,"Geography","","",False,394,2022-08-07 14:14:13.306,2018-03-26 04:46:33.863,0,False,False,,0,,,False,"2ac0f45d-9a5a-4bfd-b28e-9ffb983be681",""
+434,1,"Manufacturer","","",False,471,2022-08-07 14:14:13.306,2018-04-10 23:16:50.590,0,False,False,,0,,,False,"e4fbd2e1-5f95-49f7-aafa-6c318a08d07e",""
+1979,1,"Date","","",False,1985,2022-08-07 14:14:13.306,2018-03-26 04:35:19.593,2,False,False,,0,,,False,"5c43b89a-ee70-4177-970c-1cf4c05f937b",""
+5910,1,"LocalDateTable_f2afd0d3-01c5-42db-9df0-5d723cc943de","","",True,5965,2022-08-07 14:14:13.306,2019-02-17 22:20:05.026,2,True,False,,0,,,False,"91e0d7f5-7d19-49e7-aa3a-72a90de57a54",""

@@ -1,0 +1,1777 @@
+Type,Component,Year,variable,value
+Expense,EMIs,2018,2018-01-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-01-01 00:00:00.000,
+Expense,EMIs,2020,2018-01-01 00:00:00.000,
+Expense,EMIs,2021,2018-01-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-01-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-01-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-01-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-01-01 00:00:00.000,
+Expense,Health,2018,2018-01-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-01-01 00:00:00.000,
+Expense,Health,2020,2018-01-01 00:00:00.000,
+Expense,Health,2021,2018-01-01 00:00:00.000,
+Expense,House Rent,2018,2018-01-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-01-01 00:00:00.000,
+Expense,House Rent,2020,2018-01-01 00:00:00.000,
+Expense,House Rent,2021,2018-01-01 00:00:00.000,
+Expense,Leisure,2018,2018-01-01 00:00:00.000,500.0
+Expense,Leisure,2019,2018-01-01 00:00:00.000,
+Expense,Leisure,2020,2018-01-01 00:00:00.000,
+Expense,Leisure,2021,2018-01-01 00:00:00.000,
+Expense,Shopping,2018,2018-01-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-01-01 00:00:00.000,
+Expense,Shopping,2020,2018-01-01 00:00:00.000,
+Expense,Shopping,2021,2018-01-01 00:00:00.000,
+Income,Salary,2018,2018-01-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-01-01 00:00:00.000,
+Income,Salary,2020,2018-01-01 00:00:00.000,
+Income,Salary,2021,2018-01-01 00:00:00.000,
+Income,Source 2,2018,2018-01-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-01-01 00:00:00.000,
+Income,Source 2,2020,2018-01-01 00:00:00.000,
+Income,Source 2,2021,2018-01-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-01-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-01-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-01-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-01-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-01-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-01-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-01-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-01-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-01-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2019,2018-01-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-01-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-01-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-01-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-01-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-01-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-01-01 00:00:00.000,
+Expense,EMIs,2018,2018-02-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-02-01 00:00:00.000,
+Expense,EMIs,2020,2018-02-01 00:00:00.000,
+Expense,EMIs,2021,2018-02-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-02-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-02-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-02-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-02-01 00:00:00.000,
+Expense,Health,2018,2018-02-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-02-01 00:00:00.000,
+Expense,Health,2020,2018-02-01 00:00:00.000,
+Expense,Health,2021,2018-02-01 00:00:00.000,
+Expense,House Rent,2018,2018-02-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-02-01 00:00:00.000,
+Expense,House Rent,2020,2018-02-01 00:00:00.000,
+Expense,House Rent,2021,2018-02-01 00:00:00.000,
+Expense,Leisure,2018,2018-02-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-02-01 00:00:00.000,
+Expense,Leisure,2020,2018-02-01 00:00:00.000,
+Expense,Leisure,2021,2018-02-01 00:00:00.000,
+Expense,Shopping,2018,2018-02-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-02-01 00:00:00.000,
+Expense,Shopping,2020,2018-02-01 00:00:00.000,
+Expense,Shopping,2021,2018-02-01 00:00:00.000,
+Income,Salary,2018,2018-02-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-02-01 00:00:00.000,
+Income,Salary,2020,2018-02-01 00:00:00.000,
+Income,Salary,2021,2018-02-01 00:00:00.000,
+Income,Source 2,2018,2018-02-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-02-01 00:00:00.000,
+Income,Source 2,2020,2018-02-01 00:00:00.000,
+Income,Source 2,2021,2018-02-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-02-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-02-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-02-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-02-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-02-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-02-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-02-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-02-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-02-01 00:00:00.000,0.0
+Savings,Liquid Cash,2019,2018-02-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-02-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-02-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-02-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-02-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-02-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-02-01 00:00:00.000,
+Expense,EMIs,2018,2018-03-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-03-01 00:00:00.000,
+Expense,EMIs,2020,2018-03-01 00:00:00.000,
+Expense,EMIs,2021,2018-03-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-03-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-03-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-03-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-03-01 00:00:00.000,
+Expense,Health,2018,2018-03-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-03-01 00:00:00.000,
+Expense,Health,2020,2018-03-01 00:00:00.000,
+Expense,Health,2021,2018-03-01 00:00:00.000,
+Expense,House Rent,2018,2018-03-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-03-01 00:00:00.000,
+Expense,House Rent,2020,2018-03-01 00:00:00.000,
+Expense,House Rent,2021,2018-03-01 00:00:00.000,
+Expense,Leisure,2018,2018-03-01 00:00:00.000,500.0
+Expense,Leisure,2019,2018-03-01 00:00:00.000,
+Expense,Leisure,2020,2018-03-01 00:00:00.000,
+Expense,Leisure,2021,2018-03-01 00:00:00.000,
+Expense,Shopping,2018,2018-03-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-03-01 00:00:00.000,
+Expense,Shopping,2020,2018-03-01 00:00:00.000,
+Expense,Shopping,2021,2018-03-01 00:00:00.000,
+Income,Salary,2018,2018-03-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-03-01 00:00:00.000,
+Income,Salary,2020,2018-03-01 00:00:00.000,
+Income,Salary,2021,2018-03-01 00:00:00.000,
+Income,Source 2,2018,2018-03-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-03-01 00:00:00.000,
+Income,Source 2,2020,2018-03-01 00:00:00.000,
+Income,Source 2,2021,2018-03-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-03-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-03-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-03-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-03-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-03-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-03-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-03-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-03-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-03-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2019,2018-03-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-03-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-03-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-03-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-03-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-03-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-03-01 00:00:00.000,
+Expense,EMIs,2018,2018-04-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-04-01 00:00:00.000,
+Expense,EMIs,2020,2018-04-01 00:00:00.000,
+Expense,EMIs,2021,2018-04-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-04-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-04-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-04-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-04-01 00:00:00.000,
+Expense,Health,2018,2018-04-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-04-01 00:00:00.000,
+Expense,Health,2020,2018-04-01 00:00:00.000,
+Expense,Health,2021,2018-04-01 00:00:00.000,
+Expense,House Rent,2018,2018-04-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-04-01 00:00:00.000,
+Expense,House Rent,2020,2018-04-01 00:00:00.000,
+Expense,House Rent,2021,2018-04-01 00:00:00.000,
+Expense,Leisure,2018,2018-04-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-04-01 00:00:00.000,
+Expense,Leisure,2020,2018-04-01 00:00:00.000,
+Expense,Leisure,2021,2018-04-01 00:00:00.000,
+Expense,Shopping,2018,2018-04-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-04-01 00:00:00.000,
+Expense,Shopping,2020,2018-04-01 00:00:00.000,
+Expense,Shopping,2021,2018-04-01 00:00:00.000,
+Income,Salary,2018,2018-04-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-04-01 00:00:00.000,
+Income,Salary,2020,2018-04-01 00:00:00.000,
+Income,Salary,2021,2018-04-01 00:00:00.000,
+Income,Source 2,2018,2018-04-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-04-01 00:00:00.000,
+Income,Source 2,2020,2018-04-01 00:00:00.000,
+Income,Source 2,2021,2018-04-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-04-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-04-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-04-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-04-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-04-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-04-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-04-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-04-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-04-01 00:00:00.000,0.0
+Savings,Liquid Cash,2019,2018-04-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-04-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-04-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-04-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-04-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-04-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-04-01 00:00:00.000,
+Expense,EMIs,2018,2018-05-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-05-01 00:00:00.000,
+Expense,EMIs,2020,2018-05-01 00:00:00.000,
+Expense,EMIs,2021,2018-05-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-05-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-05-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-05-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-05-01 00:00:00.000,
+Expense,Health,2018,2018-05-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-05-01 00:00:00.000,
+Expense,Health,2020,2018-05-01 00:00:00.000,
+Expense,Health,2021,2018-05-01 00:00:00.000,
+Expense,House Rent,2018,2018-05-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-05-01 00:00:00.000,
+Expense,House Rent,2020,2018-05-01 00:00:00.000,
+Expense,House Rent,2021,2018-05-01 00:00:00.000,
+Expense,Leisure,2018,2018-05-01 00:00:00.000,500.0
+Expense,Leisure,2019,2018-05-01 00:00:00.000,
+Expense,Leisure,2020,2018-05-01 00:00:00.000,
+Expense,Leisure,2021,2018-05-01 00:00:00.000,
+Expense,Shopping,2018,2018-05-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-05-01 00:00:00.000,
+Expense,Shopping,2020,2018-05-01 00:00:00.000,
+Expense,Shopping,2021,2018-05-01 00:00:00.000,
+Income,Salary,2018,2018-05-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-05-01 00:00:00.000,
+Income,Salary,2020,2018-05-01 00:00:00.000,
+Income,Salary,2021,2018-05-01 00:00:00.000,
+Income,Source 2,2018,2018-05-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-05-01 00:00:00.000,
+Income,Source 2,2020,2018-05-01 00:00:00.000,
+Income,Source 2,2021,2018-05-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-05-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-05-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-05-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-05-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-05-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-05-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-05-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-05-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-05-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2019,2018-05-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-05-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-05-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-05-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-05-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-05-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-05-01 00:00:00.000,
+Expense,EMIs,2018,2018-06-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-06-01 00:00:00.000,
+Expense,EMIs,2020,2018-06-01 00:00:00.000,
+Expense,EMIs,2021,2018-06-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-06-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-06-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-06-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-06-01 00:00:00.000,
+Expense,Health,2018,2018-06-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-06-01 00:00:00.000,
+Expense,Health,2020,2018-06-01 00:00:00.000,
+Expense,Health,2021,2018-06-01 00:00:00.000,
+Expense,House Rent,2018,2018-06-01 00:00:00.000,10000.0
+Expense,House Rent,2019,2018-06-01 00:00:00.000,
+Expense,House Rent,2020,2018-06-01 00:00:00.000,
+Expense,House Rent,2021,2018-06-01 00:00:00.000,
+Expense,Leisure,2018,2018-06-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-06-01 00:00:00.000,
+Expense,Leisure,2020,2018-06-01 00:00:00.000,
+Expense,Leisure,2021,2018-06-01 00:00:00.000,
+Expense,Shopping,2018,2018-06-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-06-01 00:00:00.000,
+Expense,Shopping,2020,2018-06-01 00:00:00.000,
+Expense,Shopping,2021,2018-06-01 00:00:00.000,
+Income,Salary,2018,2018-06-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-06-01 00:00:00.000,
+Income,Salary,2020,2018-06-01 00:00:00.000,
+Income,Salary,2021,2018-06-01 00:00:00.000,
+Income,Source 2,2018,2018-06-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-06-01 00:00:00.000,
+Income,Source 2,2020,2018-06-01 00:00:00.000,
+Income,Source 2,2021,2018-06-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-06-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-06-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-06-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-06-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-06-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-06-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-06-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-06-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-06-01 00:00:00.000,0.0
+Savings,Liquid Cash,2019,2018-06-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-06-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-06-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-06-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-06-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-06-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-06-01 00:00:00.000,
+Expense,EMIs,2018,2018-07-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-07-01 00:00:00.000,
+Expense,EMIs,2020,2018-07-01 00:00:00.000,
+Expense,EMIs,2021,2018-07-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-07-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-07-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-07-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-07-01 00:00:00.000,
+Expense,Health,2018,2018-07-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-07-01 00:00:00.000,
+Expense,Health,2020,2018-07-01 00:00:00.000,
+Expense,Health,2021,2018-07-01 00:00:00.000,
+Expense,House Rent,2018,2018-07-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-07-01 00:00:00.000,
+Expense,House Rent,2020,2018-07-01 00:00:00.000,
+Expense,House Rent,2021,2018-07-01 00:00:00.000,
+Expense,Leisure,2018,2018-07-01 00:00:00.000,500.0
+Expense,Leisure,2019,2018-07-01 00:00:00.000,
+Expense,Leisure,2020,2018-07-01 00:00:00.000,
+Expense,Leisure,2021,2018-07-01 00:00:00.000,
+Expense,Shopping,2018,2018-07-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-07-01 00:00:00.000,
+Expense,Shopping,2020,2018-07-01 00:00:00.000,
+Expense,Shopping,2021,2018-07-01 00:00:00.000,
+Income,Salary,2018,2018-07-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-07-01 00:00:00.000,
+Income,Salary,2020,2018-07-01 00:00:00.000,
+Income,Salary,2021,2018-07-01 00:00:00.000,
+Income,Source 2,2018,2018-07-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-07-01 00:00:00.000,
+Income,Source 2,2020,2018-07-01 00:00:00.000,
+Income,Source 2,2021,2018-07-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-07-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-07-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-07-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-07-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-07-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-07-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-07-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-07-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-07-01 00:00:00.000,-1000.0
+Savings,Liquid Cash,2019,2018-07-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-07-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-07-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-07-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-07-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-07-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-07-01 00:00:00.000,
+Expense,EMIs,2018,2018-08-01 00:00:00.000,2500.0
+Expense,EMIs,2019,2018-08-01 00:00:00.000,
+Expense,EMIs,2020,2018-08-01 00:00:00.000,
+Expense,EMIs,2021,2018-08-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-08-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-08-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-08-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-08-01 00:00:00.000,
+Expense,Health,2018,2018-08-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-08-01 00:00:00.000,
+Expense,Health,2020,2018-08-01 00:00:00.000,
+Expense,Health,2021,2018-08-01 00:00:00.000,
+Expense,House Rent,2018,2018-08-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-08-01 00:00:00.000,
+Expense,House Rent,2020,2018-08-01 00:00:00.000,
+Expense,House Rent,2021,2018-08-01 00:00:00.000,
+Expense,Leisure,2018,2018-08-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-08-01 00:00:00.000,
+Expense,Leisure,2020,2018-08-01 00:00:00.000,
+Expense,Leisure,2021,2018-08-01 00:00:00.000,
+Expense,Shopping,2018,2018-08-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-08-01 00:00:00.000,
+Expense,Shopping,2020,2018-08-01 00:00:00.000,
+Expense,Shopping,2021,2018-08-01 00:00:00.000,
+Income,Salary,2018,2018-08-01 00:00:00.000,30000.0
+Income,Salary,2019,2018-08-01 00:00:00.000,
+Income,Salary,2020,2018-08-01 00:00:00.000,
+Income,Salary,2021,2018-08-01 00:00:00.000,
+Income,Source 2,2018,2018-08-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-08-01 00:00:00.000,
+Income,Source 2,2020,2018-08-01 00:00:00.000,
+Income,Source 2,2021,2018-08-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-08-01 00:00:00.000,0.0
+Savings,Emergency Fund,2019,2018-08-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-08-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-08-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-08-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-08-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-08-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-08-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-08-01 00:00:00.000,0.0
+Savings,Liquid Cash,2019,2018-08-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-08-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-08-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-08-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-08-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-08-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-08-01 00:00:00.000,
+Expense,EMIs,2018,2018-09-01 00:00:00.000,5000.0
+Expense,EMIs,2019,2018-09-01 00:00:00.000,
+Expense,EMIs,2020,2018-09-01 00:00:00.000,
+Expense,EMIs,2021,2018-09-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-09-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-09-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-09-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-09-01 00:00:00.000,
+Expense,Health,2018,2018-09-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-09-01 00:00:00.000,
+Expense,Health,2020,2018-09-01 00:00:00.000,
+Expense,Health,2021,2018-09-01 00:00:00.000,
+Expense,House Rent,2018,2018-09-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-09-01 00:00:00.000,
+Expense,House Rent,2020,2018-09-01 00:00:00.000,
+Expense,House Rent,2021,2018-09-01 00:00:00.000,
+Expense,Leisure,2018,2018-09-01 00:00:00.000,4000.0
+Expense,Leisure,2019,2018-09-01 00:00:00.000,
+Expense,Leisure,2020,2018-09-01 00:00:00.000,
+Expense,Leisure,2021,2018-09-01 00:00:00.000,
+Expense,Shopping,2018,2018-09-01 00:00:00.000,2000.0
+Expense,Shopping,2019,2018-09-01 00:00:00.000,
+Expense,Shopping,2020,2018-09-01 00:00:00.000,
+Expense,Shopping,2021,2018-09-01 00:00:00.000,
+Income,Salary,2018,2018-09-01 00:00:00.000,35000.0
+Income,Salary,2019,2018-09-01 00:00:00.000,
+Income,Salary,2020,2018-09-01 00:00:00.000,
+Income,Salary,2021,2018-09-01 00:00:00.000,
+Income,Source 2,2018,2018-09-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-09-01 00:00:00.000,
+Income,Source 2,2020,2018-09-01 00:00:00.000,
+Income,Source 2,2021,2018-09-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-09-01 00:00:00.000,0.0
+Savings,Emergency Fund,2019,2018-09-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-09-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-09-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-09-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2019,2018-09-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-09-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-09-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-09-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2019,2018-09-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-09-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-09-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-09-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-09-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-09-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-09-01 00:00:00.000,
+Expense,EMIs,2018,2018-10-01 00:00:00.000,5000.0
+Expense,EMIs,2019,2018-10-01 00:00:00.000,
+Expense,EMIs,2020,2018-10-01 00:00:00.000,
+Expense,EMIs,2021,2018-10-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-10-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-10-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-10-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-10-01 00:00:00.000,
+Expense,Health,2018,2018-10-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-10-01 00:00:00.000,
+Expense,Health,2020,2018-10-01 00:00:00.000,
+Expense,Health,2021,2018-10-01 00:00:00.000,
+Expense,House Rent,2018,2018-10-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-10-01 00:00:00.000,
+Expense,House Rent,2020,2018-10-01 00:00:00.000,
+Expense,House Rent,2021,2018-10-01 00:00:00.000,
+Expense,Leisure,2018,2018-10-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-10-01 00:00:00.000,
+Expense,Leisure,2020,2018-10-01 00:00:00.000,
+Expense,Leisure,2021,2018-10-01 00:00:00.000,
+Expense,Shopping,2018,2018-10-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-10-01 00:00:00.000,
+Expense,Shopping,2020,2018-10-01 00:00:00.000,
+Expense,Shopping,2021,2018-10-01 00:00:00.000,
+Income,Salary,2018,2018-10-01 00:00:00.000,35000.0
+Income,Salary,2019,2018-10-01 00:00:00.000,
+Income,Salary,2020,2018-10-01 00:00:00.000,
+Income,Salary,2021,2018-10-01 00:00:00.000,
+Income,Source 2,2018,2018-10-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-10-01 00:00:00.000,
+Income,Source 2,2020,2018-10-01 00:00:00.000,
+Income,Source 2,2021,2018-10-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-10-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-10-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-10-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-10-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-10-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2019,2018-10-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-10-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-10-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-10-01 00:00:00.000,500.0
+Savings,Liquid Cash,2019,2018-10-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-10-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-10-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-10-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-10-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-10-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-10-01 00:00:00.000,
+Expense,EMIs,2018,2018-11-01 00:00:00.000,5000.0
+Expense,EMIs,2019,2018-11-01 00:00:00.000,
+Expense,EMIs,2020,2018-11-01 00:00:00.000,
+Expense,EMIs,2021,2018-11-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-11-01 00:00:00.000,6000.0
+Expense,Groceries & Food,2019,2018-11-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-11-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-11-01 00:00:00.000,
+Expense,Health,2018,2018-11-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-11-01 00:00:00.000,
+Expense,Health,2020,2018-11-01 00:00:00.000,
+Expense,Health,2021,2018-11-01 00:00:00.000,
+Expense,House Rent,2018,2018-11-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-11-01 00:00:00.000,
+Expense,House Rent,2020,2018-11-01 00:00:00.000,
+Expense,House Rent,2021,2018-11-01 00:00:00.000,
+Expense,Leisure,2018,2018-11-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-11-01 00:00:00.000,
+Expense,Leisure,2020,2018-11-01 00:00:00.000,
+Expense,Leisure,2021,2018-11-01 00:00:00.000,
+Expense,Shopping,2018,2018-11-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-11-01 00:00:00.000,
+Expense,Shopping,2020,2018-11-01 00:00:00.000,
+Expense,Shopping,2021,2018-11-01 00:00:00.000,
+Income,Salary,2018,2018-11-01 00:00:00.000,35000.0
+Income,Salary,2019,2018-11-01 00:00:00.000,
+Income,Salary,2020,2018-11-01 00:00:00.000,
+Income,Salary,2021,2018-11-01 00:00:00.000,
+Income,Source 2,2018,2018-11-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-11-01 00:00:00.000,
+Income,Source 2,2020,2018-11-01 00:00:00.000,
+Income,Source 2,2021,2018-11-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-11-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-11-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-11-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-11-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-11-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2019,2018-11-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-11-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-11-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-11-01 00:00:00.000,2500.0
+Savings,Liquid Cash,2019,2018-11-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-11-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-11-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-11-01 00:00:00.000,5000.0
+Savings,Mutual funds,2019,2018-11-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-11-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-11-01 00:00:00.000,
+Expense,EMIs,2018,2018-12-01 00:00:00.000,5000.0
+Expense,EMIs,2019,2018-12-01 00:00:00.000,
+Expense,EMIs,2020,2018-12-01 00:00:00.000,
+Expense,EMIs,2021,2018-12-01 00:00:00.000,
+Expense,Groceries & Food,2018,2018-12-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2019,2018-12-01 00:00:00.000,
+Expense,Groceries & Food,2020,2018-12-01 00:00:00.000,
+Expense,Groceries & Food,2021,2018-12-01 00:00:00.000,
+Expense,Health,2018,2018-12-01 00:00:00.000,1000.0
+Expense,Health,2019,2018-12-01 00:00:00.000,
+Expense,Health,2020,2018-12-01 00:00:00.000,
+Expense,Health,2021,2018-12-01 00:00:00.000,
+Expense,House Rent,2018,2018-12-01 00:00:00.000,12000.0
+Expense,House Rent,2019,2018-12-01 00:00:00.000,
+Expense,House Rent,2020,2018-12-01 00:00:00.000,
+Expense,House Rent,2021,2018-12-01 00:00:00.000,
+Expense,Leisure,2018,2018-12-01 00:00:00.000,1500.0
+Expense,Leisure,2019,2018-12-01 00:00:00.000,
+Expense,Leisure,2020,2018-12-01 00:00:00.000,
+Expense,Leisure,2021,2018-12-01 00:00:00.000,
+Expense,Shopping,2018,2018-12-01 00:00:00.000,1000.0
+Expense,Shopping,2019,2018-12-01 00:00:00.000,
+Expense,Shopping,2020,2018-12-01 00:00:00.000,
+Expense,Shopping,2021,2018-12-01 00:00:00.000,
+Income,Salary,2018,2018-12-01 00:00:00.000,35000.0
+Income,Salary,2019,2018-12-01 00:00:00.000,
+Income,Salary,2020,2018-12-01 00:00:00.000,
+Income,Salary,2021,2018-12-01 00:00:00.000,
+Income,Source 2,2018,2018-12-01 00:00:00.000,1000.0
+Income,Source 2,2019,2018-12-01 00:00:00.000,
+Income,Source 2,2020,2018-12-01 00:00:00.000,
+Income,Source 2,2021,2018-12-01 00:00:00.000,
+Savings,Emergency Fund,2018,2018-12-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2019,2018-12-01 00:00:00.000,
+Savings,Emergency Fund,2020,2018-12-01 00:00:00.000,
+Savings,Emergency Fund,2021,2018-12-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2018-12-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2019,2018-12-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2018-12-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2018-12-01 00:00:00.000,
+Savings,Liquid Cash,2018,2018-12-01 00:00:00.000,-1500.0
+Savings,Liquid Cash,2019,2018-12-01 00:00:00.000,
+Savings,Liquid Cash,2020,2018-12-01 00:00:00.000,
+Savings,Liquid Cash,2021,2018-12-01 00:00:00.000,
+Savings,Mutual funds,2018,2018-12-01 00:00:00.000,7000.0
+Savings,Mutual funds,2019,2018-12-01 00:00:00.000,
+Savings,Mutual funds,2020,2018-12-01 00:00:00.000,
+Savings,Mutual funds,2021,2018-12-01 00:00:00.000,
+Expense,EMIs,2018,2019-01-01 00:00:00.000,
+Expense,EMIs,2019,2019-01-01 00:00:00.000,5000.0
+Expense,EMIs,2020,2019-01-01 00:00:00.000,
+Expense,EMIs,2021,2019-01-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-01-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-01-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2020,2019-01-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-01-01 00:00:00.000,
+Expense,Health,2018,2019-01-01 00:00:00.000,
+Expense,Health,2019,2019-01-01 00:00:00.000,3000.0
+Expense,Health,2020,2019-01-01 00:00:00.000,
+Expense,Health,2021,2019-01-01 00:00:00.000,
+Expense,House Rent,2018,2019-01-01 00:00:00.000,
+Expense,House Rent,2019,2019-01-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-01-01 00:00:00.000,
+Expense,House Rent,2021,2019-01-01 00:00:00.000,
+Expense,Leisure,2018,2019-01-01 00:00:00.000,
+Expense,Leisure,2019,2019-01-01 00:00:00.000,0.0
+Expense,Leisure,2020,2019-01-01 00:00:00.000,
+Expense,Leisure,2021,2019-01-01 00:00:00.000,
+Expense,Shopping,2018,2019-01-01 00:00:00.000,
+Expense,Shopping,2019,2019-01-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-01-01 00:00:00.000,
+Expense,Shopping,2021,2019-01-01 00:00:00.000,
+Income,Salary,2018,2019-01-01 00:00:00.000,
+Income,Salary,2019,2019-01-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-01-01 00:00:00.000,
+Income,Salary,2021,2019-01-01 00:00:00.000,
+Income,Source 2,2018,2019-01-01 00:00:00.000,
+Income,Source 2,2019,2019-01-01 00:00:00.000,1000.0
+Income,Source 2,2020,2019-01-01 00:00:00.000,
+Income,Source 2,2021,2019-01-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-01-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-01-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-01-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-01-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-01-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-01-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2020,2019-01-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-01-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-01-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-01-01 00:00:00.000,-1000.0
+Savings,Liquid Cash,2020,2019-01-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-01-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-01-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-01-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-01-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-01-01 00:00:00.000,
+Expense,EMIs,2018,2019-02-01 00:00:00.000,
+Expense,EMIs,2019,2019-02-01 00:00:00.000,6000.0
+Expense,EMIs,2020,2019-02-01 00:00:00.000,
+Expense,EMIs,2021,2019-02-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-02-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-02-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-02-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-02-01 00:00:00.000,
+Expense,Health,2018,2019-02-01 00:00:00.000,
+Expense,Health,2019,2019-02-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-02-01 00:00:00.000,
+Expense,Health,2021,2019-02-01 00:00:00.000,
+Expense,House Rent,2018,2019-02-01 00:00:00.000,
+Expense,House Rent,2019,2019-02-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-02-01 00:00:00.000,
+Expense,House Rent,2021,2019-02-01 00:00:00.000,
+Expense,Leisure,2018,2019-02-01 00:00:00.000,
+Expense,Leisure,2019,2019-02-01 00:00:00.000,0.0
+Expense,Leisure,2020,2019-02-01 00:00:00.000,
+Expense,Leisure,2021,2019-02-01 00:00:00.000,
+Expense,Shopping,2018,2019-02-01 00:00:00.000,
+Expense,Shopping,2019,2019-02-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-02-01 00:00:00.000,
+Expense,Shopping,2021,2019-02-01 00:00:00.000,
+Income,Salary,2018,2019-02-01 00:00:00.000,
+Income,Salary,2019,2019-02-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-02-01 00:00:00.000,
+Income,Salary,2021,2019-02-01 00:00:00.000,
+Income,Source 2,2018,2019-02-01 00:00:00.000,
+Income,Source 2,2019,2019-02-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-02-01 00:00:00.000,
+Income,Source 2,2021,2019-02-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-02-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-02-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-02-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-02-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-02-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-02-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2020,2019-02-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-02-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-02-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-02-01 00:00:00.000,1500.0
+Savings,Liquid Cash,2020,2019-02-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-02-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-02-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-02-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-02-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-02-01 00:00:00.000,
+Expense,EMIs,2018,2019-03-01 00:00:00.000,
+Expense,EMIs,2019,2019-03-01 00:00:00.000,6000.0
+Expense,EMIs,2020,2019-03-01 00:00:00.000,
+Expense,EMIs,2021,2019-03-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-03-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-03-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-03-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-03-01 00:00:00.000,
+Expense,Health,2018,2019-03-01 00:00:00.000,
+Expense,Health,2019,2019-03-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-03-01 00:00:00.000,
+Expense,Health,2021,2019-03-01 00:00:00.000,
+Expense,House Rent,2018,2019-03-01 00:00:00.000,
+Expense,House Rent,2019,2019-03-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-03-01 00:00:00.000,
+Expense,House Rent,2021,2019-03-01 00:00:00.000,
+Expense,Leisure,2018,2019-03-01 00:00:00.000,
+Expense,Leisure,2019,2019-03-01 00:00:00.000,0.0
+Expense,Leisure,2020,2019-03-01 00:00:00.000,
+Expense,Leisure,2021,2019-03-01 00:00:00.000,
+Expense,Shopping,2018,2019-03-01 00:00:00.000,
+Expense,Shopping,2019,2019-03-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-03-01 00:00:00.000,
+Expense,Shopping,2021,2019-03-01 00:00:00.000,
+Income,Salary,2018,2019-03-01 00:00:00.000,
+Income,Salary,2019,2019-03-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-03-01 00:00:00.000,
+Income,Salary,2021,2019-03-01 00:00:00.000,
+Income,Source 2,2018,2019-03-01 00:00:00.000,
+Income,Source 2,2019,2019-03-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-03-01 00:00:00.000,
+Income,Source 2,2021,2019-03-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-03-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-03-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-03-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-03-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-03-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-03-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2020,2019-03-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-03-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-03-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-03-01 00:00:00.000,1500.0
+Savings,Liquid Cash,2020,2019-03-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-03-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-03-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-03-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-03-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-03-01 00:00:00.000,
+Expense,EMIs,2018,2019-04-01 00:00:00.000,
+Expense,EMIs,2019,2019-04-01 00:00:00.000,6000.0
+Expense,EMIs,2020,2019-04-01 00:00:00.000,
+Expense,EMIs,2021,2019-04-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-04-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-04-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-04-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-04-01 00:00:00.000,
+Expense,Health,2018,2019-04-01 00:00:00.000,
+Expense,Health,2019,2019-04-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-04-01 00:00:00.000,
+Expense,Health,2021,2019-04-01 00:00:00.000,
+Expense,House Rent,2018,2019-04-01 00:00:00.000,
+Expense,House Rent,2019,2019-04-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-04-01 00:00:00.000,
+Expense,House Rent,2021,2019-04-01 00:00:00.000,
+Expense,Leisure,2018,2019-04-01 00:00:00.000,
+Expense,Leisure,2019,2019-04-01 00:00:00.000,1000.0
+Expense,Leisure,2020,2019-04-01 00:00:00.000,
+Expense,Leisure,2021,2019-04-01 00:00:00.000,
+Expense,Shopping,2018,2019-04-01 00:00:00.000,
+Expense,Shopping,2019,2019-04-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-04-01 00:00:00.000,
+Expense,Shopping,2021,2019-04-01 00:00:00.000,
+Income,Salary,2018,2019-04-01 00:00:00.000,
+Income,Salary,2019,2019-04-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-04-01 00:00:00.000,
+Income,Salary,2021,2019-04-01 00:00:00.000,
+Income,Source 2,2018,2019-04-01 00:00:00.000,
+Income,Source 2,2019,2019-04-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-04-01 00:00:00.000,
+Income,Source 2,2021,2019-04-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-04-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-04-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-04-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-04-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-04-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-04-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2020,2019-04-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-04-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-04-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-04-01 00:00:00.000,500.0
+Savings,Liquid Cash,2020,2019-04-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-04-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-04-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-04-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-04-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-04-01 00:00:00.000,
+Expense,EMIs,2018,2019-05-01 00:00:00.000,
+Expense,EMIs,2019,2019-05-01 00:00:00.000,6000.0
+Expense,EMIs,2020,2019-05-01 00:00:00.000,
+Expense,EMIs,2021,2019-05-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-05-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-05-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-05-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-05-01 00:00:00.000,
+Expense,Health,2018,2019-05-01 00:00:00.000,
+Expense,Health,2019,2019-05-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-05-01 00:00:00.000,
+Expense,Health,2021,2019-05-01 00:00:00.000,
+Expense,House Rent,2018,2019-05-01 00:00:00.000,
+Expense,House Rent,2019,2019-05-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-05-01 00:00:00.000,
+Expense,House Rent,2021,2019-05-01 00:00:00.000,
+Expense,Leisure,2018,2019-05-01 00:00:00.000,
+Expense,Leisure,2019,2019-05-01 00:00:00.000,1000.0
+Expense,Leisure,2020,2019-05-01 00:00:00.000,
+Expense,Leisure,2021,2019-05-01 00:00:00.000,
+Expense,Shopping,2018,2019-05-01 00:00:00.000,
+Expense,Shopping,2019,2019-05-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-05-01 00:00:00.000,
+Expense,Shopping,2021,2019-05-01 00:00:00.000,
+Income,Salary,2018,2019-05-01 00:00:00.000,
+Income,Salary,2019,2019-05-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-05-01 00:00:00.000,
+Income,Salary,2021,2019-05-01 00:00:00.000,
+Income,Source 2,2018,2019-05-01 00:00:00.000,
+Income,Source 2,2019,2019-05-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-05-01 00:00:00.000,
+Income,Source 2,2021,2019-05-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-05-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-05-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-05-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-05-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-05-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-05-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2020,2019-05-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-05-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-05-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-05-01 00:00:00.000,500.0
+Savings,Liquid Cash,2020,2019-05-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-05-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-05-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-05-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-05-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-05-01 00:00:00.000,
+Expense,EMIs,2018,2019-06-01 00:00:00.000,
+Expense,EMIs,2019,2019-06-01 00:00:00.000,6000.0
+Expense,EMIs,2020,2019-06-01 00:00:00.000,
+Expense,EMIs,2021,2019-06-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-06-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-06-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-06-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-06-01 00:00:00.000,
+Expense,Health,2018,2019-06-01 00:00:00.000,
+Expense,Health,2019,2019-06-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-06-01 00:00:00.000,
+Expense,Health,2021,2019-06-01 00:00:00.000,
+Expense,House Rent,2018,2019-06-01 00:00:00.000,
+Expense,House Rent,2019,2019-06-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-06-01 00:00:00.000,
+Expense,House Rent,2021,2019-06-01 00:00:00.000,
+Expense,Leisure,2018,2019-06-01 00:00:00.000,
+Expense,Leisure,2019,2019-06-01 00:00:00.000,1000.0
+Expense,Leisure,2020,2019-06-01 00:00:00.000,
+Expense,Leisure,2021,2019-06-01 00:00:00.000,
+Expense,Shopping,2018,2019-06-01 00:00:00.000,
+Expense,Shopping,2019,2019-06-01 00:00:00.000,1000.0
+Expense,Shopping,2020,2019-06-01 00:00:00.000,
+Expense,Shopping,2021,2019-06-01 00:00:00.000,
+Income,Salary,2018,2019-06-01 00:00:00.000,
+Income,Salary,2019,2019-06-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-06-01 00:00:00.000,
+Income,Salary,2021,2019-06-01 00:00:00.000,
+Income,Source 2,2018,2019-06-01 00:00:00.000,
+Income,Source 2,2019,2019-06-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-06-01 00:00:00.000,
+Income,Source 2,2021,2019-06-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-06-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-06-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-06-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-06-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-06-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-06-01 00:00:00.000,1000.0
+Savings,Fixed Deposit,2020,2019-06-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-06-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-06-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-06-01 00:00:00.000,500.0
+Savings,Liquid Cash,2020,2019-06-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-06-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-06-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-06-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-06-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-06-01 00:00:00.000,
+Expense,EMIs,2018,2019-07-01 00:00:00.000,
+Expense,EMIs,2019,2019-07-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-07-01 00:00:00.000,
+Expense,EMIs,2021,2019-07-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-07-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-07-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-07-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-07-01 00:00:00.000,
+Expense,Health,2018,2019-07-01 00:00:00.000,
+Expense,Health,2019,2019-07-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-07-01 00:00:00.000,
+Expense,Health,2021,2019-07-01 00:00:00.000,
+Expense,House Rent,2018,2019-07-01 00:00:00.000,
+Expense,House Rent,2019,2019-07-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-07-01 00:00:00.000,
+Expense,House Rent,2021,2019-07-01 00:00:00.000,
+Expense,Leisure,2018,2019-07-01 00:00:00.000,
+Expense,Leisure,2019,2019-07-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-07-01 00:00:00.000,
+Expense,Leisure,2021,2019-07-01 00:00:00.000,
+Expense,Shopping,2018,2019-07-01 00:00:00.000,
+Expense,Shopping,2019,2019-07-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-07-01 00:00:00.000,
+Expense,Shopping,2021,2019-07-01 00:00:00.000,
+Income,Salary,2018,2019-07-01 00:00:00.000,
+Income,Salary,2019,2019-07-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-07-01 00:00:00.000,
+Income,Salary,2021,2019-07-01 00:00:00.000,
+Income,Source 2,2018,2019-07-01 00:00:00.000,
+Income,Source 2,2019,2019-07-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-07-01 00:00:00.000,
+Income,Source 2,2021,2019-07-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-07-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-07-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2020,2019-07-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-07-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-07-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-07-01 00:00:00.000,1000.0
+Savings,Fixed Deposit,2020,2019-07-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-07-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-07-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-07-01 00:00:00.000,0.0
+Savings,Liquid Cash,2020,2019-07-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-07-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-07-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-07-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-07-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-07-01 00:00:00.000,
+Expense,EMIs,2018,2019-08-01 00:00:00.000,
+Expense,EMIs,2019,2019-08-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-08-01 00:00:00.000,
+Expense,EMIs,2021,2019-08-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-08-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-08-01 00:00:00.000,7000.0
+Expense,Groceries & Food,2020,2019-08-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-08-01 00:00:00.000,
+Expense,Health,2018,2019-08-01 00:00:00.000,
+Expense,Health,2019,2019-08-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-08-01 00:00:00.000,
+Expense,Health,2021,2019-08-01 00:00:00.000,
+Expense,House Rent,2018,2019-08-01 00:00:00.000,
+Expense,House Rent,2019,2019-08-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-08-01 00:00:00.000,
+Expense,House Rent,2021,2019-08-01 00:00:00.000,
+Expense,Leisure,2018,2019-08-01 00:00:00.000,
+Expense,Leisure,2019,2019-08-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-08-01 00:00:00.000,
+Expense,Leisure,2021,2019-08-01 00:00:00.000,
+Expense,Shopping,2018,2019-08-01 00:00:00.000,
+Expense,Shopping,2019,2019-08-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-08-01 00:00:00.000,
+Expense,Shopping,2021,2019-08-01 00:00:00.000,
+Income,Salary,2018,2019-08-01 00:00:00.000,
+Income,Salary,2019,2019-08-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-08-01 00:00:00.000,
+Income,Salary,2021,2019-08-01 00:00:00.000,
+Income,Source 2,2018,2019-08-01 00:00:00.000,
+Income,Source 2,2019,2019-08-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-08-01 00:00:00.000,
+Income,Source 2,2021,2019-08-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-08-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-08-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2020,2019-08-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-08-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-08-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-08-01 00:00:00.000,1000.0
+Savings,Fixed Deposit,2020,2019-08-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-08-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-08-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-08-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2020,2019-08-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-08-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-08-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-08-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-08-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-08-01 00:00:00.000,
+Expense,EMIs,2018,2019-09-01 00:00:00.000,
+Expense,EMIs,2019,2019-09-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-09-01 00:00:00.000,
+Expense,EMIs,2021,2019-09-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-09-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-09-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2020,2019-09-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-09-01 00:00:00.000,
+Expense,Health,2018,2019-09-01 00:00:00.000,
+Expense,Health,2019,2019-09-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-09-01 00:00:00.000,
+Expense,Health,2021,2019-09-01 00:00:00.000,
+Expense,House Rent,2018,2019-09-01 00:00:00.000,
+Expense,House Rent,2019,2019-09-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-09-01 00:00:00.000,
+Expense,House Rent,2021,2019-09-01 00:00:00.000,
+Expense,Leisure,2018,2019-09-01 00:00:00.000,
+Expense,Leisure,2019,2019-09-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-09-01 00:00:00.000,
+Expense,Leisure,2021,2019-09-01 00:00:00.000,
+Expense,Shopping,2018,2019-09-01 00:00:00.000,
+Expense,Shopping,2019,2019-09-01 00:00:00.000,0.0
+Expense,Shopping,2020,2019-09-01 00:00:00.000,
+Expense,Shopping,2021,2019-09-01 00:00:00.000,
+Income,Salary,2018,2019-09-01 00:00:00.000,
+Income,Salary,2019,2019-09-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-09-01 00:00:00.000,
+Income,Salary,2021,2019-09-01 00:00:00.000,
+Income,Source 2,2018,2019-09-01 00:00:00.000,
+Income,Source 2,2019,2019-09-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-09-01 00:00:00.000,
+Income,Source 2,2021,2019-09-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-09-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-09-01 00:00:00.000,0.0
+Savings,Emergency Fund,2020,2019-09-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-09-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-09-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-09-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2020,2019-09-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-09-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-09-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-09-01 00:00:00.000,0.0
+Savings,Liquid Cash,2020,2019-09-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-09-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-09-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-09-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-09-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-09-01 00:00:00.000,
+Expense,EMIs,2018,2019-10-01 00:00:00.000,
+Expense,EMIs,2019,2019-10-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-10-01 00:00:00.000,
+Expense,EMIs,2021,2019-10-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-10-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-10-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2020,2019-10-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-10-01 00:00:00.000,
+Expense,Health,2018,2019-10-01 00:00:00.000,
+Expense,Health,2019,2019-10-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-10-01 00:00:00.000,
+Expense,Health,2021,2019-10-01 00:00:00.000,
+Expense,House Rent,2018,2019-10-01 00:00:00.000,
+Expense,House Rent,2019,2019-10-01 00:00:00.000,12000.0
+Expense,House Rent,2020,2019-10-01 00:00:00.000,
+Expense,House Rent,2021,2019-10-01 00:00:00.000,
+Expense,Leisure,2018,2019-10-01 00:00:00.000,
+Expense,Leisure,2019,2019-10-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-10-01 00:00:00.000,
+Expense,Leisure,2021,2019-10-01 00:00:00.000,
+Expense,Shopping,2018,2019-10-01 00:00:00.000,
+Expense,Shopping,2019,2019-10-01 00:00:00.000,1000.0
+Expense,Shopping,2020,2019-10-01 00:00:00.000,
+Expense,Shopping,2021,2019-10-01 00:00:00.000,
+Income,Salary,2018,2019-10-01 00:00:00.000,
+Income,Salary,2019,2019-10-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-10-01 00:00:00.000,
+Income,Salary,2021,2019-10-01 00:00:00.000,
+Income,Source 2,2018,2019-10-01 00:00:00.000,
+Income,Source 2,2019,2019-10-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-10-01 00:00:00.000,
+Income,Source 2,2021,2019-10-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-10-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-10-01 00:00:00.000,0.0
+Savings,Emergency Fund,2020,2019-10-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-10-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-10-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-10-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2020,2019-10-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-10-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-10-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-10-01 00:00:00.000,1000.0
+Savings,Liquid Cash,2020,2019-10-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-10-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-10-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-10-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-10-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-10-01 00:00:00.000,
+Expense,EMIs,2018,2019-11-01 00:00:00.000,
+Expense,EMIs,2019,2019-11-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-11-01 00:00:00.000,
+Expense,EMIs,2021,2019-11-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-11-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-11-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2020,2019-11-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-11-01 00:00:00.000,
+Expense,Health,2018,2019-11-01 00:00:00.000,
+Expense,Health,2019,2019-11-01 00:00:00.000,1500.0
+Expense,Health,2020,2019-11-01 00:00:00.000,
+Expense,Health,2021,2019-11-01 00:00:00.000,
+Expense,House Rent,2018,2019-11-01 00:00:00.000,
+Expense,House Rent,2019,2019-11-01 00:00:00.000,15000.0
+Expense,House Rent,2020,2019-11-01 00:00:00.000,
+Expense,House Rent,2021,2019-11-01 00:00:00.000,
+Expense,Leisure,2018,2019-11-01 00:00:00.000,
+Expense,Leisure,2019,2019-11-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-11-01 00:00:00.000,
+Expense,Leisure,2021,2019-11-01 00:00:00.000,
+Expense,Shopping,2018,2019-11-01 00:00:00.000,
+Expense,Shopping,2019,2019-11-01 00:00:00.000,1000.0
+Expense,Shopping,2020,2019-11-01 00:00:00.000,
+Expense,Shopping,2021,2019-11-01 00:00:00.000,
+Income,Salary,2018,2019-11-01 00:00:00.000,
+Income,Salary,2019,2019-11-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-11-01 00:00:00.000,
+Income,Salary,2021,2019-11-01 00:00:00.000,
+Income,Source 2,2018,2019-11-01 00:00:00.000,
+Income,Source 2,2019,2019-11-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-11-01 00:00:00.000,
+Income,Source 2,2021,2019-11-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-11-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-11-01 00:00:00.000,0.0
+Savings,Emergency Fund,2020,2019-11-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-11-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-11-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-11-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2020,2019-11-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-11-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-11-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-11-01 00:00:00.000,-2000.0
+Savings,Liquid Cash,2020,2019-11-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-11-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-11-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-11-01 00:00:00.000,7000.0
+Savings,Mutual funds,2020,2019-11-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-11-01 00:00:00.000,
+Expense,EMIs,2018,2019-12-01 00:00:00.000,
+Expense,EMIs,2019,2019-12-01 00:00:00.000,7000.0
+Expense,EMIs,2020,2019-12-01 00:00:00.000,
+Expense,EMIs,2021,2019-12-01 00:00:00.000,
+Expense,Groceries & Food,2018,2019-12-01 00:00:00.000,
+Expense,Groceries & Food,2019,2019-12-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2020,2019-12-01 00:00:00.000,
+Expense,Groceries & Food,2021,2019-12-01 00:00:00.000,
+Expense,Health,2018,2019-12-01 00:00:00.000,
+Expense,Health,2019,2019-12-01 00:00:00.000,3000.0
+Expense,Health,2020,2019-12-01 00:00:00.000,
+Expense,Health,2021,2019-12-01 00:00:00.000,
+Expense,House Rent,2018,2019-12-01 00:00:00.000,
+Expense,House Rent,2019,2019-12-01 00:00:00.000,15000.0
+Expense,House Rent,2020,2019-12-01 00:00:00.000,
+Expense,House Rent,2021,2019-12-01 00:00:00.000,
+Expense,Leisure,2018,2019-12-01 00:00:00.000,
+Expense,Leisure,2019,2019-12-01 00:00:00.000,1500.0
+Expense,Leisure,2020,2019-12-01 00:00:00.000,
+Expense,Leisure,2021,2019-12-01 00:00:00.000,
+Expense,Shopping,2018,2019-12-01 00:00:00.000,
+Expense,Shopping,2019,2019-12-01 00:00:00.000,2000.0
+Expense,Shopping,2020,2019-12-01 00:00:00.000,
+Expense,Shopping,2021,2019-12-01 00:00:00.000,
+Income,Salary,2018,2019-12-01 00:00:00.000,
+Income,Salary,2019,2019-12-01 00:00:00.000,35000.0
+Income,Salary,2020,2019-12-01 00:00:00.000,
+Income,Salary,2021,2019-12-01 00:00:00.000,
+Income,Source 2,2018,2019-12-01 00:00:00.000,
+Income,Source 2,2019,2019-12-01 00:00:00.000,4000.0
+Income,Source 2,2020,2019-12-01 00:00:00.000,
+Income,Source 2,2021,2019-12-01 00:00:00.000,
+Savings,Emergency Fund,2018,2019-12-01 00:00:00.000,
+Savings,Emergency Fund,2019,2019-12-01 00:00:00.000,0.0
+Savings,Emergency Fund,2020,2019-12-01 00:00:00.000,
+Savings,Emergency Fund,2021,2019-12-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2019-12-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2019-12-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2020,2019-12-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2019-12-01 00:00:00.000,
+Savings,Liquid Cash,2018,2019-12-01 00:00:00.000,
+Savings,Liquid Cash,2019,2019-12-01 00:00:00.000,500.0
+Savings,Liquid Cash,2020,2019-12-01 00:00:00.000,
+Savings,Liquid Cash,2021,2019-12-01 00:00:00.000,
+Savings,Mutual funds,2018,2019-12-01 00:00:00.000,
+Savings,Mutual funds,2019,2019-12-01 00:00:00.000,0.0
+Savings,Mutual funds,2020,2019-12-01 00:00:00.000,
+Savings,Mutual funds,2021,2019-12-01 00:00:00.000,
+Expense,EMIs,2018,2020-01-01 00:00:00.000,
+Expense,EMIs,2019,2020-01-01 00:00:00.000,
+Expense,EMIs,2020,2020-01-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-01-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-01-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-01-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-01-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-01-01 00:00:00.000,
+Expense,Health,2018,2020-01-01 00:00:00.000,
+Expense,Health,2019,2020-01-01 00:00:00.000,
+Expense,Health,2020,2020-01-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-01-01 00:00:00.000,
+Expense,House Rent,2018,2020-01-01 00:00:00.000,
+Expense,House Rent,2019,2020-01-01 00:00:00.000,
+Expense,House Rent,2020,2020-01-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-01-01 00:00:00.000,
+Expense,Leisure,2018,2020-01-01 00:00:00.000,
+Expense,Leisure,2019,2020-01-01 00:00:00.000,
+Expense,Leisure,2020,2020-01-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-01-01 00:00:00.000,
+Expense,Shopping,2018,2020-01-01 00:00:00.000,
+Expense,Shopping,2019,2020-01-01 00:00:00.000,
+Expense,Shopping,2020,2020-01-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-01-01 00:00:00.000,
+Income,Salary,2018,2020-01-01 00:00:00.000,
+Income,Salary,2019,2020-01-01 00:00:00.000,
+Income,Salary,2020,2020-01-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-01-01 00:00:00.000,
+Income,Source 2,2018,2020-01-01 00:00:00.000,
+Income,Source 2,2019,2020-01-01 00:00:00.000,
+Income,Source 2,2020,2020-01-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-01-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-01-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-01-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-01-01 00:00:00.000,0.0
+Savings,Emergency Fund,2021,2020-01-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-01-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-01-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-01-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-01-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-01-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-01-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-01-01 00:00:00.000,-1500.0
+Savings,Liquid Cash,2021,2020-01-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-01-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-01-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-01-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-01-01 00:00:00.000,
+Expense,EMIs,2018,2020-02-01 00:00:00.000,
+Expense,EMIs,2019,2020-02-01 00:00:00.000,
+Expense,EMIs,2020,2020-02-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-02-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-02-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-02-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-02-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-02-01 00:00:00.000,
+Expense,Health,2018,2020-02-01 00:00:00.000,
+Expense,Health,2019,2020-02-01 00:00:00.000,
+Expense,Health,2020,2020-02-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-02-01 00:00:00.000,
+Expense,House Rent,2018,2020-02-01 00:00:00.000,
+Expense,House Rent,2019,2020-02-01 00:00:00.000,
+Expense,House Rent,2020,2020-02-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-02-01 00:00:00.000,
+Expense,Leisure,2018,2020-02-01 00:00:00.000,
+Expense,Leisure,2019,2020-02-01 00:00:00.000,
+Expense,Leisure,2020,2020-02-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-02-01 00:00:00.000,
+Expense,Shopping,2018,2020-02-01 00:00:00.000,
+Expense,Shopping,2019,2020-02-01 00:00:00.000,
+Expense,Shopping,2020,2020-02-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-02-01 00:00:00.000,
+Income,Salary,2018,2020-02-01 00:00:00.000,
+Income,Salary,2019,2020-02-01 00:00:00.000,
+Income,Salary,2020,2020-02-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-02-01 00:00:00.000,
+Income,Source 2,2018,2020-02-01 00:00:00.000,
+Income,Source 2,2019,2020-02-01 00:00:00.000,
+Income,Source 2,2020,2020-02-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-02-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-02-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-02-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-02-01 00:00:00.000,0.0
+Savings,Emergency Fund,2021,2020-02-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-02-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-02-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-02-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-02-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-02-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-02-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-02-01 00:00:00.000,-1500.0
+Savings,Liquid Cash,2021,2020-02-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-02-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-02-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-02-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-02-01 00:00:00.000,
+Expense,EMIs,2018,2020-03-01 00:00:00.000,
+Expense,EMIs,2019,2020-03-01 00:00:00.000,
+Expense,EMIs,2020,2020-03-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-03-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-03-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-03-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-03-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-03-01 00:00:00.000,
+Expense,Health,2018,2020-03-01 00:00:00.000,
+Expense,Health,2019,2020-03-01 00:00:00.000,
+Expense,Health,2020,2020-03-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-03-01 00:00:00.000,
+Expense,House Rent,2018,2020-03-01 00:00:00.000,
+Expense,House Rent,2019,2020-03-01 00:00:00.000,
+Expense,House Rent,2020,2020-03-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-03-01 00:00:00.000,
+Expense,Leisure,2018,2020-03-01 00:00:00.000,
+Expense,Leisure,2019,2020-03-01 00:00:00.000,
+Expense,Leisure,2020,2020-03-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-03-01 00:00:00.000,
+Expense,Shopping,2018,2020-03-01 00:00:00.000,
+Expense,Shopping,2019,2020-03-01 00:00:00.000,
+Expense,Shopping,2020,2020-03-01 00:00:00.000,500.0
+Expense,Shopping,2021,2020-03-01 00:00:00.000,
+Income,Salary,2018,2020-03-01 00:00:00.000,
+Income,Salary,2019,2020-03-01 00:00:00.000,
+Income,Salary,2020,2020-03-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-03-01 00:00:00.000,
+Income,Source 2,2018,2020-03-01 00:00:00.000,
+Income,Source 2,2019,2020-03-01 00:00:00.000,
+Income,Source 2,2020,2020-03-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-03-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-03-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-03-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-03-01 00:00:00.000,0.0
+Savings,Emergency Fund,2021,2020-03-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-03-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-03-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-03-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-03-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-03-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-03-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-03-01 00:00:00.000,0.0
+Savings,Liquid Cash,2021,2020-03-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-03-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-03-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-03-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-03-01 00:00:00.000,
+Expense,EMIs,2018,2020-04-01 00:00:00.000,
+Expense,EMIs,2019,2020-04-01 00:00:00.000,
+Expense,EMIs,2020,2020-04-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-04-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-04-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-04-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-04-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2021,2020-04-01 00:00:00.000,
+Expense,Health,2018,2020-04-01 00:00:00.000,
+Expense,Health,2019,2020-04-01 00:00:00.000,
+Expense,Health,2020,2020-04-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-04-01 00:00:00.000,
+Expense,House Rent,2018,2020-04-01 00:00:00.000,
+Expense,House Rent,2019,2020-04-01 00:00:00.000,
+Expense,House Rent,2020,2020-04-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-04-01 00:00:00.000,
+Expense,Leisure,2018,2020-04-01 00:00:00.000,
+Expense,Leisure,2019,2020-04-01 00:00:00.000,
+Expense,Leisure,2020,2020-04-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-04-01 00:00:00.000,
+Expense,Shopping,2018,2020-04-01 00:00:00.000,
+Expense,Shopping,2019,2020-04-01 00:00:00.000,
+Expense,Shopping,2020,2020-04-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-04-01 00:00:00.000,
+Income,Salary,2018,2020-04-01 00:00:00.000,
+Income,Salary,2019,2020-04-01 00:00:00.000,
+Income,Salary,2020,2020-04-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-04-01 00:00:00.000,
+Income,Source 2,2018,2020-04-01 00:00:00.000,
+Income,Source 2,2019,2020-04-01 00:00:00.000,
+Income,Source 2,2020,2020-04-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-04-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-04-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-04-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-04-01 00:00:00.000,0.0
+Savings,Emergency Fund,2021,2020-04-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-04-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-04-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-04-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-04-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-04-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-04-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-04-01 00:00:00.000,500.0
+Savings,Liquid Cash,2021,2020-04-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-04-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-04-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-04-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-04-01 00:00:00.000,
+Expense,EMIs,2018,2020-05-01 00:00:00.000,
+Expense,EMIs,2019,2020-05-01 00:00:00.000,
+Expense,EMIs,2020,2020-05-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-05-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-05-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-05-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-05-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2021,2020-05-01 00:00:00.000,
+Expense,Health,2018,2020-05-01 00:00:00.000,
+Expense,Health,2019,2020-05-01 00:00:00.000,
+Expense,Health,2020,2020-05-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-05-01 00:00:00.000,
+Expense,House Rent,2018,2020-05-01 00:00:00.000,
+Expense,House Rent,2019,2020-05-01 00:00:00.000,
+Expense,House Rent,2020,2020-05-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-05-01 00:00:00.000,
+Expense,Leisure,2018,2020-05-01 00:00:00.000,
+Expense,Leisure,2019,2020-05-01 00:00:00.000,
+Expense,Leisure,2020,2020-05-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-05-01 00:00:00.000,
+Expense,Shopping,2018,2020-05-01 00:00:00.000,
+Expense,Shopping,2019,2020-05-01 00:00:00.000,
+Expense,Shopping,2020,2020-05-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-05-01 00:00:00.000,
+Income,Salary,2018,2020-05-01 00:00:00.000,
+Income,Salary,2019,2020-05-01 00:00:00.000,
+Income,Salary,2020,2020-05-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-05-01 00:00:00.000,
+Income,Source 2,2018,2020-05-01 00:00:00.000,
+Income,Source 2,2019,2020-05-01 00:00:00.000,
+Income,Source 2,2020,2020-05-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-05-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-05-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-05-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-05-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2021,2020-05-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-05-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-05-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-05-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-05-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-05-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-05-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-05-01 00:00:00.000,-1500.0
+Savings,Liquid Cash,2021,2020-05-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-05-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-05-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-05-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-05-01 00:00:00.000,
+Expense,EMIs,2018,2020-06-01 00:00:00.000,
+Expense,EMIs,2019,2020-06-01 00:00:00.000,
+Expense,EMIs,2020,2020-06-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-06-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-06-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-06-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-06-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2021,2020-06-01 00:00:00.000,
+Expense,Health,2018,2020-06-01 00:00:00.000,
+Expense,Health,2019,2020-06-01 00:00:00.000,
+Expense,Health,2020,2020-06-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-06-01 00:00:00.000,
+Expense,House Rent,2018,2020-06-01 00:00:00.000,
+Expense,House Rent,2019,2020-06-01 00:00:00.000,
+Expense,House Rent,2020,2020-06-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-06-01 00:00:00.000,
+Expense,Leisure,2018,2020-06-01 00:00:00.000,
+Expense,Leisure,2019,2020-06-01 00:00:00.000,
+Expense,Leisure,2020,2020-06-01 00:00:00.000,500.0
+Expense,Leisure,2021,2020-06-01 00:00:00.000,
+Expense,Shopping,2018,2020-06-01 00:00:00.000,
+Expense,Shopping,2019,2020-06-01 00:00:00.000,
+Expense,Shopping,2020,2020-06-01 00:00:00.000,0.0
+Expense,Shopping,2021,2020-06-01 00:00:00.000,
+Income,Salary,2018,2020-06-01 00:00:00.000,
+Income,Salary,2019,2020-06-01 00:00:00.000,
+Income,Salary,2020,2020-06-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-06-01 00:00:00.000,
+Income,Source 2,2018,2020-06-01 00:00:00.000,
+Income,Source 2,2019,2020-06-01 00:00:00.000,
+Income,Source 2,2020,2020-06-01 00:00:00.000,4000.0
+Income,Source 2,2021,2020-06-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-06-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-06-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-06-01 00:00:00.000,0.0
+Savings,Emergency Fund,2021,2020-06-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-06-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-06-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-06-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2021,2020-06-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-06-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-06-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-06-01 00:00:00.000,1500.0
+Savings,Liquid Cash,2021,2020-06-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-06-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-06-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-06-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-06-01 00:00:00.000,
+Expense,EMIs,2018,2020-07-01 00:00:00.000,
+Expense,EMIs,2019,2020-07-01 00:00:00.000,
+Expense,EMIs,2020,2020-07-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-07-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-07-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-07-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-07-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-07-01 00:00:00.000,
+Expense,Health,2018,2020-07-01 00:00:00.000,
+Expense,Health,2019,2020-07-01 00:00:00.000,
+Expense,Health,2020,2020-07-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-07-01 00:00:00.000,
+Expense,House Rent,2018,2020-07-01 00:00:00.000,
+Expense,House Rent,2019,2020-07-01 00:00:00.000,
+Expense,House Rent,2020,2020-07-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-07-01 00:00:00.000,
+Expense,Leisure,2018,2020-07-01 00:00:00.000,
+Expense,Leisure,2019,2020-07-01 00:00:00.000,
+Expense,Leisure,2020,2020-07-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-07-01 00:00:00.000,
+Expense,Shopping,2018,2020-07-01 00:00:00.000,
+Expense,Shopping,2019,2020-07-01 00:00:00.000,
+Expense,Shopping,2020,2020-07-01 00:00:00.000,3000.0
+Expense,Shopping,2021,2020-07-01 00:00:00.000,
+Income,Salary,2018,2020-07-01 00:00:00.000,
+Income,Salary,2019,2020-07-01 00:00:00.000,
+Income,Salary,2020,2020-07-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-07-01 00:00:00.000,
+Income,Source 2,2018,2020-07-01 00:00:00.000,
+Income,Source 2,2019,2020-07-01 00:00:00.000,
+Income,Source 2,2020,2020-07-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-07-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-07-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-07-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-07-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2021,2020-07-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-07-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-07-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-07-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-07-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-07-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-07-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-07-01 00:00:00.000,-1500.0
+Savings,Liquid Cash,2021,2020-07-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-07-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-07-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-07-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-07-01 00:00:00.000,
+Expense,EMIs,2018,2020-08-01 00:00:00.000,
+Expense,EMIs,2019,2020-08-01 00:00:00.000,
+Expense,EMIs,2020,2020-08-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-08-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-08-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-08-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-08-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-08-01 00:00:00.000,
+Expense,Health,2018,2020-08-01 00:00:00.000,
+Expense,Health,2019,2020-08-01 00:00:00.000,
+Expense,Health,2020,2020-08-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-08-01 00:00:00.000,
+Expense,House Rent,2018,2020-08-01 00:00:00.000,
+Expense,House Rent,2019,2020-08-01 00:00:00.000,
+Expense,House Rent,2020,2020-08-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-08-01 00:00:00.000,
+Expense,Leisure,2018,2020-08-01 00:00:00.000,
+Expense,Leisure,2019,2020-08-01 00:00:00.000,
+Expense,Leisure,2020,2020-08-01 00:00:00.000,3000.0
+Expense,Leisure,2021,2020-08-01 00:00:00.000,
+Expense,Shopping,2018,2020-08-01 00:00:00.000,
+Expense,Shopping,2019,2020-08-01 00:00:00.000,
+Expense,Shopping,2020,2020-08-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-08-01 00:00:00.000,
+Income,Salary,2018,2020-08-01 00:00:00.000,
+Income,Salary,2019,2020-08-01 00:00:00.000,
+Income,Salary,2020,2020-08-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-08-01 00:00:00.000,
+Income,Source 2,2018,2020-08-01 00:00:00.000,
+Income,Source 2,2019,2020-08-01 00:00:00.000,
+Income,Source 2,2020,2020-08-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-08-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-08-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-08-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-08-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2021,2020-08-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-08-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-08-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-08-01 00:00:00.000,0.0
+Savings,Fixed Deposit,2021,2020-08-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-08-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-08-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-08-01 00:00:00.000,-2000.0
+Savings,Liquid Cash,2021,2020-08-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-08-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-08-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-08-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-08-01 00:00:00.000,
+Expense,EMIs,2018,2020-09-01 00:00:00.000,
+Expense,EMIs,2019,2020-09-01 00:00:00.000,
+Expense,EMIs,2020,2020-09-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-09-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-09-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-09-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-09-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-09-01 00:00:00.000,
+Expense,Health,2018,2020-09-01 00:00:00.000,
+Expense,Health,2019,2020-09-01 00:00:00.000,
+Expense,Health,2020,2020-09-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-09-01 00:00:00.000,
+Expense,House Rent,2018,2020-09-01 00:00:00.000,
+Expense,House Rent,2019,2020-09-01 00:00:00.000,
+Expense,House Rent,2020,2020-09-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-09-01 00:00:00.000,
+Expense,Leisure,2018,2020-09-01 00:00:00.000,
+Expense,Leisure,2019,2020-09-01 00:00:00.000,
+Expense,Leisure,2020,2020-09-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-09-01 00:00:00.000,
+Expense,Shopping,2018,2020-09-01 00:00:00.000,
+Expense,Shopping,2019,2020-09-01 00:00:00.000,
+Expense,Shopping,2020,2020-09-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-09-01 00:00:00.000,
+Income,Salary,2018,2020-09-01 00:00:00.000,
+Income,Salary,2019,2020-09-01 00:00:00.000,
+Income,Salary,2020,2020-09-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-09-01 00:00:00.000,
+Income,Source 2,2018,2020-09-01 00:00:00.000,
+Income,Source 2,2019,2020-09-01 00:00:00.000,
+Income,Source 2,2020,2020-09-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-09-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-09-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-09-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-09-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2021,2020-09-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-09-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-09-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-09-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2021,2020-09-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-09-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-09-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-09-01 00:00:00.000,-2500.0
+Savings,Liquid Cash,2021,2020-09-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-09-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-09-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-09-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-09-01 00:00:00.000,
+Expense,EMIs,2018,2020-10-01 00:00:00.000,
+Expense,EMIs,2019,2020-10-01 00:00:00.000,
+Expense,EMIs,2020,2020-10-01 00:00:00.000,10000.0
+Expense,EMIs,2021,2020-10-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-10-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-10-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-10-01 00:00:00.000,8000.0
+Expense,Groceries & Food,2021,2020-10-01 00:00:00.000,
+Expense,Health,2018,2020-10-01 00:00:00.000,
+Expense,Health,2019,2020-10-01 00:00:00.000,
+Expense,Health,2020,2020-10-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-10-01 00:00:00.000,
+Expense,House Rent,2018,2020-10-01 00:00:00.000,
+Expense,House Rent,2019,2020-10-01 00:00:00.000,
+Expense,House Rent,2020,2020-10-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-10-01 00:00:00.000,
+Expense,Leisure,2018,2020-10-01 00:00:00.000,
+Expense,Leisure,2019,2020-10-01 00:00:00.000,
+Expense,Leisure,2020,2020-10-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-10-01 00:00:00.000,
+Expense,Shopping,2018,2020-10-01 00:00:00.000,
+Expense,Shopping,2019,2020-10-01 00:00:00.000,
+Expense,Shopping,2020,2020-10-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-10-01 00:00:00.000,
+Income,Salary,2018,2020-10-01 00:00:00.000,
+Income,Salary,2019,2020-10-01 00:00:00.000,
+Income,Salary,2020,2020-10-01 00:00:00.000,43000.0
+Income,Salary,2021,2020-10-01 00:00:00.000,
+Income,Source 2,2018,2020-10-01 00:00:00.000,
+Income,Source 2,2019,2020-10-01 00:00:00.000,
+Income,Source 2,2020,2020-10-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-10-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-10-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-10-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-10-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2021,2020-10-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-10-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-10-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-10-01 00:00:00.000,2000.0
+Savings,Fixed Deposit,2021,2020-10-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-10-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-10-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-10-01 00:00:00.000,-500.0
+Savings,Liquid Cash,2021,2020-10-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-10-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-10-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-10-01 00:00:00.000,7000.0
+Savings,Mutual funds,2021,2020-10-01 00:00:00.000,
+Expense,EMIs,2018,2020-11-01 00:00:00.000,
+Expense,EMIs,2019,2020-11-01 00:00:00.000,
+Expense,EMIs,2020,2020-11-01 00:00:00.000,12000.0
+Expense,EMIs,2021,2020-11-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-11-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-11-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-11-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-11-01 00:00:00.000,
+Expense,Health,2018,2020-11-01 00:00:00.000,
+Expense,Health,2019,2020-11-01 00:00:00.000,
+Expense,Health,2020,2020-11-01 00:00:00.000,3000.0
+Expense,Health,2021,2020-11-01 00:00:00.000,
+Expense,House Rent,2018,2020-11-01 00:00:00.000,
+Expense,House Rent,2019,2020-11-01 00:00:00.000,
+Expense,House Rent,2020,2020-11-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-11-01 00:00:00.000,
+Expense,Leisure,2018,2020-11-01 00:00:00.000,
+Expense,Leisure,2019,2020-11-01 00:00:00.000,
+Expense,Leisure,2020,2020-11-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-11-01 00:00:00.000,
+Expense,Shopping,2018,2020-11-01 00:00:00.000,
+Expense,Shopping,2019,2020-11-01 00:00:00.000,
+Expense,Shopping,2020,2020-11-01 00:00:00.000,2000.0
+Expense,Shopping,2021,2020-11-01 00:00:00.000,
+Income,Salary,2018,2020-11-01 00:00:00.000,
+Income,Salary,2019,2020-11-01 00:00:00.000,
+Income,Salary,2020,2020-11-01 00:00:00.000,51500.0
+Income,Salary,2021,2020-11-01 00:00:00.000,
+Income,Source 2,2018,2020-11-01 00:00:00.000,
+Income,Source 2,2019,2020-11-01 00:00:00.000,
+Income,Source 2,2020,2020-11-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-11-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-11-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-11-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-11-01 00:00:00.000,2000.0
+Savings,Emergency Fund,2021,2020-11-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-11-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-11-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-11-01 00:00:00.000,2500.0
+Savings,Fixed Deposit,2021,2020-11-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-11-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-11-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-11-01 00:00:00.000,1500.0
+Savings,Liquid Cash,2021,2020-11-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-11-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-11-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-11-01 00:00:00.000,8000.0
+Savings,Mutual funds,2021,2020-11-01 00:00:00.000,
+Expense,EMIs,2018,2020-12-01 00:00:00.000,
+Expense,EMIs,2019,2020-12-01 00:00:00.000,
+Expense,EMIs,2020,2020-12-01 00:00:00.000,12000.0
+Expense,EMIs,2021,2020-12-01 00:00:00.000,
+Expense,Groceries & Food,2018,2020-12-01 00:00:00.000,
+Expense,Groceries & Food,2019,2020-12-01 00:00:00.000,
+Expense,Groceries & Food,2020,2020-12-01 00:00:00.000,10000.0
+Expense,Groceries & Food,2021,2020-12-01 00:00:00.000,
+Expense,Health,2018,2020-12-01 00:00:00.000,
+Expense,Health,2019,2020-12-01 00:00:00.000,
+Expense,Health,2020,2020-12-01 00:00:00.000,4000.0
+Expense,Health,2021,2020-12-01 00:00:00.000,
+Expense,House Rent,2018,2020-12-01 00:00:00.000,
+Expense,House Rent,2019,2020-12-01 00:00:00.000,
+Expense,House Rent,2020,2020-12-01 00:00:00.000,15000.0
+Expense,House Rent,2021,2020-12-01 00:00:00.000,
+Expense,Leisure,2018,2020-12-01 00:00:00.000,
+Expense,Leisure,2019,2020-12-01 00:00:00.000,
+Expense,Leisure,2020,2020-12-01 00:00:00.000,1500.0
+Expense,Leisure,2021,2020-12-01 00:00:00.000,
+Expense,Shopping,2018,2020-12-01 00:00:00.000,
+Expense,Shopping,2019,2020-12-01 00:00:00.000,
+Expense,Shopping,2020,2020-12-01 00:00:00.000,3000.0
+Expense,Shopping,2021,2020-12-01 00:00:00.000,
+Income,Salary,2018,2020-12-01 00:00:00.000,
+Income,Salary,2019,2020-12-01 00:00:00.000,
+Income,Salary,2020,2020-12-01 00:00:00.000,51500.0
+Income,Salary,2021,2020-12-01 00:00:00.000,
+Income,Source 2,2018,2020-12-01 00:00:00.000,
+Income,Source 2,2019,2020-12-01 00:00:00.000,
+Income,Source 2,2020,2020-12-01 00:00:00.000,6000.0
+Income,Source 2,2021,2020-12-01 00:00:00.000,
+Savings,Emergency Fund,2018,2020-12-01 00:00:00.000,
+Savings,Emergency Fund,2019,2020-12-01 00:00:00.000,
+Savings,Emergency Fund,2020,2020-12-01 00:00:00.000,1000.0
+Savings,Emergency Fund,2021,2020-12-01 00:00:00.000,
+Savings,Fixed Deposit,2018,2020-12-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2020-12-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2020-12-01 00:00:00.000,2500.0
+Savings,Fixed Deposit,2021,2020-12-01 00:00:00.000,
+Savings,Liquid Cash,2018,2020-12-01 00:00:00.000,
+Savings,Liquid Cash,2019,2020-12-01 00:00:00.000,
+Savings,Liquid Cash,2020,2020-12-01 00:00:00.000,500.0
+Savings,Liquid Cash,2021,2020-12-01 00:00:00.000,
+Savings,Mutual funds,2018,2020-12-01 00:00:00.000,
+Savings,Mutual funds,2019,2020-12-01 00:00:00.000,
+Savings,Mutual funds,2020,2020-12-01 00:00:00.000,8000.0
+Savings,Mutual funds,2021,2020-12-01 00:00:00.000,
+Expense,EMIs,2018,2021-01-01 00:00:00.000,
+Expense,EMIs,2019,2021-01-01 00:00:00.000,
+Expense,EMIs,2020,2021-01-01 00:00:00.000,
+Expense,EMIs,2021,2021-01-01 00:00:00.000,12000.0
+Expense,Groceries & Food,2018,2021-01-01 00:00:00.000,
+Expense,Groceries & Food,2019,2021-01-01 00:00:00.000,
+Expense,Groceries & Food,2020,2021-01-01 00:00:00.000,
+Expense,Groceries & Food,2021,2021-01-01 00:00:00.000,9000.0
+Expense,Health,2018,2021-01-01 00:00:00.000,
+Expense,Health,2019,2021-01-01 00:00:00.000,
+Expense,Health,2020,2021-01-01 00:00:00.000,
+Expense,Health,2021,2021-01-01 00:00:00.000,3000.0
+Expense,House Rent,2018,2021-01-01 00:00:00.000,
+Expense,House Rent,2019,2021-01-01 00:00:00.000,
+Expense,House Rent,2020,2021-01-01 00:00:00.000,
+Expense,House Rent,2021,2021-01-01 00:00:00.000,16000.0
+Expense,Leisure,2018,2021-01-01 00:00:00.000,
+Expense,Leisure,2019,2021-01-01 00:00:00.000,
+Expense,Leisure,2020,2021-01-01 00:00:00.000,
+Expense,Leisure,2021,2021-01-01 00:00:00.000,1500.0
+Expense,Shopping,2018,2021-01-01 00:00:00.000,
+Expense,Shopping,2019,2021-01-01 00:00:00.000,
+Expense,Shopping,2020,2021-01-01 00:00:00.000,
+Expense,Shopping,2021,2021-01-01 00:00:00.000,3000.0
+Income,Salary,2018,2021-01-01 00:00:00.000,
+Income,Salary,2019,2021-01-01 00:00:00.000,
+Income,Salary,2020,2021-01-01 00:00:00.000,
+Income,Salary,2021,2021-01-01 00:00:00.000,51500.0
+Income,Source 2,2018,2021-01-01 00:00:00.000,
+Income,Source 2,2019,2021-01-01 00:00:00.000,
+Income,Source 2,2020,2021-01-01 00:00:00.000,
+Income,Source 2,2021,2021-01-01 00:00:00.000,6000.0
+Savings,Emergency Fund,2018,2021-01-01 00:00:00.000,
+Savings,Emergency Fund,2019,2021-01-01 00:00:00.000,
+Savings,Emergency Fund,2020,2021-01-01 00:00:00.000,
+Savings,Emergency Fund,2021,2021-01-01 00:00:00.000,3000.0
+Savings,Fixed Deposit,2018,2021-01-01 00:00:00.000,
+Savings,Fixed Deposit,2019,2021-01-01 00:00:00.000,
+Savings,Fixed Deposit,2020,2021-01-01 00:00:00.000,
+Savings,Fixed Deposit,2021,2021-01-01 00:00:00.000,2500.0
+Savings,Liquid Cash,2018,2021-01-01 00:00:00.000,
+Savings,Liquid Cash,2019,2021-01-01 00:00:00.000,
+Savings,Liquid Cash,2020,2021-01-01 00:00:00.000,
+Savings,Liquid Cash,2021,2021-01-01 00:00:00.000,-500.0
+Savings,Mutual funds,2018,2021-01-01 00:00:00.000,
+Savings,Mutual funds,2019,2021-01-01 00:00:00.000,
+Savings,Mutual funds,2020,2021-01-01 00:00:00.000,
+Savings,Mutual funds,2021,2021-01-01 00:00:00.000,8000.0

@@ -1,0 +1,205 @@
+Company,Title,Date,Avg Total Compensation
+"Airbnb","Software Engineer",2020-04-01 00:00:00.000,430000
+"Airbnb","Software Engineer",2020-05-01 00:00:00.000,448000
+"Airbnb","Software Engineer",2020-06-01 00:00:00.000,282500
+"Amazon","Software Engineer",2020-04-01 00:00:00.000,228538
+"Amazon","Software Engineer",2020-05-01 00:00:00.000,217955
+"Amazon","Software Engineer",2020-06-01 00:00:00.000,217698
+"Apple","Software Engineer",2020-04-01 00:00:00.000,266750
+"Apple","Software Engineer",2020-05-01 00:00:00.000,295300
+"Apple","Software Engineer",2020-06-01 00:00:00.000,326000
+"Bloomberg","Software Engineer",2020-04-01 00:00:00.000,204286
+"Bloomberg","Software Engineer",2020-05-01 00:00:00.000,140500
+"Bloomberg","Software Engineer",2020-06-01 00:00:00.000,197143
+"Cisco","Software Engineer",2020-04-01 00:00:00.000,164786
+"Cisco","Software Engineer",2020-05-01 00:00:00.000,189800
+"Cisco","Software Engineer",2020-06-01 00:00:00.000,197385
+"Ebay","Software Engineer",2020-04-01 00:00:00.000,188500
+"Ebay","Software Engineer",2020-05-01 00:00:00.000,219000
+"Ebay","Software Engineer",2020-06-01 00:00:00.000,188667
+"Expedia","Software Engineer",2020-04-01 00:00:00.000,95000
+"Expedia","Software Engineer",2020-05-01 00:00:00.000,168000
+"Expedia","Software Engineer",2020-06-01 00:00:00.000,200000
+"Facebook","Software Engineer",2020-04-01 00:00:00.000,391765
+"Facebook","Software Engineer",2020-05-01 00:00:00.000,332065
+"Facebook","Software Engineer",2020-06-01 00:00:00.000,345273
+"Godaddy","Software Engineer",2020-04-01 00:00:00.000,153000
+"Godaddy","Software Engineer",2020-05-01 00:00:00.000,160000
+"Godaddy","Software Engineer",2020-06-01 00:00:00.000,146000
+"Goldman Sachs","Software Engineer",2020-04-01 00:00:00.000,205000
+"Goldman Sachs","Software Engineer",2020-05-01 00:00:00.000,238000
+"Goldman Sachs","Software Engineer",2020-06-01 00:00:00.000,306667
+"Google","Software Engineer",2020-04-01 00:00:00.000,237316
+"Google","Software Engineer",2020-05-01 00:00:00.000,294971
+"Google","Software Engineer",2020-06-01 00:00:00.000,280789
+"Ibm","Software Engineer",2020-04-01 00:00:00.000,109000
+"Ibm","Software Engineer",2020-05-01 00:00:00.000,175000
+"Ibm","Software Engineer",2020-06-01 00:00:00.000,133400
+"Intel","Software Engineer",2020-04-01 00:00:00.000,189250
+"Intel","Software Engineer",2020-05-01 00:00:00.000,142333
+"Intel","Software Engineer",2020-06-01 00:00:00.000,122750
+"Intuit","Software Engineer",2020-04-01 00:00:00.000,215500
+"Intuit","Software Engineer",2020-05-01 00:00:00.000,198000
+"Intuit","Software Engineer",2020-06-01 00:00:00.000,300000
+"Linkedin","Software Engineer",2020-04-01 00:00:00.000,241000
+"Linkedin","Software Engineer",2020-05-01 00:00:00.000,363333
+"Linkedin","Software Engineer",2020-06-01 00:00:00.000,259333
+"Microsoft","Software Engineer",2020-04-01 00:00:00.000,213353
+"Microsoft","Software Engineer",2020-05-01 00:00:00.000,195848
+"Microsoft","Software Engineer",2020-06-01 00:00:00.000,195312
+"Northrop Grumman","Software Engineer",2020-04-01 00:00:00.000,135000
+"Northrop Grumman","Software Engineer",2020-05-01 00:00:00.000,155000
+"Northrop Grumman","Software Engineer",2020-06-01 00:00:00.000,200000
+"Nutanix","Software Engineer",2020-04-01 00:00:00.000,157000
+"Nutanix","Software Engineer",2020-05-01 00:00:00.000,150000
+"Nutanix","Software Engineer",2020-06-01 00:00:00.000,253333
+"Nvidia","Software Engineer",2020-04-01 00:00:00.000,179500
+"Nvidia","Software Engineer",2020-05-01 00:00:00.000,233429
+"Nvidia","Software Engineer",2020-06-01 00:00:00.000,182500
+"Oracle","Software Engineer",2020-04-01 00:00:00.000,178333
+"Oracle","Software Engineer",2020-05-01 00:00:00.000,206000
+"Oracle","Software Engineer",2020-06-01 00:00:00.000,197000
+"Paypal","Software Engineer",2020-04-01 00:00:00.000,266000
+"Paypal","Software Engineer",2020-05-01 00:00:00.000,100333
+"Paypal","Software Engineer",2020-06-01 00:00:00.000,189500
+"Qualcomm","Software Engineer",2020-04-01 00:00:00.000,168667
+"Qualcomm","Software Engineer",2020-05-01 00:00:00.000,186000
+"Qualcomm","Software Engineer",2020-06-01 00:00:00.000,150333
+"Salesforce","Software Engineer",2020-04-01 00:00:00.000,240300
+"Salesforce","Software Engineer",2020-05-01 00:00:00.000,235333
+"Salesforce","Software Engineer",2020-06-01 00:00:00.000,189400
+"Servicenow","Software Engineer",2020-04-01 00:00:00.000,234000
+"Servicenow","Software Engineer",2020-05-01 00:00:00.000,420000
+"Servicenow","Software Engineer",2020-06-01 00:00:00.000,191500
+"Snap","Software Engineer",2020-04-01 00:00:00.000,348000
+"Snap","Software Engineer",2020-05-01 00:00:00.000,393000
+"Snap","Software Engineer",2020-06-01 00:00:00.000,373500
+"Square","Software Engineer",2020-04-01 00:00:00.000,274500
+"Square","Software Engineer",2020-05-01 00:00:00.000,176000
+"Square","Software Engineer",2020-06-01 00:00:00.000,268000
+"Twilio","Software Engineer",2020-04-01 00:00:00.000,265600
+"Twilio","Software Engineer",2020-05-01 00:00:00.000,412333
+"Twilio","Software Engineer",2020-06-01 00:00:00.000,220000
+"Twitter","Software Engineer",2020-04-01 00:00:00.000,520000
+"Twitter","Software Engineer",2020-05-01 00:00:00.000,360500
+"Twitter","Software Engineer",2020-06-01 00:00:00.000,420000
+"Uber","Software Engineer",2020-04-01 00:00:00.000,412000
+"Uber","Software Engineer",2020-05-01 00:00:00.000,342571
+"Uber","Software Engineer",2020-06-01 00:00:00.000,379333
+"Visa","Software Engineer",2020-04-01 00:00:00.000,146500
+"Visa","Software Engineer",2020-05-01 00:00:00.000,124000
+"Visa","Software Engineer",2020-06-01 00:00:00.000,156000
+"Vmware","Software Engineer",2020-04-01 00:00:00.000,201875
+"Vmware","Software Engineer",2020-05-01 00:00:00.000,184250
+"Vmware","Software Engineer",2020-06-01 00:00:00.000,229333
+"Walmart Labs","Software Engineer",2020-04-01 00:00:00.000,278500
+"Walmart Labs","Software Engineer",2020-05-01 00:00:00.000,203250
+"Walmart Labs","Software Engineer",2020-06-01 00:00:00.000,207500
+"Wayfair","Software Engineer",2020-04-01 00:00:00.000,164500
+"Wayfair","Software Engineer",2020-05-01 00:00:00.000,118000
+"Wayfair","Software Engineer",2020-06-01 00:00:00.000,160000
+"Workday","Software Engineer",2020-04-01 00:00:00.000,174500
+"Workday","Software Engineer",2020-05-01 00:00:00.000,235000
+"Workday","Software Engineer",2020-06-01 00:00:00.000,282000
+"Accenture","Management Consultant",2020-04-01 00:00:00.000,221500
+"Accenture","Management Consultant",2020-05-01 00:00:00.000,194000
+"Accenture","Management Consultant",2020-06-01 00:00:00.000,166500
+"Amazon","Data Scientist",2020-04-01 00:00:00.000,185800
+"Amazon","Data Scientist",2020-05-01 00:00:00.000,238200
+"Amazon","Data Scientist",2020-06-01 00:00:00.000,212143
+"Amazon","Hardware Engineer",2020-04-01 00:00:00.000,296000
+"Amazon","Hardware Engineer",2020-05-01 00:00:00.000,209000
+"Amazon","Hardware Engineer",2020-06-01 00:00:00.000,187000
+"Amazon","Product Manager",2020-04-01 00:00:00.000,268778
+"Amazon","Product Manager",2020-05-01 00:00:00.000,271000
+"Amazon","Product Manager",2020-06-01 00:00:00.000,225333
+"Amazon","Software Engineering Manager",2020-04-01 00:00:00.000,340167
+"Amazon","Software Engineering Manager",2020-05-01 00:00:00.000,273571
+"Amazon","Software Engineering Manager",2020-06-01 00:00:00.000,328625
+"Amazon","Solution Architect",2020-04-01 00:00:00.000,215000
+"Amazon","Solution Architect",2020-05-01 00:00:00.000,207000
+"Amazon","Solution Architect",2020-06-01 00:00:00.000,285000
+"Amazon","Technical Program Manager",2020-04-01 00:00:00.000,117500
+"Amazon","Technical Program Manager",2020-05-01 00:00:00.000,237000
+"Amazon","Technical Program Manager",2020-06-01 00:00:00.000,257000
+"Apple","Hardware Engineer",2020-04-01 00:00:00.000,243571
+"Apple","Hardware Engineer",2020-05-01 00:00:00.000,196000
+"Apple","Hardware Engineer",2020-06-01 00:00:00.000,248625
+"Broadcom","Hardware Engineer",2020-04-01 00:00:00.000,330000
+"Broadcom","Hardware Engineer",2020-05-01 00:00:00.000,457000
+"Broadcom","Hardware Engineer",2020-06-01 00:00:00.000,425000
+"Capital One","Data Scientist",2020-04-01 00:00:00.000,141000
+"Capital One","Data Scientist",2020-05-01 00:00:00.000,150000
+"Capital One","Data Scientist",2020-06-01 00:00:00.000,134000
+"Deloitte","Management Consultant",2020-04-01 00:00:00.000,164833
+"Deloitte","Management Consultant",2020-05-01 00:00:00.000,137250
+"Deloitte","Management Consultant",2020-06-01 00:00:00.000,185000
+"Ernst And Young","Management Consultant",2020-04-01 00:00:00.000,170000
+"Ernst And Young","Management Consultant",2020-05-01 00:00:00.000,125000
+"Ernst And Young","Management Consultant",2020-06-01 00:00:00.000,140000
+"Facebook","Data Scientist",2020-04-01 00:00:00.000,325000
+"Facebook","Data Scientist",2020-05-01 00:00:00.000,241667
+"Facebook","Data Scientist",2020-06-01 00:00:00.000,266667
+"Facebook","Product Designer",2020-04-01 00:00:00.000,209500
+"Facebook","Product Designer",2020-05-01 00:00:00.000,390000
+"Facebook","Product Designer",2020-06-01 00:00:00.000,302000
+"Facebook","Product Manager",2020-04-01 00:00:00.000,480000
+"Facebook","Product Manager",2020-05-01 00:00:00.000,256000
+"Facebook","Product Manager",2020-06-01 00:00:00.000,271500
+"Facebook","Software Engineering Manager",2020-04-01 00:00:00.000,495500
+"Facebook","Software Engineering Manager",2020-05-01 00:00:00.000,490500
+"Facebook","Software Engineering Manager",2020-06-01 00:00:00.000,264000
+"Google","Product Manager",2020-04-01 00:00:00.000,378500
+"Google","Product Manager",2020-05-01 00:00:00.000,313800
+"Google","Product Manager",2020-06-01 00:00:00.000,275333
+"Google","Software Engineering Manager",2020-04-01 00:00:00.000,282000
+"Google","Software Engineering Manager",2020-05-01 00:00:00.000,263500
+"Google","Software Engineering Manager",2020-06-01 00:00:00.000,427500
+"Google","Technical Program Manager",2020-04-01 00:00:00.000,280333
+"Google","Technical Program Manager",2020-05-01 00:00:00.000,345000
+"Google","Technical Program Manager",2020-06-01 00:00:00.000,321000
+"Intel","Hardware Engineer",2020-04-01 00:00:00.000,202500
+"Intel","Hardware Engineer",2020-05-01 00:00:00.000,153714
+"Intel","Hardware Engineer",2020-06-01 00:00:00.000,150167
+"Intel","Product Manager",2020-04-01 00:00:00.000,298000
+"Intel","Product Manager",2020-05-01 00:00:00.000,250000
+"Intel","Product Manager",2020-06-01 00:00:00.000,223000
+"Microsoft","Data Scientist",2020-04-01 00:00:00.000,178800
+"Microsoft","Data Scientist",2020-05-01 00:00:00.000,298333
+"Microsoft","Data Scientist",2020-06-01 00:00:00.000,202600
+"Microsoft","Product Designer",2020-04-01 00:00:00.000,169000
+"Microsoft","Product Designer",2020-05-01 00:00:00.000,226500
+"Microsoft","Product Designer",2020-06-01 00:00:00.000,91667
+"Microsoft","Product Manager",2020-04-01 00:00:00.000,242167
+"Microsoft","Product Manager",2020-05-01 00:00:00.000,223909
+"Microsoft","Product Manager",2020-06-01 00:00:00.000,222400
+"Microsoft","Software Engineering Manager",2020-04-01 00:00:00.000,256000
+"Microsoft","Software Engineering Manager",2020-05-01 00:00:00.000,250000
+"Microsoft","Software Engineering Manager",2020-06-01 00:00:00.000,648000
+"Microsoft","Technical Program Manager",2020-04-01 00:00:00.000,370000
+"Microsoft","Technical Program Manager",2020-05-01 00:00:00.000,300000
+"Microsoft","Technical Program Manager",2020-06-01 00:00:00.000,269000
+"Nvidia","Hardware Engineer",2020-04-01 00:00:00.000,240000
+"Nvidia","Hardware Engineer",2020-05-01 00:00:00.000,195833
+"Nvidia","Hardware Engineer",2020-06-01 00:00:00.000,239500
+"Qualcomm","Hardware Engineer",2020-04-01 00:00:00.000,200000
+"Qualcomm","Hardware Engineer",2020-05-01 00:00:00.000,165000
+"Qualcomm","Hardware Engineer",2020-06-01 00:00:00.000,200000
+"Uber","Data Scientist",2020-04-01 00:00:00.000,391500
+"Uber","Data Scientist",2020-05-01 00:00:00.000,263000
+"Uber","Data Scientist",2020-06-01 00:00:00.000,328000
+"Uber","Product Designer",2020-04-01 00:00:00.000,297000
+"Uber","Product Designer",2020-05-01 00:00:00.000,147000
+"Uber","Product Designer",2020-06-01 00:00:00.000,622000
+"Uber","Product Manager",2020-04-01 00:00:00.000,314000
+"Uber","Product Manager",2020-05-01 00:00:00.000,482500
+"Uber","Product Manager",2020-06-01 00:00:00.000,234500
+"Uber","Software Engineering Manager",2020-04-01 00:00:00.000,320000
+"Uber","Software Engineering Manager",2020-05-01 00:00:00.000,440000
+"Uber","Software Engineering Manager",2020-06-01 00:00:00.000,770000
+"Walmart Labs","Data Scientist",2020-04-01 00:00:00.000,263000
+"Walmart Labs","Data Scientist",2020-05-01 00:00:00.000,131000
+"Walmart Labs","Data Scientist",2020-06-01 00:00:00.000,175000
+"Wayfair","Software Engineering Manager",2020-04-01 00:00:00.000,219000
+"Wayfair","Software Engineering Manager",2020-05-01 00:00:00.000,500000
+"Wayfair","Software Engineering Manager",2020-06-01 00:00:00.000,191000

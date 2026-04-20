@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Sales Orders","","",False,492,2022-07-29 09:20:29.746,2020-07-26 17:22:45.350,0,False,False,,0,,,False,"1350e1fb-68be-4993-bfa2-08ca6bd64229",""
+13,1,"Products","","",False,494,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"322325ba-0ce5-4a31-b59a-265bd89f1bdf",""
+16,1,"Regions","","",False,496,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"60c3a226-0ea5-4672-8532-a80d48bd92af",""
+19,1,"Sales Channel","","",False,498,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"86b8f84d-5024-4b33-9c69-5d78116f06fe",""
+22,1,"Warehouse","","",False,500,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"a5f0319f-9790-4083-b47e-b1e750360ea2",""
+25,1,"Currency","","",False,502,2022-07-29 09:20:29.746,2020-07-26 17:26:17.173,0,False,False,,0,,,False,"1d9b9114-33c0-4a4a-a365-f133dc3f166d",""
+28,1,"Customers","","",False,504,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"a5ef0693-0f6d-4c2a-81d5-31cb7ae87f39",""
+31,1,"DateTableTemplate_9b98dbf1-02a9-4a24-9c6b-638233fd31c2","","",True,506,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,2,False,True,,0,,,False,"2248bdfc-e2f2-43be-b456-e86be6d9e4e8",""
+34,1,"Date","","",False,508,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,0,False,False,,0,,,False,"6067bb67-31c4-47a1-a73e-1c1b153dd82a",""
+37,1,"LocalDateTable_4eb4e1ad-794b-4b72-ba6e-292d41a9a3d2","","",True,510,2022-07-29 09:20:29.746,2020-07-26 13:13:32.903,2,True,False,,0,,,False,"c2570cc2-c5f8-4da3-b918-51401d937757",""

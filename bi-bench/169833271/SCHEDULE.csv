@@ -1,0 +1,8 @@
+ScheduleCode,Weekdays,StartTime,EndTime
+"FrSa1830-2030","Friday, Saturday",1899-12-30 18:00:00.000,1899-12-30 20:00:00.000
+"MoWeFr0900-1200","Monday, Wednesday, Friday",1899-12-30 09:00:00.000,1899-12-30 11:00:00.000
+"MoWeFr1300-1500","Monday, Wednesday, Friday",1899-12-30 13:00:00.000,1899-12-30 15:00:00.000
+"MoWeFr1600-1800","Monday, Wednesday, Friday",1899-12-30 16:00:00.000,1899-12-30 18:00:00.000
+"TuThSa1030-1230","Tuesday, Thursday, Saturday",1899-12-30 10:30:00.000,1899-12-30 12:30:00.000
+"TuThSa1300-1500","Tuesday, Thursday, Saturday",1899-12-30 13:00:00.000,1899-12-30 15:00:00.000
+"TuThSa1600-1800","Tuesday, Thursday, Saturday",1899-12-30 16:00:00.000,1899-12-30 18:00:00.000

@@ -1,0 +1,8 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Inventory","","",False,57,2022-08-22 01:47:44.246,2019-08-13 14:59:43.913,0,False,False,,0,,,False,"1c917894-9502-40a6-86c4-6a120b4251e2",""
+15,1,"DateTableTemplate_0375fde8-95d5-4d45-bc34-fe4c21a43461","","",True,59,2022-08-22 01:47:44.246,2019-08-13 14:19:21.756,2,False,True,,0,,,False,"8e0be63b-0196-49e1-9cdf-084f734539b5",""
+113,1,"LocalDateTable_3b24192d-6e1b-4aae-910c-93216701f810","","",True,345,2022-08-22 01:47:44.246,2019-08-13 14:19:21.796,2,True,False,,0,,,False,"46161157-df11-4b5a-aefd-ba5391882da6",""
+119,1,"LocalDateTable_5026a4d8-0ed4-45a9-b48a-52d2448c1fd7","","",True,349,2022-08-22 01:47:44.246,2019-08-13 14:19:21.796,2,True,False,,0,,,False,"a0d38001-9742-46ff-a6b1-6bf0a5374bf8",""
+594,1,"Date","","",False,783,2022-08-22 01:47:44.246,2019-08-13 14:57:20.710,0,False,False,,0,,,False,"7bec9de8-9166-4a89-bfd9-f6c9e97b947c",""
+2917,1,"Average Units","","",False,3014,2022-08-22 01:47:44.246,2019-08-14 05:32:26.990,0,False,False,,0,,,False,"5ee14db3-7589-4076-9a2b-3573a45ea9bb",""
+6597,1,"LocalDateTable_16069db4-e51e-45f2-b017-4d342b3517c6","","",True,6645,2022-08-22 01:47:44.246,2019-08-13 14:51:04.486,2,True,False,,0,,,False,"02586812-9964-4cf1-b20f-cfa5b6fda6cf",""

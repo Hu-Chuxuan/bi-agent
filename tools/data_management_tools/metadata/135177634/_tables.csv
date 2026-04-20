@@ -1,0 +1,13 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Habitat","","",False,57,2022-07-14 06:38:05.600,2020-12-28 06:34:25.786,0,False,False,,0,,,False,"ce8c28ba-065f-4f1f-92d2-f0358d504462",""
+15,1,"DateTableTemplate_c5092220-035b-4cd4-830a-99edf74c223f","","",True,59,2022-07-14 06:38:05.600,2020-12-28 06:34:21.390,2,False,True,,0,,,False,"99015fcc-33ba-4855-b773-dd48e36d5197",""
+213,1,"POS","","",False,252,2022-07-14 06:38:05.600,2020-12-28 06:34:25.973,0,False,False,,0,,,False,"b65d1e21-391f-4fcc-be93-322c50bb18f2",""
+297,1,"POS Type","","",False,331,2022-07-14 06:38:05.600,2020-12-28 06:34:26.073,0,False,False,,0,,,False,"67dc4e8f-e38f-4456-8a3d-690b6e70b5ef",""
+351,1,"Product","","",False,394,2022-07-14 06:38:05.600,2020-12-28 09:33:03.623,0,False,False,,0,,,False,"fd8f1e92-e3d5-47d5-8348-8eea858a60fc",""
+444,1,"Purchase","","",False,604,2022-07-14 06:38:05.600,2020-12-28 06:36:27.926,0,False,False,,0,,,False,"602fcf6a-96e5-43b9-a2ed-8556201f5052",""
+447,1,"LocalDateTable_8b4eb351-e804-49c4-be78-cbfdbb5df05e","","",True,606,2022-07-14 06:38:05.600,2020-12-28 06:34:26.243,2,True,False,,0,,,False,"4d9cdfad-0fc4-4543-b226-8471e0c5937a",""
+450,1,"LocalDateTable_1b759c58-12ac-46c2-9ca8-aa3a14f9fef1","","",True,608,2022-07-14 06:38:05.600,2020-12-28 06:34:26.243,2,True,False,,0,,,False,"9bebf4bd-50fd-4630-af8b-c8f3496f6224",""
+755,1,"Region","","",False,795,2022-07-14 06:38:05.600,2020-12-28 06:34:26.563,0,False,False,,0,,,False,"b3de7cf2-930d-4707-9e68-bd78df0a429f",""
+815,1,"Species","","",False,834,2022-07-14 06:38:05.600,2020-12-28 06:34:26.686,0,False,False,,0,,,False,"e9f07c63-3ec2-4df7-b375-1b6bdf5d040c",""
+854,1,"Town","","",False,877,2022-07-14 06:38:05.600,2020-12-28 13:08:47.656,0,False,False,,0,,,False,"f57d36a3-41ee-437a-a087-ce07558b044c",""
+2722,1,"Measure Data","","",False,2730,2022-07-14 06:38:05.600,2020-12-28 09:15:10.480,0,False,False,,0,,,False,"9d463269-0334-4c19-aa15-3a83f88f7809",""

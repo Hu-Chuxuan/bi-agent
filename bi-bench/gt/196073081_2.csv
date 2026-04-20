@@ -1,0 +1,927 @@
+﻿RegionName,TownName,Quantity,FamilyName
+East Anglia,Cambridge,20,Amphibian
+East Anglia,Cambridge,52,Bird
+East Anglia,Cambridge,14,Fish
+East Anglia,Cambridge,363,Mammal
+East Anglia,Cambridge,184,Reptile
+East Anglia,Ipswich,4,Amphibian
+East Anglia,Ipswich,7,Bird
+East Anglia,Ipswich,7,Fish
+East Anglia,Ipswich,2,Insect
+East Anglia,Ipswich,100,Mammal
+East Anglia,Ipswich,54,Reptile
+East Anglia,King's Lynn,5,Amphibian
+East Anglia,King's Lynn,1,Bird
+East Anglia,King's Lynn,52,Mammal
+East Anglia,King's Lynn,5,Reptile
+East Anglia,Norwich,6,Amphibian
+East Anglia,Norwich,81,Bird
+East Anglia,Norwich,16,Fish
+East Anglia,Norwich,1,Insect
+East Anglia,Norwich,449,Mammal
+East Anglia,Norwich,269,Reptile
+East Anglia,Peterborough,8,Amphibian
+East Anglia,Peterborough,82,Bird
+East Anglia,Peterborough,20,Fish
+East Anglia,Peterborough,415,Mammal
+East Anglia,Peterborough,226,Reptile
+East Midlands,Chesterfield,11,Bird
+East Midlands,Chesterfield,75,Mammal
+East Midlands,Chesterfield,11,Reptile
+East Midlands,Corby,18,Bird
+East Midlands,Corby,7,Fish
+East Midlands,Corby,165,Mammal
+East Midlands,Corby,111,Reptile
+East Midlands,Derby,12,Amphibian
+East Midlands,Derby,65,Bird
+East Midlands,Derby,2,Fish
+East Midlands,Derby,233,Mammal
+East Midlands,Derby,127,Reptile
+East Midlands,Grimsby,18,Amphibian
+East Midlands,Grimsby,21,Bird
+East Midlands,Grimsby,4,Fish
+East Midlands,Grimsby,1,Insect
+East Midlands,Grimsby,214,Mammal
+East Midlands,Grimsby,79,Reptile
+East Midlands,Kettering,1,Bird
+East Midlands,Kettering,4,Fish
+East Midlands,Kettering,17,Mammal
+East Midlands,Kettering,5,Reptile
+East Midlands,Leicester,19,Amphibian
+East Midlands,Leicester,104,Bird
+East Midlands,Leicester,18,Fish
+East Midlands,Leicester,1,Insect
+East Midlands,Leicester,531,Mammal
+East Midlands,Leicester,412,Reptile
+East Midlands,Lincoln,14,Amphibian
+East Midlands,Lincoln,39,Bird
+East Midlands,Lincoln,15,Fish
+East Midlands,Lincoln,175,Mammal
+East Midlands,Lincoln,115,Reptile
+East Midlands,Loughborough,3,Bird
+East Midlands,Loughborough,2,Fish
+East Midlands,Loughborough,18,Mammal
+East Midlands,Mansfield,4,Fish
+East Midlands,Mansfield,45,Mammal
+East Midlands,Mansfield,28,Reptile
+East Midlands,Northampton,9,Amphibian
+East Midlands,Northampton,40,Bird
+East Midlands,Northampton,7,Fish
+East Midlands,Northampton,245,Mammal
+East Midlands,Northampton,163,Reptile
+East Midlands,Nottingham,19,Amphibian
+East Midlands,Nottingham,84,Bird
+East Midlands,Nottingham,7,Fish
+East Midlands,Nottingham,2,Insect
+East Midlands,Nottingham,690,Mammal
+East Midlands,Nottingham,446,Reptile
+East Midlands,Wellingborough,6,Amphibian
+East Midlands,Wellingborough,53,Bird
+East Midlands,Wellingborough,12,Fish
+East Midlands,Wellingborough,123,Mammal
+East Midlands,Wellingborough,82,Reptile
+London,Barking,1,Amphibian
+London,Barking,13,Mammal
+London,Barking,1,Reptile
+London,Bexleyheath,9,Amphibian
+London,Bexleyheath,31,Bird
+London,Bexleyheath,2,Fish
+London,Bexleyheath,1,Insect
+London,Bexleyheath,200,Mammal
+London,Bexleyheath,67,Reptile
+London,Bromley,11,Amphibian
+London,Bromley,28,Bird
+London,Bromley,2,Insect
+London,Bromley,140,Mammal
+London,Bromley,99,Reptile
+London,Croydon,15,Amphibian
+London,Croydon,129,Bird
+London,Croydon,20,Fish
+London,Croydon,559,Mammal
+London,Croydon,310,Reptile
+London,Edgware,2,Amphibian
+London,Edgware,11,Bird
+London,Edgware,2,Fish
+London,Edgware,18,Mammal
+London,Edgware,3,Reptile
+London,Edmonton,15,Amphibian
+London,Edmonton,37,Bird
+London,Edmonton,17,Fish
+London,Edmonton,273,Mammal
+London,Edmonton,173,Reptile
+London,Enfield,4,Bird
+London,Enfield,2,Fish
+London,Enfield,47,Mammal
+London,Enfield,48,Reptile
+London,Feltham,1,Bird
+London,Fulham,1,Bird
+London,Fulham,6,Fish
+London,Fulham,15,Mammal
+London,Fulham,7,Reptile
+London,Hammersmith,17,Bird
+London,Hammersmith,129,Mammal
+London,Hammersmith,60,Reptile
+London,Harrow,6,Amphibian
+London,Harrow,45,Bird
+London,Harrow,2,Fish
+London,Harrow,147,Mammal
+London,Harrow,56,Reptile
+London,Hounslow,12,Bird
+London,Hounslow,5,Fish
+London,Hounslow,105,Mammal
+London,Hounslow,57,Reptile
+London,Ilford,8,Bird
+London,Ilford,5,Fish
+London,Ilford,127,Mammal
+London,Ilford,67,Reptile
+London,Kensington,1,Bird
+London,Kensington,6,Mammal
+London,Kingston Upon Thames,22,Amphibian
+London,Kingston Upon Thames,53,Bird
+London,Kingston Upon Thames,18,Fish
+London,Kingston Upon Thames,5,Insect
+London,Kingston Upon Thames,418,Mammal
+London,Kingston Upon Thames,214,Reptile
+London,Lewisham,11,Amphibian
+London,Lewisham,25,Bird
+London,Lewisham,1,Fish
+London,Lewisham,175,Mammal
+London,Lewisham,76,Reptile
+London,London,84,Amphibian
+London,London,216,Bird
+London,London,72,Fish
+London,London,16,Insect
+London,London,1637,Mammal
+London,London,964,Reptile
+London,Romford,7,Amphibian
+London,Romford,75,Bird
+London,Romford,15,Fish
+London,Romford,1,Insect
+London,Romford,487,Mammal
+London,Romford,280,Reptile
+London,Sutton,32,Bird
+London,Sutton,4,Fish
+London,Sutton,136,Mammal
+London,Sutton,112,Reptile
+London,Uxbridge,4,Amphibian
+London,Uxbridge,58,Bird
+London,Uxbridge,3,Fish
+London,Uxbridge,366,Mammal
+London,Uxbridge,212,Reptile
+London,Wimbledon,15,Amphibian
+London,Wimbledon,1,Bird
+London,Wimbledon,4,Fish
+London,Wimbledon,3,Insect
+London,Wimbledon,111,Mammal
+London,Wimbledon,44,Reptile
+London,Wood Green,18,Amphibian
+London,Wood Green,23,Bird
+London,Wood Green,7,Fish
+London,Wood Green,207,Mammal
+London,Wood Green,91,Reptile
+North,Barrow In Furness,2,Bird
+North,Barrow In Furness,30,Mammal
+North,Barrow In Furness,15,Reptile
+North,Carlisle,37,Bird
+North,Carlisle,7,Fish
+North,Carlisle,199,Mammal
+North,Carlisle,120,Reptile
+North,Cramlington,5,Amphibian
+North,Cramlington,9,Bird
+North,Cramlington,99,Mammal
+North,Cramlington,47,Reptile
+North,Darlington,12,Mammal
+North,Durham,5,Bird
+North,Durham,3,Fish
+North,Durham,40,Mammal
+North,Durham,20,Reptile
+North,Gateshead,14,Amphibian
+North,Gateshead,113,Bird
+North,Gateshead,11,Fish
+North,Gateshead,4,Insect
+North,Gateshead,701,Mammal
+North,Gateshead,334,Reptile
+North,Hartlepool,12,Amphibian
+North,Hartlepool,48,Bird
+North,Hartlepool,3,Fish
+North,Hartlepool,221,Mammal
+North,Hartlepool,118,Reptile
+North,Jarrow,4,Amphibian
+North,Jarrow,10,Bird
+North,Jarrow,60,Mammal
+North,Jarrow,28,Reptile
+North,Newcastle Upon Tyne,11,Amphibian
+North,Newcastle Upon Tyne,79,Bird
+North,Newcastle Upon Tyne,12,Fish
+North,Newcastle Upon Tyne,474,Mammal
+North,Newcastle Upon Tyne,259,Reptile
+North,Newton Aycliffe,3,Amphibian
+North,Newton Aycliffe,37,Mammal
+North,Newton Aycliffe,9,Reptile
+North,North Shields,7,Amphibian
+North,North Shields,10,Bird
+North,North Shields,5,Fish
+North,North Shields,70,Mammal
+North,North Shields,39,Reptile
+North,Peterlee,6,Amphibian
+North,Peterlee,58,Bird
+North,Peterlee,3,Insect
+North,Peterlee,161,Mammal
+North,Peterlee,101,Reptile
+North,Stockton-on-Tees,12,Amphibian
+North,Stockton-on-Tees,56,Bird
+North,Stockton-on-Tees,15,Fish
+North,Stockton-on-Tees,3,Insect
+North,Stockton-on-Tees,267,Mammal
+North,Stockton-on-Tees,194,Reptile
+North,Sunderland,1,Amphibian
+North,Sunderland,4,Bird
+North,Sunderland,4,Fish
+North,Sunderland,2,Insect
+North,Sunderland,78,Mammal
+North,Sunderland,52,Reptile
+North,Washington,6,Amphibian
+North,Washington,33,Bird
+North,Washington,6,Fish
+North,Washington,214,Mammal
+North,Washington,119,Reptile
+North,Workington,3,Amphibian
+North,Workington,2,Bird
+North,Workington,3,Fish
+North,Workington,23,Mammal
+North,Workington,5,Reptile
+North West,Aintree,3,Amphibian
+North West,Aintree,13,Bird
+North West,Aintree,60,Mammal
+North West,Aintree,34,Reptile
+North West,Altrincham,1,Amphibian
+North West,Altrincham,32,Bird
+North West,Altrincham,2,Fish
+North West,Altrincham,1,Insect
+North West,Altrincham,112,Mammal
+North West,Altrincham,54,Reptile
+North West,Birkenhead,18,Amphibian
+North West,Birkenhead,40,Bird
+North West,Birkenhead,9,Fish
+North West,Birkenhead,223,Mammal
+North West,Birkenhead,83,Reptile
+North West,Blackburn,25,Amphibian
+North West,Blackburn,99,Bird
+North West,Blackburn,14,Fish
+North West,Blackburn,9,Insect
+North West,Blackburn,389,Mammal
+North West,Blackburn,207,Reptile
+North West,Bolton,29,Amphibian
+North West,Bolton,132,Bird
+North West,Bolton,18,Fish
+North West,Bolton,3,Insect
+North West,Bolton,519,Mammal
+North West,Bolton,272,Reptile
+North West,Bootle,7,Amphibian
+North West,Bootle,26,Bird
+North West,Bootle,8,Fish
+North West,Bootle,3,Insect
+North West,Bootle,166,Mammal
+North West,Bootle,80,Reptile
+North West,Bromborough,3,Mammal
+North West,Bromborough,3,Reptile
+North West,Burnley,35,Bird
+North West,Burnley,15,Fish
+North West,Burnley,4,Insect
+North West,Burnley,160,Mammal
+North West,Burnley,103,Reptile
+North West,Bury,2,Amphibian
+North West,Bury,15,Bird
+North West,Bury,13,Fish
+North West,Bury,165,Mammal
+North West,Bury,45,Reptile
+North West,Chester,3,Amphibian
+North West,Chester,51,Bird
+North West,Chester,4,Fish
+North West,Chester,194,Mammal
+North West,Chester,90,Reptile
+North West,Crewe,1,Reptile
+North West,Ellesmere Port,18,Amphibian
+North West,Ellesmere Port,83,Bird
+North West,Ellesmere Port,3,Fish
+North West,Ellesmere Port,6,Insect
+North West,Ellesmere Port,340,Mammal
+North West,Ellesmere Port,332,Reptile
+North West,Kirkby,6,Mammal
+North West,Liverpool,25,Amphibian
+North West,Liverpool,151,Bird
+North West,Liverpool,15,Fish
+North West,Liverpool,4,Insect
+North West,Liverpool,605,Mammal
+North West,Liverpool,373,Reptile
+North West,Manchester,38,Amphibian
+North West,Manchester,198,Bird
+North West,Manchester,40,Fish
+North West,Manchester,3,Insect
+North West,Manchester,1190,Mammal
+North West,Manchester,550,Reptile
+North West,Middleton,7,Amphibian
+North West,Middleton,24,Bird
+North West,Middleton,9,Fish
+North West,Middleton,108,Mammal
+North West,Middleton,55,Reptile
+North West,Oldham,14,Amphibian
+North West,Oldham,70,Bird
+North West,Oldham,13,Fish
+North West,Oldham,269,Mammal
+North West,Oldham,137,Reptile
+North West,Prescot,6,Bird
+North West,Prescot,4,Mammal
+North West,Prescot,2,Reptile
+North West,Preston,21,Amphibian
+North West,Preston,79,Bird
+North West,Preston,7,Fish
+North West,Preston,4,Insect
+North West,Preston,390,Mammal
+North West,Preston,222,Reptile
+North West,Rochdale,10,Amphibian
+North West,Rochdale,18,Bird
+North West,Rochdale,106,Mammal
+North West,Rochdale,103,Reptile
+North West,Runcorn,5,Amphibian
+North West,Runcorn,24,Bird
+North West,Runcorn,6,Fish
+North West,Runcorn,192,Mammal
+North West,Runcorn,96,Reptile
+North West,Sale,3,Amphibian
+North West,Sale,7,Bird
+North West,Sale,67,Mammal
+North West,Sale,22,Reptile
+North West,Salford,6,Amphibian
+North West,Salford,33,Bird
+North West,Salford,108,Mammal
+North West,Salford,75,Reptile
+North West,Skelmersdale,4,Amphibian
+North West,Skelmersdale,30,Bird
+North West,Skelmersdale,133,Mammal
+North West,Skelmersdale,78,Reptile
+North West,Southport,14,Mammal
+North West,Southport,6,Reptile
+North West,St Helens,2,Amphibian
+North West,St Helens,45,Bird
+North West,St Helens,11,Fish
+North West,St Helens,4,Insect
+North West,St Helens,198,Mammal
+North West,St Helens,133,Reptile
+North West,Stockport,4,Amphibian
+North West,Stockport,24,Bird
+North West,Stockport,6,Fish
+North West,Stockport,3,Insect
+North West,Stockport,162,Mammal
+North West,Stockport,99,Reptile
+North West,Stretford,2,Amphibian
+North West,Stretford,14,Bird
+North West,Stretford,5,Fish
+North West,Stretford,89,Mammal
+North West,Stretford,110,Reptile
+North West,Warrington,14,Amphibian
+North West,Warrington,114,Bird
+North West,Warrington,12,Fish
+North West,Warrington,7,Insect
+North West,Warrington,469,Mammal
+North West,Warrington,195,Reptile
+North West,Widnes,2,Amphibian
+North West,Widnes,15,Bird
+North West,Widnes,3,Fish
+North West,Widnes,1,Insect
+North West,Widnes,63,Mammal
+North West,Widnes,73,Reptile
+North West,Wigan,8,Bird
+North West,Wigan,63,Mammal
+North West,Wigan,48,Reptile
+North West,Wilmslow,4,Amphibian
+North West,Wilmslow,37,Bird
+North West,Wilmslow,3,Fish
+North West,Wilmslow,35,Mammal
+North West,Wilmslow,9,Reptile
+North West,Winsford,10,Amphibian
+North West,Winsford,27,Bird
+North West,Winsford,83,Mammal
+North West,Winsford,38,Reptile
+North West,Wythenshawe,1,Amphibian
+North West,Wythenshawe,42,Bird
+North West,Wythenshawe,3,Fish
+North West,Wythenshawe,173,Mammal
+North West,Wythenshawe,104,Reptile
+South East,Aldershot,2,Mammal
+South East,Andover,4,Amphibian
+South East,Andover,14,Bird
+South East,Andover,2,Fish
+South East,Andover,100,Mammal
+South East,Andover,79,Reptile
+South East,Ashford,1,Amphibian
+South East,Ashford,7,Bird
+South East,Ashford,40,Mammal
+South East,Ashford,34,Reptile
+South East,Aylesbury,6,Amphibian
+South East,Aylesbury,32,Bird
+South East,Aylesbury,1,Insect
+South East,Aylesbury,104,Mammal
+South East,Aylesbury,103,Reptile
+South East,Banbury,6,Amphibian
+South East,Banbury,31,Bird
+South East,Banbury,7,Fish
+South East,Banbury,136,Mammal
+South East,Banbury,116,Reptile
+South East,Basildon,14,Amphibian
+South East,Basildon,45,Bird
+South East,Basildon,11,Fish
+South East,Basildon,497,Mammal
+South East,Basildon,126,Reptile
+South East,Basingstoke,16,Amphibian
+South East,Basingstoke,110,Bird
+South East,Basingstoke,7,Fish
+South East,Basingstoke,9,Insect
+South East,Basingstoke,422,Mammal
+South East,Basingstoke,327,Reptile
+South East,Bedford,1,Amphibian
+South East,Bedford,16,Bird
+South East,Bedford,1,Fish
+South East,Bedford,2,Insect
+South East,Bedford,158,Mammal
+South East,Bedford,31,Reptile
+South East,Borehamwood,15,Mammal
+South East,Borehamwood,10,Reptile
+South East,Bracknell,21,Mammal
+South East,Bracknell,22,Reptile
+South East,Braintree,9,Bird
+South East,Braintree,1,Fish
+South East,Braintree,1,Insect
+South East,Braintree,167,Mammal
+South East,Braintree,64,Reptile
+South East,Brighton,16,Amphibian
+South East,Brighton,9,Bird
+South East,Brighton,7,Fish
+South East,Brighton,140,Mammal
+South East,Brighton,135,Reptile
+South East,Camberley,6,Amphibian
+South East,Camberley,21,Bird
+South East,Camberley,5,Fish
+South East,Camberley,1,Insect
+South East,Camberley,161,Mammal
+South East,Camberley,57,Reptile
+South East,Canterbury,14,Bird
+South East,Canterbury,3,Insect
+South East,Canterbury,157,Mammal
+South East,Canterbury,54,Reptile
+South East,Chatham,11,Amphibian
+South East,Chatham,28,Bird
+South East,Chatham,8,Fish
+South East,Chatham,118,Mammal
+South East,Chatham,108,Reptile
+South East,Chelmsford,6,Amphibian
+South East,Chelmsford,27,Bird
+South East,Chelmsford,95,Mammal
+South East,Chelmsford,47,Reptile
+South East,Cheshunt,2,Amphibian
+South East,Cheshunt,5,Bird
+South East,Cheshunt,3,Fish
+South East,Cheshunt,46,Mammal
+South East,Cheshunt,15,Reptile
+South East,Colchester,29,Bird
+South East,Colchester,3,Fish
+South East,Colchester,206,Mammal
+South East,Colchester,112,Reptile
+South East,Cowley,6,Amphibian
+South East,Cowley,7,Bird
+South East,Cowley,1,Fish
+South East,Cowley,87,Mammal
+South East,Cowley,66,Reptile
+South East,Crawley,3,Amphibian
+South East,Crawley,39,Bird
+South East,Crawley,156,Mammal
+South East,Crawley,98,Reptile
+South East,Dartford,23,Amphibian
+South East,Dartford,78,Bird
+South East,Dartford,13,Fish
+South East,Dartford,11,Insect
+South East,Dartford,527,Mammal
+South East,Dartford,236,Reptile
+South East,Eastbourne,19,Amphibian
+South East,Eastbourne,30,Bird
+South East,Eastbourne,17,Fish
+South East,Eastbourne,2,Insect
+South East,Eastbourne,157,Mammal
+South East,Eastbourne,125,Reptile
+South East,Eastleigh,4,Amphibian
+South East,Eastleigh,18,Bird
+South East,Eastleigh,5,Fish
+South East,Eastleigh,3,Insect
+South East,Eastleigh,101,Mammal
+South East,Eastleigh,82,Reptile
+South East,Epsom,5,Amphibian
+South East,Epsom,15,Bird
+South East,Epsom,6,Fish
+South East,Epsom,3,Insect
+South East,Epsom,133,Mammal
+South East,Epsom,104,Reptile
+South East,Fareham,12,Amphibian
+South East,Fareham,49,Bird
+South East,Fareham,4,Fish
+South East,Fareham,195,Mammal
+South East,Fareham,115,Reptile
+South East,Fleet,1,Amphibian
+South East,Fleet,15,Mammal
+South East,Fleet,5,Reptile
+South East,Gillingham,28,Bird
+South East,Gillingham,114,Mammal
+South East,Gillingham,85,Reptile
+South East,Gravesend,2,Bird
+South East,Gravesend,16,Mammal
+South East,Gravesend,7,Reptile
+South East,Grays Thurrock,12,Amphibian
+South East,Grays Thurrock,113,Bird
+South East,Grays Thurrock,13,Fish
+South East,Grays Thurrock,644,Mammal
+South East,Grays Thurrock,262,Reptile
+South East,Harlow,32,Amphibian
+South East,Harlow,63,Bird
+South East,Harlow,10,Fish
+South East,Harlow,2,Insect
+South East,Harlow,393,Mammal
+South East,Harlow,170,Reptile
+South East,Hastings,10,Amphibian
+South East,Hastings,10,Bird
+South East,Hastings,8,Fish
+South East,Hastings,95,Mammal
+South East,Hastings,74,Reptile
+South East,Hatfield,33,Bird
+South East,Hatfield,135,Mammal
+South East,Hatfield,136,Reptile
+South East,Hemel Hempstead,9,Amphibian
+South East,Hemel Hempstead,34,Bird
+South East,Hemel Hempstead,159,Mammal
+South East,Hemel Hempstead,50,Reptile
+South East,High Wycombe,2,Bird
+South East,High Wycombe,2,Fish
+South East,High Wycombe,14,Mammal
+South East,High Wycombe,16,Reptile
+South East,Horsham,3,Amphibian
+South East,Horsham,10,Bird
+South East,Horsham,6,Fish
+South East,Horsham,88,Mammal
+South East,Horsham,33,Reptile
+South East,Luton,5,Amphibian
+South East,Luton,61,Bird
+South East,Luton,14,Fish
+South East,Luton,336,Mammal
+South East,Luton,237,Reptile
+South East,Maidstone,17,Amphibian
+South East,Maidstone,67,Bird
+South East,Maidstone,15,Fish
+South East,Maidstone,6,Insect
+South East,Maidstone,369,Mammal
+South East,Maidstone,198,Reptile
+South East,Milton Keynes,24,Amphibian
+South East,Milton Keynes,120,Bird
+South East,Milton Keynes,15,Fish
+South East,Milton Keynes,8,Insect
+South East,Milton Keynes,707,Mammal
+South East,Milton Keynes,289,Reptile
+South East,Newbury,5,Amphibian
+South East,Newbury,12,Bird
+South East,Newbury,5,Fish
+South East,Newbury,88,Mammal
+South East,Newbury,23,Reptile
+South East,Oxford,10,Amphibian
+South East,Oxford,26,Bird
+South East,Oxford,7,Fish
+South East,Oxford,93,Mammal
+South East,Oxford,34,Reptile
+South East,Portsmouth,18,Amphibian
+South East,Portsmouth,76,Bird
+South East,Portsmouth,8,Fish
+South East,Portsmouth,414,Mammal
+South East,Portsmouth,195,Reptile
+South East,Reading,16,Amphibian
+South East,Reading,65,Bird
+South East,Reading,17,Fish
+South East,Reading,482,Mammal
+South East,Reading,277,Reptile
+South East,Redhill,5,Bird
+South East,Redhill,5,Mammal
+South East,Redhill,3,Reptile
+South East,Shoreham-by-sea,5,Amphibian
+South East,Shoreham-by-sea,7,Bird
+South East,Shoreham-by-sea,1,Fish
+South East,Shoreham-by-sea,14,Insect
+South East,Shoreham-by-sea,91,Mammal
+South East,Shoreham-by-sea,18,Reptile
+South East,Slough,7,Amphibian
+South East,Slough,52,Bird
+South East,Slough,1,Fish
+South East,Slough,141,Mammal
+South East,Slough,114,Reptile
+South East,Southampton,12,Amphibian
+South East,Southampton,119,Bird
+South East,Southampton,18,Fish
+South East,Southampton,1,Insect
+South East,Southampton,455,Mammal
+South East,Southampton,282,Reptile
+South East,Southend On Sea,13,Amphibian
+South East,Southend On Sea,38,Bird
+South East,Southend On Sea,9,Fish
+South East,Southend On Sea,2,Insect
+South East,Southend On Sea,167,Mammal
+South East,Southend On Sea,172,Reptile
+South East,St Albans,6,Amphibian
+South East,St Albans,9,Bird
+South East,St Albans,1,Fish
+South East,St Albans,1,Insect
+South East,St Albans,53,Mammal
+South East,St Albans,37,Reptile
+South East,Staines,9,Amphibian
+South East,Staines,55,Bird
+South East,Staines,1,Fish
+South East,Staines,2,Insect
+South East,Staines,196,Mammal
+South East,Staines,199,Reptile
+South East,Stevenage,15,Amphibian
+South East,Stevenage,36,Bird
+South East,Stevenage,3,Fish
+South East,Stevenage,80,Mammal
+South East,Stevenage,93,Reptile
+South East,Tunbridge Wells,4,Amphibian
+South East,Tunbridge Wells,48,Bird
+South East,Tunbridge Wells,9,Fish
+South East,Tunbridge Wells,123,Mammal
+South East,Tunbridge Wells,109,Reptile
+South East,Waterlooville,3,Mammal
+South East,Watford,20,Amphibian
+South East,Watford,48,Bird
+South East,Watford,31,Fish
+South East,Watford,3,Insect
+South East,Watford,387,Mammal
+South East,Watford,189,Reptile
+South East,Welwyn Garden City,2,Amphibian
+South East,Welwyn Garden City,3,Bird
+South East,Welwyn Garden City,5,Insect
+South East,Welwyn Garden City,52,Mammal
+South East,Welwyn Garden City,27,Reptile
+South East,Woking,11,Amphibian
+South East,Woking,53,Bird
+South East,Woking,9,Fish
+South East,Woking,3,Insect
+South East,Woking,238,Mammal
+South East,Woking,170,Reptile
+South West,Bath,1,Reptile
+South West,Bournemouth,6,Amphibian
+South West,Bournemouth,45,Bird
+South West,Bournemouth,6,Fish
+South West,Bournemouth,7,Insect
+South West,Bournemouth,360,Mammal
+South West,Bournemouth,171,Reptile
+South West,Bristol,23,Amphibian
+South West,Bristol,157,Bird
+South West,Bristol,13,Fish
+South West,Bristol,3,Insect
+South West,Bristol,746,Mammal
+South West,Bristol,452,Reptile
+South West,Cheltenham,2,Amphibian
+South West,Cheltenham,17,Bird
+South West,Cheltenham,64,Mammal
+South West,Cheltenham,18,Reptile
+South West,Exeter,2,Amphibian
+South West,Exeter,32,Bird
+South West,Exeter,3,Fish
+South West,Exeter,86,Mammal
+South West,Exeter,76,Reptile
+South West,Gloucester,6,Amphibian
+South West,Gloucester,16,Bird
+South West,Gloucester,1,Fish
+South West,Gloucester,66,Mammal
+South West,Gloucester,44,Reptile
+South West,Plymouth,1,Bird
+South West,Poole,12,Amphibian
+South West,Poole,25,Bird
+South West,Poole,3,Fish
+South West,Poole,5,Insect
+South West,Poole,217,Mammal
+South West,Poole,112,Reptile
+South West,Street,2,Fish
+South West,Street,3,Insect
+South West,Street,23,Mammal
+South West,Street,7,Reptile
+South West,Swindon,27,Amphibian
+South West,Swindon,115,Bird
+South West,Swindon,15,Fish
+South West,Swindon,5,Insect
+South West,Swindon,596,Mammal
+South West,Swindon,319,Reptile
+South West,Taunton,4,Amphibian
+South West,Taunton,3,Fish
+South West,Taunton,20,Mammal
+South West,Taunton,9,Reptile
+South West,Weymouth,3,Bird
+South West,Weymouth,27,Mammal
+South West,Weymouth,1,Reptile
+South West,Yate,5,Amphibian
+South West,Yate,27,Bird
+South West,Yate,133,Mammal
+South West,Yate,121,Reptile
+South West,Yeovil,12,Bird
+South West,Yeovil,4,Fish
+South West,Yeovil,6,Insect
+South West,Yeovil,56,Mammal
+South West,Yeovil,40,Reptile
+West Midlands,Birmingham,32,Amphibian
+West Midlands,Birmingham,151,Bird
+West Midlands,Birmingham,45,Fish
+West Midlands,Birmingham,5,Insect
+West Midlands,Birmingham,1016,Mammal
+West Midlands,Birmingham,519,Reptile
+West Midlands,Burton On Trent,8,Amphibian
+West Midlands,Burton On Trent,29,Bird
+West Midlands,Burton On Trent,8,Fish
+West Midlands,Burton On Trent,151,Mammal
+West Midlands,Burton On Trent,107,Reptile
+West Midlands,Coventry,1,Amphibian
+West Midlands,Coventry,30,Bird
+West Midlands,Coventry,1,Fish
+West Midlands,Coventry,5,Insect
+West Midlands,Coventry,204,Mammal
+West Midlands,Coventry,52,Reptile
+West Midlands,Dudley,8,Amphibian
+West Midlands,Dudley,79,Bird
+West Midlands,Dudley,12,Fish
+West Midlands,Dudley,467,Mammal
+West Midlands,Dudley,278,Reptile
+West Midlands,Kidderminster,4,Amphibian
+West Midlands,Kidderminster,45,Bird
+West Midlands,Kidderminster,4,Fish
+West Midlands,Kidderminster,1,Insect
+West Midlands,Kidderminster,191,Mammal
+West Midlands,Kidderminster,122,Reptile
+West Midlands,Newcastle Under Lyme,16,Bird
+West Midlands,Newcastle Under Lyme,67,Mammal
+West Midlands,Newcastle Under Lyme,33,Reptile
+West Midlands,Redditch,9,Amphibian
+West Midlands,Redditch,53,Bird
+West Midlands,Redditch,12,Fish
+West Midlands,Redditch,2,Insect
+West Midlands,Redditch,439,Mammal
+West Midlands,Redditch,235,Reptile
+West Midlands,Rugby,6,Amphibian
+West Midlands,Rugby,6,Bird
+West Midlands,Rugby,3,Fish
+West Midlands,Rugby,1,Insect
+West Midlands,Rugby,80,Mammal
+West Midlands,Rugby,40,Reptile
+West Midlands,Shrewsbury,7,Amphibian
+West Midlands,Shrewsbury,26,Bird
+West Midlands,Shrewsbury,4,Fish
+West Midlands,Shrewsbury,65,Mammal
+West Midlands,Shrewsbury,72,Reptile
+West Midlands,Solihull,16,Amphibian
+West Midlands,Solihull,66,Bird
+West Midlands,Solihull,19,Fish
+West Midlands,Solihull,1,Insect
+West Midlands,Solihull,462,Mammal
+West Midlands,Solihull,230,Reptile
+West Midlands,Stoke On Trent,14,Amphibian
+West Midlands,Stoke On Trent,46,Bird
+West Midlands,Stoke On Trent,18,Fish
+West Midlands,Stoke On Trent,240,Mammal
+West Midlands,Stoke On Trent,146,Reptile
+West Midlands,Stourbridge,8,Bird
+West Midlands,Stourbridge,38,Mammal
+West Midlands,Stourbridge,4,Reptile
+West Midlands,Sutton Coldfield,13,Amphibian
+West Midlands,Sutton Coldfield,39,Bird
+West Midlands,Sutton Coldfield,6,Fish
+West Midlands,Sutton Coldfield,2,Insect
+West Midlands,Sutton Coldfield,210,Mammal
+West Midlands,Sutton Coldfield,93,Reptile
+West Midlands,Tamworth,3,Amphibian
+West Midlands,Tamworth,33,Bird
+West Midlands,Tamworth,2,Fish
+West Midlands,Tamworth,4,Insect
+West Midlands,Tamworth,211,Mammal
+West Midlands,Tamworth,85,Reptile
+West Midlands,Telford,15,Amphibian
+West Midlands,Telford,106,Bird
+West Midlands,Telford,18,Fish
+West Midlands,Telford,428,Mammal
+West Midlands,Telford,269,Reptile
+West Midlands,Walsall,6,Bird
+West Midlands,Walsall,3,Insect
+West Midlands,Walsall,14,Mammal
+West Midlands,Walsall,11,Reptile
+West Midlands,Wednesbury,13,Amphibian
+West Midlands,Wednesbury,18,Bird
+West Midlands,Wednesbury,2,Fish
+West Midlands,Wednesbury,133,Mammal
+West Midlands,Wednesbury,80,Reptile
+West Midlands,West Bromwich,2,Bird
+West Midlands,West Bromwich,5,Fish
+West Midlands,West Bromwich,39,Mammal
+West Midlands,West Bromwich,19,Reptile
+West Midlands,Wolverhampton,4,Amphibian
+West Midlands,Wolverhampton,29,Bird
+West Midlands,Wolverhampton,3,Fish
+West Midlands,Wolverhampton,2,Insect
+West Midlands,Wolverhampton,201,Mammal
+West Midlands,Wolverhampton,176,Reptile
+West Midlands,Worcester,11,Amphibian
+West Midlands,Worcester,31,Bird
+West Midlands,Worcester,13,Fish
+West Midlands,Worcester,1,Insect
+West Midlands,Worcester,280,Mammal
+West Midlands,Worcester,102,Reptile
+Yorkshire & Humberside,Barnsley,2,Amphibian
+Yorkshire & Humberside,Barnsley,17,Bird
+Yorkshire & Humberside,Barnsley,5,Fish
+Yorkshire & Humberside,Barnsley,3,Insect
+Yorkshire & Humberside,Barnsley,52,Mammal
+Yorkshire & Humberside,Barnsley,25,Reptile
+Yorkshire & Humberside,Bradford,8,Amphibian
+Yorkshire & Humberside,Bradford,80,Bird
+Yorkshire & Humberside,Bradford,3,Fish
+Yorkshire & Humberside,Bradford,142,Mammal
+Yorkshire & Humberside,Bradford,122,Reptile
+Yorkshire & Humberside,Castleford,2,Amphibian
+Yorkshire & Humberside,Castleford,19,Bird
+Yorkshire & Humberside,Castleford,8,Fish
+Yorkshire & Humberside,Castleford,71,Mammal
+Yorkshire & Humberside,Castleford,37,Reptile
+Yorkshire & Humberside,Doncaster,17,Amphibian
+Yorkshire & Humberside,Doncaster,47,Bird
+Yorkshire & Humberside,Doncaster,10,Fish
+Yorkshire & Humberside,Doncaster,4,Insect
+Yorkshire & Humberside,Doncaster,439,Mammal
+Yorkshire & Humberside,Doncaster,246,Reptile
+Yorkshire & Humberside,Halifax,2,Amphibian
+Yorkshire & Humberside,Halifax,16,Bird
+Yorkshire & Humberside,Halifax,2,Insect
+Yorkshire & Humberside,Halifax,100,Mammal
+Yorkshire & Humberside,Halifax,50,Reptile
+Yorkshire & Humberside,Huddersfield,8,Amphibian
+Yorkshire & Humberside,Huddersfield,24,Bird
+Yorkshire & Humberside,Huddersfield,1,Fish
+Yorkshire & Humberside,Huddersfield,2,Insect
+Yorkshire & Humberside,Huddersfield,138,Mammal
+Yorkshire & Humberside,Huddersfield,45,Reptile
+Yorkshire & Humberside,Hull,3,Amphibian
+Yorkshire & Humberside,Hull,39,Bird
+Yorkshire & Humberside,Hull,1,Fish
+Yorkshire & Humberside,Hull,1,Insect
+Yorkshire & Humberside,Hull,184,Mammal
+Yorkshire & Humberside,Hull,91,Reptile
+Yorkshire & Humberside,Keighley,14,Bird
+Yorkshire & Humberside,Keighley,1,Fish
+Yorkshire & Humberside,Keighley,5,Insect
+Yorkshire & Humberside,Keighley,85,Mammal
+Yorkshire & Humberside,Keighley,27,Reptile
+Yorkshire & Humberside,Kingston Upon Hull,15,Amphibian
+Yorkshire & Humberside,Kingston Upon Hull,103,Bird
+Yorkshire & Humberside,Kingston Upon Hull,3,Fish
+Yorkshire & Humberside,Kingston Upon Hull,4,Insect
+Yorkshire & Humberside,Kingston Upon Hull,274,Mammal
+Yorkshire & Humberside,Kingston Upon Hull,188,Reptile
+Yorkshire & Humberside,Leeds,80,Amphibian
+Yorkshire & Humberside,Leeds,224,Bird
+Yorkshire & Humberside,Leeds,33,Fish
+Yorkshire & Humberside,Leeds,4,Insect
+Yorkshire & Humberside,Leeds,1109,Mammal
+Yorkshire & Humberside,Leeds,510,Reptile
+Yorkshire & Humberside,Middlesbrough,20,Amphibian
+Yorkshire & Humberside,Middlesbrough,43,Bird
+Yorkshire & Humberside,Middlesbrough,11,Fish
+Yorkshire & Humberside,Middlesbrough,6,Insect
+Yorkshire & Humberside,Middlesbrough,327,Mammal
+Yorkshire & Humberside,Middlesbrough,209,Reptile
+Yorkshire & Humberside,Redcar,1,Amphibian
+Yorkshire & Humberside,Redcar,30,Mammal
+Yorkshire & Humberside,Redcar,12,Reptile
+Yorkshire & Humberside,Rotherham,7,Amphibian
+Yorkshire & Humberside,Rotherham,87,Bird
+Yorkshire & Humberside,Rotherham,5,Fish
+Yorkshire & Humberside,Rotherham,1,Insect
+Yorkshire & Humberside,Rotherham,203,Mammal
+Yorkshire & Humberside,Rotherham,178,Reptile
+Yorkshire & Humberside,Scunthorpe,6,Amphibian
+Yorkshire & Humberside,Scunthorpe,39,Bird
+Yorkshire & Humberside,Scunthorpe,7,Fish
+Yorkshire & Humberside,Scunthorpe,210,Mammal
+Yorkshire & Humberside,Scunthorpe,87,Reptile
+Yorkshire & Humberside,Sheffield,7,Amphibian
+Yorkshire & Humberside,Sheffield,131,Bird
+Yorkshire & Humberside,Sheffield,11,Fish
+Yorkshire & Humberside,Sheffield,2,Insect
+Yorkshire & Humberside,Sheffield,777,Mammal
+Yorkshire & Humberside,Sheffield,350,Reptile
+Yorkshire & Humberside,Wakefield,11,Amphibian
+Yorkshire & Humberside,Wakefield,32,Bird
+Yorkshire & Humberside,Wakefield,7,Fish
+Yorkshire & Humberside,Wakefield,147,Mammal
+Yorkshire & Humberside,Wakefield,104,Reptile
+Yorkshire & Humberside,York,14,Amphibian
+Yorkshire & Humberside,York,98,Bird
+Yorkshire & Humberside,York,11,Fish
+Yorkshire & Humberside,York,389,Mammal
+Yorkshire & Humberside,York,228,Reptile

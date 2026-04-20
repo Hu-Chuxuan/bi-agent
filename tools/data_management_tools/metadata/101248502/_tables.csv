@@ -1,0 +1,7 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"wn_bothhouses_c","","",False,111,2022-07-10 06:05:24.266,2021-03-07 19:36:54.106,0,False,False,,0,,,False,"eb3643b5-b6ce-44cf-be90-6c6fc12a6fb5",""
+13,1,"DateTableTemplate_eadccae5-17bd-40b2-8a8f-9048e2f7a9c0","","",True,113,2022-07-10 06:05:24.266,2021-03-07 19:36:54.110,2,False,True,,0,,,False,"0f352fed-73f3-4ca4-bd97-650dacf6b919",""
+16,1,"Share of woman","","",False,115,2022-07-10 06:05:24.266,2021-03-08 07:49:20.800,2,False,False,,0,,,False,"82956686-01a4-4e8e-be0e-dcc60a251db6",""
+461,1,"hapiscore_whr","","",False,479,2022-07-10 06:05:24.266,2021-03-07 20:01:41.383,0,False,False,,0,,,False,"ddf95faa-b3f4-4c53-9eb4-274fb92ba74f",""
+571,1,"Years","","",False,577,2022-07-10 06:05:24.266,2021-03-07 20:01:41.383,2,False,False,,0,,,False,"cad0f749-6a18-44c6-bca9-ab5c9738bf32",""
+648,1,"Coutnries","","",False,654,2022-07-10 06:05:24.266,2021-03-08 11:13:41.406,2,False,False,,0,,,False,"6822e802-9018-43ce-bf8c-4a7ab4027297",""

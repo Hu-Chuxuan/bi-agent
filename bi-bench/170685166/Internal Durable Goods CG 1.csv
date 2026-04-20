@@ -1,0 +1,13 @@
+Metric 1,Ordinal
+"New Orders",0
+"New Orders Ex Transportation",1
+"New Orders Ex Defense & Transportation",2
+"Primary Metals",6
+"Capital Goods",3
+"Nondefense Capital Goods",4
+"Nondefense Capital Goods Ex Aircraft",5
+"Shipments",7
+"Unfilled Orders",8
+"Inventories",9
+"Inventories Ex Defense Aircraft",10
+"No selection",11

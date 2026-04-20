@@ -1,0 +1,9 @@
+ID,ModelID,Name,IsActive,Type,CrossFilteringBehavior,JoinOnDateBehavior,RelyOnReferentialIntegrity,FromTableID,FromColumnID,FromCardinality,ToTableID,ToColumnID,ToCardinality,State,RelationshipStorageID,RelationshipStorage2ID,ModifiedTime,RefreshedTime,SecurityFilteringBehavior
+40,1,"248d30cc-a24d-4da2-affd-4bab24fe9446",True,1,1,1,False,10,60,2,19,78,1,1,798,,2020-07-26 13:13:51.310,2020-07-26 13:14:30.446,1
+41,1,"5d8a7ff2-ef18-40ea-b6b0-6345570cb851",True,1,1,1,False,10,61,2,25,82,1,1,800,,2020-07-26 13:13:51.326,2020-07-26 13:14:30.446,1
+42,1,"60f93a65-53eb-4de2-9f3f-c74600919346",True,1,1,1,False,10,62,2,22,80,1,1,802,,2020-07-26 13:13:51.326,2020-07-26 13:14:30.443,1
+43,1,"65e9ba32-2144-4249-bd1a-acb5bb242a5a",True,1,1,1,False,10,59,2,28,84,1,1,804,,2020-07-26 13:13:51.310,2020-07-26 13:14:30.443,1
+44,1,"b2b4d2bc-44f3-404f-995c-8113dc3b64d9",True,1,1,1,False,10,63,2,16,73,1,1,806,,2020-07-26 13:13:51.310,2020-07-26 13:14:30.446,1
+45,1,"370634ea-e26c-41e9-bf73-b88a30b3d954",True,1,1,1,False,10,64,2,13,71,1,1,808,,2020-07-26 13:13:51.310,2020-07-26 13:14:30.446,1
+46,1,"b7bf8104-1373-470a-9e3f-875b9b055fdd",True,1,1,2,False,34,93,2,37,104,1,1,810,,2020-07-26 13:13:51.433,2020-07-26 13:14:30.280,1
+47,1,"edb18bb5-1cda-44bd-a483-f83bd07fab44",True,1,1,1,False,10,58,2,34,93,1,1,812,,2020-07-26 13:13:51.310,2020-07-26 13:14:30.443,1

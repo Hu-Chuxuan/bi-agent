@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,parsed_unpivot_col_list,parsed_unpivot_attr_col_name,parsed_unpivot_val_col_name,step
+142885391,1691,warehouse,Unpivot,"['out', 'in']",action,date,"    #""Anulowano przestawienie kolumn"" = Table.UnpivotOtherColumns(#""Usunięto kolumny: exp_date_days i expiration_date"", {""product_id"", ""quantity.1"", ""quantity.2"", ""price"", ""id"", ""entity_id"", ""expired"", ""expiration_date""}, ""Atrybut"", ""Wartość""),"

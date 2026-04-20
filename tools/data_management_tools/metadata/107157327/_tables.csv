@@ -1,0 +1,5 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"TCS balance Sheet","","",False,57,2022-08-13 00:54:40.200,2019-01-25 06:11:48.146,0,False,False,,0,,,False,"9454c20c-14a7-4907-bf79-5f8d7ae6537d",""
+15,1,"DateTableTemplate_adf2bd93-835b-4751-b877-31d094d7661c","","",True,59,2022-08-13 00:54:40.200,2019-01-25 06:11:46.806,2,False,True,,0,,,False,"9775108f-e5bd-4f98-83ff-becf4d4e0d3f",""
+1483,1,"TCS DATA","","",False,1564,2022-08-13 00:54:40.200,2019-01-25 14:18:55.583,0,False,False,,0,,,False,"b9540782-4715-4d3e-89cd-3b42f2e09b9d",""
+1486,1,"LocalDateTable_a921575f-5313-4a46-a72c-3ce939ecbb66","","",True,1566,2022-08-13 00:54:40.200,2019-01-25 07:03:48.136,2,True,False,,0,,,False,"7be87c72-d12b-4463-9946-728a69b814c3",""

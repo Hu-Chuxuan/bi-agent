@@ -1,0 +1,8 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"airline-safety","","",False,57,2022-08-27 03:35:06.746,2020-09-24 00:46:42.616,0,False,False,,0,,,False,"c094748e-e671-45f9-bc96-4c7ab9ec8497",""
+15,1,"DateTableTemplate_cf566fdc-8286-42b1-82da-1ad945f1868e","","",True,59,2022-08-27 03:35:06.746,2020-09-22 01:58:28.503,2,False,True,,0,,,False,"8963c11e-910c-411c-a1db-936ced7dacb1",""
+1851,1,"FARS_85_99","","",False,2000,2022-08-27 03:35:06.746,2020-09-22 02:14:56.413,0,False,False,,0,,,False,"7fefce74-a059-43a0-9919-d8ddec79d2b5",""
+3160,1,"FARS_00_14","","",False,3309,2022-08-27 03:35:06.746,2020-09-22 23:20:20.093,0,False,False,,0,,,False,"f53f4f45-5808-43f2-9486-ca50cd71efdf",""
+4501,1,"Air Traffic","","",False,4534,2022-08-27 03:35:06.746,2020-09-23 00:09:16.270,0,False,False,,0,,,False,"d1e64dfd-0a13-4815-95ff-968b3dfdb3d7",""
+5763,1,"Passenger Revenue","","",False,5856,2022-08-27 03:35:06.746,2020-09-23 01:44:55.143,0,False,False,,0,,,False,"5d380369-fe2a-474f-9016-e43df7a38c38",""
+8431,1,"Air Accidents","","",False,8448,2022-08-27 03:35:06.746,2020-09-24 22:55:21.170,0,False,False,,0,,,False,"f923ff2f-83d3-4f6f-bc29-fcb6795c60b1",""

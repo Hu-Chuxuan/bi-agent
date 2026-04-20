@@ -1,0 +1,781 @@
+Customer ID,Customer Name,Segment,First Name,Last Name,Palindrome
+"EH-13945","Eric Hoffmann","Consumer","Eric","Hoffmann",0
+"JO-15280","Jas O'Carroll","Consumer","Jas","O'Carroll",0
+"JG-15160","James Galang","Consumer","James","Galang",0
+"AS-10240","Alan Shonely","Consumer","Alan","Shonely",0
+"KD-16345","Katherine Ducich","Consumer","Katherine","Ducich",0
+"CC-12145","Charles Crestani","Consumer","Charles","Crestani",0
+"JL-15835","John Lee","Consumer","John","Lee",0
+"GT-14755","Guy Thornton","Consumer","Guy","Thornton",0
+"XP-21865","Xylona Preis","Consumer","Xylona","Preis",0
+"LS-17230","Lycoris Saunders","Consumer","Lycoris","Saunders",0
+"MV-17485","Mark Van Huff","Consumer","Mark","Van Huff",0
+"CL-12565","Clay Ludtke","Consumer","Clay","Ludtke",0
+"TB-21250","Tim Brockman","Consumer","Tim","Brockman",0
+"GM-14440","Gary McGarr","Consumer","Gary","McGarr",0
+"FP-14320","Frank Preis","Consumer","Frank","Preis",0
+"CB-12025","Cassandra Brandow","Consumer","Cassandra","Brandow",0
+"BH-11710","Brosina Hoffman","Consumer","Brosina","Hoffman",0
+"KM-16720","Kunst Miller","Consumer","Kunst","Miller",0
+"TT-21070","Ted Trevino","Consumer","Ted","Trevino",0
+"CS-12130","Chad Sievert","Consumer","Chad","Sievert",0
+"JH-15910","Jonathan Howell","Consumer","Jonathan","Howell",0
+"LH-17155","Logan Haushalter","Consumer","Logan","Haushalter",0
+"OT-18730","Olvera Toch","Consumer","Olvera","Toch",0
+"AB-10165","Alan Barnes","Consumer","Alan","Barnes",0
+"MS-17830","Melanie Seite","Consumer","Melanie","Seite",0
+"AR-10510","Andrew Roberts","Consumer","Andrew","Roberts",0
+"LC-17140","Logan Currie","Consumer","Logan","Currie",0
+"AP-10915","Arthur Prichep","Consumer","Arthur","Prichep",0
+"SC-20095","Sanjit Chand","Consumer","Sanjit","Chand",0
+"JF-15490","Jeremy Farry","Consumer","Jeremy","Farry",0
+"PS-18760","Pamela Stobb","Consumer","Pamela","Stobb",0
+"AG-10900","Arthur Gainer","Consumer","Arthur","Gainer",0
+"DP-13000","Darren Powers","Consumer","Darren","Powers",0
+"MC-17575","Matt Collins","Consumer","Matt","Collins",0
+"LB-16735","Larry Blacks","Consumer","Larry","Blacks",0
+"JM-16195","Justin MacKendrick","Consumer","Justin","MacKendrick",0
+"JA-15970","Joseph Airdo","Consumer","Joseph","Airdo",0
+"AM-10705","Anne McFarland","Consumer","Anne","McFarland",0
+"PF-19225","Phillip Flathmann","Consumer","Phillip","Flathmann",0
+"KT-16465","Kean Takahito","Consumer","Kean","Takahito",0
+"LR-16915","Lena Radford","Consumer","Lena","Radford",0
+"CM-12190","Charlotte Melton","Consumer","Charlotte","Melton",0
+"PO-18865","Patrick O'Donnell","Consumer","Patrick","O'Donnell",0
+"MC-17845","Michael Chen","Consumer","Michael","Chen",0
+"DO-13435","Denny Ordway","Consumer","Denny","Ordway",0
+"SP-20920","Susan Pistek","Consumer","Susan","Pistek",0
+"CC-12370","Christopher Conant","Consumer","Christopher","Conant",0
+"TS-21340","Toby Swindell","Consumer","Toby","Swindell",0
+"BD-11320","Bill Donatelli","Consumer","Bill","Donatelli",0
+"CK-12595","Clytie Kelty","Consumer","Clytie","Kelty",0
+"WB-21850","William Brown","Consumer","William","Brown",0
+"NG-18430","Nathan Gelder","Consumer","Nathan","Gelder",0
+"TB-21625","Trudy Brown","Consumer","Trudy","Brown",0
+"PB-19150","Philip Brown","Consumer","Philip","Brown",0
+"CC-12475","Cindy Chapman","Consumer","Cindy","Chapman",0
+"SS-20410","Shahid Shariari","Consumer","Shahid","Shariari",0
+"AI-10855","Arianne Irving","Consumer","Arianne","Irving",0
+"JM-15580","Jill Matthias","Consumer","Jill","Matthias",0
+"TZ-21580","Tracy Zic","Consumer","Tracy","Zic",0
+"NM-18520","Neoma Murray","Consumer","Neoma","Murray",0
+"JE-15745","Joel Eaton","Consumer","Joel","Eaton",0
+"AZ-10750","Annie Zypern","Consumer","Annie","Zypern",0
+"BG-11740","Bruce Geld","Consumer","Bruce","Geld",0
+"BP-11230","Benjamin Patterson","Consumer","Benjamin","Patterson",0
+"MV-18190","Mike Vittorini","Consumer","Mike","Vittorini",0
+"HG-15025","Hunter Glantz","Consumer","Hunter","Glantz",0
+"KM-16660","Khloe Miller","Consumer","Khloe","Miller",0
+"CC-12220","Chris Cortes","Consumer","Chris","Cortes",0
+"BP-11155","Becky Pak","Consumer","Becky","Pak",0
+"CB-12415","Christy Brittain","Consumer","Christy","Brittain",0
+"JF-15295","Jason Fortune","Consumer","Jason","Fortune",0
+"AR-10540","Andy Reiter","Consumer","Andy","Reiter",0
+"RL-19615","Rob Lucas","Consumer","Rob","Lucas",0
+"RB-19435","Richard Bierner","Consumer","Richard","Bierner",0
+"JB-15925","Joni Blumstein","Consumer","Joni","Blumstein",0
+"LS-17245","Lynn Smith","Consumer","Lynn","Smith",0
+"KD-16270","Karen Daniels","Consumer","Karen","Daniels",0
+"SB-20185","Sarah Brown","Consumer","Sarah","Brown",0
+"RD-19585","Rob Dowd","Consumer","Rob","Dowd",0
+"SW-20245","Scot Wooten","Consumer","Scot","Wooten",0
+"PG-18895","Paul Gonzalez","Consumer","Paul","Gonzalez",0
+"SV-20785","Stewart Visinsky","Consumer","Stewart","Visinsky",0
+"AJ-10945","Ashley Jarboe","Consumer","Ashley","Jarboe",0
+"MS-17365","Maribeth Schnelling","Consumer","Maribeth","Schnelling",0
+"CS-11950","Carlos Soltero","Consumer","Carlos","Soltero",0
+"ML-17410","Maris LaWare","Consumer","Maris","LaWare",0
+"ZD-21925","Zuschuss Donatelli","Consumer","Zuschuss","Donatelli",0
+"HA-14920","Helen Andreada","Consumer","Helen","Andreada",0
+"JD-16060","Julia Dunbar","Consumer","Julia","Dunbar",0
+"LC-16885","Lena Creighton","Consumer","Lena","Creighton",0
+"AA-10315","Alex Avila","Consumer","Alex","Avila",0
+"LD-17005","Lisa DeCherney","Consumer","Lisa","DeCherney",0
+"HF-14995","Herbert Flentye","Consumer","Herbert","Flentye",0
+"DN-13690","Duane Noonan","Consumer","Duane","Noonan",0
+"JW-16075","Julia West","Consumer","Julia","West",0
+"BD-11605","Brian Dahlen","Consumer","Brian","Dahlen",0
+"SW-20455","Shaun Weien","Consumer","Shaun","Weien",0
+"SG-20470","Sheri Gordon","Consumer","Sheri","Gordon",0
+"AF-10870","Art Ferguson","Consumer","Art","Ferguson",0
+"PO-18850","Patrick O'Brill","Consumer","Patrick","O'Brill",0
+"SS-20590","Sonia Sunley","Consumer","Sonia","Sunley",0
+"RD-19900","Ruben Dartt","Consumer","Ruben","Dartt",0
+"LC-16870","Lena Cacioppo","Consumer","Lena","Cacioppo",0
+"GT-14710","Greg Tran","Consumer","Greg","Tran",0
+"KW-16570","Kelly Williams","Consumer","Kelly","Williams",0
+"JP-15520","Jeremy Pistek","Consumer","Jeremy","Pistek",0
+"GZ-14470","Gary Zandusky","Consumer","Gary","Zandusky",0
+"ES-14020","Erica Smith","Consumer","Erica","Smith",0
+"PG-18820","Patrick Gardner","Consumer","Patrick","Gardner",0
+"EB-13930","Eric Barreto","Consumer","Eric","Barreto",0
+"RR-19315","Ralph Ritter","Consumer","Ralph","Ritter",0
+"PK-19075","Pete Kriz","Consumer","Pete","Kriz",0
+"BK-11260","Berenike Kampe","Consumer","Berenike","Kampe",0
+"JF-15565","Jill Fjeld","Consumer","Jill","Fjeld",0
+"DB-13615","Doug Bickford","Consumer","Doug","Bickford",0
+"MT-17815","Meg Tillman","Consumer","Meg","Tillman",0
+"LP-17080","Liz Pelletier","Consumer","Liz","Pelletier",0
+"RO-19780","Rose O'Brian","Consumer","Rose","O'Brian",0
+"CA-12265","Christina Anderson","Consumer","Christina","Anderson",0
+"CM-12445","Chuck Magee","Consumer","Chuck","Magee",0
+"MK-18160","Mike Kennedy","Consumer","Mike","Kennedy",0
+"TR-21325","Toby Ritter","Consumer","Toby","Ritter",0
+"JL-15850","John Lucas","Consumer","John","Lucas",0
+"KL-16645","Ken Lonsdale","Consumer","Ken","Lonsdale",0
+"GA-14515","George Ashbrook","Consumer","George","Ashbrook",0
+"CS-12505","Cindy Stewart","Consumer","Cindy","Stewart",0
+"LH-17020","Lisa Hazard","Consumer","Lisa","Hazard",0
+"CL-11890","Carl Ludwig","Consumer","Carl","Ludwig",0
+"GW-14605","Giulietta Weimer","Consumer","Giulietta","Weimer",0
+"AH-10210","Alan Hwang","Consumer","Alan","Hwang",0
+"MB-17305","Maria Bertelson","Consumer","Maria","Bertelson",0
+"BT-11680","Brian Thompson","Consumer","Brian","Thompson",0
+"NP-18325","Naresj Patel","Consumer","Naresj","Patel",0
+"RB-19360","Raymond Buch","Consumer","Raymond","Buch",0
+"RD-19720","Roger Demir","Consumer","Roger","Demir",0
+"SC-20725","Steven Cartwright","Consumer","Steven","Cartwright",0
+"SH-20395","Shahid Hopkins","Consumer","Shahid","Hopkins",0
+"BW-11200","Ben Wallace","Consumer","Ben","Wallace",0
+"SJ-20500","Shirley Jackson","Consumer","Shirley","Jackson",0
+"IM-15055","Ionia McGrath","Consumer","Ionia","McGrath",0
+"KC-16540","Kelly Collister","Consumer","Kelly","Collister",0
+"VG-21790","Vivek Gonzalez","Consumer","Vivek","Gonzalez",0
+"PF-19165","Philip Fox","Consumer","Philip","Fox",0
+"IG-15085","Ivan Gibson","Consumer","Ivan","Gibson",0
+"DK-13375","Dennis Kane","Consumer","Dennis","Kane",0
+"MS-17530","MaryBeth Skach","Consumer","MaryBeth","Skach",0
+"TH-21100","Thea Hendricks","Consumer","Thea","Hendricks",0
+"EJ-13720","Ed Jacobs","Consumer","Ed","Jacobs",0
+"JF-15355","Jay Fein","Consumer","Jay","Fein",0
+"IM-15070","Irene Maddox","Consumer","Irene","Maddox",0
+"JE-15475","Jeremy Ellison","Consumer","Jeremy","Ellison",0
+"RF-19735","Roland Fjeld","Consumer","Roland","Fjeld",0
+"BS-11665","Brian Stugart","Consumer","Brian","Stugart",0
+"RA-19285","Ralph Arnett","Consumer","Ralph","Arnett",0
+"LT-17110","Liz Thompson","Consumer","Liz","Thompson",0
+"AS-10090","Adam Shillingsburg","Consumer","Adam","Shillingsburg",0
+"MJ-17740","Max Jones","Consumer","Max","Jones",0
+"DL-12925","Daniel Lacy","Consumer","Daniel","Lacy",0
+"RM-19375","Raymond Messe","Consumer","Raymond","Messe",0
+"ZC-21910","Zuschuss Carroll","Consumer","Zuschuss","Carroll",0
+"RE-19450","Richard Eichhorn","Consumer","Richard","Eichhorn",0
+"RF-19840","Roy FranzÃ¶sisch","Consumer","Roy","FranzÃ¶sisch",0
+"HA-14905","Helen Abelman","Consumer","Helen","Abelman",0
+"LW-17125","Liz Willingham","Consumer","Liz","Willingham",0
+"KH-16510","Keith Herrera","Consumer","Keith","Herrera",0
+"SC-20305","Sean Christensen","Consumer","Sean","Christensen",0
+"MS-17710","Maurice Satty","Consumer","Maurice","Satty",0
+"VM-21835","Vivian Mathis","Consumer","Vivian","Mathis",0
+"SF-20065","Sandra Flanagan","Consumer","Sandra","Flanagan",0
+"GM-14500","Gene McClure","Consumer","Gene","McClure",0
+"TG-21640","Trudy Glocke","Consumer","Trudy","Glocke",0
+"RA-19945","Ryan Akin","Consumer","Ryan","Akin",0
+"LT-16765","Larry Tron","Consumer","Larry","Tron",0
+"RC-19825","Roy Collins","Consumer","Roy","Collins",0
+"SG-20080","Sandra Glassco","Consumer","Sandra","Glassco",0
+"DF-13135","David Flashing","Consumer","David","Flashing",0
+"TM-21010","Tamara Manning","Consumer","Tamara","Manning",0
+"JC-15340","Jasper Cacioppo","Consumer","Jasper","Cacioppo",0
+"NR-18550","Nick Radford","Consumer","Nick","Radford",0
+"JH-15985","Joseph Holt","Consumer","Joseph","Holt",0
+"EB-14110","Eugene Barchas","Consumer","Eugene","Barchas",0
+"CK-12205","Chloris Kastensmidt","Consumer","Chloris","Kastensmidt",0
+"GA-14725","Guy Armstrong","Consumer","Guy","Armstrong",0
+"TT-21220","Thomas Thornton","Consumer","Thomas","Thornton",0
+"NC-18415","Nathan Cano","Consumer","Nathan","Cano",0
+"CS-12355","Christine Sundaresam","Consumer","Christine","Sundaresam",0
+"LP-17095","Liz Preis","Consumer","Liz","Preis",0
+"SA-20830","Sue Ann Reed","Consumer","Sue","Ann Reed",0
+"SE-20110","Sanjit Engle","Consumer","Sanjit","Engle",0
+"GM-14680","Greg Matthias","Consumer","Greg","Matthias",0
+"DL-12865","Dan Lawera","Consumer","Dan","Lawera",0
+"MD-17350","Maribeth Dona","Consumer","Maribeth","Dona",0
+"CG-12520","Claire Gute","Consumer","Claire","Gute",0
+"EB-13870","Emily Burns","Consumer","Emily","Burns",0
+"DK-13090","Dave Kipp","Consumer","Dave","Kipp",0
+"JS-15880","John Stevenson","Consumer","John","Stevenson",0
+"FO-14305","Frank Olsen","Consumer","Frank","Olsen",0
+"MC-17275","Marc Crier","Consumer","Marc","Crier",0
+"LM-17065","Liz MacKendrick","Consumer","Liz","MacKendrick",0
+"MH-18025","Michelle Huthwaite","Consumer","Michelle","Huthwaite",0
+"NW-18400","Natalie Webber","Consumer","Natalie","Webber",0
+"DK-12895","Dana Kaydos","Consumer","Dana","Kaydos",0
+"LH-16900","Lena Hernandez","Consumer","Lena","Hernandez",0
+"KW-16435","Katrina Willman","Consumer","Katrina","Willman",0
+"IL-15100","Ivan Liston","Consumer","Ivan","Liston",0
+"NF-18385","Natalie Fritzler","Consumer","Natalie","Fritzler",0
+"MM-17920","Michael Moore","Consumer","Michael","Moore",0
+"JS-16030","Joy Smith","Consumer","Joy","Smith",0
+"DB-13660","Duane Benoit","Consumer","Duane","Benoit",0
+"JE-15715","Joe Elijah","Consumer","Joe","Elijah",0
+"DL-13330","Denise Leinenbach","Consumer","Denise","Leinenbach",0
+"LL-16840","Lauren Leatherbury","Consumer","Lauren","Leatherbury",0
+"AA-10480","Andrew Allen","Consumer","Andrew","Allen",0
+"CV-12295","Christina VanderZanden","Consumer","Christina","VanderZanden",0
+"PM-18940","Paul MacIntyre","Consumer","Paul","MacIntyre",0
+"AB-10015","Aaron Bergman","Consumer","Aaron","Bergman",0
+"DK-12985","Darren Koutras","Consumer","Darren","Koutras",0
+"BD-11725","Bruce Degenhardt","Consumer","Bruce","Degenhardt",0
+"LE-16810","Laurel Elliston","Consumer","Laurel","Elliston",0
+"AF-10885","Art Foster","Consumer","Art","Foster",0
+"HL-15040","Hunter Lopez","Consumer","Hunter","Lopez",0
+"RP-19390","Resi PÃ¶lking","Consumer","Resi","PÃ¶lking",0
+"SC-20575","Sonia Cooley","Consumer","Sonia","Cooley",0
+"HG-14845","Harry Greene","Consumer","Harry","Greene",0
+"ND-18370","Natalie DeCherney","Consumer","Natalie","DeCherney",0
+"RA-19915","Russell Applegate","Consumer","Russell","Applegate",0
+"MH-17455","Mark Hamilton","Consumer","Mark","Hamilton",0
+"SC-20020","Sam Craven","Consumer","Sam","Craven",0
+"LC-17050","Liz Carlisle","Consumer","Liz","Carlisle",0
+"GB-14575","Giulietta Baptist","Consumer","Giulietta","Baptist",0
+"CT-11995","Carol Triggs","Consumer","Carol","Triggs",0
+"JK-16090","Juliana Krohn","Consumer","Juliana","Krohn",0
+"JD-15790","John Dryer","Consumer","John","Dryer",0
+"BS-11755","Bruce Stewart","Consumer","Bruce","Stewart",0
+"FM-14380","Fred McMath","Consumer","Fred","McMath",0
+"TC-21295","Toby Carlisle","Consumer","Toby","Carlisle",0
+"BG-11035","Barry Gonzalez","Consumer","Barry","Gonzalez",0
+"TB-21055","Ted Butterfield","Consumer","Ted","Butterfield",0
+"BD-11500","Bradley Drucker","Consumer","Bradley","Drucker",0
+"AA-10375","Allen Armold","Consumer","Allen","Armold",0
+"RK-19300","Ralph Kennedy","Consumer","Ralph","Kennedy",0
+"EH-13990","Erica Hackney","Consumer","Erica","Hackney",0
+"RH-19600","Rob Haberlin","Consumer","Rob","Haberlin",0
+"TB-21280","Toby Braunhardt","Consumer","Toby","Braunhardt",0
+"CM-12160","Charles McCrossin","Consumer","Charles","McCrossin",0
+"DV-13465","Dianna Vittorini","Consumer","Dianna","Vittorini",0
+"AG-10330","Alex Grayson","Consumer","Alex","Grayson",0
+"NP-18670","Nora Paige","Consumer","Nora","Paige",0
+"AB-10150","Aimee Bixby","Consumer","Aimee","Bixby",0
+"CA-12775","Cynthia Arntzen","Consumer","Cynthia","Arntzen",0
+"JF-15415","Jennifer Ferguson","Consumer","Jennifer","Ferguson",0
+"CC-12670","Craig Carreira","Consumer","Craig","Carreira",0
+"DC-13285","Debra Catini","Consumer","Debra","Catini",0
+"JK-15730","Joe Kamberova","Consumer","Joe","Kamberova",0
+"SC-20800","Stuart Calhoun","Consumer","Stuart","Calhoun",0
+"TP-21130","Theone Pippenger","Consumer","Theone","Pippenger",0
+"FH-14350","Fred Harton","Consumer","Fred","Harton",0
+"EC-14050","Erin Creighton","Consumer","Erin","Creighton",0
+"NP-18700","Nora Preis","Consumer","Nora","Preis",0
+"KA-16525","Kelly Andreada","Consumer","Kelly","Andreada",0
+"TS-21655","Trudy Schmidt","Consumer","Trudy","Schmidt",0
+"MM-18055","Michelle Moray","Consumer","Michelle","Moray",0
+"MB-18085","Mick Brown","Consumer","Mick","Brown",0
+"NC-18340","Nat Carroll","Consumer","Nat","Carroll",0
+"TB-21400","Tom Boeckenhauer","Consumer","Tom","Boeckenhauer",0
+"EP-13915","Emily Phan","Consumer","Emily","Phan",0
+"PJ-19015","Pauline Johnson","Consumer","Pauline","Johnson",0
+"LW-17215","Luke Weiss","Consumer","Luke","Weiss",0
+"EJ-14155","Eva Jacobs","Consumer","Eva","Jacobs",0
+"PW-19240","Pierre Wener","Consumer","Pierre","Wener",0
+"JK-15205","Jamie Kunitz","Consumer","Jamie","Kunitz",0
+"DB-13060","Dave Brooks","Consumer","Dave","Brooks",0
+"SF-20200","Sarah Foster","Consumer","Sarah","Foster",0
+"JM-15865","John Murray","Consumer","John","Murray",0
+"EH-14185","Evan Henry","Consumer","Evan","Henry",0
+"SO-20335","Sean O'Donnell","Consumer","Sean","O'Donnell",0
+"MS-17770","Maxwell Schwartz","Consumer","Maxwell","Schwartz",0
+"RC-19960","Ryan Crowe","Consumer","Ryan","Crowe",0
+"AG-10270","Alejandro Grove","Consumer","Alejandro","Grove",0
+"JK-15625","Jim Karlsson","Consumer","Jim","Karlsson",0
+"KH-16360","Katherine Hughes","Consumer","Katherine","Hughes",0
+"MW-18220","Mitch Webber","Consumer","Mitch","Webber",0
+"KB-16315","Karl Braun","Consumer","Karl","Braun",0
+"SV-20365","Seth Vernon","Consumer","Seth","Vernon",0
+"SV-20935","Susan Vittorini","Consumer","Susan","Vittorini",0
+"AH-10585","Angele Hood","Consumer","Angele","Hood",0
+"RD-19480","Rick Duston","Consumer","Rick","Duston",0
+"JC-15775","John Castell","Consumer","John","Castell",0
+"BN-11515","Bradley Nguyen","Consumer","Bradley","Nguyen",0
+"TP-21415","Tom Prescott","Consumer","Tom","Prescott",0
+"MM-17260","Magdelene Morse","Consumer","Magdelene","Morse",0
+"GH-14425","Gary Hwang","Consumer","Gary","Hwang",0
+"AR-10570","Anemone Ratner","Consumer","Anemone","Ratner",0
+"CM-12235","Chris McAfee","Consumer","Chris","McAfee",0
+"AJ-10960","Astrea Jones","Consumer","Astrea","Jones",0
+"CM-12385","Christopher Martinez","Consumer","Christopher","Martinez",0
+"JR-15670","Jim Radford","Consumer","Jim","Radford",0
+"JJ-15445","Jennifer Jackson","Consumer","Jennifer","Jackson",0
+"JL-15235","Janet Lee","Consumer","Janet","Lee",0
+"JK-15370","Jay Kimmel","Consumer","Jay","Kimmel",0
+"AT-10735","Annie Thurman","Consumer","Annie","Thurman",0
+"EB-14170","Evan Bailliet","Consumer","Evan","Bailliet",0
+"EG-13900","Emily Grady","Consumer","Emily","Grady",0
+"VD-21670","Valerie Dominguez","Consumer","Valerie","Dominguez",0
+"Co-12640","Corey Lock","Consumer","Corey","Lock",0
+"ST-20530","Shui Tom","Consumer","Shui","Tom",0
+"KT-16480","Kean Thornton","Consumer","Kean","Thornton",0
+"BM-11785","Bryan Mills","Consumer","Bryan","Mills",0
+"PF-19120","Peter Fuller","Consumer","Peter","Fuller",0
+"ME-17725","Max Engle","Consumer","Max","Engle",0
+"DB-13405","Denny Blanton","Consumer","Denny","Blanton",0
+"BF-11080","Bart Folk","Consumer","Bart","Folk",0
+"EM-13960","Eric Murdock","Consumer","Eric","Murdock",0
+"CC-12685","Craig Carroll","Consumer","Craig","Carroll",0
+"AB-10105","Adrian Barton","Consumer","Adrian","Barton",0
+"JD-16015","Joy Daniels","Consumer","Joy","Daniels",0
+"SS-20875","Sung Shariari","Consumer","Sung","Shariari",0
+"JH-15820","John Huston","Consumer","John","Huston",0
+"BD-11770","Bryan Davis","Consumer","Bryan","Davis",0
+"JL-15505","Jeremy Lonsdale","Consumer","Jeremy","Lonsdale",0
+"BM-11140","Becky Martin","Consumer","Becky","Martin",0
+"AW-10840","Anthony Witt","Consumer","Anthony","Witt",0
+"MG-17695","Maureen Gnade","Consumer","Maureen","Gnade",0
+"MC-18100","Mick Crebagga","Consumer","Mick","Crebagga",0
+"TD-20995","Tamara Dahlen","Consumer","Tamara","Dahlen",0
+"SG-20605","Speros Goranitis","Consumer","Speros","Goranitis",0
+"AG-10390","Allen Goldenen","Consumer","Allen","Goldenen",0
+"SK-19990","Sally Knutson","Consumer","Sally","Knutson",0
+"EN-13780","Edward Nazzal","Consumer","Edward","Nazzal",0
+"SC-20380","Shahid Collister","Consumer","Shahid","Collister",0
+"TB-21520","Tracy Blumstein","Consumer","Tracy","Blumstein",0
+"SW-20275","Scott Williamson","Consumer","Scott","Williamson",0
+"RB-19570","Rob Beeghly","Consumer","Rob","Beeghly",0
+"DC-12850","Dan Campbell","Consumer","Dan","Campbell",0
+"AC-10450","Amy Cox","Consumer","Amy","Cox",0
+"CS-11860","Cari Schnelling","Consumer","Cari","Schnelling",0
+"LF-17185","Luke Foster","Consumer","Luke","Foster",0
+"CJ-12010","Caroline Jumper","Consumer","Caroline","Jumper",0
+"JM-15250","Janet Martin","Consumer","Janet","Martin",0
+"DM-13015","Darrin Martin","Consumer","Darrin","Martin",0
+"SM-20005","Sally Matthias","Consumer","Sally","Matthias",0
+"RH-19495","Rick Hansen","Consumer","Rick","Hansen",0
+"BD-11635","Brian Derr","Consumer","Brian","Derr",0
+"EM-14065","Erin Mull","Consumer","Erin","Mull",0
+"DL-13315","Delfina Latchford","Consumer","Delfina","Latchford",0
+"DJ-13630","Doug Jacobs","Consumer","Doug","Jacobs",0
+"DW-13540","Don Weiss","Consumer","Don","Weiss",0
+"CD-11920","Carlos Daly","Consumer","Carlos","Daly",0
+"JF-15190","Jamie Frazer","Consumer","Jamie","Frazer",0
+"CM-12115","Chad McGuire","Consumer","Chad","McGuire",0
+"DP-13165","David Philippe","Consumer","David","Philippe",0
+"MO-17500","Mary O'Rourke","Consumer","Mary","O'Rourke",0
+"JM-15535","Jessica Myrick","Consumer","Jessica","Myrick",0
+"BW-11065","Barry Weirich","Consumer","Barry","Weirich",0
+"PR-18880","Patrick Ryan","Consumer","Patrick","Ryan",0
+"TG-21310","Toby Gnade","Consumer","Toby","Gnade",0
+"SM-20905","Susan MacKendrick","Consumer","Susan","MacKendrick",0
+"JG-15115","Jack Garza","Consumer","Jack","Garza",0
+"PB-19105","Peter BÃ¼hler","Consumer","Peter","BÃ¼hler",0
+"DB-13210","Dean Braden","Consumer","Dean","Braden",0
+"MN-17935","Michael Nguyen","Consumer","Michael","Nguyen",0
+"CM-11935","Carlos Meador","Consumer","Carlos","Meador",0
+"NS-18505","Neola Schneider","Consumer","Neola","Schneider",0
+"AH-10465","Amy Hunt","Consumer","Amy","Hunt",0
+"TS-21610","Troy Staebel","Consumer","Troy","Staebel",0
+"GH-14665","Greg Hansen","Consumer","Greg","Hansen",0
+"BD-11620","Brian DeCherney","Consumer","Brian","DeCherney",0
+"ML-18265","Muhammed Lee","Consumer","Muhammed","Lee",0
+"DD-13570","Dorothy Dickinson","Consumer","Dorothy","Dickinson",0
+"RE-19405","Ricardo Emerson","Consumer","Ricardo","Emerson",0
+"TB-21595","Troy Blackwell","Consumer","Troy","Blackwell",0
+"JL-15130","Jack Lebron","Consumer","Jack","Lebron",0
+"HM-14980","Henry MacAllister","Consumer","Henry","MacAllister",0
+"SJ-20215","Sarah Jordon","Consumer","Sarah","Jordon",0
+"BP-11290","Beth Paige","Consumer","Beth","Paige",0
+"RD-19930","Russell D'Ascenzo","Consumer","Russell","D'Ascenzo",0
+"JH-16180","Justin Hirsh","Consumer","Justin","Hirsh",0
+"TS-21505","Tony Sayre","Consumer","Tony","Sayre",0
+"HZ-14950","Henia Zydlo","Consumer","Henia","Zydlo",0
+"VS-21820","Vivek Sundaresam","Consumer","Vivek","Sundaresam",0
+"MO-17950","Michael Oakman","Consumer","Michael","Oakman",0
+"CD-11980","Carol Darley","Consumer","Carol","Darley",0
+"CR-12730","Craig Reiter","Consumer","Craig","Reiter",0
+"JH-15430","Jennifer Halladay","Consumer","Jennifer","Halladay",0
+"RH-19555","Ritsa Hightower","Consumer","Ritsa","Hightower",0
+"SC-20845","Sung Chung","Consumer","Sung","Chung",0
+"SB-20170","Sarah Bern","Consumer","Sarah","Bern",0
+"MG-18145","Mike Gockenbach","Consumer","Mike","Gockenbach",0
+"RB-19330","Randy Bradley","Consumer","Randy","Bradley",0
+"JW-15955","Joni Wasserman","Consumer","Joni","Wasserman",0
+"DO-13645","Doug O'Connell","Consumer","Doug","O'Connell",0
+"PT-19090","Pete Takahito","Consumer","Pete","Takahito",0
+"RW-19690","Robert Waldorf","Consumer","Robert","Waldorf",0
+"TS-21085","Thais Sissman","Consumer","Thais","Sissman",0
+"LH-16750","Larry Hughes","Consumer","Larry","Hughes",0
+"AA-10645","Anna Andreadi","Consumer","Anna","Andreadi",1
+"BE-11410","Bob Elias","Consumer","Bob","Elias",1
+"JB-16000","Hannah Bell","Consumer","Hannah","Bell",1
+"BT-11440","Bob Trafton","Consumer","Bob","Trafton",1
+"AC-10660","Anna Chung","Consumer","Anna","Chung",1
+"BO-11425","Bob Odegard","Consumer","Bob","Odegard",1
+"AG-10675","Anna Gayman","Consumer","Anna","Gayman",1
+"AH-10690","Anna HÃ¤berlin","Corporate","Anna","HÃ¤berlin",1
+"RA-19885","Ruben Ausman","Corporate","Ruben","Ausman",0
+"GK-14620","Grace Kelly","Corporate","Grace","Kelly",0
+"GG-14650","Greg Guthrie","Corporate","Greg","Guthrie",0
+"GB-14530","George Bell","Corporate","George","Bell",0
+"TS-21370","Todd Sumrall","Corporate","Todd","Sumrall",0
+"HM-14860","Harry Marie","Corporate","Harry","Marie",0
+"AY-10555","Andy Yotov","Corporate","Andy","Yotov",0
+"EH-13765","Edward Hooks","Corporate","Edward","Hooks",0
+"BP-11095","Bart Pistole","Corporate","Bart","Pistole",0
+"MM-18280","Muhammed MacIntyre","Corporate","Muhammed","MacIntyre",0
+"TH-21235","Tiffany House","Corporate","Tiffany","House",0
+"JB-15400","Jennifer Braxton","Corporate","Jennifer","Braxton",0
+"PW-19030","Pauline Webber","Corporate","Pauline","Webber",0
+"DV-13045","Darrin Van Huff","Corporate","Darrin","Van Huff",0
+"JS-15685","Jim Sink","Corporate","Jim","Sink",0
+"EM-14095","Eudokia Martin","Corporate","Eudokia","Martin",0
+"JC-16105","Julie Creighton","Corporate","Julie","Creighton",0
+"HG-14965","Henry Goldwyn","Corporate","Henry","Goldwyn",0
+"FM-14215","Filia McAdams","Corporate","Filia","McAdams",0
+"RW-19540","Rick Wilson","Corporate","Rick","Wilson",0
+"SC-20770","Stewart Carmichael","Corporate","Stewart","Carmichael",0
+"LA-16780","Laura Armstrong","Corporate","Laura","Armstrong",0
+"TT-21265","Tim Taslimi","Corporate","Tim","Taslimi",0
+"YC-21895","Yoseph Carroll","Corporate","Yoseph","Carroll",0
+"MC-17635","Matthew Clasen","Corporate","Matthew","Clasen",0
+"AR-10825","Anthony Rawles","Corporate","Anthony","Rawles",0
+"JD-15895","Jonathan Doherty","Corporate","Jonathan","Doherty",0
+"SP-20860","Sung Pak","Corporate","Sung","Pak",0
+"AB-10600","Ann Blume","Corporate","Ann","Blume",0
+"MC-18130","Mike Caudle","Corporate","Mike","Caudle",0
+"TS-21430","Tom Stivers","Corporate","Tom","Stivers",0
+"MF-18250","Monica Federle","Corporate","Monica","Federle",0
+"BT-11395","Bill Tyler","Corporate","Bill","Tyler",0
+"AH-10030","Aaron Hawkins","Corporate","Aaron","Hawkins",0
+"MC-17605","Matt Connell","Corporate","Matt","Connell",0
+"VW-21775","Victoria Wilson","Corporate","Victoria","Wilson",0
+"SC-20440","Shaun Chance","Corporate","Shaun","Chance",0
+"JM-15265","Janet Molinari","Corporate","Janet","Molinari",0
+"RS-19420","Ricardo Sperren","Corporate","Ricardo","Sperren",0
+"SC-20230","Scot Coram","Corporate","Scot","Coram",0
+"LS-16945","Linda Southworth","Corporate","Linda","Southworth",0
+"DW-13195","David Wiener","Corporate","David","Wiener",0
+"RS-19765","Roland Schwarz","Corporate","Roland","Schwarz",0
+"JG-15310","Jason Gross","Corporate","Jason","Gross",0
+"FA-14230","Frank Atkinson","Corporate","Frank","Atkinson",0
+"YS-21880","Yana Sorensen","Corporate","Yana","Sorensen",0
+"SM-20950","Suzanne McNair","Corporate","Suzanne","McNair",0
+"AH-10075","Adam Hart","Corporate","Adam","Hart",0
+"JD-16150","Justin Deggeller","Corporate","Justin","Deggeller",0
+"FH-14275","Frank Hawley","Corporate","Frank","Hawley",0
+"AM-10360","Alice McCarthy","Corporate","Alice","McCarthy",0
+"BB-10990","Barry Blumstein","Corporate","Barry","Blumstein",0
+"AJ-10780","Anthony Jacobs","Corporate","Anthony","Jacobs",0
+"FH-14365","Fred Hopkins","Corporate","Fred","Hopkins",0
+"RP-19855","Roy Phan","Corporate","Roy","Phan",0
+"KE-16420","Katrina Edelman","Corporate","Katrina","Edelman",0
+"DB-12970","Darren Budd","Corporate","Darren","Budd",0
+"AS-10285","Alejandro Savely","Corporate","Alejandro","Savely",0
+"TS-21205","Thomas Seio","Corporate","Thomas","Seio",0
+"DJ-13420","Denny Joy","Corporate","Denny","Joy",0
+"DW-13585","Dorothy Wardle","Corporate","Dorothy","Wardle",0
+"DK-13225","Dean Katz","Corporate","Dean","Katz",0
+"NB-18655","Nona Balk","Corporate","Nona","Balk",0
+"VP-21760","Victoria Pisteka","Corporate","Victoria","Pisteka",0
+"NS-18640","Noel Staavos","Corporate","Noel","Staavos",0
+"KC-16255","Karen Carlisle","Corporate","Karen","Carlisle",0
+"CV-12805","Cynthia Voltz","Corporate","Cynthia","Voltz",0
+"DL-13495","Dionis Lloyd","Corporate","Dionis","Lloyd",0
+"HH-15010","Hilary Holden","Corporate","Hilary","Holden",0
+"CB-12535","Claudia Bergmann","Corporate","Claudia","Bergmann",0
+"SP-20620","Stefania Perrino","Corporate","Stefania","Perrino",0
+"AJ-10795","Anthony Johnson","Corporate","Anthony","Johnson",0
+"GR-14560","Georgia Rosenberg","Corporate","Georgia","Rosenberg",0
+"TS-21160","Theresa Swint","Corporate","Theresa","Swint",0
+"EB-13750","Edward Becker","Corporate","Edward","Becker",0
+"KB-16585","Ken Black","Corporate","Ken","Black",0
+"JR-16210","Justin Ritter","Corporate","Justin","Ritter",0
+"SC-20260","Scott Cohen","Corporate","Scott","Cohen",0
+"RP-19270","Rachel Payne","Corporate","Rachel","Payne",0
+"CK-12760","Cyma Kinney","Corporate","Cyma","Kinney",0
+"PC-18745","Pamela Coakley","Corporate","Pamela","Coakley",0
+"DB-13120","David Bremer","Corporate","David","Bremer",0
+"ME-18010","Michelle Ellison","Corporate","Michelle","Ellison",0
+"GM-14695","Greg Maxwell","Corporate","Greg","Maxwell",0
+"DS-13180","David Smith","Corporate","David","Smith",0
+"RW-19630","Rob Williams","Corporate","Rob","Williams",0
+"ML-17395","Marina Lichtenstein","Corporate","Marina","Lichtenstein",0
+"DK-12835","Damala Kotsonis","Corporate","Damala","Kotsonis",0
+"NC-18535","Nick Crebassa","Corporate","Nick","Crebassa",0
+"MH-17785","Maya Herman","Corporate","Maya","Herman",0
+"MH-17620","Matt Hagelstein","Corporate","Matt","Hagelstein",0
+"JW-15220","Jane Waco","Corporate","Jane","Waco",0
+"SB-20290","Sean Braxton","Corporate","Sean","Braxton",0
+"JG-15805","John Grady","Corporate","John","Grady",0
+"BW-11110","Bart Watters","Corporate","Bart","Watters",0
+"CS-12250","Chris Selesnick","Corporate","Chris","Selesnick",0
+"LW-16825","Laurel Workman","Corporate","Laurel","Workman",0
+"LO-17170","Lori Olson","Corporate","Lori","Olson",0
+"KN-16450","Kean Nguyen","Corporate","Kean","Nguyen",0
+"KD-16495","Keith Dawkins","Corporate","Keith","Dawkins",0
+"BM-11575","Brendan Murry","Corporate","Brendan","Murry",0
+"KD-16615","Ken Dana","Corporate","Ken","Dana",0
+"SP-20650","Stephanie Phelps","Corporate","Stephanie","Phelps",0
+"MZ-17515","Mary Zewe","Corporate","Mary","Zewe",0
+"DP-13105","Dave Poirier","Corporate","Dave","Poirier",0
+"CY-12745","Craig Yedwab","Corporate","Craig","Yedwab",0
+"MY-17380","Maribeth Yedwab","Corporate","Maribeth","Yedwab",0
+"ON-18715","Odella Nelson","Corporate","Odella","Nelson",0
+"EA-14035","Erin Ashbrook","Corporate","Erin","Ashbrook",0
+"LR-17035","Lisa Ryan","Corporate","Lisa","Ryan",0
+"LS-17200","Luke Schmidt","Corporate","Luke","Schmidt",0
+"EM-13825","Elizabeth Moffitt","Corporate","Elizabeth","Moffitt",0
+"KH-16690","Kristen Hastings","Corporate","Kristen","Hastings",0
+"KN-16390","Katherine Nockton","Corporate","Katherine","Nockton",0
+"MK-17905","Michael Kennedy","Corporate","Michael","Kennedy",0
+"MP-17965","Michael Paige","Corporate","Michael","Paige",0
+"MC-17425","Mark Cousins","Corporate","Mark","Cousins",0
+"DM-12955","Dario Medina","Corporate","Dario","Medina",0
+"CC-12610","Corey Catlett","Corporate","Corey","Catlett",0
+"AG-10300","Aleksandra Gannaway","Corporate","Aleksandra","Gannaway",0
+"HK-14890","Heather Kirkland","Corporate","Heather","Kirkland",0
+"BS-11365","Bill Shonely","Corporate","Bill","Shonely",0
+"BP-11050","Barry Pond","Corporate","Barry","Pond",0
+"JO-15145","Jack O'Briant","Corporate","Jack","O'Briant",0
+"LW-16990","Lindsay Williams","Corporate","Lindsay","Williams",0
+"BB-11545","Brenda Bowman","Corporate","Brenda","Bowman",0
+"CA-11965","Carol Adams","Corporate","Carol","Adams",0
+"BO-11350","Bill Overfelt","Corporate","Bill","Overfelt",0
+"QJ-19255","Quincy Jones","Corporate","Quincy","Jones",0
+"EB-13840","Ellis Ballard","Corporate","Ellis","Ballard",0
+"JE-16165","Justin Ellison","Corporate","Justin","Ellison",0
+"SF-20965","Sylvia Foulston","Corporate","Sylvia","Foulston",0
+"KH-16330","Katharine Harms","Corporate","Katharine","Harms",0
+"AS-10225","Alan Schoenberger","Corporate","Alan","Schoenberger",0
+"RR-19525","Rick Reed","Corporate","Rick","Reed",0
+"RF-19345","Randy Ferguson","Corporate","Randy","Ferguson",0
+"SC-20695","Steve Chapman","Corporate","Steve","Chapman",0
+"KM-16225","Kalyca Meade","Corporate","Kalyca","Meade",0
+"HW-14935","Helen Wasserman","Corporate","Helen","Wasserman",0
+"SH-19975","Sally Hughsby","Corporate","Sally","Hughsby",0
+"RB-19645","Robert Barroso","Corporate","Robert","Barroso",0
+"BM-11650","Brian Moss","Corporate","Brian","Moss",0
+"SW-20755","Steven Ward","Corporate","Steven","Ward",0
+"KH-16630","Ken Heidel","Corporate","Ken","Heidel",0
+"CP-12340","Christine Phan","Corporate","Christine","Phan",0
+"DJ-13510","Don Jones","Corporate","Don","Jones",0
+"JP-15460","Jennifer Patt","Corporate","Jennifer","Patt",0
+"LC-16930","Linda Cazamias","Corporate","Linda","Cazamias",0
+"AR-10405","Allen Rosenblatt","Corporate","Allen","Rosenblatt",0
+"NH-18610","Nicole Hansen","Corporate","Nicole","Hansen",0
+"PJ-18835","Patrick Jones","Corporate","Patrick","Jones",0
+"TC-20980","Tamara Chand","Corporate","Tamara","Chand",0
+"NC-18625","Noah Childs","Corporate","Noah","Childs",0
+"EM-13810","Eleni McCrary","Corporate","Eleni","McCrary",0
+"PB-19210","Phillip Breyer","Corporate","Phillip","Breyer",0
+"ND-18460","Neil Ducich","Corporate","Neil","Ducich",0
+"DM-13345","Denise Monton","Corporate","Denise","Monton",0
+"MW-18235","Mitch Willingham","Corporate","Mitch","Willingham",0
+"MC-17590","Matt Collister","Corporate","Matt","Collister",0
+"CA-12310","Christine Abelman","Corporate","Christine","Abelman",0
+"DH-13075","Dave Hallsten","Corporate","Dave","Hallsten",0
+"ES-14080","Erin Smith","Corporate","Erin","Smith",0
+"BV-11245","Benjamin Venier","Corporate","Benjamin","Venier",0
+"MY-18295","Muhammed Yedwab","Corporate","Muhammed","Yedwab",0
+"VB-21745","Victoria Brennan","Corporate","Victoria","Brennan",0
+"CP-12085","Cathy Prescott","Corporate","Cathy","Prescott",0
+"HE-14800","Harold Engle","Corporate","Harold","Engle",0
+"AG-10495","Andrew Gjertsen","Corporate","Andrew","Gjertsen",0
+"DB-13555","Dorothy Badders","Corporate","Dorothy","Badders",0
+"NB-18580","Nicole Brennan","Corporate","Nicole","Brennan",0
+"MF-17665","Maureen Fritzler","Corporate","Maureen","Fritzler",0
+"SP-20545","Sibella Parks","Corporate","Sibella","Parks",0
+"HR-14830","Harold Ryan","Corporate","Harold","Ryan",0
+"GZ-14545","George Zrebassa","Corporate","George","Zrebassa",0
+"JM-15655","Jim Mitchum","Corporate","Jim","Mitchum",0
+"GP-14740","Guy Phonely","Corporate","Guy","Phonely",0
+"Dl-13600","Dorris liebe","Corporate","Dorris","liebe",0
+"CM-12715","Craig Molinari","Corporate","Craig","Molinari",0
+"AS-10045","Aaron Smayling","Corporate","Aaron","Smayling",0
+"JE-15610","Jim Epp","Corporate","Jim","Epp",0
+"TB-21355","Todd Boyes","Corporate","Todd","Boyes",0
+"SS-20140","Saphhira Shifley","Corporate","Saphhira","Shifley",0
+"FC-14335","Fred Chung","Corporate","Fred","Chung",0
+"KB-16600","Ken Brennan","Corporate","Ken","Brennan",0
+"VG-21805","Vivek Grady","Corporate","Vivek","Grady",0
+"BS-11590","Brendan Sweed","Corporate","Brendan","Sweed",0
+"NG-18355","Nat Gilpin","Corporate","Nat","Gilpin",0
+"SV-20815","Stuart Van","Corporate","Stuart","Van",0
+"BF-10975","Barbara Fisher","Corporate","Barbara","Fisher",0
+"FW-14395","Fred Wasserman","Corporate","Fred","Wasserman",0
+"ER-13855","Elpida Rittenbach","Corporate","Elpida","Rittenbach",0
+"BG-11695","Brooke Gillingham","Corporate","Brooke","Gillingham",0
+"MH-17440","Mark Haberlin","Corporate","Mark","Haberlin",0
+"DG-13300","Deirdre Greer","Corporate","Deirdre","Greer",0
+"KS-16300","Karen Seio","Corporate","Karen","Seio",0
+"JK-15325","Jason Klamczynski","Corporate","Jason","Klamczynski",0
+"GT-14635","Grant Thornton","Corporate","Grant","Thornton",0
+"CM-11815","Candace McMahon","Corporate","Candace","McMahon",0
+"GD-14590","Giulietta Dortch","Corporate","Giulietta","Dortch",0
+"KC-16675","Kimberly Carter","Corporate","Kimberly","Carter",0
+"CS-12175","Charles Sheldon","Corporate","Charles","Sheldon",0
+"TH-21115","Thea Hudgings","Corporate","Thea","Hudgings",0
+"AG-10525","Andy Gerbode","Corporate","Andy","Gerbode",0
+"MS-17980","Michael Stewart","Corporate","Michael","Stewart",0
+"DR-12880","Dan Reichenbach","Corporate","Dan","Reichenbach",0
+"SG-20890","Susan Gilcrest","Corporate","Susan","Gilcrest",0
+"CS-12490","Cindy Schnelling","Corporate","Cindy","Schnelling",0
+"BF-11020","Barry FranzÃ¶sisch","Corporate","Barry","FranzÃ¶sisch",0
+"DM-13525","Don Miller","Corporate","Don","Miller",0
+"TB-21175","Thomas Boland","Corporate","Thomas","Boland",0
+"KL-16555","Kelly Lampkin","Corporate","Kelly","Lampkin",0
+"BP-11185","Ben Peterman","Corporate","Ben","Peterman",0
+"AH-10195","Alan Haines","Corporate","Alan","Haines",0
+"TP-21565","Tracy Poddar","Corporate","Tracy","Poddar",0
+"GH-14485","Gene Hale","Corporate","Gene","Hale",0
+"JS-15595","Jill Stevenson","Corporate","Jill","Stevenson",0
+"DK-13150","David Kendrick","Corporate","David","Kendrick",0
+"CS-11845","Cari Sayre","Corporate","Cari","Sayre",0
+"EB-13705","Ed Braxton","Corporate","Ed","Braxton",0
+"KB-16240","Karen Bern","Corporate","Karen","Bern",0
+"AO-10810","Anthony O'Donnell","Corporate","Anthony","O'Donnell",0
+"EB-13975","Erica Bern","Corporate","Erica","Bern",0
+"AC-10420","Alyssa Crouse","Corporate","Alyssa","Crouse",0
+"SH-20635","Stefanie Holloman","Corporate","Stefanie","Holloman",0
+"BF-11275","Beth Fritzler","Corporate","Beth","Fritzler",0
+"BN-11470","Brad Norvell","Corporate","Brad","Norvell",0
+"LD-16855","Lela Donovan","Corporate","Lela","Donovan",0
+"BS-11380","Bill Stewart","Corporate","Bill","Stewart",0
+"AC-10615","Ann Chong","Corporate","Ann","Chong",0
+"MD-17860","Michael Dominguez","Corporate","Michael","Dominguez",0
+"AR-10345","Alex Russell","Corporate","Alex","Russell",0
+"CC-12100","Chad Cunningham","Home Office","Chad","Cunningham",0
+"SN-20710","Steve Nguyen","Home Office","Steve","Nguyen",0
+"PL-18925","Paul Lucas","Home Office","Paul","Lucas",0
+"NL-18310","Nancy Lomonaco","Home Office","Nancy","Lomonaco",0
+"PS-18970","Paul Stevenson","Home Office","Paul","Stevenson",0
+"SM-20320","Sean Miller","Home Office","Sean","Miller",0
+"GH-14410","Gary Hansen","Home Office","Gary","Hansen",0
+"SR-20740","Steven Roelle","Home Office","Steven","Roelle",0
+"TC-21535","Tracy Collins","Home Office","Tracy","Collins",0
+"LS-16975","Lindsay Shagiari","Home Office","Lindsay","Shagiari",0
+"FM-14290","Frank Merwin","Home Office","Frank","Merwin",0
+"RD-19810","Ross DeVincentis","Home Office","Ross","DeVincentis",0
+"MO-17800","Meg O'Connel","Home Office","Meg","O'Connel",0
+"SN-20560","Skye Norling","Home Office","Skye","Norling",0
+"AT-10435","Alyssa Tate","Home Office","Alyssa","Tate",0
+"BF-11170","Ben Ferrer","Home Office","Ben","Ferrer",0
+"CM-12655","Corinna Mitchell","Home Office","Corinna","Mitchell",0
+"PC-19000","Pauline Chand","Home Office","Pauline","Chand",0
+"BF-11005","Barry Franz","Home Office","Barry","Franz",0
+"CD-12790","Cynthia Delaney","Home Office","Cynthia","Delaney",0
+"CA-12055","Cathy Armstrong","Home Office","Cathy","Armstrong",0
+"VF-21715","Vicky Freymann","Home Office","Vicky","Freymann",0
+"CS-12400","Christopher Schild","Home Office","Christopher","Schild",0
+"MA-17995","Michelle Arnett","Home Office","Michelle","Arnett",0
+"DE-13255","Deanra Eno","Home Office","Deanra","Eno",0
+"RM-19675","Robert Marley","Home Office","Robert","Marley",0
+"JP-16135","Julie Prescott","Home Office","Julie","Prescott",0
+"MA-17560","Matt Abelman","Home Office","Matt","Abelman",0
+"KF-16285","Karen Ferguson","Home Office","Karen","Ferguson",0
+"PP-18955","Paul Prost","Home Office","Paul","Prost",0
+"FC-14245","Frank Carlisle","Home Office","Frank","Carlisle",0
+"CW-11905","Carl Weiss","Home Office","Carl","Weiss",0
+"MH-17290","Marc Harrigan","Home Office","Marc","Harrigan",0
+"RH-19510","Rick Huthwaite","Home Office","Rick","Huthwaite",0
+"RB-19795","Ross Baird","Home Office","Ross","Baird",0
+"AB-10255","Alejandro Ballentine","Home Office","Alejandro","Ballentine",0
+"CG-12040","Catherine Glotzbach","Home Office","Catherine","Glotzbach",0
+"AP-10720","Anne Pryor","Home Office","Anne","Pryor",0
+"PK-18910","Paul Knutson","Home Office","Paul","Knutson",0
+"NP-18685","Nora Pelletier","Home Office","Nora","Pelletier",0
+"CC-12430","Chuck Clark","Home Office","Chuck","Clark",0
+"EH-14005","Erica Hernandez","Home Office","Erica","Hernandez",0
+"NM-18445","Nathan Mautz","Home Office","Nathan","Mautz",0
+"NZ-18565","Nick Zandusky","Home Office","Nick","Zandusky",0
+"DP-13390","Dennis Pardue","Home Office","Dennis","Pardue",0
+"SC-20680","Steve Carroll","Home Office","Steve","Carroll",0
+"JL-15175","James Lanier","Home Office","James","Lanier",0
+"JK-15640","Jim Kriz","Home Office","Jim","Kriz",0
+"ED-13885","Emily Ducich","Home Office","Emily","Ducich",0
+"PV-18985","Paul Van Hugh","Home Office","Paul","Van Hugh",0
+"SZ-20035","Sam Zeldin","Home Office","Sam","Zeldin",0
+"DH-13675","Duane Huffman","Home Office","Duane","Huffman",0
+"BC-11125","Becky Castell","Home Office","Becky","Castell",0
+"HJ-14875","Heather Jas","Home Office","Heather","Jas",0
+"DS-13030","Darrin Sayre","Home Office","Darrin","Sayre",0
+"DB-13270","Deborah Brumfield","Home Office","Deborah","Brumfield",0
+"JK-16120","Julie Kriz","Home Office","Julie","Kriz",0
+"MZ-17335","Maria Zettner","Home Office","Maria","Zettner",0
+"BS-11800","Bryan Spruell","Home Office","Bryan","Spruell",0
+"MG-17890","Michael Granlund","Home Office","Michael","Granlund",0
+"BT-11530","Bradley Talbott","Home Office","Bradley","Talbott",0
+"TN-21040","Tanja Norvell","Home Office","Tanja","Norvell",0
+"RB-19465","Rick Bensley","Home Office","Rick","Bensley",0
+"JB-16045","Julia Barnett","Home Office","Julia","Barnett",0
+"BT-11305","Beth Thompson","Home Office","Beth","Thompson",0
+"NF-18595","Nicole Fjeld","Home Office","Nicole","Fjeld",0
+"LB-16795","Laurel Beltran","Home Office","Laurel","Beltran",0
+"ME-17320","Maria Etezadi","Home Office","Maria","Etezadi",0
+"DW-13480","Dianna Wilson","Home Office","Dianna","Wilson",0
+"KM-16375","Katherine Murray","Home Office","Katherine","Murray",0
+"EK-13795","Eileen Kiefer","Home Office","Eileen","Kiefer",0
+"PS-19045","Penelope Sewall","Home Office","Penelope","Sewall",0
+"SJ-20125","Sanjit Jacobs","Home Office","Sanjit","Jacobs",0
+"JO-15550","Jesus Ocampo","Home Office","Jesus","Ocampo",0
+"DB-12910","Daniel Byrd","Home Office","Daniel","Byrd",0
+"EM-14140","Eugene Moren","Home Office","Eugene","Moren",0
+"SD-20485","Shirley Daniels","Home Office","Shirley","Daniels",0
+"RD-19660","Robert Dilbeck","Home Office","Robert","Dilbeck",0
+"MP-18175","Mike Pelletier","Home Office","Mike","Pelletier",0
+"HR-14770","Hallie Redmond","Home Office","Hallie","Redmond",0
+"SR-20425","Sharelle Roach","Home Office","Sharelle","Roach",0
+"BF-11215","Benjamin Farhat","Home Office","Benjamin","Farhat",0
+"TW-21025","Tamara Willingham","Home Office","Tamara","Willingham",0
+"MP-17470","Mark Packer","Home Office","Mark","Packer",0
+"DR-12940","Daniel Raglin","Home Office","Daniel","Raglin",0
+"CK-12325","Christine Kargatis","Home Office","Christine","Kargatis",0
+"TH-21550","Tracy Hopkins","Home Office","Tracy","Hopkins",0
+"BE-11455","Brad Eason","Home Office","Brad","Eason",0
+"PN-18775","Parhena Norris","Home Office","Parhena","Norris",0
+"CR-12625","Corey Roper","Home Office","Corey","Roper",0
+"PO-19195","Phillina Ober","Home Office","Phillina","Ober",0
+"GM-14455","Gary Mitchum","Home Office","Gary","Mitchum",0
+"PM-19135","Peter McVee","Home Office","Peter","McVee",0
+"Dp-13240","Dean percer","Home Office","Dean","percer",0
+"TA-21385","Tom Ashbrook","Home Office","Tom","Ashbrook",0
+"KB-16405","Katrina Bavinger","Home Office","Katrina","Bavinger",0
+"SS-20515","Shirley Schmidt","Home Office","Shirley","Schmidt",0
+"BD-11560","Brendan Dodson","Home Office","Brendan","Dodson",0
+"CH-12070","Cathy Hwang","Home Office","Cathy","Hwang",0
+"SW-20350","Sean Wendt","Home Office","Sean","Wendt",0
+"VM-21685","Valerie Mitchum","Home Office","Valerie","Mitchum",0
+"MG-17650","Matthew Grinstein","Home Office","Matthew","Grinstein",0
+"NF-18475","Neil FranzÃ¶sisch","Home Office","Neil","FranzÃ¶sisch",0
+"TC-21475","Tony Chapman","Home Office","Tony","Chapman",0
+"MG-17875","Michael Grace","Home Office","Michael","Grace",0
+"EL-13735","Ed Ludwig","Home Office","Ed","Ludwig",0
+"ML-17755","Max Ludwig","Home Office","Max","Ludwig",0
+"AS-10135","Adrian Shami","Home Office","Adrian","Shami",0
+"AB-10060","Adam Bellavance","Home Office","Adam","Bellavance",0
+"PO-19180","Philisse Overcash","Home Office","Philisse","Overcash",0
+"AS-10630","Ann Steele","Home Office","Ann","Steele",0
+"HP-14815","Harold Pawlan","Home Office","Harold","Pawlan",0
+"AW-10930","Arthur Wiediger","Home Office","Arthur","Wiediger",0
+"LC-16960","Lindsay Castell","Home Office","Lindsay","Castell",0
+"EH-14125","Eugene Hildebrand","Home Office","Eugene","Hildebrand",0
+"HD-14785","Harold Dahlen","Home Office","Harold","Dahlen",0
+"NK-18490","Neil Knudson","Home Office","Neil","Knudson",0
+"JJ-15760","Joel Jenkins","Home Office","Joel","Jenkins",0
+"PA-19060","Pete Armstrong","Home Office","Pete","Armstrong",0
+"BT-11485","Brad Thomas","Home Office","Brad","Thomas",0
+"FG-14260","Frank Gastineau","Home Office","Frank","Gastineau",0
+"JS-15940","Joni Sundaresam","Home Office","Joni","Sundaresam",0
+"KN-16705","Kristina Nunn","Home Office","Kristina","Nunn",0
+"CR-12580","Clay Rozendal","Home Office","Clay","Rozendal",0
+"SU-20665","Stephanie Ulpright","Home Office","Stephanie","Ulpright",0
+"AG-10765","Anthony Garverick","Home Office","Anthony","Garverick",0
+"TB-21190","Thomas Brumley","Home Office","Thomas","Brumley",0
+"VP-21730","Victor Preis","Home Office","Victor","Preis",0
+"DA-13450","Dianna Arnett","Home Office","Dianna","Arnett",0
+"MT-18070","Michelle Tran","Home Office","Michelle","Tran",0
+"DB-13360","Dennis Bolton","Home Office","Dennis","Bolton",0
+"PB-18805","Patrick Bzostek","Home Office","Patrick","Bzostek",0
+"SL-20155","Sara Luxemburg","Home Office","Sara","Luxemburg",0
+"RB-19705","Roger Barcio","Home Office","Roger","Barcio",0
+"BE-11335","Bill Eplett","Home Office","Bill","Eplett",0
+"AD-10180","Alan Dominguez","Home Office","Alan","Dominguez",0
+"AH-10120","Adrian Hane","Home Office","Adrian","Hane",0
+"TT-21460","Tonja Turnell","Home Office","Tonja","Turnell",0
+"CL-12700","Craig Leslie","Home Office","Craig","Leslie",0
+"MG-17680","Maureen Gastineau","Home Office","Maureen","Gastineau",0
+"MR-17545","Mathew Reese","Home Office","Mathew","Reese",0
+"VT-21700","Valerie Takahito","Home Office","Valerie","Takahito",0
+"MH-18115","Mick Hernandez","Home Office","Mick","Hernandez",0
+"CR-12820","Cyra Reiten","Home Office","Cyra","Reiten",0
+"EM-14200","Evan Minnotte","Home Office","Evan","Minnotte",0
+"RS-19870","Roy Skaria","Home Office","Roy","Skaria",0

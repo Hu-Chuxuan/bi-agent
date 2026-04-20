@@ -1,0 +1,4 @@
+case_id,modified_table_id,modified_table_name,transform,post_pivot_key_cols,pivot_col,val_col,step
+253297541,25,project_details,Pivot,['id'],variable,value,"    #""Pivoted Column"" = Table.Pivot(#""Removed Columns"", List.Distinct(#""Removed Columns""[name]), ""name"", ""value"")"
+253297541,95632,calc_non_da_latest_status,Pivot,['id'],variable,value,"    #""Pivoted Column"" = Table.Pivot(#""Removed Columns"", List.Distinct(#""Removed Columns""[name]), ""name"", ""value""),"
+253297541,98298,calc_project_status_end_dates,Pivot,['id'],variable,value,"    #""Pivoted on end date"" = Table.Pivot(#""Removed columns for end date table"", List.Distinct(#""Removed columns for end date table""[top_level_status]), ""top_level_status"", ""end_date""),"

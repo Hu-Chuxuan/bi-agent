@@ -1,0 +1,4 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Human Development Index","","",False,57,2022-08-19 19:05:00.680,2021-05-01 08:43:37.853,0,False,False,,0,,,False,"75b922e6-4b13-40e5-8e7a-a2e000f9ca8d",""
+15,1,"DateTableTemplate_490d2672-3d35-47cf-b3b4-eeee50ff18d5","","",True,59,2022-08-19 19:05:00.680,2021-05-01 08:25:42.673,2,False,True,,0,,,False,"d518851d-142f-45ed-8c4f-e2eb16789448",""
+2058,1,"Countries to Continent Mapping","","",False,2107,2022-08-19 19:05:00.680,2021-05-01 08:26:51.916,0,False,False,,0,,,False,"04827eb8-0036-4131-b11c-6bf9632caa79",""

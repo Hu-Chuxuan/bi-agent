@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Actuals","","",False,58,2021-06-25 08:40:57.890,2021-06-25 08:40:57.890,0,False,False,,0,,,False,"38702634-4e3c-4df8-ae60-2317f5b93b3b",""
+15,1,"DateTableTemplate_b32a727b-bb21-49e2-87f2-71e07a5707fa","","",True,60,2021-06-25 08:40:57.890,2021-06-25 08:40:57.010,2,False,True,,0,,,False,"366a1f6d-0c0f-466c-b878-7691ac2c8605",""
+584,1,"Geography","","",False,863,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"1136e67e-42f7-4158-ae4b-8480308f8959",""
+587,1,"Period","","",False,865,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"b5501f59-4c03-470c-89ce-a6b29cafa123",""
+590,1,"LocalDateTable_650219c2-6f75-4d3c-a078-dae44e9f5c28","","",True,867,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,2,True,False,,0,,,False,"2c05ea51-9fd8-4408-9a35-fa3739eaa178",""
+593,1,"Plan","","",False,869,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"b459957e-78b5-4363-9b5c-fb64fbc7f23e",""
+596,1,"PricingLevel","","",False,871,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"87f59ab1-709b-4507-bc43-0b8f2439dc04",""
+599,1,"Product","","",False,873,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"0446cf5a-27cd-447c-b719-e5a191012644",""
+602,1,"SubSegment","","",False,875,2021-06-25 09:03:40.473,2021-06-25 09:03:40.473,0,False,False,,0,,,False,"085308a9-69ec-4524-b089-4940a73063cf",""
+2153,1,"KPI","","",False,2159,2021-06-25 09:23:42.456,2021-06-25 09:31:27.236,2,False,False,,0,,,False,"86902571-3dde-42de-9c04-e1af83338e61",""

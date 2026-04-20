@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+15,1,"DateTableTemplate_43192f1b-57d4-4df5-a4e6-368d7c3a4d92","","",True,59,2022-07-14 06:15:25.533,2019-05-03 23:16:09.340,2,False,True,,0,,,False,"0bd633a9-f24b-4a28-a0ea-b8aa0bf3effd",""
+700,1,"TBL_MEASURES","","",False,706,2022-07-14 06:15:25.533,2019-05-09 01:38:50.336,2,False,False,,0,,,False,"06922423-2f7e-4f16-8cd0-22ebe4c87b29",""
+1641,1,"DIM_AGE_GROUP","","",False,1654,2022-07-14 06:15:25.533,2019-05-04 19:48:34.473,0,False,False,,0,,,False,"9690da63-3340-4d59-b706-42853452a7f3",""
+1674,1,"DIM_COUNTRIES","","",False,1711,2022-07-14 06:15:25.533,2019-05-08 18:19:55.300,0,False,False,,0,,,False,"c05742f0-f6dc-4f75-a295-13f3959e2e6f",""
+1751,1,"FACT_GDP","","",False,1792,2022-07-14 06:15:25.533,2019-05-05 19:35:05.726,0,False,False,,0,,,False,"e41d5ab6-8b9a-4225-a940-14b8361204ea",""
+1822,1,"DIM_GENDER","","",False,1849,2022-07-14 06:15:25.533,2019-05-04 19:48:34.623,0,False,False,,0,,,False,"01e81825-3f93-4dc6-bf9e-26699614397e",""
+1869,1,"DIM_GENERATION","","",False,1890,2022-07-14 06:15:25.533,2019-05-04 19:48:34.646,0,False,False,,0,,,False,"f6bce5cb-68c6-4c2e-9c61-7f24185ee7d5",""
+1910,1,"FACT_STATISTICS","","",False,1955,2022-07-14 06:15:25.533,2019-05-07 01:38:39.853,0,False,False,,0,,,False,"583b5342-0c75-4525-aed8-2236057b3fef",""
+2005,1,"DIM_DATE","","",False,2040,2022-07-14 06:15:25.533,2019-05-09 01:24:00.690,0,False,False,,0,,,False,"bf800b25-6438-4577-a36e-cbf748dd0daf",""
+3105,1,"LocalDateTable_f2ce6baa-4adc-4433-a46b-b6c55c7828ec","","",True,3158,2022-07-14 06:15:25.533,2019-05-05 19:26:50.206,2,True,False,,0,,,False,"8caba524-8046-4106-8390-038f5d56ae31",""

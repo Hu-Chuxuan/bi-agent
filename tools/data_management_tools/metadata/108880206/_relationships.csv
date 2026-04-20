@@ -1,0 +1,6 @@
+ID,ModelID,Name,IsActive,Type,CrossFilteringBehavior,JoinOnDateBehavior,RelyOnReferentialIntegrity,FromTableID,FromColumnID,FromCardinality,ToTableID,ToColumnID,ToCardinality,State,RelationshipStorageID,RelationshipStorage2ID,ModifiedTime,RefreshedTime,SecurityFilteringBehavior
+122,1,"7835e37a-78c0-4362-82eb-ec3612f67272",True,1,1,2,False,12,134,2,113,135,1,1,540,,2019-08-13 14:19:27.673,2019-08-13 14:24:00.826,1
+124,1,"a0f5e67e-9198-483d-8155-d743db63965b",True,1,1,2,False,12,159,2,119,160,1,1,544,,2019-08-13 14:19:27.676,2019-08-13 14:24:00.826,1
+6547,1,"93cbcd52-4c6e-4354-a651-e98c4e9f5a20",True,1,1,1,False,12,151,2,594,603,1,1,6548,,2019-08-13 14:50:49.656,2019-08-13 14:50:49.656,1
+6600,1,"02575a30-2829-4baa-9254-4004cfda81f0",True,1,1,2,False,594,603,2,6597,6602,1,1,6682,,2019-08-13 14:51:10.356,2019-08-13 14:51:10.356,1
+6601,1,"92820e75-518f-4104-8a07-e6d1eea0b1a6",True,1,1,1,False,2917,3832,2,594,603,1,1,6697,,2019-08-13 14:51:10.356,2019-08-13 14:51:10.356,1

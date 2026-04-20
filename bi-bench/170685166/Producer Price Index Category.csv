@@ -1,0 +1,7 @@
+Index Name,IndexKey,IndexID,Name
+"Final Demand Overall","PPIFinalDemandOverall",1,"Overall"
+"Final Demand Goods","PPIFinalDemandGoods",2,"Goods"
+"Final Demand Trade Services","PPIFinalDemandTradeServices",4,"Trade Services"
+"Final Demand Services Less TTW","PPIFinalDemandServicesLessTTW",6,"Services Less TTW"
+"Final Demand Transportation & Warehousing","PPIFinalDemandTransportationWarehousing",5,"Transportation & Warehousing"
+"Final Demand Construction","PPIFinalDemandConstruction",3,"Construction"

@@ -1,0 +1,3483 @@
+Feedback
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Supper tonite - Afghan Curry Chicken
+Feedback
+1. Not spicy at all. Very mild... Even a 8 year old can eat it.
+2. Think got the chicken rib part - would have preferred breast or wing
+3. Chicken is quite tasty. Very happy - 3 meals in the row got the taste right
+4. Rice is ok, would be happier with 25% more rice
+5. Veges are fresh. Left it in freezer then re-heated in microwave
+
+Minor issue - freezer, put in fridge to defrost. The plastic containing the chicken got stuck on the rice. Not sure if could have some kind of separator between the plastjc and the rice.  Only applies if you put meals in freezer
+
+Taste for lamb and Chicken meatball is good.
+
+Feedback
+1. Tomato Chicken meatball - texture is more like fish ball and quite chewy.  Prefer more crumbly. Maybe a bit softer?
+2. Freekah is interesting. Taste like cauliflower rice
+
+Feedback 
+1. Rice portions if can be +30% would be good
+2. Lamb portions are just right
+3. Lamb is really nice. Taste authentic Iranian
+4. Kuskus is fresh, even the 14 year old is eating it.
+
+Feedback on instructions... Not that clear for 14 year olds
+
+1. Is the box Microwave friendly?
+
+2. Instructions on #2, discard container ... Discard the black container or sauce container?
+
+3. Instructions on #3 - heat on high? Need to put cover back on before microwave?"
+"Picha. 
+
+Veg options ?
+
+Price point - Needs to be RM15/ meal.  Given qty of protein (but there is plenty of meat)￼
+
+Instructions clear, but Need expiry date stamp. 
+
+About Picha can be tweaked to have more of an impact.
+
+
+Med-lamb. 
+Could do with more spice and herbs.  Couscous gd.  Qty gd. 
+
+Peranakan lamb. 
+Good spice level but way too oily. Veg side very good.
+
+Chicken Meatballs Eaten on day 2
+The vegetables were cooked nicely al dente. Feekah was tender but not mushy.
+The sauce was spiced just right and was very flavourful.
+The meatballs were tender and tasty. However I found them to have a slightly odd texture that was a little slimy. I asked others to try and they agreed on the texture issue.
+Porion size was good.
+Easy to heat up.
+Overall a good dish.
+
+Afghan Chicken - Eaten on day 3
+Again vegetables were done al dente and they had a little char that I like.
+Brown rice was tender.
+The sauce on the chicken was very greasy and under spiced for my palate.
+Chicken was tender.
+Portion size was good.
+Easy to heat up.
+Overall would not recommend this dish.
+
+Chicken Mandi. 
+
+Portion size is good. Flavors good.  
+
+But again too oily.  Way too oily."
+"We loved the lamb the best because the lamb remained moist and the rice was full of flavour.
+
+Likewise too, the chicken mandi. The chicken was a bit dry. In fact that’s true of all the chicken. They were all on the dry side.
+
+The brown rice was hard and it was hard for it to compete against the basmati rice because of that. However if we had eaten it separately on different days, then the comparison might not have been as apparent.
+
+Generally all the dishes were well seasoned and we liked the flavours. 
+
+The hiccup was the lid of the box. It comes off too easily and the food fell out when I was opening it. Fortunately it was the lotus leaf so the rice was intact inside the leaf"
+"It was good! The chicken breast and the other chicken curry were a bit dry though
+
+The lamb is good!
+
+I shared it with my family so it was gone in 2 days
+
+Portion could be a little bit larger
+
+Some meals felt a bit dry, more sauce would be great"
+"Hi :) I have only had the zatar chicken breast so far and it was delicious 😋 10/10. The rest is frozen for busy days so I can give some more feedback over time! 🙌
+
+And I think being able to promote your business as a sustainable and environmentally friendly business would be good - one that that takes care of people as well as the planet 🌎❤️"
+"It’s also finding an alternative that is study and robust enough so customs can still freeze their meals and the container doesn’t fall apart 🤦‍♀️ plastic wins here."
+"Previous meals were good! Especially the meatballs And the mandi rice with afghan curry"
+"Morning Swee Lin!
+Thanks for checking in. I really enjoyed the meals 🙂 Really love the chicken meatballs and Mediterranean lamb! Such great flavours. Love that the chefs are generous with the spices! I am halfway through...."
+"Hi Swee Lin- my family enjoyed it. Tasty and still tasted fresh after 2 days
+Coincidentally, I was commenting on your plastic packaging in paper bags!
+Msia still far behind in environmental friendly packaging- and if you do this- Picha will stay ahead.
+
+Ayam masak merah was excellent 
+Falafel second
+
+Digested. Too busy eating forgot take photo 🤣"
+"Hi morning Swee Lin, it was good .. I like the chicken wrap.
+
+Ohh no ...hahaha.. my hubby had the Mandi rice and I shared with wrap with my colleague..😀
+
+Just to share my thoughts ya ..the promo that Wai Yee shared with me ..min 10 orders is a bit difficult la to do now since it’s still RMCO ..  we are trying not to have face to face mtg at the moment ."
+"Hey Swee Lin! The food was great and we finished it in 2 days haha
+
+Food was all good! Nothing bad to complain about, love that the veggies are still fresh"
+"Think peranakan is weird"
+"Hi Swee lin, the food was good. We enjoyed it very much
+
+For Marketing purposes, yes. For consumption then I would say no, if on your website it's stated that it's to help the environment, then people wouldn't mind. Some restaurants on Grab food mention that if I'm not mistaken."
+"Sorry, what I mean is: I don’t care that much about the packaging as long as it is environmentally friendly.
+
+Good! Then I would go for that option. The food is more important than the packaging!
+
+Good morning. Excellent, no complaints. I’ll let you know when I order more😊"
+"We like the chicken balls the most , and my son say the lamb also good , the chicken was good, but maybe not as special as the other choices
+
+Quality is very good , fresh and healthy ingredients
+
+Thank you so much and we did enjoy the food very much , and thinking order for next week"
+"The meals were delicious! All really good. The meatballs were my fav albeit a bit heavy on the butter."
+"The eggplant was ok and I enjoyed it. Others in the freezer. Will let you know."
+"It was delicious!!! I finished everything since Saturday 😅 it was so good. So fresh and flavorful!"
+"hi Swee Lin, i've finished all the meals. would have to say my least favourite was the Zaatar Chicken Breast only because it was less flavourful compared to the others. the meat was tender and juicy though. and also the ayam masak merah, lacking a bit of oomph.
+
+Hi. Chicken mandi was good. The rest are frozen. Wasnt planning on having them everyday 😀
+
+The meatballs in tomato sauce. Sorry cant remember the correct name"
+"Hi, thank you... Really good..."
+"Hi Swee Lin, they were pretty good 👌🏼.
+Yes of course. They were quite good generally."
+"So far Ive tried zataar chicken , chicken meat ball and mandy chicken
+
+All really delicous. Though interesting that the mandy chicken is done different from the arab restaurants here"
+"TOMATO CURRY, SO FLAVORFUL! 😭😭😭
+
+I could eat that pumpkin curry every single day of my life 😍😍😍🎃🎃🎃
+
+And the tomato curry gosh its absolutely fire, dont tell anyone but i licked the leftover curry from the plastic after pouring eat while the meal was being heated i was licking the plastic cuz it was so good even though it was cold!!! 😋🤭"
+"Hi morning. Meal is super delicious and fresh. Unbelievably tasty 😋"
+"Morning Swee Lin, tried the falafel and chicken zaatar. My brother took the chicken mandi. They taste absolutely amazing!! The chicken is so tender and flavorful!
+
+Had high hopes as the food at DC mall few years back was good, but really, well done!
+
+Had the last two of lamb peranakan and tomato meatball. Both were amazing but absolutely loved the meatball flavor and the lamb leaf wrapping
+
+One feedback that I would give is the side veggies was getting a bit repetitive, maybe if you guys can seasoned it? If possible, switch it up with a variety of veggies?
+
+But regardless, really good meal experience, both my brother and I really enjoyed it! Thanks again and love supporting you guys"
+"She's on a diet"
+"perhaps my only comment would be that it could do with a larger portion of vege so it's more of a balanced meal :)
+
+hi it's been really yummy, thanks for asking!
+
+The chicken mandi is really yummy too but idk if perhaps there’s msg in the rice?
+ Cause usually I feel really dehydrated and slightly bloated if I eat foods w too much msg in them
+And I’ve noticed I felt that both times I had the chicken mandi 😅
+And the afghan curry too"
+"It was delicious!!! I finished everything since Saturday 😅 it was so good. So fresh and flavorful!
+
+I love it that there’s a new menu this week!
+
+The chicken mandy, it was a bit salty😅 but the rest is fine 😊"
+"He had the green bean and pumpkin curry today and said it was delicious.... more veggie options please and maybe some “lighter options” as he said sometimes they’re a little heavy. But they always taste good!"
+"Hi morning, I only had the chicken mandi so far and it was good 😊"
+"It'll be a service I'd use regularly as long as I'm stuck with this work-from-home arrangement. I supervise the night shift with not a lot of help, so I can't afford spending too much time on meals.
+
+Not all the time of course. I'd like some space to do my own cooking or order something else too, and I think my sis will agree."
+"I realize I missed your previous msg, sorry for that. I wasnt around to try the second order of the 9 meals but my family’s feedback was that the Zaatar Chicken was a little dry (possibly because of it being breast meat) and another meal’s cauliflower was undercooked. Overall they felt it was prepared in a “rush”.
+
+4. Which was the first meal that you had? Any particular reason? We had all 8 at once. The 9th was Chicken Mandi which we had 2 packs of to replace the Lasagna. It was consumed 10 days later which turned out very salty after keeping for longer and the chicken texture became too soft. Nothing like having it fresh from delivery"
+"their so good! my fav was the brown rice with pumpkin curry one
+
+love how 'authentic' it feels, unlike your typical frozen meals
+
+i also shared the eggplant wrap one with my friend who is a super picky eater, even he liked it
+
+said it tasted unartificial
+
+i wouldn't say it's a least favorite per se, but i'm not the biggest fan of tempeh in general, so the tempeh tomato one was ranked #3 for me  - but due personal preference!"
+"Ayam masak merah was excellent 
+Falafel second"
+"No reply"
+"Hi, thanks for following up. Fav was cous cous, chicken meatballs and chicken mandi"
+"i try to reduce non disposable plastics....n carry my own tapau containers n use them whenever i can. The current trend of home delivery is really overwhelming the customer wt plastic packaging.....really need to find a way around it so if u can use the bio pack without breaking the bank or overpricing the foods then i will be a def grateful customer
+
+i froze the other two meals....and had the pumpkin curry veg meal yesterday. The meal held up well with freezing. Everything reheated like a fresh meal. This meal was slightly better seasoned and actually suited my palate for vegetarian food
+
+Hi Swee Lin.....I had the chicken roulade on delivery day ....very generous portion....love the brown rice....roulade was well stuffed....the juicy veg a prefect complement.....but i felt the chicken and stuffing was under seasoned.....the visually appealing meal was set to be a disappointment just because a little more salt pepper and maybe even a squirt of lemon was missing.
+I realise that by nature the middle eastern cooking is a little shy of the strong seasoning we here are used to...but a little more seasoning will do the overall meals justice."
+"I just tried the chicken breast. Super goooooood. Chicken is surprisingly tender and taste fresh for a frozen pack
+I just ate one. Chicken roulade. Super healthy and taste good! Love it!"
+"My kids loved them. Staff at office too. Was nice but were were not enough meat apparently more bones"
+"So far so good. My son love the Naan and chutney"
+"I realize I missed your previous msg, sorry for that. I wasnt around to try the second order of the 9 meals but my family’s feedback was that the Zaatar Chicken was a little dry (possibly because of it being breast meat) and another meal’s cauliflower was undercooked. Overall they felt it was prepared in a “rush”."
+"Wants more discount"
+"Green bean and pumpkin curry today and said it was delicious.... more veggie options please and maybe some “lighter options” as he said sometimes they’re a little heavy. But they always taste good!"
+"write what she wrote"
+"Except the chicken breast butter milk.  After freezing it for 1 week, the rice was hard after 3min microwave. Otherwise nothing major lah. Food is very nice. Maybe to focus on presentation how to improve further to make it look more appetising and appealing before eating."
+"write what she wrote"
+"From the 3 I have tried, pumpkin curry is the winner. Lotus leaf eggplant curry is delicious but too heavy for me
+
+Pumpkin and spiced couscous was delicious though
+
+Awesome! Thanks again! I want to order the 9 meals for next Wednesday but too many meals way too high in calories... Anyway to make it to have them all less than 500/600kcal?
+
+They are very fresh and super tasty, and healthy just too heavy for someone that is counting calories..."
+"Speaking of that biodegradable box. I noticed that after reheating, some moisture builds up at the bottom at the box. I guess it's just steam vapour seeping through, rather than seepage coming directly from the food.
+
+It'd leave some water on the table, but no biggie. It'd just evaporate in due time, or I can just give it a quick wipe.
+
+My sister likes the new box though. Less fuss. And the chicken breasts. I don't know if it's possible to make juicy and tender chicken breasts in ready-to-eat format, but it's been a bit on the dry side."
+"Everything is good 👍🏻"
+"I only tried one so far which is the green chilli chicken
+And I love it
+
+So far so good and thank so much for the falafel mix!!!"
+"I like the most is Afghan curry chicken
+Keep up the delicious meals going🥰"
+"Ya still fresh
+ I didn’t know inside got plastic hahahha
+I pop whole bag into microwave
+Whole box
+ Then only realize later when I open there’s plastic inside that I heated up skali hahahhah"
+"1) my mum had the tortilla and eggplant. 
+
+tortilla yummy. portion a bit small. more suitable for lunch rather than dinner..typical chinese
+
+eggplant lotus leaf- the rice was very tasty. she had it for lunch. Vegetarian dish so she felt it is a bit pricey. . but yummy nevertheless
+
+My dad - Chicken mandi. He had it for today's lunch. Was tasty and portion ok.  
+
+Masak merah - he had for dinner last night. Also said was tasty.
+
+Husband - curry chicken last night. He said was nice and tender. pass.
+
+kids... the mint dish..unfortunately they are not used to the spices and found it too spicy... 
+
+one common comment was on the vege... it was too hard even after microwave. Had to steam it for about additional 10mins."
+"If I had a wish list, it would be that caulirice can be an option? Obviously have to pay more for it 
+
+Cuz when I told Kim I was diabetic, she switched out my rice for more veg, but I still missed eating the gravy stuff w “rice”
+
+I really like the biodegradable packaging
+
+Honestly they all
+Tasted so good, I don’t have a fav
+
+I think I’d be happy to be a repeat customer honestly
+
+And when the schedule is packed, it’s so convenient to just reheat and eat
+
+And I know the food is fresh and healthy"
+"Love the variety and the proportions
+
+I loved the chilli chicken and the brown rice is a big hit. The vegetarian options were not our favourites but the addition of veggies on every box was delicious"
+"write what she wrote"
+"Food arrived yesterday. 
+Son whacked the salmon meal at 10pm.
+
+Summary
+1.  Vegetables was very fresh even after reheat
+2.  Rice was very tasty and fluffy 👍🏼
+3.  Salmon was fresh but skin was not crispy (we were expecting something like Teriyaki style) 😄
+4. We realised the sauce turned into ice when we took it out of the freezer.  So had to chip the ice-sauce and sprinkled it on the rice then put into the microwave to reheat (ice--> water)
+Overall,  salmon mandi can re-order again.  Haven't tasted the other 2 yet
+
+Only feedback was after the defrost in fridge (2 hours), he put into microwave for 3 mins.  Meat was still cold inside.  
+So he had to cut the meat into smaller pieces and re-heat again.  Then all good"
+"I guess 1 feedback I can give is that it'd be good to have reheating instructions for people that don't own microwaves"
+"Hi Swee Lin! 😊 great to hear from you. Omg it’s so good! I’ve only had the salmon today but I’m completely in love w the briyani it was so good and I’m super impressed with how fresh It kept??"
+"write what she wrote"
+"Not too bad. Still working out the heating up part. Follow the 3 minute timing but food still cold in some parts. This is a belated question but I can microwave the food in the container the food comes in right? Haha"
+"Hi Swee Lin, I've tried the Afghan curry & Tempeh pie so far. Both are really good! I'm usually not a fan of tempeh so I was pleasantly surprised how you've come up with the right spice mix. I love that the veg (side & in the pie) are kept crunchy not overcooked."
+"Not in KL already"
+"just some just not my preference After I heat right - chicken become too dry and vege become like salted vege edi lolz"
+"The meals were fine, tho I find them to be (taste-wise) a bit too healthy to my liking 😂"
+"i took the curry chicken and the chicken breast one"
+"Food was good, surprised that the chicken was moist. Good spices, good flavors.The pumpkin wasn’t my favorite personally for the beans texture."
+"Hi Swee Lin. I shared the 9 meals between myself, my two sons (aged 12 and 9), my maid and also my wife. So I wasn't able to try all the meals directly. I liked the eggplant stew a lot (it's also low carb) and I think my wife liked the green curry chicken. The other's were well received - I certainly didn't get any complaints! For my user-segment, I may occasionally buy the meals, but not on a regular basis. 
+
+Reasons why I would buy: 1. to give some variety in our meals, and to expose my kids to other foods and cuisines. 2. If there's a period when I don't have time to cook or not convenient etc. 3. Pricing may also be an oppty - e.g. if you run a special promo etc. Otherwise on average I think I would keep to a budget of RM15 per meal. 4. I think once I go back to office (after the Covid dies down), I could consider ordering PichaEats more regularly.
+
+Reasons why I won't buy: 1. As mentioned, I have a maid at home who also cooks (quite well), so my meals at home are all settled."
+"Don't really like the meal in general"
+"We tried 3 of the chickens, but I noticed that the amount of chicken was less than the one I tried at the event the other day. Granted that it doesn’t bother me, I just wonder how consistent the chefs are with sizes. Maybe just cook with chicken breast, and you know exactly how much meat you put in each portion. We liked the chicken breast with that kind of mint sauce"
+"Hi Swee Lin ! Yes I've tried 2 of them already and its been really good so far. I had them within 3 days of receiving the meals and they were still fresh, veggies still had a crunch to them."
+"I really love these ready to eat meals. I’ve brought them to work or had them for dinner on days when I don’t have time to make anything or lazy days"
+"I love pasta
+
+I love the baked pasta! Can i still order for next week’s delivery?"
+"yes, have tried all and love them!! sooo good and delicious! but the portion a little bit small to me. haha, i'm a big eater. among the 3 meals i had, there's one type of rice i really like, it's not brown rice, but the flavoured one. it's so good that i wish i can order just that"
+"The ayam masak merah was good, had a good amount of sauce, and the pickled vegetables that came with it were good and sour. the afghan curry was tasty too, had a good amount of seasoning. the green chili chicken was great, the sauce had a good amount of spice and seasoning, and the vegetables were nice too, it was very garlicky which was good. he said it would be great if you could have a plain white rice option which would absorb the sauces better. It would be less healthy but more tasty"
+"The box a little too soft after mircomaved. Think maybe the butter melted. Maybe can advice the butter not put inside when microwave. It will melt on the vegetables when the vegetables are hot. Maybe you put a note on the instruction butter out after the food heated. Other than that everything very good"
+"1. More tortilla for the pumpkin and green bean curry please, so I don't run out of tortilla too soon and have to eat the rest of the curry on its own. 2. The salmon has been consistently good. My sis had it this time and she said it's surprisingly good for something that came out of the fridge, I had it last time and enjoyed it too. 3. I'm seeing the sauces seep through the packaging, enough to see the colour on the outer surface of the packaging but not quite leaving a mark on the kitchen surfaces or dining table. This is especially if I leave stuff in the microwave for a little too long.  Overall the taste of the food is good, but juicy, tender chicken remains elusive"
+"Thank you. Your meals are great, but i am a bit disappointed in the service. Also, i don't intend to have a 3-4 week gap in ordering the next 9. The idea of this is so that i can order every week or so in advance. If i knew it would be the same as purchasing the usual way, there wouldn't be a need for me to subscribe. For a full time working single mom, i wanted RTE meals that my kids can reheat after school easily. That's why i opted for a subscription. I don't want 9 meals per month.I wanted 2 meals per day. They can be delivered in advance.My kids are picky eaters but they liked some of the Picha dishes very much. We did meal subscription before but they got bored of the usual ""local"" meals. Picha meals are different and they're not bored of them yet."
+"Portion size is generous, taste is good too :) The shepard's pie is a standout for me cos of the beans and lotus root
+The chicken that came with the kabsa rice was better than the roulade because it's marinated and with the bone, so the meat has more flavour and is not as dry
+I think that sort of stewed/braised cooking method for chicken can preserve quality longer in the fridge"
+"Hi Swee Lin, I just had my first pack yesterday, it’s good 😋😋
+I just keep forgetting to take out the meal and defrost three hours before eating, need more practise lol."
+"just finished the last of the stuffed flat bread I got with my ready meals order.. Theyre so good.. but I cant seem to find it again. Is it no longer part of the meals deal. Couldn't find it on the website under the family meals :("
+"In Penang now"
+"if i could share one feedback - and i realise may be challenging to do. but will share anyways for future consideration: 1) is it possible to have less rice/more veg option? 2) could you provide a calorie count for the meal/ or break down of nutrients?
+
+hi swee lin, meals good. nice variety 👍"
+"nice overall :)"
+"Great! All were consumed eagerly by my kids, except for the lotus wrapped eggplants- which was more to  my taste than the young ones I guess. The pasta was very nice. One of the chicken dish ( not the roulade), was slightly on the dry side.
+good!
+
+Hi Swee Lin. Just to inform- the chicken for grilled chicken percik was undercooked."
+"Never ask for feedbacks"
+"No reply"
+"The new container looks good"
+"Taste quite good and refreshing. It reminds me of our home town where chicken was almost the main dishes. The veggies reminds me of the farmwe used to play with as kids. Carrot is my favourite colour."
+"Hi Swee Lin :)) Good to hear from you! hmm I had the meatball pasta the other day and while the sauce was excellent, i felt like the pasta really didn't freeze well - kind of a weird texture in my mouth, and even after putting it in the microwave, wasn't great. I really like the sauce but i think the inside of the meatball could have had a little of it"
+"(chicken rendang went bad.)The one with brinjal was not nice.Probably the vegetables, as the entire box gave a pungent smell. The pasta was just ok.The remaining 3 were very nice"
+"the sherphard pie was too salty"
+"had the persian lamb meal for dinner.....luv the lamb....just nice portion of meat....could do wt a bit more gravy to the portion of rice. i hv a reasonable portion of veg wt my meals but the portion in the pack was to me a bit too little.....so i added my own...needeless to say i would like a little more veg"
+"Hi Swee Lin, sorry for the super late reply 😇 they're good. Had one of my favs recently, the chicken meatballs."
+"Just had the tomato meatball for dinner. The taste is really on point! I don't really eat pasta as I hated the heavy flour taste of it, but this is just spectacular!"
+"I found the pumpkin curry too spicy I am afraid."
+"The meals are good as usual , lovely indeed"
+"Food's good as usual"
+"the meals were all delicious! The Couscous and Palestinian braised chicken was rather new to our palate, quite interesting. Spicy though... All in all we were pleased with our order :)Mm, I think you’re all good! It’s not so much an improvement per say but those with plain brown rice, the rice portion could be reduced (possibly to save your cost and wastage) because its a filling grain to begin with and your serving is very generous. But then again bigger eaters might not mind it"
+"No reply"
+"yep finished already all good"
+"No reply"
+"They are not as nice nor smells fresh compared to the first time I ordered... Just my feedback. I have eaten 3 out of the 6 meals.. The peranakan eggplant stew, the chicken rendang and chicken rolade..To tell the truth, I still prefer the original recipes or food from the refugee own countries.."
+"No reply"
+"Excellent packaging. portion can be bigger"
+"No reply"
+"A bit disappointed the peranakan eggplant stew with rice is not on the menu but looking forward to buttermilk falafel."
+"No reply"
+"No reply"
+"i cant remember details of each..generally.. i dont know why this round.. i had to throw the veggies. By the time i brought the food packs home, the veggies had a bad smell to it...at first we thought all the food went bad but realized it was only the veggies...so not so bad. .... rest of food was ok..only the pasta was still hard after microwaving... but thr sauce was yummy"
+"Not too bad. Still working out the heating up part. Follow the 3 minute timing but food still cold in some parts. This is a belated question but I can microwave the food in the container the food comes in right? Haha"
+"afgan curry nice, eggplant not nice. Taste, presentation 👍
+Portion fills 80% of his tummy. Can tahan till 6pm.
+His verdict is rm18 perpack for the portion given is pricey. Furthermore there is deliver fee on top of it."
+"I kept in freezer, my problem is that sometime I didn't plan well in advance to thaw it properly & in my rush, I just do a quick microwave or steam it. The food doesn't taste as good because the inner part of the meat still a bit cold but I just eat & get on with work. Nothing beat food delivered & served hot"
+"Food is awesome! Love the flavor and texture (had 5/9 already), portion was good, lots of variety, food tastes fantastic even coming from the freezer to the microwave oven."
+"First off, not our usual taste. 4 people tried. 
+In order of ranking
+1)Brown Rice with Pumpkin Curry & Spiced Couscous
+Similar taste to an Indian curry
+2) Peranakan eggplant
+Ruce was nice...similar to briyani taste
+3)tempeh shepherd's pie.
+Sauce too strong.
+Score overall based on taste,
+2, 2.5, 3,3.5"
+"The meals were pretty good. I particularly enjoyed the chicken and my friend likes the lamb ☺️
+That said, the packaging at the bottom torn once I took it out from the freezer. So I had to transfer it out to a plate."
+"ok but my kids don't like it."
+"I liked both meals that I ordered. They are both distinct and had a unique taste."
+"Had 3 packs so far.  The lamb was good.  But rice was hard and dry tho. Needed to steam over fire. Broccoli and cauliflower soggy already lah"
+"I liked the tomato pasta a lot; it was delicious and it felt like a light meal but still filling. A friend of mine had the persian lamb and he liked it but he thought the lamb portion was too small to his liking. I was underwhelmed by the zaatar chicken because it tasted almost bland save for its peppery taste. I'm not sure if it had anything to do with the meal being frozen overnight. But the meals were cooked well and I was impressed with the packaging and clear instructions given. I liked the brownies too!"
+"The Persian lamb tasted alright. Only thing is that the lamb was mainly fat and bones."
+"the meal was ok . I haven’t eaten all"
+"For us it’s the taste .,didnt quite agree with us. Actually we eat all kinds ..but least is Middle Eastern food"
+"Ur vegetables surprised me btw. They were very fresh"
+"meatball ok, chicken breast tasted blant"
+"The tempeh one is good"
+"Delicious 💯😋"
+"Thank you for the follow up. Overall the food is good. I really love the pumpkin curry. I was telling minchia if I can order separately only with the curry pumpkin 😅"
+"No reply"
+"I really liked the pumpkin curry. Then microwaved it. So they were soft. Chicken breast was also dry after microwaving it. But I guess it's cause of the microwave. Might have been okay if I had it as it came.Of course! But other wise taste was good!"
+"i was leaving it out for a few hours, i think it started going bad after a while but i should've just left it in the fridge while waiting for lunch a few hours, from 9 am - 1 pm The bolognese pasta bake Yup i froze it when i got it, put it in the fridge on the night before i come to work and put on my desk til lunch time"
+"food's good! only tried the pumpking curry last week and that was so delish!"
+"food are good.Veggies are still crunchy"
+"Aw how nice! I haven't had any from this recent batch but actually I think overall the food has been very tasty. I really liked the kabsa rice. I do wish there would be a little more variety with the veggies though!"
+"Hi! The food is good thanks! I think I have to reorder again haha. Almost finished."
+"all good we enjoy it happy with the potion and quality."
+"First, i think flavors are good. Each portion is filling enough. Spice blends are on point. We heated all 3 in microwave to eat because they are not frozen. 
+1. Chapati, Pumpkin and Green bean Curry with Vege
+_The curry is good, i like the chapati combination very much. _
+2. Brown Rice, Zaatar Chicken Breast with Vege 
+_The chicken breast is well seasoned. Still tender. I like the marinate. Only that this dish alone is abit too dry. No gravy nothing... haha... so my parents had to match it with the pumpkin curry to go along. _
+3. Pasta Baked Bolognise with Vege
+_Macaroni is not too mushy even after heating, so thats good. But would have been better with more gravy. There nothing extra to dip with. Hehe. _"
+"Hey morning Swee Lin, wanted to ask right, I actually left the food at room temperature for the whole night tmrw, and just only placed it in the freezer today morning. Is that alright?"
+"I thought the green bean curry and pasta were pretty good but the chicken breast was a little flat, added some hot sauce for that. But very convenient!!"
+"too many follow ups. and i cannot brain why i need frozen meals. when fresh meals are cheaper and easily accessible for me."
+"Not too bad. Still working out the heating up part. Follow the 3 minute timing but food still cold in some parts. This is a belated question but I can microwave the food in the container the food comes in right? Haha. Fridge"
+"I’ve tried the chicken and pasta. Pasta is my fav atm. Chicken was ok, but felt that the rice could have more taste or more sauce."
+"Most of them are delicious and nice... Can't really said which one is my favs... Each has its own taste..."
+"portions are pretty large"
+"haven't eaten"
+"some boxes were amazing and some were not so good hahah would be great if we get to choose our food options. also would be great if there are low-carb options. the chicken breast dish esp the one without sauce is really dry, i feel that you should play to your strengths and make more curry based dishes as those are the really commendable ones"
+"the food was amazing - i've had 1 of 3, the zaatar chicken, and really was pleased with the flavour"
+"Was good! Veggies all nice & crunchy & d meatballs were not as hard this time. I could at least break them apart with d fork I thk maybe d packaging may hv made a difference too. To freeze I thk hv to use plastic OAMuch as I like d sustainable packaging idea"
+"I had the shepherds pie yesterday and it was delicious. As was the Kombucha. It was two of the Tempeh Shepherds pie."
+"he hasn't eaten"
+"tomato chicken meatball brownrice vege went bad upon delivery"
+"i like the wraps and the balls :) it was yummy"
+"Amazing. I ate them all too fast."
+"Hi Swee Lin, all good 👍🏼😊"
+"I wouldn't mind doing the biodegradable packing. But if put in the freezer, it's prone to freezer burn and not so hygienic. So far for the plastic boxes, I seal with tape."
+"the meals are good"
+"Love it’s sustainable packaging as well, small feature but cool, Hey! So far I’ve tried 4 meals and it’s great. I’ll continue to order this. Really convenient. Awesome taste"
+"Hi Swee Lin, finally managed to try one of the meals. The Shawarma Wrap... i loved it because i was looking for a healthy meal but it was late, close to 10pm at night. I really appreciate the calorie information on the meal boxes. 
+
+I found the meal just nice to fill the tummy, and not too heavy. The tastes were good, and also easy to warm up and eat. Looking forward to try the others."
+"The shawarma was my personal fav
+The meals were great thank you!"
+"haven't eaten"
+"So I’ve only had one so far. The chicken breast."
+"We loved the shawarma! It was authentic and super tasty. I would definitely order again. We didn’t eat the vegetables because reheated in microwave it doesn’t taste great. But definitely love what u guys are doing!!"
+"Falefel is not really my kind of thing and the other meal box is still in the freezer"
+"Hi. It's a different kind of plant based meal we have ever had. A little sweet for me though but my wife loves it."
+"I like Roti the best"
+"good"
+"Shawarma still very small. But taste wise so far everything good"
+"haven't eaten"
+"The macaroni was fine 😊 I wouldn't say its extraordinarily yummy, could be better. For the price, I think could add more meat in there. This is just my humble opinion. But I'm sure everyone has their preferences 😊"
+"Didn't like the lamb"
+"Ur subscription is for people who is lazy to cook and lazy to think of what to eat gahahah
+
+U need a signature dish where i can tag, this food is picha.. i think tagging good food is better than tagging impact is more sustainable
+
+The mac and cheese was below average..
+
+1 out of 6 dish was below average..and it might deter people ordering the whole set"
+"if I had a comment, it would be that cuz I'm not getting rice (or caulirice), the portions aren't quite filling"
+"I had the Afghan chicken tonight, and to be honest I found the portion to be small on the meat side. I think this is alway the challenge when you cook mean on the bones and cut into smaller pieces.
+
+I would prefer you sell 1/4 or half chicken. I choose the side I want. Else, just use chicken breast of chicken chop that has mean, skin and bone to give flavor, but the size is more predictable
+By the way, I tried the meatballs Friday night. Frankly, for my taste they were pretty hard as I couldn’t cut them by simply pressing the fork down."
+"Morning Swee Lin! I’ve had the pumpkin green bean curry and the Afghan curry chicken now and they were both delicious. So easy to heat up and love that the containers can be composted"
+"It was actually pretty good, The meals have been good so far 😊"
+"Hi there Im sorry for the late reply. Yes the food is good. My parents like the vegetarian box 👍🏻"
+"They have been wonderful, Swee Lin! And I do love these messages you send about your amazing chefs. I truly love what you all are doing."
+"They've been really good. I only had 3 of them so far fav,I guess it is the beef with the mini rotis"
+"😅 haven't eat yet"
+"I didn’t get to taste the food, it was all gone before I could even try :( Food was good, thank you!!"
+"good emoji only"
+"Hi Swee Lin, thank you for the messages! I enjoy the meals cos they are not something that i always eat, so for me personally the menu is refreshing! feel healthy also hehhh. great to be able to contribute something to the refugee community. great work you guys!"
+"Perhaps portion a bit on smaller side but definitely flavours were awesome!"
+"Tomato chicken kebab is my favourite so far! It was tender and tasty. Ayam masak merah was good too...although when it came it looked a little undercooked. not sure if that was intentional. falafel I found rather dry...but that could be my personal preference :) overall it was a great lifesaver when we were without water haha"
+"Hi Swee Lin, they were really good and filling. The corriander meatball and the percik was good. So afraid it was dry but it wasn't"
+"Hi Swee Lin, thanks for all that info. Very good to know. I’ve had the coriander chicken meatballs and chili chicken con carne so far and they were sooooo good 😋😋 Will let u know once i finish the rest"
+"So far so good"
+"It’s real good! Didn’t expect frozen would be this good haha. Portion is just right too 💛"
+"Hey Sweelin! Meals are good so far 😍love love the chicken meatball with aglio olio 😍"
+"They are fine, but we are disappointed we cannot get  a weekly delivery. Fortunately we have found other sources to fill the gaps."
+"Hi Swee Lin thanks for checking in! Im really liking the food so far, but don't ask me which is the best cause I've a hard time choosing. It's probably the rice.Thanks for sharing the story of chef Fida! Really warna the heart to know both mama and baby are doing well, and that the family has a wonderful support system with you guys"
+"Hi Swee Lin. They were pretty healthy meals! Quite filling too"
+"Great to know the story of the person who cooked the gulai chicken that I had today hehe I’ve had the ayam masak merah and gulai chicken, both very tasty 🤤Big protein portion, as usual. Would love to have more gravy for the gulai though"
+"BtB order Subscribe weekly"
+"*only feedback for the impact report"
+"Hello ! Wow I’m so touched 🥺. I’m glad to be a part and help 😬"
+"Tried the Chicken Chili Con Carne today, and I must say it tasted good and rather fresh after I reheated it. Though I do hope you guys can consider being more generous on the vegetables portion? 🙏🏽 I havent check other meals yet! So I guess I’ll surprise myself 😁The meals tasted great! Though as mentioned, the vegetables portion can be further improved ;) . But overall pretty satisfied with the meals !"
+"Food was amazing, tasted fresh and light."
+"The meals were excellent. We don't mind ordering more in the future. Will be away next week. May order more when we come back.Just one comment, I am particular about the snow peas. You need to ask the chef to remove the rinds. It can be unpleasant to eat with the rind still attached."
+"They are good! Just that I probably should have kept in the fridge and finish faster 😅 I kept in freezer as my schedule is unpredictable. 
+Also the 7 meal package suits my household better as they are only 2 of us and so I could put most of them in fridge and still finish on time"
+"Hello!
+We had 5 lovely meals. My son (17 years old) loved the capellini and the percok chicken. I loved the falafel and roast chicken.
+We have been extra busy since with college starting and adjusting our schedules.
+Will definitely book more meals again!
+My son is interested in studying business and I have taken the opportunity to tell him about the Picha Project and how social enterprise is the way forward for business in future.
+Thank you and all the best!"
+"They were really good. The family really loved it."
+"So so only. More rice than vegetables and meat."
+"Everything is good! 😊
+My favorites are the oven-roasted chicken and the ayam percik. 😋😋
+Hopefully we could try the others too, especially those without rice. 😁"
+"Hello. Finally tried 3 packs. 
+The meatball pasta - tasted good but not enough sauce at all. Portion a bit small. But I like the meatball taste and texture. Pasta was just nice in terms of texture too. Even after microwave it wasn’t too soft. 
+The tomato kebob chicken was very dry. The rice was so hard that I couldn’t eat most of it. Chicken was dry also. The sauce is too little as well. Taste wise the sauce was quite nice. 
+The falafel was better for me but the rice was very very hard. Also not edible. The butter sauce is delicious and surprisingly goes well with the falafel. I could eat just a whole box of falafel with butter milk sauce and vege - no rice.  😂
+Suggestion to pack Sambal into the meal. People who don’t like spicy food can just don’t eat the sambal. But I’m thinking Sambal always rescues a meal as spiciness opens up the appetite and taste bud. I added my own very spicy Sambal and all dishes tasted better 😂😂"
+"I loveeeeee the meals! Always excited for more 🥳🥳🥳🥳🥳🥳I love what Picha strives for and I wanna be there for you and the families as much as I can 🤝I live away from family and Picha enables me to eat homemade food when I need it, thank yoouuuu 🥺"
+" I think the protein and the sauces are really good. My feedback would be to increase the veggies. I personally like to have more veggie than what I've gotten in the meals. I haven't had all of them yet. I think the falafel didn't reheat that well. But the chicken kebab and the sauce it came with was great. Also liked the grilled ayam percik"
+"They were great, I will repeat my order if not now, soon! And it's good to know that I'm supporting someone while eating my meal.Khabob rice is the one i remember most
+And buttermilk chicken. Vegetarian meal I didn't feel satisfied (maybe...I am just a big eater)
+But portions is good. A recommended healthy portion."
+"Hi Swee Lin,
+I just finished the all the meals today. So here goes my rating from most fav. to least fav one ah 😋
+——-
+1 - loved the flavour and tenderness of the oven-roasted chicken 😍
+2 - percik chicken sauce was amazing but the chicken was a bit dry and hard
+3 - tomato chicken kebob very nice 👍🏻 
+4 - meatball was good too but the pasta sauce is quite plain for me
+5 - loved the falafel & the buttermilk sauce. but feels too much going on when eating it with rice 😬"
+"I love all the meals, already finished all 5 meals. I'm happy to be able to contribute & help and also to enjoy these meals.Hmm... For me, I added some chili flakes when I eat some of the chicken dishes.But I think that's me, not for others. I steam all the packs, so it's works.. No dryness. but I do wish for a few more bites of vege.Please send my regards to all the chefs, I enjoyed the food"
+"Haven’t had them since the first day to be honest. Still in the freezer. Partially cos my order was incorrect (I swapped for veggies and paid the extra but it wasn’t done) 😅 but no
+Worries"
+"Hi! I've just had the two Roasted Chicken ones...others in my freezer. Not too bad taste, although would prefer boneless. The Vegetable pieces were quite large in size. Arrived not fully frozen FYI. Will get one out the freezer for tomorrow!"
+"Tasted good!! Portions oso ok, perhaps another piece of kebob would've made it great! Hi there!! All 5 was yums, but my top 3 would be the percik, kebob and meatballs. But just a feedback, sometimes the food gets stuck to the container.Meaning a layer of paper gets torn and stuck on the food. I had to scrape it off 😅"
+"They were good!My favs were the roast chicken, falafel and tomato meatballs. Perhaps put in more veg"
+"The meals are good.The only thing is that I would love less carbs and more vegetables and protein. Understand cost is an issue. But maybe can offer low carbs and high protein options?"
+"Meals were good. I personally loved all of the ones I received. For the kids tho, it was a hit and miss. Would be good to have less spicy, less hot options too, and maybe some variety as far as the veggies are concerned."
+"We have only had three so far. Falafel,  oven roast chicken and chicken kebab with tomato sauce.Oven roast chicken was our favourite."
+"Good good. My colleague enjoyed the coriander chicken. The falafel them selves were tasty but it was weird to have them with a curry buttermilk sauce?!? So we ate them separately with salad and hummous and used the rice and sauce and veggies as another meal with some extra chicken. The tomato sauce was good, though I thought the chicken kebab was a little bit dry."
+"food poisoning"
+"Hi! They're good! Thanks for the meals. Would love to purchase again once there are promos going on."
+"2 pax still in freezer 😁 I like that they are not all rice. Good variety!"
+"The ones in eco friendly containers have been outstanding. I've shared them with friends to share your product. The ones in black plastic trays certainly not as good but I believe a different price point, correct?"
+"ohh i love the tomato kebob and coriander chicken meatball. would prefer more of the buttermilk sauce in falafel box 😬 put into a small container would be nice!"
+"Good thanks. Just managed to try one"
+"I really enjoyed the ayam percik, it's delicious. My colleagues said it smelled so wangi. I think I'd like to have it again for my next set.
+I gave the oven-roast chicken with curry veggie to a friend and he liked it!
+I had the coriander chicken meatball, which I liked but I wasn't a fan of the pasta. I would have preferred a flat type of pasta."
+"Hi Swee Lin....only had the chicken kebab....nice wt the tomato gravy.i am hving issues wt infected gums so eating is challenging except for soft foods....so taking my time....but def looking fwd to it"
+"So far tested 1 only. Haha. But as again, I'm am blown away by the food you guys sent! Tasty as ever despite it being a ready to heat meals!"
+"Good good"
+"we’ve only had 3. meals so far and all really delicious! The Gulai, Coriander Meatball & Chilli con Carne. Hello Swee Lin, a little update for you. We had the Grilled Percik Chicken last week and it was SEDAP. We tried the Ayam Masak Merah today and it was tasty but the level of sweetness and saltiness is too high that it doesn’t feel healthy anymore. It’s something that we wouldn’t want to consume often. Thankfully the Briyani was mild tasting otherwise it would’ve been overwhelming 😯"
+"Good. The best was shepherds pie. I loved it."
+"seabass is good. but not enough fish. portion is a little small"
+"1. Sambal seabass - was a bit spicy but ok, just that the veggies this time wasn't so fresh
+2. Coriander chicken meatball - i liked the taste
+3. Oven breast chicken - a bit bland for my brother
+4. Falafel - it was ok (according to my mom)"
+"Hiii! Haven’t actually tried it, tbh because due to it’s ready to heat nature I’m saving it till when I’m craving for it hehehe"
+"Hi! The meals were good. But I particularly like the buttermilk and falafel, chicken coriander meatballs. I let my hubby tried the Ayam merah but for him he said portion not enough. But tbh is subjectivr. I'm just thinking if there is a better packaging to avoid using plastic bag"
+"I didn't eat the meals as they were for my daughter. She seems to like them a lot. Eats up every single grain, which she never does when I cook 😂
+ She says the portions are too small. Is it possible to pay more to increase portion size?"
+"They were great 👍🏼 will order again  ☺️"
+"Hi Mako, meals are great! They save time and helps solve my problem of figuring out what to eat for lunch. 😂 Very easy to heat up and very delicious."
+"Hello Mako! Thanks for sharing it to me! Love what PichaEats doing, thanks for making me able to support the community 🥰"
+"Hi Mako, the meals were delicious. But I do prefer a bit more sauce 😁"
+"Delicious 😋 💯I like the oven roast chicken 😇"
+"I think everything was great taste and packaging wise. I personally don’t eat like chicken wings so would be great to have a choice even with a fee."
+"Omg amazing! It was delicious I will ask hubby what his fav was hehe"
+"Nice."
+"Yes, the food were good. But there were several aspects that can be improved on. 1. Za'atar Lamb has bits of bones in it which was rather unpleasent. Would have been better to take out all the bones.2. Falafel and buttermilk, the buttermilk sauce is very delicious. Unfortunately, the falafel is dry and hard. 3. overall i like those with brown rice as those with tortilla are hard and dry. 4. the kebob is very delicious, would have been better if we can have it with buttermilk. But overall, its my fav. 5. My husband love the Ayam Masak Merah. 6. we havent eaten the Seabass, oven roast and percik yet. i love the mixed veg. Can we have just the mixed veg option. yeap. the steam vegie and butter is delicious!"
+"It's good of course! I havent finish it yet, taking it slowly, preciously haha"
+"Thanks. We enjoyed the meals 🙂 only complaint is that the sauces are always too little. Haha"
+"I hv already given this feedback to Kim & Swee Lin - I thk that the sustainable packaging isn’t suitable for freezing. Firstly, when hot food goes into d pack, the steam softens d packaging and when it’s damp, d packs sag a bit and it affects d shape of d packaging.
+2ndly, when d packaging sags, the lid doesn’t close properly so if they go into d freezer, the food will dehydrate faster.
+3rdly, paper or cupboard is porous. And isn’t suitable for freezing"
+"Really love seing the impact and progress you help make to so many families 😊 Meals are awesome! I love this months menu!! The chicken mandi is amazing as always but love the chicken meatball coriander w pasta 😊"
+"Very good 😃😃😃"
+"Meal was good. I was thinking if I could use my own container in future haha. so far taste is ok =) i hope there will be fish in future haha"
+"The meals were good. Waiting for October’s menu to come out ☺️"
+"Hi, I enjoyed every bit of it. They were delicious and tummy filling. Just nice for me 😚👍🏻"
+"Hi Mako! So far it’s awesome! Never expected a frozen meal can turn out to be delicious 😋 Looking forward to order for next month!"
+"It’s amazing. Thank you for the awesome meals"
+"Hi Mako! I loved the Coriander Chicken Meatball. It was the best! It was really good. The Roasted Chicken was good. Liked that the chicken was tender and that it tasted good. Wasn’t a fan of the Falafel as Falafel itself is dry, with plain rice, and insufficient gravy, it didn’t work well for me. My mom had the Chicken Kebob she said it’s okay. Haven’t tried the Ayam Masak Merah and Percik Chicken.The soft cookies were good too"
+"Hi!! It has been great! Very tasty. Looking forward to the menu for oct"
+"Hi hi, the meals are really delicious. I still have 3 meals I have yet to try."
+"My partner is enjoying it. She’s very pleased with all the meal. She’s looking forward for next month menu.
+
+Her favs : chicken mandi, meatballs and ayam masak merah ;)"
+"I think the chicken rendang is not my cup of tea. But the chilli con Carn and the roast chicken is nice. The kolo mee was fantastic... With a lot of colours"
+"Hi! Haven't had them recently"
+"I love it"
+"awesome. fav: bolani and sambusak. RTHM: so so... mayb im jst not into the meals haha"
+"Thanks for checking. They smelled great - - we ate the noodles from E Malaysia but gave the 6 meals away😊"
+"Thank you! This is so cute, now I feel like trying this dessert hahaha. Good good :) haven’t had all yet. Enjoyed the cookie as well"
+"I haven't had a chance to taste the freezer meals but for the ready to eat - the noodles are ok. But the creme brûlée is inedible so I just binned it. There's too much water which ruins the texture. The rice is no longer chewy or glutinous and the creme brûlée was too soggy/watery"
+"Still have a few boxes in the freezer but so far my favourite one is the chicken gulai, it’s really tasty!"
+"Delicious! Thank you! I’ll tell you when we get through more of them - although I suspect this will prove to be a difficult question as they all look so good! We eat them once a week - a treat to sample different cuisines and for me so I don’t have to cook..."
+"haven't eaten"
+"Thank you for this that has brightened my day. 
+
+The meals have been excellent. Enjoyed them all so far. They have filled me up too which is not an easy thing to do.I think the tomato chicken kebob might have been my favourite but I enjoyed them all"
+"Nice. Tq!"
+"Good experience, the meals were very delicious, service was convenient. The follow up was good.
+
+Shawarma got garlic thm sauce, it didn’t go well (curdle)after heating. 
+
+First month didn’t use 3 meals too fast. 2nd and 3rd month start using it more. Finished it within the first 2 weeks in the last month. 
+
+Don’t usually eat take out, usually cook. Now, the meals are tasty and it’s there, so it’s nice. Calories count was good. Biodegradable packaging was good and love the healthy and clean ingredients. It didn’t feel like a take out"
+"It was ok but not used to eating frozen food, some of the lunch boxes came with rice, even sprinkle with water and microwave, the rice tends to be dry. 
+
+In terms of the flavour of the food, it’s ok. Weren’t able to finish all the meals every month. 
+
+Meat doesn’t come with gravy. So, in general it’s dry. Have the food at home. Financials might be a problem cause of other commitment. 
+
+Kept saying it is dry, mentioned afghan curry chicken, not easy to eat."
+"would like to continue with recurring subscription"
+"Quality is good but a little things like vegetable. Nothing that affects the overall experience.
+
+Initially it was more Middle Eastern flavour, the menu starts to diversify later and fusion. Some were just ok, some were not so what she was expecting from Picha. Because in her mind, Picha was Middle Eastern.
+
+Didn’t understand the taste, like soylaka. 
+
+In terms of experience, the Mediterranean are usually warm and wholesome. Others felt like a normal meal. 
+
+Wanted to try out the subscription but cause don’t eat red meat, the options felt limited. Having options is what she would like. 
+
+Have to be conscious about when she want to eat certain dishes, needs to plan carefully and deliberately. 
+
+Still storing food cause bought quite a lot. Want to stop the subscription for awhile just to clear the freezer. 
+
+Delivery timing is good. Notifications helped a lot. 
+
+Don’t know where to look for the latest information cause subscription settings or prices kept changing. 
+
+Vegetarian option very limited, standard menu is very appealing. Like flexibility better than subscription. And the random discounts. But cause of personal schedule change."
+"Thanks for checking. They smelled great - - we ate the noodles from E Malaysia but gave the 6 meals away😊"
+"falafel missed out"
+"Hi there Mako, thank you for checking in the meals were delicious! The menu looks great indeed (ig) but I am seeking for options for a carb-less lunch and picha is very generous with rice (though its' healthy rice but I don't eat it and it goes to waste...)"
+"We enjoyed the gulai, masak merah and the con carne!
+portion wise is alright, but tomato kebob and lamb is not my bf favorite as the three above 🤭"
+"the meals were good"
+"The meals are great"
+"The food after being frozen, its not that nice (this is general to other  food too) especially the vege and rice..
+If given a choice, would purchase just the dishes and omit the rice and vege..
+Ive thrown the vege last round and this round..and the rice, i use to make fried rice cos its nice anymore.."
+"I believe I have already shared the experience with the last delivery."
+"I love the food! It’s so flavourful and I especially love your vegetarian selection.
+Had the coriander meatball today - it was so good! Your helpings are so generous and I love how I can swap the carb to veggies😊 Please send me sincere appreciation to the families that have been helping with the preparations!"
+"The food was really yummy! My view on frozen food items changed 🤯"
+"the only comment....
+the way of you all using eco friendly packaging is no eco friendly and no user friendly at all..
+at the end we have to move the food into a non eco-friendly microwavable container to heat up the food."
+"it was good =)"
+"the food is delicious! love everything so far.I like the ayam mask merah and buttermilk best!"
+"Yi Ting said it was good - vege crunchy, fluffy rice, AMM fresh"
+"hey hey overall service and food were yummyyy. but the vegetarian one wasn't really nice. Just the food combo is not suitable for me. Few friends tried too"
+"Very nice meal 🙏🏻"
+"Hi! Hmmm. They're all pretty good, but I guess I like the tomato chicken kebab. Perhaps the falafel was a bit of a miss just cuz there wasn't any meat but it was good nontheless."
+"Hi Mako! The food has been great so far. Esp the Rendang, Roast and Grilled Chicken. They were very tender and juicy. However, may I know if I can request to switch a meal for a different one for the starter? I have a sensitive stomach and for some reason the Tempeh Shepherd's Pie didn't agree with me. I don't mind a simpler meal. Would that be possible for my future order?"
+"No deliver"
+"It’s been great, I’m really enjoying the food! Ah... Sure! I’ll let you know once I’ve tried all of them."
+"*Four blue ticks"
+"Late delivery"
+"Takes more than 3 hours to defrost"
+"Hi.. I’ve got one more to go. So far it’s good. Just that I am working from home now so I didn’t have the need to order more for the time being"
+"Hi, the food is good and service is good too. A suggestion would be as the delivery time is between 10-12pm, would it be possible if the delivery person send a text to say they are on their way?Btw, can I change my subscription from bi weekly to monthly? Thank you."
+"Everything was great"
+"Hi Swee Lin, awww thank you! it's been great, the food are rreeeally good! I'd love to restock sooooon ❤️But i always have a special spot for mandi!"
+"My son (who is a foodie, and a self-declared food critic) simply loves the meals, Mako.
+where's the option for add-on veggies, pls, Mako? Am i missing something?
+Also, Mako, is it possible to order more of the premium menu meals as add-ons?"
+"Never fail to satisfied my cravings hahah🤤, I've only had three of the meals, so far I like shepherd pie the most haha"
+"The food is very tasty - I feel the price is a bit high for the portion size but it is worth the extra to know we are doing some food.But some of the meals have very high calorie count!"
+"Hi, the food is tasty. But we realised that when we freeze it for a few days that the heating time is longer in the microwave and the taste is there but like the chicken rendang ends up having a lot of water. And this is even after defrosting is for half an hour"
+"Hi, we really enjoyed the meals! we are definitely wanting to order again"
+"*Seen"
+"overall food is nice. Maybe a couple of feedback: the chapati maybe can give 6 pieces? because they're small, kinda not enough...the chicken was a bit dry"
+"Hi! They were great! Although I don’t think we received what we actually ordered.. but it was fine. We will definitely order again"
+"*Subscribers"
+"Very nice meal 🙏🏻"
+"* Four blue ticks"
+"*Seen"
+"Thanks for the update! I just happened to have a finished my picha meal 5 minutes ago. the dual beans falafel was PHENOMENAL"
+"Your welcome. Although we would like to continue but my microwave broke down. It has not be easy to heat up since the second batch of meals. Not planning to buy a new microwave until I move to my new house next year. Please do keep me posted."
+"Awesome! Thanks"
+"Sorry for the late reply!! Thank you for sharing ♥️ All’s good. Enjoying the meals at home these days. So glad I’ve got them! I’m still so surprised at how the chicken can remain so incredibly tender and moist after being frozen for long. My mom was impressed too! Kudos to the chefs 💯. Perhaps can consider expanding to low-carb packages too in the future, since health food is a movement these days. I’m not health-conscious but am personally not too fond of rice 😂 Would be happy to replace it with plenty of veges haha I think many could possibly feel the same too! Now that more people will be working from home in the coming week, hope you guys will get a surge of orders! 🙌🏻 Looking forward to my meals next month ♥️ Best decision ever to subscribe to this!"
+"We liked the pasta dish this round. The falafel and sauce combo wasn’t nice. I think it would better to serve falafel as it is with hummus, pita, fresh cut veggies. It’s not a dish that tastes nice as a fusion (in my opinion). It’s all a bit too same same too. Same veggies in each set, same rice. I do think the eggplant needs to be cut up or served differently in the pasta. We were taken aback by the shape of it in the presentation. Didn’t look appealing. But tasted really good."
+"The latest meals, I’ve only tried the capellini so far. And it’s very delish 🤤 Very tender chicken too"
+"Thank you too for great foods😊"
+"Heya. Yup mine was last last month and was good ;) thank you"
+"Hi Swee Lin, thanks for your updates."
+"I haven't finish them but so far has been good. I want to take this opportunity to give credit to your delivery person. I was at home alone with my newborn and was unable to carry all the meals from my Condo lobby. Your delivery person was kind enough to help me carry the bags up to my house. I really appreciate tat"
+"Aww thank you."
+"Food was great! Will be back again Service was good too. Very responsive Tasty and very nutritious.And most Importantly healthy!"
+"I’ll get back to you on this later. Sorry"
+"Hi, my daughter really likes the lamb shawarma. Can we order just that for next round? And maybe cereal coated chicken? Mandi chicken was too spicy for her."
+"Thank you for the little message! 😊
+The food was delicious as always. Service including the delivery was great!"
+"Hi!
+All good. Tasty and glad that we’re able to taste the food from other parts of the world..and the most important is to be able to support them, the refugees! Alhamdulillah"
+"*Convert to subscribers"
+"Hello The meals were yummy! I think the portion for the other 2 is good. But just the chicken and potato is a bit small for me. 😅"
+"It was very delicious, especially the falafel"
+"Hello! It's been good, really like the ready to heat meals, they are really flavourful :)"
+"Checked with my partner. She’s happy with the meals. Thanks"
+"Subscriber"
+"Had the coriander meatball today - it was so good! Your helpings are so generous and I love how I can swap the carb to veggies😊 Please send me sincere appreciation to the families that have been helping with the preparations! This is so wonderful 🧡💜 Thanks guys - keep up the great work and stay safe!"
+"I'm just on a carb-free diet at the moment, so may be ordering after :)"
+"Haven't finish the meals yet"
+"Hi there, I have high praises for the food. On days I don't feel like cooking these are my lifesavers. Thank you very much for making my tummy happy 😊"
+"*Four message blue ticked"
+"Thanks for the heads up! The food has been really good so far"
+"My pleasure! Literally! We loved all the meals and I actually want to place an order for some more today😊"
+"Hi, the food was fine, but i needed to freeze most of them and after the thawing and reheating, they didn't taste so great. I followed the instruction on your box. I think when i want to order again from you, i will just order the chef's package"
+"Hey I just wanted to feedback tht the spiced potato meal i had today - the potatoes are rancid straight out of the packaging. I had stored it in the freezer since the day we received so no mishandling unless they can't even keep for 3 days?
+Couldn't find any expiry date on the container either. Hope i didn't get a bad batch
+no i already threw it out and um i am a little discomforted that you are asking me to keep rancid potatoes to give you back - perhaps because you distrust your customer?
+I am not asking you to give me any money or anything  but i thought you should know in case there was some mishandling or packing so u can be more careful in future
+im not going to dig some bits of potato out of the trash for you. but i am also not going to be a repeat customer. wish you all the best
+No really its not necessary. I still have another of the potato meal.. i will try tht one and let u know if it's better or the same
+Hello no I don't have other feedback because I didn't eat the remaining meals. I forgot abt them in the freezer til last week and then had to discard so I don't know if they were any better."
+"Everything was great. My wife and I have quite a full schedule. Usually we’d try to cook, but recently our children have been having exams, so everyone in the house was busy! The Ready-to-Heat meals have really come in handy. We’ve tried most of the meals so far, like the chicken kebab, roast chicken, rendang, Soylaka chicken, falafel and more. They all taste good and are flavourful. The best thing is that it’s so easy to prepare, my daughter likes the portion which is just nice for her and my son knows how to just heat up the meals on his own without our help."
+"one of the sets ie the arabic spiced potatoes - the chic is very salty. maybe because I only ate it a day later.  and are the potatoes supposed to be on the sour side?  because half of it was slightly sourish and the other half wasn't, I didn't finish it in case it was a bit off and cause me tummy problems later. my mom didn't comment on the roast chic set and the falafel set was ok. Nope.  Btw some of the cauliflower had slightly rotten parts.  Can be overlooked when the team is cooking large quantities. It's a small issue but the salty chicken is the one that really threw me off.  Not exactly healthy if you know what I mean 😉"
+"Hey! Overall service was great, love the speedy reply! Food is good but I think the portion is a little small."
+"Contacted Suzanne"
+"Butter Masala and Pesto pasta is fav"
+"Food and service has always been excellent for me. Always the tastiest."
+"Hi just started to eat it today. Is tasty"
+"it was good, except for delivery, would order more"
+"No whatsapp"
+"You guys too! Keep up the good work. We’ll order more in the future :)"
+"Hi! It was not too bad. Pretty good. I still have some though haha"
+"thank you! delivery was good - we haven't tried the frozen food yet.  will report back when we do"
+"Hi!  Everything I've tried so far has been good!  My feedback would be that the meat dishes sometimes have bones in them which makes them more difficult to eat.  The tempeh shepard's pie was really heavy, but I think that's what you get with shepard's pie - I wouldn't order that again.  All of the curries have been wonderful and reheat really well.  I've added extra veggies to a few to make them last longer!  Thank you!"
+"..."
+"Hi i still have 2 havent finish will update you"
+"Hello! Thank you for sharing that video. The service is fantastic, I must say. Super hands on and it's been great to know the impact of my choices. As for food, I've only had one so far, the cereal coated chicken - and it was delishhhhh."
+"Just one point of feedback - I forgot to ask if you have non-plastic packaging options. I think I recall seeing “biodegradable” option on your website. I believe this should be your default option to reduce plastic waste. Otherwise, the food and service was great 👍"
+"*Four message sent w/o feedback"
+"Thank you! They are great. The meals are fuss free especially for someone who doesn’t have time to cook. I also like the fact that calories are all labelled so i can be mindful when im tracking calories of the day. I just wish:
+• the packaging can take sustainability into consideration - feeling guilty for ordering takeouts everyday and contributing to plastic waste
+• there will be more vegetarian options"
+"Food was tasty and healthy. Love it! Thanks"
+"Actually this is Zubin's brother. I had the food too. The delivery was good, even thought WE  gave you the wrong info, the delivery boys managed to sort everything out quickly.  The portions of the food was OK..If there was one issue...the food could be a little more spicier..( just a bit )  But overall : 👍👍"
+"Five Spice lamb was very nice"
+"Hello, the food and service was great, thanks very much!"
+"Subscriber"
+"*Subscriber"
+"No response after 4 messages"
+"It was great!!"
+"Good morning....nice update....glad i got to be part of the picha good kitchen effort....delicious symbiosis 🥰yes...i will continue to subscribe to the RTH meals."
+"*No response"
+"Oh Amir haha, your 3-months plan ended last month 😅"
+"Oh wow! Thanks for the report! It was good! Just I ordered too little. 🤣 3 meals just ain't enough. Hahaha."
+"Hi. Good morning. Yes happy to continue. Do let me know about next payment."
+"*Subscribers"
+"And yes.  We would like to continue the subscription"
+"Hello, no worries. That’s strange. Why is it then the ingredients printed also included chicken in the list? This meal was part of another compensation for the earlier delivery mistake. I think there is no need for another compensation. Yes, please do be more careful and consistent in all your orders in general. Have a good evening."
+"We are happy with all aspects of your service.  As pensioners we find it very convienient for us."
+"World peace and a side slab of char siew. I am more of an air tebu and teh o ais limau kinda guy"
+"Cross Fit"
+"The food is nice! I like it. Hehe."
+"The food was really good. If anything, a bit more sauce would be super good especially for the frozen meals. Service was great! I was wondering if I could return the paper bags for repeat orders because it would really stack up over time"
+"This is such a sweet msg. Thank u! I love the food so far and it has really helped me saved time and efforts cooking . I am usually quite busy hence PichaEats is awesome !"
+"Food is good. shared with my colleague"
+"Service was pretty good. Fast and convenient. Foods pretty good. Im left with 1 box 😂"
+"* Four messages blue ticked"
+"I think I liked it all, I’ll ask my husband. Can I get back to you later, we’re at the hospital for a check up"
+"*Subscribed"
+"No response after 4 messages"
+"No response after 4 messages"
+"Ordered other food"
+"Very good"
+"We loved it! We didn’t have to wait very long, it was fine. My sister and I had a very good experience"
+"Ahhh i see. I like the meatballs with pasta actually. No worries.  😊"
+"Always good :)) Hiiii ok actually because we're not in the office at the moment I haven't been eating the frozen food so a subscription doesn't make sense right now"
+"Hi.. The food was good :)"
+"*Proceed to next delivery enquiry"
+"Thank you!"
+"*Logee in contact"
+"No response after 4 messages"
+"Hi!Thanks for sharing 😁This month's meals I've only had 2 out of the 6 meals so farBut I really like the lamb & chapati The lamb stew was yummy and big enough for me to share too"
+"*Office Staff"
+"The meals were delicious!I just finished my last meal over the weekendit's really convenient even when I'm using an oven to heat it upbut I think 15min was enough for heating it up instead of 20portion of veggies could be a little more too but now is fine toooverall was a good experience!"
+"it was very satisfactory"
+"Eveything was all good. No feedback for now but if anything popped to mind, Ill tell yall."
+"Thanks so much for the meals 
+They were awesome 👍🏻 Also for the free snacks :)"
+"Hi, I’m Amy. Yes all meals were consumed. My husband and I loved it very much."
+"*Continued to subscribe"
+"Hi, sorry I forgot to reply. We were really happy with the orders, we have actually placed another order and recommended them to our friend who has also ordered some, thank you!"
+"But they are mostly chicken"
+"The meal was delicious, thank you 🙂"
+"I think it’s ok. Just that, to my fam it’s bland because we eat a lot of vegetarian foodIf you’ve tried vegetarian food from good places haha then you’ll know what I meanI think the difference is because ur vegetarian menu is kinda sorta more westernised whereas my fam is used to Asian palette"
+"No response after 4 messages"
+"*Proceed to next delivery enquiry"
+"Hi PichaEats! I’m interested to subscribe!Food and serviec were good too 👍"
+"No response after 4 messages"
+"Hello! It's Adrina by the way 🙂 Love the food (except for one because I'm not a fan of tempeh 🙂) and the service. Looking forward to the November menu! When will it be out, please? Tq!"
+"Meals have been delicious. Just did a big order for my husbands birthday next Friday. 
+Thank you."
+"Meals have been delicious. 
+Just did a big order for my husbands birthday next Friday. 
+Thank you."
+"Hello dear. Happy Sunday to you and loved ones"
+"Thanks for the beautiful message 🙏"
+"I ate 2 of it, spiced potato is still in the freezer. I think it was nice to have mix of carbs, protein and fiber in a pack. Everything is packed compactly so I can see that the team has tried to minimize the plastic waste. If I order again, I wonder if there is an option where I can send my containers few days in advance for you all to pack?
+Below are my 2 cents:
+
+What I like about the food/apckages:
+1. there is broccoli! 
+2. generous amount of chiken!
+
+Things that can be better on the food:
+1. the rice was a bit hard - I am quite used to brown rice, but I wonder if i didn't heat up enough or smth, it was a bit dry for me
+2. variety of vege - I wish there is a bit more variety of vege instead of broccoli in every pack - but I only ate 2 so I don't know if other meals have other veges
+3. Za'Atar roast chicken sauce was a bit too sour for me
+Overall, I think it was definitely a good start! I will consider order it once I start working in the office again. It is an easy meal for workday and has balanced nutritions"
+"The lamb was a little dry. Convenient for a busy workday with a short lunch break👍"
+"It was good. We liked the Za'atar Roast Chicken and Falafel in particular"
+"The food was great! I really like the simplicity of it because all I have to do is heat it up and its ready to eat. I especially loved the vegetarian dish (the one with the falafel). It really didn't feel like a vegetarian dish at all the falafel tasted like nuggets! All in all, the food tasted great and I really enjoyed them. Might order again in the future. Thank you!"
+"No response after 4 messages"
+"No response after 4 messages"
+"*Subscribers"
+"*Subscribers"
+"Hello, no worries. That’s strange. Why is it then the ingredients printed also included chicken in the list? This meal was part of another compensation for the earlier delivery mistake. I think there is no need for another compensation. Yes, please do be more careful and consistent in all your orders in general. Have a good evening."
+"I like it! But also I realize I’m more towards a vegetarian diet  ...so I may prefer a meat free option.I like the gingerbud capellini the most because it feels light and healthy ! Like the chicken masala was nice but it did feel a little tough"
+"The food was lovely and so flavourful, especially the dual bean falafels! The portion was just nice. I really enjoyed the ready to heat meals ♥️ Perfect for those on the go"
+"Hi thanks for checking. I haven't really tasted them as we were asked to WFH so I left them in my office fridge freezer.I have tried the nasi impit and I feel the nasi doesn't heat up well in the microwave"
+"It was delicious, thanks. 
+I still have another 2 packs to go through, one of which is being defrosted for dinner tonight!"
+"My only 2 suggestions are:
+1) More Vege meal options; and
+2) Price structuring so that 3, 6 and 9 Vege meals is similar to the Non-vege meals price structure, making it cheaper to order more at one go."
+"Love this new packaging!"
+"Hi, I loved the food. Meant to give you feedback too. My favourites were the zaatar roast chicken and bunga kantan pasta.I've been telling loads of ppl about your frozen food"
+"Hey, no worries. The food was amazing. I loved it."
+"Ordered again"
+"*Sent in photo to help with campaign"
+"Subscribed"
+"Four message blue ticked"
+"It was good... Really enjoyed it. Wasted one though"
+"Aw this is beautiful! Thanks so much for sharing 🤍🤍🤍"
+"Hi, we love the food! Aside from the hiccup with the wrong orders, everything was great"
+"all were good! 🤩"
+"Yes, everything was okay. One of my colleagues did mention that the chicken in the butter chicken set was a bit tough. No, it was from the Arabic Spiced potatoes set."
+"hi yes it was oki think for the vegetarian falafel, if its just additional falafel and vege without the brown rice will be good"
+"Hi the food is delicious! Out of the 6 selections, only 1 that is not quite to our liking, the nasi impit. The roasted potato with chicken is the best."
+"N0 response"
+"Four message blue ticked"
+"So far so good! Some I prefer than others. For example I liked the falafel and the Mediterranean food, but some like the tempeh shepherds pie not that much. Not sure if it’s cos frozen then unfrozen! Food is good tho I guess frozen roast veg doesn’t hold up to freezing well. Overall enjoyed it, and wld order specific fees again"
+"Oh. I don't like buttermilk falafel.  I loveeee gingerbud. Today's Arabic spiced was good too. Vegetables can only be crunchy if I steam lesser time as compared. to rice and mains. / I only ate zaatar and i steam it - Vegetables is crunchy. I can taste the butter. Happy.  - zaatar chicken is so nice omg - rice is fluffy"
+"Four message blue ticked"
+"I am glad I ordered. So healthy. The girls love the pakistani masala chicken. Never have I ever thought they like chicken in gravy but this is exceptional. I love the spiced potatoes (tasty gravy) and the gingerbud pesto flavor is abit off my preference but the type of noodle used was a good choice. Btw the cookie is the bomb. Can u add the cookie menu in the site as permanent?
+
+Btw i already saw the menu cookies in the site. I will definitely order soon. Just because. Haha."
+"Subscribers"
+"Hello, it has been awesome. It got better over time and I enjoyed all of them 😄 I freeze my meals and have them as lunch. My feedback would be:
+
+1. It took me 6 minutes on highest setting on my microwave to defrost the meal so maybe a note to say it takes about 3 - 6 mins to defrost (instead of 3 mins)
+2. I requested veggies instead of rice for all my orders that have rice and got it which is awesome. Would love to know what veggies you guys use hehe. 
+3. If I defrost frozen veggies, I noticed there will be a pool of liquid at the bottom. It's not very enjoyable so I would suggest adding a note to defrost veggies separately so it'll be easier to drain them.
+
+That's it from me I think. It's an awesome service and you guys are awesome and hopefully, I'll order more in the future and get my friends and family to order as well 😄"
+"No response"
+"No response"
+"No response"
+"*Subscribers"
+"It was good. As usual"
+"Loved the chicken masala but maybe it would have gone better with the Prata😅"
+"No response"
+"I will surely order again. The food was good. I can’t remember the name, I think it was chicken with Arabic spices."
+"Everything was good! Thank you."
+"Thanks"
+"It was awesome thanks a lot. Love the food and it’s super wholesome"
+"We are really enjoying having the meals so we are looking forward to continuing our subscription"
+"I kinda wish the veggies are more and the serving size is bigger the nasi impit side condiments are too sweet"
+"i just want 6x arabic potato"
+"Wrong Delivery"
+"Constructive feedback of the fam so far: The chicken butter masala flavor was really good, chicken is just on the tough/dry side. 
+
+Zatar Roast chick is really nice and good that’s it’s generous on the sauce 🙂
+
+Capellini pasta, wasn’t too popular for my girls as they find it quite sweet."
+"We’re enjoying the meals and what they represent😊"
+"Hi:)... the food is great! Is convenient & i would like to reorder, however will d menu changed? My hubby hope to try a different varieties for next order...."
+"We like all 3 but anything bread is preferred."
+"All good, but the veges are almost all the same 😅"
+"Hope for more variety"
+"The tempe lasagne one, no one in the family keen on finishing that. We tried 😬"
+"5 starts thank you.It's good. Chicken spiced potatoes that one"
+"It's great! Gonna order more"
+"Good morning Mako.  The meals are good.  thanks. I like the Chicken Butter Masala and also the cute little chapati."
+"For the meat curries / vacuum packs inside the boxes. You may want to ensure there is a little slit at the corner of the pack so it's easy to open without scissors. In case people are bringing this to the office to reheat. You'd be surprised how some pantries can be quite ill equipped haha"
+"*Four blueticks"
+"*No response at all"
+"*No response at all"
+"1. Dual Beans Falafel - ok. Falafel was very good. 
+2. Gingerbud Pesto Capellini - it was my mistake that I didn’t specify eggplant and got chicken instead but no matter. The pasta was dry and the gingerbud pesto was too exotic. 
+3. Tempeh Shepherd Pie - the pie was sweet. More sengkuang (or is it potatoes?) than tempeh and beans. Not to my taste at all. I was expecting something savoury. I’m sorry to say, not good at all. 
+
+I microwaved all meals as per instructions, and in all 3, the side  vegetables were dry."
+"Hello yeah i got all of them! I’ve been going down the list so I can keep track of what i’ve tried. So far (3 meals down) everything has been nice. The coconuty sauce for the falafel is great.Just a note, i wished that how long i can store it was stated somewhere. I eventually found it on your instagram."
+"Meals are great, am planning to order again."
+"We haven’t had them all yet. I love the felafel one. My husband loved the chicken masala one. Haven’t heard his feedback on the ones he had today 😃"
+"Hi Picha..Meals well received. I should apologize seem like I make you confused on the delivery address. Lucky your driver managed to get the correct address. Rollin in the dip super nice, big portion.. handmade pita not oily n very soft. Roster chicken taste super Yummy..😋"
+"They are amazing especially during this cmco season, packing to office is safer"
+"No response"
+"No response"
+"No response"
+"No response"
+"Hi, service is excellent, food is fine 😊 Thanks for following up!"
+"No response"
+"It was good, thank you! However if the falafels are juicier and bigger, that wld be perfect"
+"Hi Mako, everything is good, just 1 small comment about the nasi impit from my first order some time ago - I think maybe not the best ""format"" of rice for frozen meals haha. After reheating it's suddenly very crumbly I have no issue with the others, everything is nice, my fav is the Arabic spiced potatoes 👍👍"
+"Hi hi. WhatsApp is ok"
+"*Subscriber"
+"No response"
+"I love the food. Service has been very prompt and responsive. Sadly I have a very small fridge. And right now it is packed 😭 I do want to order again. But have to clear space first 😂"
+"No response"
+"No response"
+"I prefer whatsapp. Everything ok. I may wish a bit less oil in the preparation"
+"No response"
+"Hello, overall service is good and so is the food. :)"
+"No response"
+"No response"
+"*Subscriber"
+"Was great, we ate it on the day itself. It was delicious."
+"Replied Matthew- PM"
+"*Subscriber"
+"Surely good. No thanks mate! Will let you know later if interested"
+"*Four message delivered"
+"*No response"
+"the meals was perfect and very tasty. good job."
+"Meals were great , thinking to order again"
+"Everything is good"
+"I haven't tried it but my husband is more keen on red meat than chicken haha, but this month menu all chicken i think, except the premium ones. So I'm waiting for your next month menu to see if got some red meat stuff 😝"
+"*Followed Up"
+"Hey! Thanks for the cute video, happy to help :) Here’s my review of a few items this month: 
+- Tempeh shepherds pie- I think this is a good option for the menu but was too sweet for me. 
+- chicken with ketupat - yummy! 
+- green chilli chicken - yummy!"
+"Hi thanks for sharing and learnt bits and pieces of the community through our meals as well :)
+- Overall its a new experience as to having ready to heat meal. The only shortfall for my experience is that not all menus are suitable to be kept for long and heat up using microwave. I believe some of them would taste better if i have them much earlier of the days when i received the meals
+- otherwise i absolutely love the falafel -and also the green chili chicken w the chapati was great! (provided the chapati is heated up using a pan instead of oven or microwave)
+-  these 2 were my fav among all"
+"*Long time subscribers"
+"Meals are good as usual! Portions are smaller than what I first had in August but just slightly Just slightly, maybe the beta versions were still in trial"
+"Nothing to add for us to improve"
+"*Followed Up"
+"🥺🥰"
+"Which meal was your favourite? Probably still the arabic spiced potatoes, Lamb is second but I havent tried the chicken mandi yet"
+"A lil disappointed with my repeat orders of the 9 meals. I suspect it could be due to the change of the packaging compared to the previously ordered batch. - The new packaging couldn't keep the vege fresh unlike previously
+- So it's either frozen and turned into popsicle or loss of freshness
+- Taste wise the butter masala chicken is a lil bland compared to the previous batch...akin to missing some spices (my speculation)
+- This time around, I use steaming to reheat the meals. Once it's done, the vegetables lost textures 😓
+- Like it died and die again. Rather different from the previous batch where to my amazement the veges were crunchy"
+"*Followed Up"
+"Food was great Alhamdulilah"
+"*Followed Up"
+"Looking forward to the next batch 😍 Do you have the menu already?"
+"Ordered again"
+"Meals were good. Don’t really have anything to add. I have spoken to your intern before and maybe just the meal prices. It is a little on the pricey end but i understand why as well as ingredients are good"
+"They were amazing! It tasted like I wasn't eating microwaved food hahaha"
+"* No reply after 5-6 messages"
+"Can share the menu for November?"
+"Hi Mako, all good 🙂 and the cookie and handwritten note was a fantastic touch 🙂👍🏼 Keep up the good work!"
+"Amazing so far, loved the Wrap and the soy curry. Will try the rest and let you know"
+"*Same with sanjarih"
+"The meals were packaged very well and warmed up really easily. We really enjoyed how healthy they were (none of the dishes were greasy). 
+
+The only thing I would say to improve is more of a personal preference. We found the meals a bit bland and would’ve liked more sauce when there was sauce available."
+"*Followed Up"
+"*approached us to place order"
+"The meals have been great so far! Really enjoyed the portions and the sizeable amount of vegetables, other ready-to-eat plans I've tried before didn't include that much vegetables. If there's one thing I would like is for maybe some diversity in the vegetables, but I can understand if that's an issue for stuff that needs to be frozen."
+"*Followed Up"
+"Meals were great! Very happy with them. Super yummy too Thanks. Would be great to have family sized meals"
+"*Followed Up"
+"hi Picha😊
+we love the chicken meals, maybe falefal a little tasteless for us?"
+"Contacted for Chicken Wings"
+"- Hi Picha... I tried your precooked meals
+- Just a bit of feedback for improvement
+- Portions are substantial. That's good 😊
+[2:35 PM, 11/17/2020] Ready-to-Heat meals: Maybe can also have a QR for more detailed preparation advise
+-The basic microwave, oven instructions are ok - but some of the meals could be nicer if heated separately or in sequence
+- That's why I'm suggesting it on QR so only those interested can check it out
+[2:35 PM, 11/17/2020] Ready-to-Heat meals: Food has been good so far 😊
+[2:35 PM, 11/17/2020] Ready-to-Heat meals: Can I choose my meals randomly or it's fixed based on the 3, 6 and 9 meals package?"
+"*Subscriber"
+"One of the reasons I subscribed is that the meals are environmentally guilt-free"
+"Yes they were good, thanks for checking in"
+"Proceed to order for group meals"
+"Hey Mako, I only had one. It was good the tofu curry. Saving them for days when I'm extra lazy to cook"
+"Hi. all ok"
+"the best is Falafel, gingerbud pesto pasta, chicken butter masala....d worst is tempeh shepherd pie & the roast chicken was hard according to my husband....the rest is alright....just sometimes many curry related meals reminds of my own cooking using premix sauce which I tried to avoid haha....last month i noticed d vege is soaked with water when defrost not sure why....this month is less wet...but overall is ok. ohya thanks for d kombucha and cookies....i reli enjoy it"
+"Hi, good thanks! how are you? Meals were great thanks!"
+"Ordered for the second delivery"
+"Ordered second time but no reply"
+"I am well thanks and hope the same with you. Meals were yummy. I had tagged picha on my IG. Not sure if you guys saw it"
+"The meals are great. 1-2 of them are quite oily ie Afghan chicken but otherwise taste is great. The saltiness is good."
+"Yes, finished my meals. Love it! Didn't know I could swap out rice for more veggies haha"
+"*Never respond"
+"The only feedback we have is that your font size for instructions is too small and i almost heat up my meal with the plastic inside with the sauce! But then thats my bad la hahahaha - user issue"
+"It was good...but perhaps made a mistake re steaming it as it was quite wet in the end"
+"*3 months ended"
+"Kids liked the lasagna, come back in January to ask if she would like to continue the service"
+"*3 months ended"
+"[13/11, 19:29] Yosevine Yang RTHM: thanks for everyone who cooked it💞
+grilled chicken kebob!
+Let Chef Fida know that I really like her food!"
+"hi there, so far so good, thanks for checking in
+
+i did a few video review to help you promote : https://www.facebook.com/532242915/videos/10157782125112916/
+
+eview for chicken kebab will go up over the weekend"
+"I'm good and tq for checking in, the food was good yes"
+"Next time can u pls let me know which chicken body parts r used in each dish - thanks I don’t want to order anhtbjng using wings
+
+I essentially paid for sauce rice snd vege
+
+Not good 👎🏻"
+"Ordered chicken wings"
+"you guys keep up the good work too! are all your picha families safe and ready to tide CMCO? how's their stress level etc?"
+"*not in contact"
+"*Sent referral link"
+"*Subscriber for next month"
+"*Sent referral link"
+"*Sent referral link and increase number of meals"
+"*Subscriber for next month"
+"Asks for calories count"
+"I honestly love all the curry dishes. Hard to choose a favourite though! There was a pumpkin curry one which was amazing. And the chicken curry with chapati was also super nice. Compliments to the chef(s)!"
+"Morning, Mako! All good, thanks. Yes, will order again. Waiting for Dec menu. Ta so ,uch. Cheers."
+"Yes we (me and my son) finished the November meals, waiting for December menu to be out. We loved ALL of the meals. I cant recall any that we didn't like.  Y'all have great chefs there 😊"
+"I don't cook so I eat takeaway n delivery food a lot.. The Mediterranean lamb stew is really good, would be good, if there is more gravy"
+"*Biweekly delivery, constantly chatting"
+"*Drop out"
+"*Sent referral link and will help to send arounf"
+"*Came back to order for another set end for end of November"
+"*Sent referral link"
+"*Sent referral link"
+"So far only had Afghan Curry
+I also must say. 2 pieces is a healthy portion. Especially for a gundu like me"
+"*Sent referral link"
+"*Subscriber for next month"
+"*No response"
+"*Subscriber for next month"
+"they were great, I would personally prefer a tiny bit larger portion size.but I am also a hungry girl, that is just preference. It keeps well, flavour and textures are retained post heating and im happy. veggies could be seasoned a weee bit more"
+"*not in contact"
+"The Tempeh Pie tastes really good but many can be more generous in serving since it is vegetarian"
+"First time trying soy chunks and it's really good 😍"
+"- Hehe I love the rice!!
+- Honestly I haven't ate all the sets yet
+-The soy set was surprisingly good
+-Was apprehensive as I was wondering how that would taste like"
+"yes i have....all good on my end. I like the portion size...the rice...the protein...the veg...all proportionate. The batch before this I felt was a little much rice...so i was setting aside some rice every time. This time its just nice its typical middle east style cooking...n thats what we ordered"
+"Need a pork dish in your menu"
+"Can we have two in next batch my wife and like this one. (Arabic Roasted Chicken)"
+"*Biweekly delivery"
+"Food-wise, everything was yummy and filling, if anything the wraps felt more like a snack than a meal"
+"My only note would be that the side vegetables are a little underwhelming 😅 otherwise everything else is great"
+"Everything was great.  Shawarma was our favourite. Followed by the chicken kebabs Also wish the falafel was a regular item on the standard menu"
+"I'll feedback after I've INHALED them. (they go fast in this household)"
+"Actually, some of the curries were a bit too salty. But other than that, everything was good !I loved the butter chicken. Probably the healthiest butter chicken I've ever had"
+"Yes! I think the chicken kebab and chicken mahmi were fine though! I enjoyed them  ☺️"
+"Yes I have finished my meals and it was delicious. My only peeve is the dollop of butter in each meal. I find it the butter tend to make each meal taste the same (buttery). Not sure if I am making any sense
+Maybe could used olive oil or something less rich
+Keep me inform of your December meal plan menu"
+"Hey! 😊 So far, I've tried the afghan curry chicken, soy chunk curry, creamy vegetarian shepherd's pie and grilled chicken kebob. They are all really yummy. 
+
+Except for the kebob, the rest is a tad salty for me. Not sure if that can be tweaked? Also, maybe can rotate the side vegetables with another option so that it's not the same for all meals?
+
+Other than that, I'm really happy with the sufficient portion sizes and creativity of the menu. Looking forward to next month's menu. 😊"
+"yeah i had finish all my meals.. i think for the afghan chicken, the rice feels abit ""sandy/rough"""
+"Feedback so far only positive ones
+
+1) portion size is comparable with the price
+2) packaging is eco friendly 
+3) food is tasty and it is good there is calories indicated in the list before placing order"
+"* Dropped out"
+"* Dropped out"
+"Hello! I really enjoyed the meals prepared and I’d like to order another set"
+"*We missed out 18meals"
+"Hi there, and so sorry for my extremely delayed response. Just finished my last meal today : ) Pleased to say that I loved the food 🙌🏽 - it always makes me happy to open up a pack and dig in.
+Actually just one thing I wanted to ask, I am a bit of a fussy eater 🙈 and eat pretty much just chicken breast and maybe wings. Do you have any recommendations or way around this for me? I know you only do special requests for vegetarian meals only. Is there an option to hand pick my meal?"
+"[10:10, 01/12/2020] Alex Turner RTHM: Hey can I order some more meals please? One vegetarian set and 6 standard meals please?
+[10:12, 01/12/2020] Alex Turner RTHM: Can I swap the roast chicken dish to another veggie dish though please?
+[10:12, 01/12/2020] Alex Turner RTHM: Also can we add a sour dough bread"
+"*Too many conversations"
+"Hi , is very good"
+"*Order on behalf"
+"all good
+: :)"
+"hi the meals were really nice. and we loved the tea and cookie, thank yu
+I just feel the portions could be bigger
+ because we are a family of 4 on a budget"
+"Ananas Curry Chicken too bland, Soy Chunk and arabic Yummy"
+"Well, i really liked the chocolate cookie in the last delivery (but I am not very healthy and a bit of a fatty)"
+"*Referred another friend"
+"Hello 
+Yaya everything’s good 
+Except the veggies taste a bit soggy after reheat"
+"*Given non vegan meals to customer
+The meal last week was good! :)
+feedback were generally good"
+"Yeah the meals are good..so far I’m satisfied
+I think the only thing would be the heating up part
+ I use a steamer to heat it up because I don’t have a microwave in my office..so sometimes it will become a bit watery
+But the taste still good 👍🏻 so not really an issue"
+"*Ghostbud B2B"
+"Hi. Happy New Year. For the ones I tried were good. Just wish the portions were slightly bigger 😊"
+"Hi Hi. Meals were great thought the star was the mousakka eggplan"
+"All were good as always."
+"Yes, al the meals were good 😊 
+I recommended your services to a friend who I believe has placed an order. Her name is Steph and she’s also at quadro"
+"It was good TQ (also responded to Jia Hui)"
+"Which is with food with accompanying sauces (I can’t rmbr which now sorry). 
+
+Adding sauces jn a mini container actually downsizes the portion of the components. So for example I get less rice in my box which makes me a little less full 😆"
+"hii Good evening 😊 Thank you and stay safe for you too! The meals are good, Im satisfied with it. Not only the meals, the delivery time is on time, which is great. No suggestion so far from me"
+"Happy New Year 😊
+Rest of the meals were great! Loved the chicken kebab and honey roasted chicken"
+"I have a few more to try, so I will get back to you once I've finished them 😁"
+"Hihi, sorry for late reply. The meals was great, i still have 3 left in the freezer. The pan Seared garlic prawn is really spicy for me😅 Overall others taste 👍🏻"
+"i wrote a fb post
+ have only had 2 of the meals so far. they were good 👍"
+"Hi, only tried 2 meals. Otak was tasty but quite salty. 
+The chicken kebab was ok, but the pita bread became hard after microwaving. Maybe I should have steamed it.
+
+I was impressed with labelling of ingredients etc..
+[18:14, 17/12/2020] Ka Mun Siew RTHM: Chocolate chip cookies very good
+[18:14, 17/12/2020] Ka Mun Siew RTHM: Spicy chicken wings also good"
+"[05:59, 17/01/2021] Caroline Gnanu-Arun RTHM: Morning, Team Picha! Hmmmm.... Son wasn't too keen on Dec menu, unfortunately. Think it was too adventurous for him. But he seems happy with Jan's pick. Hey, we can't please everyone all the time.
+[06:00, 17/01/2021] Caroline Gnanu-Arun RTHM: I do appreciate your great customer service and truly support the cause behind the cook!
+[06:00, 17/01/2021] Caroline Gnanu-Arun RTHM: Ta so much. Cheers!"
+"All good👍🏼"
+"a"
+"Hello! Sorry for the delay, my brain is scattered recently 😂 My pleasuree! Urmm i don’t really have much to say hahaha, overall it’s been great! You really need to sell your sauces and butters! It’ll be very convenient cuz sometimes it’s not enough for me 😝 It’s been awesome trying different menus! It’ll be quite interesting if you start offering crabs, and more seafood options too, can also be part of premium meals! Or if i can have more premium options instead of only 2 cuz I loveee your mandy! 😍😍😍 More option to customise the package would be nice, instead of 7+2, maybe i can play with 4+3 etc 🙂"
+"I really enjoyed the December menu. Felt that the variation of meals was better than previous months."
+"hahah I think you guys are doing great =) keep it up"
+"[10:55, 17/01/2021] Damaris Kiat RTHM: Hi the pumpkin bites could be improved
+[10:55, 17/01/2021] Damaris Kiat RTHM: The combo with rice was kind of awkward"
+" The vege gets soggy after freezing and it's always the same vege. 
+She said that the broccoli and cauliflower especially don't taste nice after freezing and reheat."
+"Hey thank you for asking! Firstly, I'm always excited about looking out for the monthly options which are always so creative and exotic. If I might just go back a little to November, that was the month for me to kinda gauge how I like the food. Love the fact that you guys use brown rice, other favs of mine would be the grilled chicken kebob and chicken shawarma wrap. The butter ratio was a bit of an adjustment for me - the afgan curry chicken was a bit tough on me 🙈 but that's a personal taste/preference thing I guess : ) So learning from November, in December I only mixed in the butter where absolutely necessary. Hey actually not sure if it's butter that's contributing to the taste, but it's something on the more slippery, oil-like kind of taste. 🤔 So a fav from Dec would be the Nasi Ambeng - love! I think moving forward, I might also separate the chapati or bread like consistency food and sprinkling it with some water before heating it up. Otherwise it gets a bit on the dry side - but that's not on you guys, that's on how I heat things up 👍🏽 All in all I would say you guys are doing a great job
+All ok 👍🏽 If anything, and if it might be something you want to consider down the line, it would be great if we could get a notification that the person delivering is about half an hour away from reaching my place. This way, if I am in a meeting, which has been the case for the past 2 times 🙈 I can pre-empt my mom or some other family member to be on standby to collect. So far, I've excused myself from the virtual meeting to collect my food as the 2 hour span i.e 3-5PM is slightly on the broad side"
+"Also, the Christmas chicken wings were amazing"
+"[13:21, 16/01/2021] Adrienne Yong: Hi! Hope you guys are doing well too!
+[13:21, 16/01/2021] Adrienne Yong: Oh yes, for December meals.
+[13:22, 16/01/2021] Adrienne Yong: Really happy with the Xmas design and packaging btw. Something new to look at while waiting for my meal to heat up 😂
+[13:23, 16/01/2021] Adrienne Yong: The nasi ambeng, while I've never had it before, I feel it could do with more of the gravy. Not sure of how it's meant to be
+[13:24, 16/01/2021] Adrienne Yong: Because I mix it in with the soy chunks and vege and rice altogether and find the gravy just abit short
+[13:25, 16/01/2021] Adrienne Yong: But the cereal pumpkin and lemongrass chicken kebob were my favs of the month 😍
+[13:25, 16/01/2021] Adrienne Yong: Lemongrass chicken kebob was super juicy and flavourful"
+"Hey! Sorry for the late reply. December menu was awesome and love the foods and also the designs 😍 Just that Mac & Cheese and Persian Chicken & Potato Stew was a little dry. But it tastes great nonetheless."
+"I'm doing quite well! I think the food from December was okay, but the kimchi mac and cheese was a miss for me"
+"All tasty. Probably the vegetables.  Some gets soft and I have to dispose them No big issue. I probably also left it in the fridge longer without freezing thinking we will finish eating them in 3 days. The new packaging boxes are much better now"
+"I enjoyed them as always.....[11:17, 16/01/2021] Ee Mey Chu (RHTM): I look forward to the monthly meals
+[11:18, 16/01/2021] Ee Mey Chu (RHTM): If not because of mco unable to travel back to kl, I would have continue to my subscription So far i am satisfy with the service and food 🥰"
+"I hv tried the honey roasted chicken today. Acceptable and Nothing special.
+
+Just a thot can I opt for different parts of chicken like thighs cos breast/wings can be difficult to shallow if meat is dry. Good thing this meal wasn’t dry."
+"Hi, I mentioned to Logeetha the rice from my fish and my husbands grilled chicken was like not cooked properly.. it’s was very hard. I sprinkled water, covered with a paper towel and heated it for 4 minutes. Then the shawarma was tasty but I think the portion is too small vs the price for it.. so a little disappointed in that too"
+"Was lovely as always, thanks!"
+"Hi! The use of soy chunks is a bit disappointing since apart from it being vegetarian, nutritionally and taste-wise it is lacking. Also, the ""meat rolls"" (not sure what they're called) aren't that good. The Dec one is certainly better than Nov one, which was downright disappointing, but still there's just something off about them I haven't had any issues with delivery and service so far. Deliver is hassle-free and they're usually well packed. No issues there 👍🏻"
+"[15:13, 16/12/2020] Vethamalar Pancharatnam RTHM: Chicken Zaatar (Nov meal plan)
+Lemongrass Chicken Kebab (Dec meal plan)
+Palak Chicken (Dec meal plan)
+[15:14, 16/12/2020] Vethamalar Pancharatnam RTHM: The chicken and vegetables for Item 1 although correctly spiced was very dry.
+[15:15, 16/12/2020] Vethamalar Pancharatnam RTHM: Item 2 chicken and pita bread did not taste nice and the overall meal was dry.
+[15:16, 16/12/2020] Vethamalar Pancharatnam RTHM: Item 3 chicken and vegetables just tasted horrible and did not complement each other.
+[15:17, 16/12/2020] Vethamalar Pancharatnam RTHM: Item 2 and 3 are the first 2 meals which I have had from the Dec plan.
+[15:18, 16/12/2020] Vethamalar Pancharatnam RTHM: I am now left wondering what the rest of the meals taste like."
+"I found some of the meals a bit too salty. Like the kimchi one 😅 And is there a tip to heat up the bread without ending up with a hard one?"
+"[12:29, 02/01/2021] Janey Lim RTHM: Very good thank you
+[12:30, 02/01/2021] Janey Lim RTHM: Happy New Year to all of you too!"
+"https://drive.google.com/file/d/1iQ-FOPhbsXL2eg1x2lg3bs8uGtb5qOPG/view?usp=sharing"
+"Hi. The highlights for last month was the cereal coated pumpkin and honey roasted chicken. Both very tasty and a very generous serving size ! 👍👍 As always your delivery was on time and you always listen to your customers feedback 👍👍"
+" 👍😋just had the nasi ambeng& coriander meatball pad Thai
+My compliments to your catering team......for the presentation and taste
+Especially the veggies ....I have tasted over cooked soggy veggie"
+"[19:11, 04/01/2021] Yayam Al Ghourani: Thank you and happy new year 😊 
+They're great!
+[19:12, 04/01/2021] Yayam Al Ghourani: Nicely prepared"
+"All was good 👍🏾"
+"[14:18, 02/01/2021] +60 10-366 4128: Hi Mako! Happy New Year to you too!
+[14:19, 02/01/2021] +60 10-366 4128: The meal was awesome! We are planning to order more this month too"
+"I really like the palak chicken, not so the meatball pasta & persian chicken, a bit dry but taste was good :)"
+"Hi! Yes the meals were good. Thank you All OK! Very attentive and helpful  :)"
+"Sorry, missed the call. Thanks for following up. Yes, we love all the meals with had. The men in the house think the portion is a bit too small, referring to rice and pasta, otherwise they're happy with the taste 😊"
+"Honestly,not a fan.. The bread was wet even after heating up due the juices from vege.. The flavour is quite bland for me.
+I do like the one being catered maybe because its hot.."
+"Hi Matthew. All is good. Tks"
+"Can u sign me up for continued RTHM delivery 6x meals and let me know how to make the payment for recurring subscription?"
+"Hi, two meals out of three meals for december was good. Didnt like the padthai,  meatballs were dry and sauce didn't go well with pasta"
+"Joined Picha Critique"
+"Joined Picha Critique"
+"Hey, thanks for following up. Yes! The dish to rice ratio is a little heavy on the rice side. Eg veg and 3 falafel with a bowl of rice"
+"Hi! Happy New Year!
+The meals were great. I appreciated the good balance of proteins, carbs and veggies in each meal.
+Overall, very tasty and wholesome!
+Delivery and service were very smooth 👍👍
+I’m likely to order again ☺️
+I think the meals are also packaged and presented very well. But I recall when you tested the meals in the early phase, there was an option for all biodegradable packaging. Is that still an option?"
+"Thank you! Happy new year to the Picha Eats team! The quality was really good, have no complaints."
+"I think you send the subscription stuff this time around and cancel my subscription from next month. There are way too many hidden terms in your program."
+"Hi there! Food was good, as i informed matthew last week hehe"
+"So far I only had 2 of the meals and haven't gone through the other 4 more yet. But so far so good =) tasty, wholesome and delicious as usual
+Thank you for always checking up 😊 5 star customer service ~"
+"Hi, RTH meals were good. I particularly like the Laksa Johor versions for both rice and noodles. 👍🏻"
+"Hmm not really, I don’t like the vegetarian options, the pumpkin taste is not my favor. I’m gonna try again for this batch The delivery is good, the delivery man was very polite, even bowing as greeting which is surprising me haha! 👍🏻👍🏻Foods were taken well and received nicely too"
+"Hi there!
+
+1 - it's been pleasant so far! Although I do sprinkle some water before microwaving, I still find a sprinkle is not enough and have to go by a few tablespoons of water to make it more moist :)
+
+2 - the kimchi mac and cheese was a little odd to me, perhaps I'm not used to a ready to (h)eat mac and cheese! It was pretty dry and I didn't really taste much kimchi. 
+
+3 - no I have not heard of it actually! But do let me know more if that's possible, I'd love to spread the joy to others :)"
+"They were great thank you. Have you got a menu for January?"
+"[21:06, 16/01/2021] Anna Jhia Jhia Tan: Hi! I have not finished most of it! I think my favourite is still the moussaka.
+[21:07, 16/01/2021] Anna Jhia Jhia Tan: I actually find the sauces slightly (and those in the tiny containers) slightly troublesome as I normally take it out frozen instead...which loses its texture after thawing. The moussaka is just nice :)
+[11:08, 17/01/2021] Anna Jhia Jhia Tan: I think the texture is hard to get it back, eap for salads
+[11:08, 17/01/2021] Anna Jhia Jhia Tan: Esp*"
+"Yeah great thank you. And my friend has sent me a food voucher so was hoping to order so more soon. Im just wondering where i can find the most recent veggie options?"
+"Everything is great tho, I love the cookie especially"
+"Questioned on the transparency of our business model, said to improve on our communications"
+"I really enjoyed the meals! Healthy, filling and yummy! Would love to have more choices on the vege menu so I can increase my meals to 6 a month 🙈🙈"
+"Meals are tasty. 
+Would personally like more veggies.
+Rice can get a bit soggy when reheating."
+"[15:39, 16/01/2021] Alison Grun RTHM: They were good except the sauce with the pumpkin is too spicy for me..also I struggle to reheat them properly but I guess it might be due to my microwave. Now I tend to refreeze first, otherwise, some parts remain cold
+[15:39, 16/01/2021] Alison Grun RTHM: I would also encourage to put a bit more vegetables
+[15:40, 16/01/2021] Alison Grun RTHM: I like the notes given with each meal
+Also, if they are prepared on the same day, I'd rather receive them fresh and freeze them myself cause yesterday it seemed that one meal was totally frozen and another one not so much. I wasn't sure whether I should   freeze them again"
+"[17:55, 16/01/2021] Eva Razalli RTHM: Hi there, i was supposed to return your call. I apologise,  slip my mind
+[17:57, 16/01/2021] Eva Razalli RTHM: We love the more tradtional food. But the fusion didnt go well with us. Kimchi mac and cheese was a big miss 😅 but then its a personal preference
+[17:58, 16/01/2021] Eva Razalli RTHM: We would've like options for vege apart from that smoked butter mix vege. Pehaps a choice of steamed french beans, or roasted green peppers and aubergines would be great
+[17:59, 16/01/2021] Eva Razalli RTHM: Nevertheless we enjoyed the food"
+"Hello, it was really good. We enjoyed the meals. Honey roasted chicken portion was so big! 👍 Lemongrass chicken kebab was a little small but taste good 😊"
+"All good 😊 only small feedback was that my husband preferred more rice/noodle packs than the pita bread/wraps version. As it was not enough for him Yes delivery is perfect"
+"Hello 🙂 all meals are really good.... so far, the only ones I have not enjoyed are the ones with tempeh.... but that's just personal preference 🙂"
+"Hi! The butter cereal pumpkin was amazing last month!!! [15:49, 16/01/2021] Nuur Aamyra Mohd Aminuddin RTHM: Perhaps one day you guys could include soup-ey meals or porridge option hehe. 🤤
+[15:50, 16/01/2021] Nuur Aamyra Mohd Aminuddin RTHM: The prawn was great too!
+[15:50, 16/01/2021] Nuur Aamyra Mohd Aminuddin RTHM: Everything else was good as always hehe."
+"The meals were as usual...value for money
+this month i am thinking to take a break from RTH meals and try some of the other menu offerings
+will be in touch on that
+you have a good weekend"
+"They were great! Just wished there was more of the delicious sauce hahah"
+"The meals r delicious for me but a bit spicy for my daughter. Happy new year to u as well. Stay safe & healthy."
+"So far so good! I look forward to each meal really! Really impressed! Keep up the good work!"
+"The meals were awesome. Stay Safe. Stay Blessed."
+"Happy new year Matthew. Like missing the cream sauce, or maybe I reheat in the wrong way
+Others , my friend say good la
+I only manage to try the kimchi Mac and cheese
+For me a little dry, not sure why,m"
+"errrm, i think maybe the one comment i have is whether it's possible to mix up the veggies sometimes.
+Haha. your current mix = my hubby will never eat the veggies.
+
+but it's not a big deal, the main meals are good.
+in the future if you do packages for the main dish without the sides like how you had a few days ago, i think i'd rather subscribe to that instead"
+"hi! oops, can't recall specific but in general, i like the flavour. though i have challenges when reheating using microwave ie vege gets a bit soggy and also the flatbread/chapati. probably cos i put all in the same bowl when i reheat.delivery and service 5 stars :)"
+"coriander meatball and palak chicken were both really good 👍🏽👍🏽👍🏽"
+"No whatsapp"
+"All good except it would be nice to have more vegetables hahaI mean I know veg is more expensive than rice, but it does feel like for RM4, the portion really isn’t very much at all 😂"
+"They were really good Nasi ambeng was a bit dry but the rest were really yummy. I loved the cereal pumpkin and the sambal prawns"
+"It was great but the portions were slightly small to me hahaha"
+"Hi, well, I think if the meals with less fried food would be friendlier to those who prefers to steam. I guess it's not an issue if I microwave the fried food and steam the rest. Yes as it taste better than microwave it. :D"
+"All good! Really love the packaging & the thought put into it"
+"They were really good. I enjoyed them all. Taste fresh and less salt - how I like it. Good portions too"
+"Happy new yearr, Swee Lin.
+My daughter liked the kebab. My son had the pasta- no feedback 😁
+I had the bread with palak paneer- thoght it was too mushy tho."
+"HAPPY NEW YEAR TO YOU TOO! 😊😊😊❤️
+
+Food was good! Havent finished them... Oh ya just wanna ask about the mixed veg in the honey roasted chicken... Are they cooked? 🤣🤣🤣
+Yaa 🤣 hahaha.. We reheat tapi sayur hard hard 🥺"
+"Morning oh the meals was alrite..I tot the lemongrass kebab is roll ..but it seperate.packs
+Taste and service is 👍🏼"
+"*Given as above"
+"My sister loved the meals btw! She even ordered for her friend right after receiving the deliveries 😊 Looking forward to the next order"
+"Hello Matthew, 
+
+just want to check on you, if i can change menu for my next delivery. i saw in the january menu, there is still kebob in the set. tbh, i really didnt like the kebob much, and i already ate 2 kebob from my previous months. isnt suppose every month is a new menu for us? so i hope i can change the menu. kebob is bit dry tho, kebob and roti, doesnt match la, both very dry. anyways, the pad thai sauce is the nice. that one memang sedap last month. 
+
+so do let me know and get back to me pls. thank you"
+"hi good morning, thank you for your lovely food. truly sorry for the late reply. I have no issues with the meals in December, the meatballs and chicken wing shud have an encore in the menu 😄"
+"Yeah good. I liked the crispy chicken. The sharma is good but probably needs another side with it.
+Yeah a little bit plain
+Less sharma and maybe a side of potatoes would be good
+Spicy wedges"
+"Hi Jia Hui! Overall we're really enjoying them!"
+"1. Crispy chicken (i think?) with pasta and tomato sauce (i think?) - paired with garlic bread, so very filling. Taste really good. 
+2. Chermoula chicken breast with brown rice - comforting."
+"They were excellent! Each anc every one of them tasted very good and my personal favourite was the jackfruit rendang and chicken kebobs"
+"Hello.. so far I have tried the chicken meatballs. Taste good, nothing like the other ready meals I've ordered before."
+"the cookie yesterday....amazing 🤤"
+"All good thanks!"
+"So far so good. Thank you!"
+"Haven’t eaten yet haha but the past 2 mths were amazing. I’ve recommended to a few friends and they subscribed too."
+"the falafel box was my fav so far"
+"So far it is ok. Just that the taste sometime differs from our usual food like Chinese, Indian or Malay food. My children somehow don’t really fancy it but me and hubby is ok with the taste"
+"Delicious. I have no cause for complaint except its all gone too quickly.
+Though I did cook my own vegetables just to have more greens in my meals."
+"Fine thank you, enjoting them."
+"Hi Jia Hui, I've only eaten 2 so far. Loved the jackfruit rendang"
+"Hi there! So far so good. We have tried the crispy chicken and chicken shawarma. they were good!"
+"Hi Jia Hui! its good so far, really liked the meatballs"
+"Last weeks meals were yummy! Can’t recall the others now . But all Meals from last week were fab!!"
+"Hello Jia Hui! Great! Delivery was great! I had the beans falafel a few days ago and it tastes amazing! Have yet to try the others as have been working from home so more home-cooked food these days, but will be eating a few these two days. Thank you and your team for the great effort!"
+"Hi Jia Hui! Everything was great. Enjoyed the jackfruit rendang and red curry pumpkin especially! Slightly missing the soy chunk and xmas wings doe 🥺"
+"Hello! Thanks for getting in touch. Meals are good"
+"-"
+"Good meal. We love it"
+"Thanks for checking in! All good!"
+"I have finished eating all of them 😂
+Particular favourite: The Chicken Mandi, Shawarma wrap, and Chicken kebob definitely!"
+"Very good. Plan to order more. 
+My dad loved the mac abd cheese
+Pity hqve to wait til 22!"
+"Havent eaten all of them
+But the brown rice some of them are a little hard"
+"It was great The masala chicken was really nice Tq
+The falafel... you can taste it’s home made and soft!
+The kebab my son had he said it was good too😃"
+"Hi! The curries were delicious."
+"Just had the young jackfruit rendang for lunch today and loved it"
+"So far I have eaten 2 packs and they are good
+My work form home lunch 😉"
+"Hey Jia Hui, I've only eaten 2 so far. They're great!
+You guys are doing a great job. The food is always good even if frozen and reheated"
+"Good so far. Thanks"
+"Wrap was good.
+Jackfruit rendang would have been better accompanied with some bread /naan instead of rice. Felt weird to eat rice and jackfruit haha"
+"They're tasty, i finished all in 3 days
+The chermoula was 👍🏻👍🏻👍🏻"
+"I only tried the kebab. It was great! Thanks!"
+"Overall it has been great and it has been really convenient! I also like the variety, portion, and healthiness overall. 
+I think perhaps some feedback is I'd prefer different types of vegetables and preference of chicken thigh rather than breast. But those are just preferential, doesn't impact the taste."
+"The meals were great, particularly like the tomato curry that came with the Crispy Chicken, it's so good! 
+wouldn't mind if that made a comeback haha
+
+so I recently topped up my order to weekly now for my husband and me, and one of the reason I upgraded to picha plus is cause some of the portion is a bit too small, especially the ones that come with bread instead of pasta / rice"
+"its was good"
+"I like the seabass. It nice Tried the wrap as well, also prettt nice with the sauce.The resr I havent tried it yet"
+"Hey! I’ve had three of them (all three were lifesavers honestly
+The falafel was amazing, that Picha curry needs to be bottled and sold in bulk, I’m 200% in love with it!
+The crispy chicken was good too, but pasta really doesn’t freeze well and that’s something I noticed with last month’s delivery as well.
+And the shawarma was divine!"
+"Hi Jia Hui, so far I've only had 2 out of the 6 meals. They were OK."
+"I 'donated' the meals to the security officers, they love it. Thanks"
+"All good tq"
+"Hi Jia Hui, all is good :) Looking forward to the upcoming vegetarian menu! And would appreciate if there are options that are non-spicy too. Thank you!"
+"Hi Jia Hui. They were awesome. I got another 4 packets to get thru. Thank You so much. Stay Safe.
+They were awesome. Good Job. Thank You for checking. Stay Safe."
+"All good thanks!"
+"Good!"
+"Hi Jia Hui, shawarma was ok. Marinade meat taste were strong, aromatic, flavourful. Garlic sauce were subtle and not overpowering. Food was almost to room temp tho when delivered."
+"It's good so far 😍😍😍"
+"Hi Jia Hui. I've just tasted 1 meal. The dual bean falafel. Falafels were a bit dry and hard but otherwise the curry was good"
+"Hi Jia Hui 😊 I’ve only tried 1 meal so far and it’s good. I like how you guys haven’t repeated so far
+hahha cool! cos as much as i like your curries, your portions are very filling lol"
+"Hi the meals were good I really love the chicken shawarma wrap"
+"I haven’t got chance to try it out yet!
+But I realized from previous 2 deliveries. Just some personal presence feedback, we think that roast chicken meals and pasta  are quite flat, but we love those Chapati and curry rice meals"
+"All good
+Just had the chicken + pasta the other day
+I like it"
+"Hello, we have actually both only had the chicken kebob so far. It was really good though. The red cabbage was really tasty as was the siracha Mayo. This whole Jan menu looks so good and has made choosing which meals to have v difficult."
+"Hi Picha, The meals were delicious! My two favs were the shredded roasted chicken and  young jackfruit rendang
+👍🏻👍🏻👍🏻👍🏻👍🏻"
+"We liked them so far. Had the meatballs, butter chicken, jackfruit rendang and the stuffed aubergine
+Jackfruit was interesting. The aubergine a bit small but nice. Liked the meatballs the best I guess but jackfruit dish a winner too"
+"Meals are great are usual, still going through them
+Feedback-wise, first and foremost, I ordered the meals because they are convenient, balanced and delicious, with good value for money. When I’m working it’s great to be able to pop something in the microwave and have it ready in a few minutes. My go-to heating style is putting a box (plastic removed) with a cup of water on the side, stirring / flipping in between if the food is more compact. Also, the fairly large portion sizes means that I can one big meal (lunch + dinner) instead of two, with some fruits on the side.
+
+Next, I appreciate the great customer service with constant communication on deliveries and seeking feedback for improvement. While striking a balance on the frequency is important, I think it is always better to ask than to not ask. Also, the hand-written notes from Kim and the little freebies are great extra touches. Kudos to the team for a job well done!
+
+Finally, I appreciate the impact and good that ordering these meals provides. I wish I could order more, but I live alone so it is difficult for me to finish anything extra."
+"Feedback for Dec Meals:
+Hey! Sorry for the late reply. December menu was awesome and love the foods and also the designs 😍 Just that Mac & Cheese and Persian Chicken & Potato Stew was a little dry. But it tastes great nonetheless.
+Feedback for Last Wed:
+Haven’t got the chance to try them yet and starting on them this week. Will share any feedback I have ya"
+"All good and finished within 3 days. Thanks :)
+looking forward for my next one
+Favourite: Falafel"
+"Hiii, i havent tried them all. but so far so good! only kimchi mac & cheese was too salty for mee"
+"Hi Jia Hui, it came in perfectly in time for lockdown
+muahahaahahah  🤣🤣🤣 my sis envies me much that i dont need to think of what to eat
+the portion is right, healthy yet does not taste like soap .
+Having meatball today 🤗
+Then I was on my 10 day Buy Nothing challenge. So everything is perfectly timed 😆"
+"I notice the portion for vege is more this time, that is good and healthier. I am happy with all meals except the Kimchi Mac, I expected to be more Kimchi taste.."
+"We like the jackfruit rendang, so yummy"
+"Feedback for Dec:
+Really happy with the Xmas design and packaging btw. Something new to look at while waiting for my meal to heat up 😂
+The nasi ambeng, while I've never had it before, I feel it could do with more of the gravy. Not sure of how it's meant to be
+Because I mix it in with the soy chunks and vege and rice altogether and find the gravy just abit short
+But the cereal pumpkin and lemongrass chicken kebob were my favs of the month 😍
+Lemongrass chicken kebob was super juicy and flavourful
+Feedback for last Wed:
+Still a little early for me to feedback on them but the 1 I had was the jackfruit rendang and it was yums! Definitely lived up to the hype I've seen from other people's reviews"
+"December meals feedback Hi the pumpkin bites could be improved
+The combo with rice was kind of awkward
+The other two are not bad thanks"
+"Nov + Dec Feedback:
+Hey thank you for asking! Firstly, I'm always excited about looking out for the monthly options which are always so creative and exotic. If I might just go back a little to November, that was the month for me to kinda gauge how I like the food. Love the fact that you guys use brown rice, other favs of mine would be the grilled chicken kebob and chicken shawarma wrap. The butter ratio was a bit of an adjustment for me - the afgan curry chicken was a bit tough on me 🙈 but that's a personal taste/preference thing I guess : ) So learning from November, in December I only mixed in the butter where absolutely necessary. Hey actually not sure if it's butter that's contributing to the taste, but it's something on the more slippery, oil-like kind of taste. 🤔 So a fav from Dec would be the Nasi Ambeng - love! I think moving forward, I might also separate the chapati or bread like consistency food and sprinkling it with some water before heating it up. Otherwise it gets a bit on the dry side - but that's not on you guys, that's on how I heat things up 👍🏽 All in all I would say you guys are doing a great job
+
+Last Wed:
+Hi Jia Hui, thank you for checking in. They've been great so far thank you : )"
+"Hi JiaHui! The meals are looking great, we still waiting for orders arrive."
+"Hello Jia Hui, all good, thank you! 🙂
+I like them all as long as there is no tempeh in it 😅"
+"-"
+"-"
+"Great...so far only taken one. Second one for lunch today"
+"first time ate the young jackfruit rendang erm...
+feel strange..haha
+Ready-to-Heat Meals - Pic: Strangely nice or strangely not nice hahha 😜
+Haha
+Soso"
+"Good thank you - only had the shepherds pie but that as always was delicious"
+"The mandi rice was good. Didn’t really like the other two. The kebab was a bit dry and the meat ball was a bit weird to my taste"
+"Yes loving it"
+"It was good TQ"
+"All good Thanks so much
+Your chicken dishes are very good"
+"Great"
+"I have only tried one so far as I’m keeping them for work when I don’t have time to cook. It was very nice 👍🏻"
+"Hello Jia Hui
+Abit disappointed with the kebabs but everything else was great!
+We don't expect it to be minced meat ...cause in our mind kebab is like chunk 😅
+But it just how we used to it though hahahha"
+"Yes, so far really great. Thank you 👍"
+"The meals were nice, but some of them weren’t as what I envisioned haha
+The curry / sauce based meals are really nice
+Except if you freeze it and then reheat it, the rice is hard
+The wraps seemed a little small than the average wrap.."
+"Hey logs, this round the rice we felt like not cooked properly la
+ I sprinkled water on both, covered with paper towel n out for 4 mins in the microwave as I always do.. the rice was hard like not cooked
+Mine was the fish with sambal bojak, thebans was the chicken breast one
+
+Hope all is well. 
+
+This months Ready To Heat meals are quite disappointing. We have had 4 so far .... 
+
+1. Sambal Bojak & Grilled Chicken Breast - Rice was not cooked despite 4-5 mins in the microwave
+
+2. Shawarma - qty seems too little vs the pricing
+
+Pls report this back cause if this continues it may affect your sales."
+"Spicy lol
+Realised many r spicy this week hence kids can't eat"
+"We've eaten 5 only, 4 in the freezer for emergency 😊. They all tasted good except the dual bean falafel which I personally didn't enjoy as the patty is rather dry. I chose that because I know my family won't enjoy it. But again that is just my preference and taste bud. 😅"
+"They were yummmyyyyy
+Enjoying it muchhhh
+How can you pick a favorite?
+Hahahaha
+Really the dishes were so pleasant to eat"
+"Hi! I ordered them for my parents. I personally have not had a taste. But my father loves the pasta dishes ( I have ordered the meals since Nov last year). My mother said the jackfruit rendang was delish. She likes the chapatis too as well as the fish dishes
+I would like to suggest that perhaps you could add more fish dishes. Your menu is heavy on chicken"
+"Hi Jia Hui,... Better experience this time.... Now that we know, those menu with pitta bread shud not go into the microwave as it will cause the bread to be hardened... We heated it up on the pan and it taseted much much better....
+Have eaten 6 packs... All were with great taste... 2 gave away to my brother... Still hv 1 more in the freezer - jackfruit rendang..."
+"Hi, they were for my mum. No complaints from her. She said they are tasty as usual"
+"Yes all good. Thanks"
+"The falafel meal  was amazing. Best meal so far"
+"Hey there Jia Hui.
+It’s been amazing! The family loves it
+Just had the jack fruit rendang and falafel ytd. It’s delicious and definitely taste the authenticity of the meal"
+"Ok so far"
+"Hi Jia Hui, they are good, as usual!
+Favourite: Shepherd's Pie!!"
+"It is good so far. Love the shawarma wrap as usual
+Meatball has too many herbs in it... Not really enjoy that"
+"-"
+"Have improved so much - been eating food from Picha since 2018.
+That young jackfruit rendang is so good.
+And that butter - you really can consider... Selling in spreads or dipping like that
+And the shredded chicken also I love it.
+Chicken breast meal - the sauce that came with it makes the meal so authentic. Good recipe.
+And I don't have to cook my own lunch for 3 days. Saves time
+Look forward your monthly meals so I can try out new food from you guys"
+"Hi Jia Hui. It is wonderful! So far all the food ive had is delicious and fresh 😍 Thanks so much.
+So far my favourite is the spicy chicken masala and the shawarma 😍"
+"I think the meals are convenient and helps with some busy days, the variety is okay
+But I think the veggies selection is quite poor. I've subscribed for 3 months and virtually every meal is 1x boiled broccoli and 1x cauliflower with sometimes some carrot sticks. I understand that not a lot of veggies are suitable for storage/freeze-ready meals, but I would like to have the veggies prepared in more variety of ways"
+"Hi! I haven’t tried it yet but I love falafels so it should be good"
+"Hi, It was okay. I've only tried the shepherds pie.
+It wasn't really to my liking
+But that's just my opinion.
+Because I was expecting shepherd's pie 😅 But it tasted like a siew pao filling with mash potato"
+"Yes it was fine
+Sadly my son is going back soon so next one will b the last"
+"Very good. Falafels and previous Shepard pie I think"
+"Great thank you 😊
+Favourite:  Chicken Schwarma wrap
+The others are in the freezer and we will eat throughout the week. 😊"
+"Hi. Only managed to try one meal so far. It was tasty.. I will try another meal for dinner tonight. Will provide you feedback once i tried more meals"
+"Excellent! Thanks very much!
+We really enjoyed the chicken kabobs we ate today 👍"
+"Hi Jia Hui, yeah they were ok. I only tried the veggie meals so far. Loved the texture of the falafel, nice n moist
+Maybe consider doing a wrap version! With all the meals i felt it was just too much rice dishes so ive been spacing it out as i try to eat rice only once a day"
+"Son likes them, Jia Hui. I've been cooking so uptake not as frequent; but it's assuring they're in freezer for whenever I feel less than inclined.
+Ta so much for checking in. Cheers."
+"Haven't tried any yet"
+"It's great thanks. Have had 2 so far"
+"Hi there, so far I've only tried 2. Portions are good, taste is okay. I'm not sure why but there's something about the texture of the chicken meat that's very processed and flat"
+"Hi Jia Hui! They have been really delicious.
+Healthy spread as well
+Hard to pin point a particular fav tho. Love the falafel but i love the differrent sambal/curries too
+Unique
+Pumpkin curry and young jackfruit were both yummy"
+"hi there! just started one pack- the tempeh shepherd pie. interesting twist enjoyed it. as a personal preference, i found it a bit sweet. then again, i'm the type that prefers savoury and do not take sugar with my coffee. 😁 so all good"
+"Hello! So far so good. I left 2 meals only HAHA. And cos it’s wfh I’ve been jazzing up the meals as well. Good as a base!"
+"They were wonderful, thanks!
+I love almost all. Falafel is the one that i could eat everyday. It could do a lot of damage to the waistline though"
+"owh the food were great!
+look forward for Feb menu
+Favourite: all of them actually 😁"
+"Greaaaat!!! The Kombucha tastes amazing too! I'll def order more than one bottle next time
+Favourite: THE MEATBALLS!!!! 😍😍😍"
+"not bad! I only had one so far will share more if i've further feedback :)"
+"so far only tried the shredded chicken. It was yummy"
+"All ok and we enjoyed the meals. 
+Tks"
+"Hi, all good!!
+:) can't wait for feb's
+Spicy Chicken Masala with MAMEE Marrakech Rice it's awesome
+looking forward to more curry dishesand I notice the changes in vegetables too - love it"
+"Hi, overall is good.😊
+Thanks ya~
+The spicy chicken masala is good, not too spicy👍🏻"
+"The sharwarma was really nice it’s my ultimate favourite
+I was thinking if I can get more of it the next round lol"
+"I was just eating the tempeh Sheppard pie today
+Very yummu
+Curry pumpkin...  My hubby and I finished"
+"-"
+"The meals are really really good and delicious
+And also really healthy, I really enjoyed their food so far
+I wasn’t sure if I wanted to continue it for the next month, but now I think I highly likely will! And I will pass on the message to my friends as well
+Packaging was also really informative which is perfect for us to know what we’re eating
+Please let the cooks and chefs know that their food is ♥️♥️♥️
+The Spicy Chicken Masala with MAMEE Marrakech Rice Super yummy!
+Hehe I can’t wait to open up the next meal and dig in to be honest
+I wish I knew more about who made the food and a little more about their history
+Would probably appreciate the food a whole lot more"
+"They were great thanks! 😃
+I just had the jackfruit rendang and loved it"
+"Hi Mako, I'd tasted one of the meals Shredded Roasted Chicken! It taste so delicious with the Chapati :)
+It will be great if it is less salt. Overall is pretty good."
+"hi jia hui, all good. thanks"
+"Good!"
+"Generally good, particularly the kebab and the young jackfruit rendang. Vegetables could be more thoroughly cooked."
+"Fine,  nearly finished
+I am a busy person all day Picha meals just allow me not to have to think about what to eat. I just take from the top. 
+Of course as you cannot provide enough I top up from The Yard,  Halal Sausages and occasionally from Tasty Briani."
+"Hi Jia Hui, we had an incident last week where my wife had food poisoning after having reheated a frozen meal. We usually freeze our meals immediately once receiving them, and on last Thursday she ate a pack that I re-heated with a pan
+maybe the food wasn't heated thoroughly enough because it was taken out from the freezer straight, i don't know... but she was sick thereafter.
+that meal she ate was the chicken kebob btw
+apart from that incident, so far the meals have be alright. Curries are generally great, and the breads are my favourite so far- more than the rice. There's a melon like vegetable in the veggie mix that hasn't been particularly our favourite to me haha"
+"I've had the saag and the breaded chicken, enjoyed both very much!"
+"Hi so far so good. We have only had the dual bean and chicken masala so far. both were good.
+Spicy chicken masala: Ya that was really really good"
+"Is lovely ☺️
+Favourite: Home made meet balls ❤️"
+"Great"
+"good so far 👍"
+"Heyya Jia Hui! 
+We’ve made our way through them and there were some truly delicious ones there! Was pleasantly surprised at how good the young jackfruit rendang was. 
+When’s your next delivery date?"
+"Oh they are good"
+"So far so good thank you! I sautéed the veggies separately and it’s much better instead of just microwaving them"
+" Ive only eaten 1 so far Was good"
+"Hi Jia Hui I've had 6 meals.  The only one at the mo i hv a little feedback is the jackfruit rendang
+[12:55, 27/01/2021] +60 19-652 5494: A little more texture coz its really mushy if you get what i mean
+[12:56, 27/01/2021] +60 19-652 5494: Flavour is awesome but you don't feel anything to bite into the jackfruit felt a bit like baby food wt flavour..
+[12:57, 27/01/2021] +60 19-652 5494: I've 6more 2 meals for mom me and the daughter."
+"Hello! I've only tried one so far as I put them in the fridge to defrost only on Monday
+yesterday's one was yummy!
+i had the falafel
+sauce was good
+and actually i quite enjoyed the rice also...hahahah..."
+"Hi! All great so far!"
+"I tried one it’s good thank you"
+"Hi Jia Hui, that was great. I have actually shared the feedbacks to Cheryl :)"
+"Yeah good so far thanks. The chicken masala was good. I liked how it was cubes of chicken and not bones"
+"They've been pretty delicious so far!
+The shawarma was a bit dry, but it was still tasty la
+Been happy with the other meals I've tried so far
+Spicy Chicken Masala delicious"
+"Hi Jia Hui, I’ve eaten 3 of it and so far I like the taste.
+I like the masala
+So far I find the portion quite okay. I wonder if a quick stir fry of the vegetable will make it nicer after frozen.
+
+Also, just a small feedback, last time the salmon flake meal doesn’t have salmon in it. So not sure if I misread the packaging. I’ll let you know if something similar happened.
+
+Overall quite happy with the meals as it adds varieties. :)"
+"hi, so far we have only ate the mandi rice and it was good."
+"Great!!! Planning to order again this week"
+"Hi. I got them for my brother who lives alone and mobility impaired.
+He finds it easy enough to reheat.
+Xcept the breads turn up a bit hard n crispy in d microwave
+For safety reasons no gas stove in the kitchen."
+"Hello
+Yeap it's good
+Looking fwd to Feb menu"
+"Good!
+Have tried 4 so far.
+The shawarma has always been one of my favs!! 😍😍
+The falafel was really good too, so 4 abit tak puas 🤣🤣
+Crispy chieken - good, kebob - ok"
+"I have only tried one but it was good"
+"Enjoying them tq"
+"Love the fettet magdoos! Positive feedback from both meatballs, falafel and the chicken masala, too.
+Btw my husband really lived the coriander meatballs in Dec."
+"Hi we had requested for some substitutions but they were not there? Bread instead of rice etc.
+But otherwise, the food was good."
+"Hi Jia Hui, I'm generally pleased with the meals. Only suggestions for improvement are: 1. The portions are rather small for me (I'm a large eater so this may not be an issue for your other customers) and 2. The vegetable side dishes are practically the same for all the meals. Would be good if there can be some variety"
+"The taste of the food is good . After frozen, the vegetables were not fresh anymore  and the crispy chiken was not crispy anymore, instead of pasta, it was noodle."
+"I ate Shredded Roasted Chicken and I reall enjoyed it, the spice is just nice. I wish there was more chapati though but the portion is just nice for others ☺️
+My brother tried the chieken kebob, the portion is quite small so he didn't feel full. There was quite little meat I think and he didnt enjoy the Rotkraut but thats personal preference haha. The kebob itself is so delicious though!!!
+
+[12:29, 28/01/2021] +60 11-3447 7763: my brother is making the shawarma wrap now, I actually have tasted this cause Fiona from the cooperate side sent me one to try but that was not ready made. It was very delicious! 
+
+I will try a bite of my brother's later to see if the ready made ver is as good
+[12:31, 28/01/2021] +60 11-3447 7763: On saturday, we tried :
+
+Spicy Chicken Masala
+- it was nice, the portion, the rice everything was okay. I wish it was slightly spicier though but its good 
+
+Homemade Meatball
+- to be very honest, my brother was most excited about this out of all the 9, but we were quite dissapointed. The meatballs werent that great but the sauce was decent.
+[12:32, 28/01/2021] +60 11-3447 7763: One main thing from the 6 meals we made so far, its always the same type of veges given and its very bland, taste a bit weird too"
+"Lovely thank you ❤️"
+" Hello Jia Hui 👋🏼
+So far I’ve only had one, the Masala Chicken. Tasty, I like!
+It’s just the rice portion is smaller so I saved the chicken to eat with rice another time. But that’s not a complaint ☺️ I like the amount of veg too, and the taste with the butter is good.
+I’ll be trying another some time this week 👌🏼"
+"Tasty, loved it.. 🥰👍🏼
+All were tasty 👍🏼"
+"The January menu has been great. All of it has been so tasty. The shredded chicken was particularly delicious. And my wife really enjoyed the pan seared prawns. 
+We are looking forward to the Feb menu though. As that was also a difficult decision which meals to pick because they all sounded so good."
+"Hi Jia Hui. Haven't eaten all the meals yet but happy to have gotten them. Keep up the good work. God bless."
+"Very yummy! Thanks for asking. Excellent customer service"
+"Hi! Good thx
+Spicy Chicken Masala: Hi! It was ok, i wldnt say stand out special (but to be fair everything after being stored n microwaved will suffer from this a bit) but still tasty 😄"
+"Hello, the meals were delicious. Thanks so much for subbing 1 extra. I loved the pasta dish and the other chicken dishes... forgot what they're called 😅
+Spicy Chicken Masala: It was good too! So far the curries are nice, though a bit spicy for me"
+"I haven’t tried the meals yet :) 
+Tmr will yeu one and get back to u ya :)"
+"Yes perhaps to inform when the meals were cooked / prepared. As some of the meals had a smell, indicating that it could have been prepared for days before delivery. That food was going bad. I think what will help is if the kitchen can put for information purpose the date the food was prepared. From there on, customers can gauge how long they can keep it for."
+"Hi there, just a bit of feedback - would be great if there could be a label/icon on the box to show whether this item was vegetarian or had chicken, fish etc as the main ingredient. Personally, I'm vegetarian on certain days, so having that label would be super helpful 😊"
+"Hello. Yes i did. It was enjoyable 👌🏼👌🏼👌🏼 ust one tiny thing regarding the chicken wraps. The garlic sauce, do i pour it over the wraps? Or as a dip? I took it as a dip"
+"The food is awesome especially the mini capati with shredded chicken with chicken sharwarma. For me all is good as it is advertised. Just keep up the good work and excellent quality"
+"Hi, yes thank you very much :) It was all quite tasty too hard to find anything to add to it :)"
+"The young jackfruit was surprisingly good. If u can have more meals instead of 9 for your package"
+"Yes I did 😊"
+"I haven't try 😅"
+"Yes we did. Ate 2 meals so far.  Still have a falafel set in fridge"
+"Yes we did. No nothing haha thanks. Have placed an order again for this month"
+"Hi May, yes we did, thanks. Nothing at the moment"
+"Yes, it was very nice. And love the hand written message. Thank you so much. I'm checking the Feb menu. Will order shortly. 😊"
+"They were really good Nasi ambeng was a bit dry but the rest were really yummy. I loved the cereal pumpkin and the sambal prawns"
+"Hi! Yes I did! Nope. All good 👍"
+"Yup all good thanks. not at the moment. the sambal fish was very yums"
+"I sent the food to my parents' house and they loved it. Lemme ask them and let you k now"
+"Hi May, actually my name is spelled Carr Mun hehe sorry I never corrected you guys before. I've only had the tempeh shepherd's pie so far, I like it!
+ The last time I had it was last year August maybe?
+The new recipe is nice, less heavy"
+"Haven't tried yet, keeping them frozen for when I might go back to the office. See how this MCO works out."
+"kopi finish already! hahaah. makanan not yet rasa. but thanks guys, for being consistent with quality. :Dusually one portion i can eat twice la, divide into half. because it's quite big for me. ❤️  you guys, team +strong kakaks who masak stay safe too ok"
+"Hi! I havent try it yet 😀"
+"Hi May, so far i've only eaten one, but its good. A change of vegetables would be nice"
+"And i realised steaming it helps maintain its taste and freshness. Microwave dries it up. Usually the rice dishes with the pack curry/Sauce
+The rice gets dried when i microwave it"
+"Hi Picha eat , the food taste great. But I have one things to feedback , I found hair in my food. Maybe the hygiene level need to strengthen especially during this time 😊 Hi I think is ok . I don’t need a replacement for this. Thanks for the nice gesture. But I would like to reduce the portion to 3 meals of my ordering for next month. Since my family have concerns over this topic"
+"I’ve only managed to have 2 meals! Have not finished hahaha"
+"Yes the meals have bee great. My wife’s not a big fan of the vegetables being so plain - but other than that the meals we have had so far have been good (jackfruit rendang, Sambal bajak, and the meatball one) Yes but she’s not a fan of the butter provided haha. No worries. She just prefers the vegetables a little more cooked and with more flavour. Just feedback on my end. Tq!"
+"Not yet.. I haven’t tried them. I’ll try next week"
+"yes we did! we especially liked the pita bread set followed by the jackfruit rendang."
+"Hi May! Yes I did enjoy it. The meals are so healthy and delicious.ust keep up the good work! For now I have nothing to say. As I enjoyed the food, service and communications are great from you guys"
+"Nothing that I can think of"
+"Oh yes. I've just had 3 of em so far, they are good"
+"Yes we did! The jackfruit rendang was really unique. Feels very healthy too So far nope. I think it's all good. The only thing I did mention previously was how to maybe reduce plastic use 😅 But I understand that's also a cost issue and you'll need to separate the wet and dry ingredients somehow. Overall, my family loves the food from pichaeats and only wish we could have it fresh every time! Keep up the good work, May!"
+"Very high kcal the meals 
+There one I cannot eat . I don’t eat beef
+ Btw. Do I have to defrost for 3 hours ?
+The crispy chicken is 400 plus kcal"
+"So far so good. More delivery slots maybe. So dont have to wait as long"
+"Hi! we definitely enjoyed our first two packs! and the complimentary cookie, wife loves it so much! oh ya, seems like the content might seep into the packaging box?
+ let me show u. Not sure if it was due to slight de-cooling during delivery? Or from the inside. We only noticed it when it was stuck to the bottom of the freezer 😅 But no worries. Not an issue. That's the crispy chicken btw"
+"I haven't finished all of the meals yet, but so far they've been great, thanks!"
+" Hello! Sorry for the late response. I was waiting to try all the 3 means before I feedback to you
+ I really like the meatballs and the crispy chicken. The Shredded Chicken i don’t like that much, but it’s a matter of taste, no problem at all with the food. Overall I’m happy and will make another order as soon as I have the chance"
+"Very interesting meals and I would prefer to finish up the wraps first before others since wrap tends to get soggy. I eat more vegetarian meals.  So I like the rendang nangka. My partner likes all the other masala etc, in short, you serve very flavorful healthy food and it's convenient"
+"Yes thank you, it was great! Some of the cauliflower was a bit raw, but nothing else. It was lovely"
+"Yeah very nice foods"
+"Hi it was for my veg daughter. So far she said they are nice but a bit too spicy for her"
+"Hello. Yes I enjoyed it 😊 Overall its good. and I love the cookie too!"
+"Hi.. yes. Started to eat a few already. Loving the convenience."
+"Hi hi, food was good. Will try to order non vegetarian next round to try 😉"
+"Sorry for the late reply. Was really caught up with work. The meals are great as always!"
+"hi there...havent tried yet! but the cookies is very nice. do u sell them too?"
+"hi there...havent tried yet! but the cookies is very nice. do u sell them too?"
+"Hiii. I love them. Especially the chieken kebob. 😝😁😁❤️ I usually share the meal with my sisters too ❤️👍🏼"
+" I’ve only tasted two, i still have one more to try haha
+I like the chicken shawarma!
+But the crispy chicken was a little bit weird for me. I put it in the freezer, defrost if for three hours, put in the microwave for 3 mins but it was still frozen haha then i put for another 6 mins. The noodle taste a little bit weird maybe im not used to it 😅
+ Perhaps its the way I microwave it
+ But i love the crispy chicken itself
+Thanks for checking in!"
+"Yes thank you so much!"
+" Hello!Yup am enjoying it thus far"
+" Hi hi. Yes I did. 😊 Still got 7 left. 2 more will be devoured today. Lol. Hmmm I think generally everything is alright. No major feedback of any sorts for now."
+"Hi! Yes I did =) I love this round of meals. Altho I'm not a fan of jackfruit 😅 but my mother enjoyed that one. Well I enjoyed it 😅 still have a cpl more frozen food to gk through but I know they'll all be good =)"
+"Yes"
+"Hi! Yes the food was great thanks. Hmm can't think of one for now but will let you know if there's anything that can be improved on"
+"Hi! Yes I did"
+" Hi! Yes I just finished the Shawarma wrap today haha The meals were good!"
+" Hehe we have eaten two.One was an acquired taste for us.. but tis ok."
+"-"
+"Hi Matthew, thanks. Yes, tried it the very next day! Yes, we tried 3 for a start. My kids weren't too keen on the crispy chicken but enjoyed the rest although they found the chicken kebab a tad salty. Looking fwd to try the rest out so we can choose and pick out more of what they like the next time. 
+
+Showed the kids the lovely note and belated thanks for the super-sized cookie! Very nice welcome indeed. You have a good evening ahead!"
+"Hi 😊! So far the meals were good. I like crispy chicken the most 👍 and the cookie that u gave me was great as well ehe. Thank you very much! Nothing for now cos the food was good. Oh yea, to make the cookie available to be purchased ehe.Oh righttt, yes its there 👍. Im gonna add that to my next order. Thank you 😊"
+"Sure, I store them in the freezer. Before eating, I take them out and let them defrost for about 3 hours outside the fridge. But I’ll wrap it with plastic bag coz I worry about hygiene when it’s sitting outside defrosting"
+"Ya they are all good. Altho brown rice looks little at first I'm full from a meal."
+"Yes. I've only had the Jack fruit redang and the shawarma. I'm saving the rest. 😂 The shawarma was really tasty and especially liked the garlic sauce that came with it. The jackfruit rendang was nice but could have been a little less sweet IMO."
+"I have, thank you!"
+"Yes.Meals are good"
+"Oh, I hope you didn’t expect me to eat all 9 boxes so fast! I’ve had the chicken chermoula, falafel, and chapati with pulled chicken. I thought the chicken chermoula was a bit dry but I really loved the other two! Then I gave the nangka rendang and shawarma to my bf which he ate in one sitting. He said the nangka tastes like legit rendang but nangka isn’t my thing 😅 Or is it cempedak I forget which is which"
+"hi there. the food is lovely ~ Esp the Chicken Kebob is authentic & something hvnt tried before 😁"
+" Hello! Yes I did! I personally liked the spicy chicken masala and dual bean falafel (the curry is good! For the Chicken Kebob I think I put it too long in the oven, the wrap became a bit crunchy. For that, I actually had it before steamed, I think it is better steamed than using the oven 🙈 I really liked the sour cabbage and Sri racha Mayo mix though. The flavours blended very well"
+"Hey yeah I did! The jackfruit rendang was 🥰😍 Sorry for the late reply. There's a lot of plastic packaging, but I guess there's no way around it. Just had the jackfruit rendang and dual bean felafel so far, food-wise I have no complaints! Both were really yummy.Maybe more veggie options would be nice?
+Cause the veggie in the all sets are the same haha"

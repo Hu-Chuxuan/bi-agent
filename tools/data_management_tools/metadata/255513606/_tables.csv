@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"ProgramActivities","","",False,323,2022-07-14 23:22:12.870,2016-06-15 14:43:48.326,0,False,False,,0,,,False,"d76c56cc-8a21-4547-8e83-1cf283a53021",""
+13,1,"WebpageActivities","","",False,397,2022-07-14 23:22:12.870,2016-06-15 14:43:48.326,0,False,False,,0,,,False,"f2f9c64a-99ec-44b0-92ff-9dcbbf5c30ba",""
+16,1,"Leads","","",False,481,2022-07-14 23:22:12.870,2016-06-15 14:43:48.326,0,False,False,,0,,,False,"a1c0b60d-ee02-4443-b46d-9a93f0de2fe7",""
+19,1,"EmailActivities","","",False,593,2022-07-14 23:22:12.870,2016-06-15 14:43:48.326,0,False,False,,0,,,False,"92167c90-efbb-4ac5-a09d-b098c7a11e41",""
+22,1,"Datetable","","",False,712,2022-07-14 23:22:12.870,2016-06-15 14:43:48.326,0,False,False,,0,,,False,"3f3a9b28-5b42-4433-8af5-fefeea8e186e",""
+2905,1,"DateTableTemplate_d9902c2c-4915-4ff9-ab7b-61ccf6183ea0","","",True,2938,2022-07-14 23:22:12.870,2016-06-15 14:43:51.470,2,False,True,,0,,,False,"bb67a3a6-d614-4ba9-8809-83b93b74eaee",""
+2984,1,"LocalDateTable_41b09df0-a98d-492c-80d5-8ac96a12fa08","","",True,3069,2022-07-14 23:22:12.870,2016-06-15 14:43:51.713,2,True,False,,0,,,False,"025b0515-dd8c-49bc-ad76-6ee47319e3ed",""
+2987,1,"LocalDateTable_832e0fb5-395e-48bf-a6db-9cc8fef67ee2","","",True,3071,2022-07-14 23:22:12.870,2016-06-15 14:43:51.713,2,True,False,,0,,,False,"f75dc287-6ceb-4bfb-986f-ba58a0744a85",""

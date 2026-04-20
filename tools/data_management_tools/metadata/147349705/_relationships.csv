@@ -1,0 +1,7 @@
+ID,ModelID,Name,IsActive,Type,CrossFilteringBehavior,JoinOnDateBehavior,RelyOnReferentialIntegrity,FromTableID,FromColumnID,FromCardinality,ToTableID,ToColumnID,ToCardinality,State,RelationshipStorageID,RelationshipStorage2ID,ModifiedTime,RefreshedTime,SecurityFilteringBehavior
+399,1,"10c192e0-6709-4ab0-9a47-c75658f71f8e",True,1,1,2,False,390,402,2,393,403,1,1,623,,2020-06-25 16:31:10.376,2020-06-25 16:31:10.376,1
+400,1,"ce533e4e-83a5-4720-9a13-e3cd1d172b3d",True,1,1,2,False,390,410,2,396,411,1,1,625,,2020-06-25 16:31:10.386,2020-06-25 16:31:10.386,1
+3804,1,"ded0f6a9-96c7-4ed9-b44b-a2a2de0d99ac",True,1,1,1,False,3402,3407,2,12,113,1,1,3805,,2020-07-04 16:25:20.773,2020-07-04 16:25:20.773,1
+3807,1,"903e0936-aeee-4932-9773-493cbb33e884",True,1,1,1,False,3402,3406,2,333,337,1,1,3808,,2020-07-04 16:25:20.773,2020-07-04 16:25:20.773,1
+3852,1,"c2cf9a9d-99c8-42ec-9f87-f5060b99afba",True,1,1,1,False,3402,3409,2,390,402,1,1,3853,,2020-07-04 16:26:01.270,2020-07-04 16:26:01.270,1
+3869,1,"815e911b-a4c2-4455-aa69-2d096f58576b",True,1,1,1,False,3402,3408,2,651,655,1,1,3870,,2020-07-04 16:26:11.453,2020-07-04 16:26:11.453,1

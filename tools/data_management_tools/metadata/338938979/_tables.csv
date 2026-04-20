@@ -1,0 +1,5 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Towns","","",False,58,2021-06-04 20:53:56.176,2021-06-04 12:55:59.786,0,False,False,,0,,,False,"77942e58-ecb2-49f6-98ab-c04e8a196f12",""
+15,1,"DateTableTemplate_bf15e3e6-7013-4a78-a2c7-1753dd338bee","","",True,60,2021-06-04 12:55:59.790,2021-06-04 12:55:53.933,2,False,True,,0,,,False,"1e4cb422-7942-4465-9b59-6bf82774d4e2",""
+836,1,"Economics","","",False,885,2021-06-04 20:53:57.240,2021-06-04 22:40:29.576,0,False,False,,0,,,False,"b3dbee31-7485-4bd8-ac4e-01bf348843c2",""
+2282,1,"Population","","",False,2338,2021-06-04 20:53:57.826,2021-06-04 20:57:28.980,0,False,False,,0,,,False,"f393849b-bda2-435b-906d-38c016e3e1c4",""

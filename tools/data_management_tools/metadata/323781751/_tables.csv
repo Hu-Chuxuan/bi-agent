@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"DateTableTemplate_463227c4-557b-4956-98e8-3010921f4661","","",True,50,2022-08-26 05:18:10.483,2018-07-24 02:07:18.250,2,False,True,,0,,,False,"99410486-9eab-4b4c-9c9b-b59aab9cb559",""
+273,1,"Sales","","",False,346,2022-08-26 05:18:10.483,2018-09-09 22:17:46.173,0,False,False,,0,,,False,"84a1ea0e-9266-4c4b-8320-8834c6236fe6",""
+787,1,"Product","","",False,812,2022-08-26 05:18:10.483,2018-08-30 04:18:00.766,0,False,False,,0,,,False,"3b789da1-4005-4fa0-bd9c-a54830e0704f",""
+847,1,"Manufacturer","","",False,929,2022-08-26 05:18:10.483,2018-08-30 01:57:41.916,0,False,False,,0,,,False,"866e3898-bd53-47c0-982c-b74ed9d1604d",""
+1014,1,"Geography","","",False,1090,2022-08-26 05:18:10.483,2018-08-30 03:46:21.323,0,False,False,,0,,,False,"49ecb283-f98f-48bc-85ee-0491f334cefc",""
+1130,1,"Date","","",False,1227,2022-08-26 05:18:10.483,2018-08-30 04:31:41.283,0,False,False,,0,,,False,"1ca14616-a4e6-4e7b-bc8c-775d27be8cd8",""
+1133,1,"LocalDateTable_1c5aec59-5098-4f5d-94be-9ebe74d39d2b","","",True,1229,2022-08-26 05:18:10.483,2018-07-24 02:12:54.686,2,True,False,,0,,,False,"b80e0317-fd79-467a-a4f8-c1593bd9f2ee",""
+2340,1,"International Sales","","",False,2417,2022-08-26 05:18:10.483,2018-07-24 02:19:01.230,0,False,False,,0,,,False,"0ff087f7-31b2-4699-aabe-2a5a3d6bec3f",""
+2343,1,"LocalDateTable_d7050e82-4f61-49ec-a87f-306025586a1b","","",True,2419,2022-08-26 05:18:10.483,2018-07-24 02:19:01.230,2,True,False,,0,,,False,"c8679465-00cd-40bf-a37d-6ace6e6bf449",""
+5281,1,"ClusterMappingTable","","",True,5290,2022-08-26 05:18:10.483,2018-08-30 04:17:56.750,2,False,True,,0,,,False,"c8c34421-5964-4326-a29c-8a8be6ba129a",""

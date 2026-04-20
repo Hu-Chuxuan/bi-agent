@@ -1,0 +1,181 @@
+Category,Source.Name,Category Sort Order,Final SCORE,Final Sentiment,Initial SCORE,Initial Sentiment
+Falling,call_100002.csv,4,0.21,Low,0.41,Medium
+Falling,call_100005.csv,4,0.21,Low,0.49,Medium
+Falling,call_100007.csv,4,0.3,Low,0.54,Medium
+Falling,call_100008.csv,4,0.12,Low,0.42,Medium
+Falling,call_100012.csv,4,0.18,Low,0.52,Medium
+Falling,call_100014.csv,4,0.26,Low,0.49,Medium
+Falling,call_100020.csv,4,0.26,Low,0.47,Medium
+Falling,call_100022.csv,4,0.31,Low,0.5,Medium
+Falling,call_100024.csv,4,0.36,Low,0.42,Medium
+Falling,call_100027.csv,4,0.37,Low,0.54,Medium
+Falling,call_100029.csv,4,0.39,Low,0.49,Medium
+Falling,call_100035.csv,4,0.35,Low,0.51,Medium
+Falling,call_100037.csv,4,0.15,Low,0.54,Medium
+Falling,call_100042.csv,4,0.26,Low,0.48,Medium
+Falling,call_100044.csv,4,0.33,Low,0.55,Medium
+Falling,call_100049.csv,4,0.55,Medium,0.66,High
+Falling,call_100050.csv,4,0.18,Low,0.48,Medium
+Falling,call_100052.csv,4,0.21,Low,0.55,Medium
+Falling,call_100059.csv,4,0.4,Low,0.55,Medium
+Falling,call_100060.csv,4,0.27,Low,0.44,Medium
+Falling,call_100065.csv,4,0.34,Low,0.53,Medium
+Falling,call_100067.csv,4,0.17,Low,0.45,Medium
+Falling,call_100072.csv,4,0.17,Low,0.5,Medium
+Falling,call_100080.csv,4,0.34,Low,0.47,Medium
+Falling,call_100082.csv,4,0.26,Low,0.5,Medium
+Falling,call_100086.csv,4,0.55,Medium,0.82,High
+Falling,call_100087.csv,4,0.13,Low,0.48,Medium
+Falling,call_100089.csv,4,0.34,Low,0.47,Medium
+Falling,call_100097.csv,4,0.18,Low,0.54,Medium
+Falling,call_100102.csv,4,0.4,Low,0.53,Medium
+Falling,call_100104.csv,4,0.28,Low,0.46,Medium
+Falling,call_100110.csv,4,0.29,Low,0.48,Medium
+Falling,call_100112.csv,4,0.35,Low,0.48,Medium
+Falling,call_100117.csv,4,0.28,Low,0.52,Medium
+Falling,call_100119.csv,4,0.11,Low,0.46,Medium
+Falling,call_100132.csv,4,0.28,Low,0.5,Medium
+Falling,call_100134.csv,4,0.11,Low,0.55,Medium
+Falling,call_100140.csv,4,0.39,Low,0.48,Medium
+Falling,call_100142.csv,4,0.24,Low,0.48,Medium
+Falling,call_100147.csv,4,0.4,Low,0.51,Medium
+Falling,call_100149.csv,4,0.4,Low,0.55,Medium
+Falling,call_100151.csv,4,0.1,Low,0.45,Medium
+Falling,call_100155.csv,4,0.39,Low,0.47,Medium
+Falling,call_100157.csv,4,0.27,Low,0.55,Medium
+Falling,call_100162.csv,4,0.2,Low,0.46,Medium
+Falling,call_100164.csv,4,0.28,Low,0.5,Medium
+Falling,call_100170.csv,4,0.37,Low,0.5,Medium
+Falling,call_100172.csv,4,0.27,Low,0.51,Medium
+Falling,call_100177.csv,4,0.23,Low,0.45,Medium
+Falling,call_100179.csv,4,0.38,Low,0.5,Medium
+Rising,call_100003.csv,2,0.76,High,0.47,Medium
+Rising,call_100010.csv,2,0.9,High,0.53,Medium
+Rising,call_100013.csv,2,0.73,High,0.12,Low
+Rising,call_100015.csv,2,0.42,Medium,0.35,Low
+Rising,call_100021.csv,2,0.95,High,0.5,Medium
+Rising,call_100023.csv,2,0.44,Medium,0.33,Low
+Rising,call_100025.csv,2,0.78,High,0.48,Medium
+Rising,call_100028.csv,2,0.76,High,0.16,Low
+Rising,call_100033.csv,2,0.71,High,0.53,Medium
+Rising,call_100034.csv,2,0.91,High,0.6,Medium
+Rising,call_100036.csv,2,0.63,High,0.49,Medium
+Rising,call_100040.csv,2,0.92,High,0.49,Medium
+Rising,call_100043.csv,2,0.83,High,0.39,Low
+Rising,call_100045.csv,2,0.42,Medium,0.1,Low
+Rising,call_100048.csv,2,0.85,High,0.55,Medium
+Rising,call_100051.csv,2,0.94,High,0.49,Medium
+Rising,call_100058.csv,2,0.63,High,0.24,Low
+Rising,call_100063.csv,2,0.87,High,0.55,Medium
+Rising,call_100066.csv,2,0.81,High,0.51,Medium
+Rising,call_100070.csv,2,0.78,High,0.54,Medium
+Rising,call_100073.csv,2,0.73,High,0.16,Low
+Rising,call_100081.csv,2,0.85,High,0.47,Medium
+Rising,call_100085.csv,2,0.93,High,0.55,Medium
+Rising,call_100088.csv,2,0.63,High,0.25,Low
+Rising,call_100093.csv,2,0.93,High,0.49,Medium
+Rising,call_100098.csv,2,0.44,Medium,0.14,Low
+Rising,call_100100.csv,2,0.82,High,0.45,Medium
+Rising,call_100103.csv,2,0.56,Medium,0.38,Low
+Rising,call_100107.csv,2,0.45,Medium,0.28,Low
+Rising,call_100108.csv,2,0.65,High,0.55,Medium
+Rising,call_100111.csv,2,0.76,High,0.47,Medium
+Rising,call_100114.csv,2,0.41,Medium,0.27,Low
+Rising,call_100116.csv,2,0.91,High,0.6,Medium
+Rising,call_100118.csv,2,0.66,High,0.41,Medium
+Rising,call_100123.csv,2,0.74,High,0.45,Medium
+Rising,call_100124.csv,2,0.67,High,0.6,Medium
+Rising,call_100126.csv,2,0.69,High,0.46,Medium
+Rising,call_100130.csv,2,0.67,High,0.51,Medium
+Rising,call_100131.csv,2,0.95,High,0.55,Medium
+Rising,call_100133.csv,2,0.94,High,0.16,Low
+Rising,call_100138.csv,2,0.83,High,0.5,Medium
+Rising,call_100141.csv,2,0.64,High,0.54,Medium
+Rising,call_100145.csv,2,0.91,High,0.5,Medium
+Rising,call_100148.csv,2,0.89,High,0.11,Low
+Rising,call_100153.csv,2,0.63,High,0.54,Medium
+Rising,call_100156.csv,2,0.88,High,0.49,Medium
+Rising,call_100159.csv,2,0.43,Medium,0.18,Low
+Rising,call_100160.csv,2,0.76,High,0.55,Medium
+Rising,call_100163.csv,2,0.6,Medium,0.35,Low
+Rising,call_100168.csv,2,0.8,High,0.51,Medium
+Rising,call_100171.csv,2,0.75,High,0.48,Medium
+Rising,call_100175.csv,2,0.92,High,0.47,Medium
+Rising,call_100178.csv,2,0.59,Medium,0.25,Low
+Steady High,call_100004.csv,1,0.61,High,0.66,High
+Steady High,call_100011.csv,1,0.78,High,0.77,High
+Steady High,call_100019.csv,1,0.76,High,0.8,High
+Steady High,call_100026.csv,1,0.86,High,0.87,High
+Steady High,call_100041.csv,1,0.73,High,0.94,High
+Steady High,call_100056.csv,1,0.94,High,0.86,High
+Steady High,call_100064.csv,1,0.94,High,0.89,High
+Steady High,call_100071.csv,1,0.76,High,0.79,High
+Steady High,call_100079.csv,1,0.86,High,0.95,High
+Steady High,call_100094.csv,1,0.81,High,0.61,High
+Steady High,call_100101.csv,1,0.74,High,0.71,High
+Steady High,call_100139.csv,1,0.95,High,0.74,High
+Steady High,call_100146.csv,1,0.9,High,0.94,High
+Steady High,call_100154.csv,1,0.81,High,0.86,High
+Steady High,call_100161.csv,1,0.68,High,0.79,High
+Steady High,call_100169.csv,1,0.89,High,0.73,High
+Steady High,call_100176.csv,1,0.77,High,0.9,High
+Steady Negative,call_100001.csv,5,0.1,Low,0.26,Low
+Steady Negative,call_100009.csv,5,0.12,Low,0.4,Low
+Steady Negative,call_100016.csv,5,0.1,Low,0.23,Low
+Steady Negative,call_100017.csv,5,0.1,Low,0.21,Low
+Steady Negative,call_100030.csv,5,0.11,Low,0.14,Low
+Steady Negative,call_100031.csv,5,0.1,Low,0.18,Low
+Steady Negative,call_100032.csv,5,0.14,Low,0.17,Low
+Steady Negative,call_100038.csv,5,0.38,Low,0.11,Low
+Steady Negative,call_100039.csv,5,0.36,Low,0.17,Low
+Steady Negative,call_100046.csv,5,0.1,Low,0.1,Low
+Steady Negative,call_100047.csv,5,0.26,Low,0.33,Low
+Steady Negative,call_100053.csv,5,0.17,Low,0.2,Low
+Steady Negative,call_100054.csv,5,0.17,Low,0.12,Low
+Steady Negative,call_100061.csv,5,0.1,Low,0.18,Low
+Steady Negative,call_100062.csv,5,0.31,Low,0.24,Low
+Steady Negative,call_100068.csv,5,0.27,Low,0.3,Low
+Steady Negative,call_100069.csv,5,0.34,Low,0.31,Low
+Steady Negative,call_100075.csv,5,0.34,Low,0.24,Low
+Steady Negative,call_100076.csv,5,0.1,Low,0.23,Low
+Steady Negative,call_100077.csv,5,0.18,Low,0.21,Low
+Steady Negative,call_100083.csv,5,0.12,Low,0.1,Low
+Steady Negative,call_100084.csv,5,0.19,Low,0.32,Low
+Steady Negative,call_100090.csv,5,0.33,Low,0.13,Low
+Steady Negative,call_100091.csv,5,0.1,Low,0.23,Low
+Steady Negative,call_100092.csv,5,0.36,Low,0.31,Low
+Steady Negative,call_100105.csv,5,0.34,Low,0.25,Low
+Steady Negative,call_100106.csv,5,0.1,Low,0.29,Low
+Steady Negative,call_100113.csv,5,0.3,Low,0.3,Low
+Steady Negative,call_100120.csv,5,0.37,Low,0.15,Low
+Steady Negative,call_100121.csv,5,0.1,Low,0.23,Low
+Steady Negative,call_100122.csv,5,0.33,Low,0.25,Low
+Steady Negative,call_100128.csv,5,0.19,Low,0.29,Low
+Steady Negative,call_100129.csv,5,0.27,Low,0.31,Low
+Steady Negative,call_100135.csv,5,0.37,Low,0.27,Low
+Steady Negative,call_100136.csv,5,0.1,Low,0.29,Low
+Steady Negative,call_100137.csv,5,0.29,Low,0.15,Low
+Steady Negative,call_100143.csv,5,0.19,Low,0.39,Low
+Steady Negative,call_100144.csv,5,0.24,Low,0.29,Low
+Steady Negative,call_100150.csv,5,0.32,Low,0.3,Low
+Steady Negative,call_100152.csv,5,0.26,Low,0.33,Low
+Steady Negative,call_100158.csv,5,0.23,Low,0.11,Low
+Steady Negative,call_100165.csv,5,0.11,Low,0.28,Low
+Steady Negative,call_100166.csv,5,0.1,Low,0.39,Low
+Steady Negative,call_100167.csv,5,0.17,Low,0.23,Low
+Steady Negative,call_100173.csv,5,0.16,Low,0.25,Low
+Steady Negative,call_100174.csv,5,0.4,Low,0.3,Low
+Steady Negative,call_100180.csv,5,0.34,Low,0.3,Low
+Steady Neutral,call_100006.csv,3,0.57,Medium,0.46,Medium
+Steady Neutral,call_100018.csv,3,0.57,Medium,0.46,Medium
+Steady Neutral,call_100055.csv,3,0.55,Medium,0.53,Medium
+Steady Neutral,call_100057.csv,3,0.45,Medium,0.45,Medium
+Steady Neutral,call_100074.csv,3,0.43,Medium,0.54,Medium
+Steady Neutral,call_100078.csv,3,0.57,Medium,0.51,Medium
+Steady Neutral,call_100095.csv,3,0.44,Medium,0.51,Medium
+Steady Neutral,call_100096.csv,3,0.58,Medium,0.51,Medium
+Steady Neutral,call_100099.csv,3,0.42,Medium,0.45,Medium
+Steady Neutral,call_100109.csv,3,0.55,Medium,0.56,Medium
+Steady Neutral,call_100115.csv,3,0.56,Medium,0.47,Medium
+Steady Neutral,call_100125.csv,3,0.45,Medium,0.53,Medium
+Steady Neutral,call_100127.csv,3,0.41,Medium,0.54,Medium

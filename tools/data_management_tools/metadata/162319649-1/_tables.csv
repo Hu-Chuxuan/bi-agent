@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+726,1,"Dates","Time","",False,1119,2021-07-21 16:49:53.663,2021-07-03 14:34:06.503,0,False,False,,0,,,False,"02e7e99a-9c2e-4d27-a9f3-15a3ac5584e4",""
+732,1,"Customers","","",False,1123,2021-07-03 14:34:06.503,2021-07-29 14:19:52.256,0,False,False,,0,,,False,"4a7a85ba-9550-439e-b005-5f4368aedb32",""
+735,1,"Products","","",False,1125,2021-07-03 14:34:06.503,2021-07-03 14:34:06.503,0,False,False,,0,,,False,"550c808d-424e-4c29-98d7-4d09e05afb0b",""
+738,1,"Locations","","",False,1127,2021-07-03 14:34:06.503,2021-07-30 07:40:54.136,0,False,False,,0,,,False,"b2dc135f-45fb-41d2-8c36-a33ba16a9e52",""
+741,1,"Sales","","",False,1129,2021-07-03 14:34:06.503,2021-07-24 05:40:03.013,0,False,False,,0,,,False,"09659bf1-8a06-49dd-8332-ece2f6b6afff",""
+744,1,"Week 3 Measures","","",False,1131,2021-07-29 08:23:40.373,2021-07-30 09:49:17.363,0,False,False,,0,,,False,"ecebc79e-41d2-4d5d-854b-a6a08642f08f",""
+3834,1,"Validation Measures","","",True,3940,2021-07-28 05:02:00.086,2021-07-21 02:57:57.283,0,False,False,,0,,,False,"43821337-aeee-4653-a0ee-75250facab3a",""
+8859,1,"Modes","","",False,8873,2021-07-29 07:55:54.053,2021-07-29 07:55:54.053,0,False,False,,0,,,False,"f5e1ed75-46bc-4513-b55c-8695215fcf30",""

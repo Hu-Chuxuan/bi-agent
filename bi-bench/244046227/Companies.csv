@@ -1,0 +1,5 @@
+Source.Name,companyIdent,companyName,taxRegistrationCountry,taxRegIdent,streetname,city,postalCode,country
+"ExactOnline_V32_2016.xaf","1","Toro Rosso BV","NL","","De Fallastraat 3","Capelle aan den IJssel","2901RG","NL"
+"Multivers_V32_2017.xaf","MVL00003","Demonstratiebedrijf Homegarden","NL","004532016","","","","NL"
+"Twinfield_V31_2016.xaf","NLA000976","Analys.io","NL","164757740B01","Havenstraat 176","Bussum","1401 EM","NL"
+"XmlAuditfileFinancieel3.2_test.xaf","String","String","AD","String","String","String","String","AD"

@@ -1,0 +1,6 @@
+Statuses,Status_Order
+"Backlog","1"
+"Blocked","2"
+"Awaiting Implementation","3"
+"In Progress","4"
+"Ready for Review","5"

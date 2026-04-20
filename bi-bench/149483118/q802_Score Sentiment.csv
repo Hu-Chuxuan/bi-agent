@@ -1,0 +1,7 @@
+Score,Sentiment,Sentiment Category,Points
+6,"Don't know/not relevant","Neutral",-1
+1,"Not important","Negative",-10
+2,"Slightly important","Negative",-4
+3,"Somewhat important","Neutral",-1
+4,"important","Positive",1
+5,"very important","Positive",4

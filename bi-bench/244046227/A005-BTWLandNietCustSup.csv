@@ -1,0 +1,3 @@
+Source.Name,custSupID,custSupName,taxRegistrationCountry,custSupTp,country,city,website,bankAccount,telephone,commerceNr,fax,eMail,taxRegIdent,contact,Link,VATCodeCountry,VAT_RegistrVsCode
+"ExactOnline_V32_2016.xaf","28","testklant","BE","C","BE","","","","","","","","NL814948030B01","","ExactOnline_V32_2016.xaf-28","NL","FALSE"
+"XmlAuditfileFinancieel3.2_test.xaf","String","String","AD","B","AD","String","token","[Table]","String","String","String","token","String","String","XmlAuditfileFinancieel3.2_test.xaf-String","St","FALSE"

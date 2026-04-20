@@ -1,0 +1,36 @@
+AssetID,StoreID,AssetName,AssetType,AssetStatus,LastMaintenanceDate
+21001,1001,"Air Condition","Electronic","Working",2020-08-15 00:00:00.000
+21002,1001,"Vacuum Cleaner","Electronic","Working",2020-09-20 00:00:00.000
+21003,1001,"Refrigerator","Electronic","Working",2020-08-15 00:00:00.000
+21004,1001,"Digital Display","Electronic","Not Working",2020-08-15 00:00:00.000
+21005,1001,"Escalator","ElectroMechanical","Working",2020-07-25 00:00:00.000
+21006,1001,"Computers","Electronic","Working",2020-07-25 00:00:00.000
+21007,1002,"Air Condition","Electronic","Not Working",2020-09-27 00:00:00.000
+21008,1002,"Vacuum Cleaner","Electronic","Working",2020-08-20 00:00:00.000
+21009,1002,"Refrigerator","Electronic","Working",2020-06-21 00:00:00.000
+21010,1002,"Digital Display","Electronic","Working",2020-04-15 00:00:00.000
+21011,1002,"Escalator","ElectroMechanical","Not Working",2020-07-25 00:00:00.000
+21012,1002,"Computers","Electronic","Working",2020-05-15 00:00:00.000
+21013,1003,"Air Condition","Electronic","Not Working",2020-02-27 00:00:00.000
+21014,1003,"Vacuum Cleaner","Electronic","Working",2020-04-26 00:00:00.000
+21015,1003,"Refrigerator","Electronic","Not Working",2020-06-05 00:00:00.000
+21016,1003,"Computers","Electronic","Working",2020-07-23 00:00:00.000
+21017,1004,"Digital Display","Electronic","Working",2020-04-15 00:00:00.000
+21018,1004,"Escalator","ElectroMechanical","Working",2020-07-25 00:00:00.000
+21019,1004,"Computers","Electronic","Not Working",2020-11-26 00:00:00.000
+21020,1004,"Air Condition","Electronic","Working",2020-09-27 00:00:00.000
+21021,1005,"Digital Display","Electronic","Working",2020-08-15 00:00:00.000
+21022,1005,"Computers","Electronic","Working",2020-08-26 00:00:00.000
+21023,1005,"Air Condition","Electronic","Working",2020-08-27 00:00:00.000
+21024,1006,"Digital Display","Electronic","Working",2020-09-15 00:00:00.000
+21025,1006,"Escalator","ElectroMechanical","Working",2020-09-25 00:00:00.000
+21026,1006,"Computers","Electronic","Working",2020-10-26 00:00:00.000
+21027,1007,"Computers","Electronic","Working",2020-10-26 00:00:00.000
+21028,1007,"Air Condition","Electronic","Working",2020-09-27 00:00:00.000
+21029,1009,"Digital Display","Electronic","Working",2020-05-15 00:00:00.000
+21030,1009,"Escalator","ElectroMechanical","Working",2020-07-12 00:00:00.000
+21031,1009,"Computers","Electronic","Working",2020-11-10 00:00:00.000
+21032,1009,"Air Condition","Electronic","Not Working",2020-09-02 00:00:00.000
+21033,1010,"Digital Display","Electronic","Not Working",2020-08-25 00:00:00.000
+21034,1010,"Computers","Electronic","Working",2020-03-07 00:00:00.000
+21035,1010,"Air Condition","Electronic","Working",2020-03-21 00:00:00.000

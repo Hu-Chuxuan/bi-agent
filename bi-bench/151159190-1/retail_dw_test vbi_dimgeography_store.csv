@@ -1,0 +1,64 @@
+StoreGeographySK,Store_ContinentName,Store_ContinentCode,Store_Country,Store_Country_Formal,Store_Country_A2,Store_Country_A3,Store_RegionStateProvince,Store_Region_A2,Store_Region_A4,Store_City,Store_City_AltName,Store_Latitude,Store_Longitude
+259,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Seattle","Seattle",47.606208801269531,-122.33206939697266
+259,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Seattle","Seattle",47.606208801269531,-122.33206939697266
+421,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Kennewick","Kennewick",46.211246490478516,-119.13723754882813
+2,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Bellevue","Bellevue",47.610378265380859,-122.20067596435547
+243,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Redmond","Redmond",47.673988342285156,-122.12151336669922
+145,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Yakima","Yakima",46.602069854736328,-120.50589752197266
+403,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Granger","Granger",46.342075347900391,-120.18727111816406
+500,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Sunnyside","Sunnyside",46.3237419128418,-120.00865173339844
+506,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Toppenish","Toppenish",46.377349853515625,-120.30867004394531
+512,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Wapato","Wapato",46.447628021240234,-120.42034149169922
+378,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Cle Elum","Cle Elum",47.195396423339844,-120.93924713134766
+458,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","North Bend","North Bend",47.495658874511719,-121.78678131103516
+495,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Snoqualmie","Snoqualmie",47.528713226318359,-121.82539367675781
+390,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Fall City","Fall City",47.567325592041016,-121.88872528076172
+244,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Renton","Renton",47.482875823974609,-122.21706390380859
+196,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Everett","Everett",47.978984832763672,-122.20207977294922
+121,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Spokane","Spokane",47.658779144287109,-117.42604827880859
+509,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Spokane Valley","Veradale",47.656959533691406,-117.19659423828125
+377,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Cheney","Cheney",47.487388610839844,-117.57575988769531
+400,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Germantown","Germantown",39.173160552978516,-77.271652221679688
+350,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Annapolis","Annapolis",38.978446960449219,-76.492179870605469
+359,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Baltimore","Baltimore",39.290386199951172,-76.612190246582031
+415,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","","Howard",39.287345886230469,-76.964309692382812
+485,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Ridgely","Ridgely",38.947891235351563,-75.884384155273437
+480,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","","Queen Anne's County",39.0263557434082,-76.131996154785156
+470,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Parkville","Parkville",39.3773307800293,-76.539688110351563
+357,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Middle River","Back River",39.334274291992188,-76.439407348632812
+400,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Germantown","Germantown",39.173160552978516,-77.271652221679688
+365,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","Bethesda","Bethesda",38.984653472900391,-77.094711303710938
+459,"North America","NA","United States","United States","US","USA","Maryland","US-MD","MD","","North Harford",39.583896636962891,-76.363731384277344
+99,"Europe","EU","France","France","FR","FRA","Île-de-France","FR-J","J","Paris","Paris",48.856613159179688,2.3522219657897949
+327,"Europe","EU","France","France","FR","FRA","Provence-Alpes-Côte d'Azur","FR-U","U","Marseille","Marseille",43.296482086181641,5.36978006362915
+324,"Europe","EU","France","France","FR","FRA","Auvergne-Rhône-Alpes","FR-C","C","Lyon","Lyon",45.764041900634766,4.8356590270996094
+342,"Europe","EU","France","France","FR","FRA","Languedoc-Roussillon-Midi-Pyrénées","FR-K","K","Toulouse","Toulouse",43.604652404785156,1.4442089796066284
+332,"Europe","EU","France","France","FR","FRA","Provence-Alpes-Côte d'Azur","FR-U","U","Nice","Nice",43.710174560546875,7.2619533538818359
+331,"Europe","EU","France","France","FR","FRA","Pays de la Loire","FR-R","R","Nantes","Nantes",47.2183723449707,-1.5536210536956787
+340,"Europe","EU","France","France","FR","FRA","Alsace-Champagne-Ardenne-Lorraine","FR-A","A","Strasbourg","Strasbourg",48.573406219482422,7.7521114349365234
+156,"Europe","EU","Germany","Germany","DE","DEU","Berlin","DE-BE","BE","Berlin","Berlin",52.5200080871582,13.404953956604004
+319,"Europe","EU","Germany","Germany","DE","DEU","North Rhine-Westphalia","DE-NW","NW","Cologne","Koln",50.937530517578125,6.9602785110473633
+317,"Europe","EU","Germany","Germany","DE","DEU","Hesse","DE-HE","HE","Hofheim","Hofheim am Taunus",50.084182739257813,8.4432296752929687
+319,"Europe","EU","Germany","Germany","DE","DEU","North Rhine-Westphalia","DE-NW","NW","Cologne","Koln",50.937530517578125,6.9602785110473633
+321,"Europe","EU","Germany","Germany","DE","DEU","Rhineland-Palatinate","DE-RP","RP","Landstuhl","Landstuhl",49.414146423339844,7.5709052085876465
+312,"Europe","EU","Germany","Germany","DE","DEU","North Rhine-Westphalia","DE-NW","NW","Düsseldorf","Dusseldorf",51.227741241455078,6.7734556198120117
+335,"Europe","EU","Germany","Germany","DE","DEU","Rhineland-Palatinate","DE-RP","RP","Ramstein-Miesenbach","Ramstein",49.445758819580078,7.5545406341552734
+305,"Europe","EU","Germany","Germany","DE","DEU","Rhineland-Palatinate","DE-RP","RP","Baumholder","Baumholder",49.617847442626953,7.329063892364502
+315,"Europe","EU","Germany","Germany","DE","DEU","Bavaria","DE-BY","BY","Giebelstadt","Giebelstadt",49.653472900390625,9.9452457427978516
+334,"Europe","EU","Germany","Germany","DE","DEU","Bavaria","DE-BY","BY","Bamberg","Bamberg",49.8988151550293,10.902763366699219
+330,"Europe","EU","Germany","Germany","DE","DEU","Bavaria","DE-BY","BY","Munich","Munich",48.135124206542969,11.58198070526123
+279,"Asia","AS","Australia","Australia","AU","AUS","Australian Capital Territory","AU-ACT","ACT","Molonglo","Canberra",-35.299827575683594,149.04019165039062
+128,"Asia","AS","Australia","Australia","AU","AUS","New South Wales","AU-NSW","NSW","","Sydney",-33.868820190429688,151.20928955078125
+282,"Asia","AS","China","China","CN","CHN","Hong Kong","CN-91","91","Hong Kong","Hong Kong",22.2783145904541,114.17469787597656
+293,"Asia","AS","China","China","CN","CHN","Shanghai","CN-31","31","Shanghai","Shanghai",31.230415344238281,121.47370147705078
+299,"Asia","AS","China","China","CN","CHN","Xinjiang","CN-65","65","Urumqi","Urumqi",43.825592041015625,87.616851806640625
+276,"Asia","AS","China","China","CN","CHN","Beijing","CN-11","11","Beijing","Beijing",39.904209136962891,116.40739440917969
+281,"Asia","AS","China","China","CN","CHN","Guangdong","CN-44","44","Guangzhou","Guangzhou",23.129110336303711,113.26438140869141
+293,"Asia","AS","China","China","CN","CHN","Shanghai","CN-31","31","Shanghai","Shanghai",31.230415344238281,121.47370147705078
+282,"Asia","AS","China","China","CN","CHN","Hong Kong","CN-91","91","Hong Kong","Hong Kong",22.2783145904541,114.17469787597656
+128,"Asia","AS","Australia","Australia","AU","AUS","New South Wales","AU-NSW","NSW","","Sydney",-33.868820190429688,151.20928955078125
+156,"Europe","EU","Germany","Germany","DE","DEU","Berlin","DE-BE","BE","Berlin","Berlin",52.5200080871582,13.404953956604004
+276,"Asia","AS","China","China","CN","CHN","Beijing","CN-11","11","Beijing","Beijing",39.904209136962891,116.40739440917969
+259,"North America","NA","United States","United States","US","USA","Washington","US-WA","WA","Seattle","Seattle",47.606208801269531,-122.33206939697266
+99,"Europe","EU","France","France","FR","FRA","Île-de-France","FR-J","J","Paris","Paris",48.856613159179688,2.3522219657897949
+276,"Asia","AS","China","China","CN","CHN","Beijing","CN-11","11","Beijing","Beijing",39.904209136962891,116.40739440917969

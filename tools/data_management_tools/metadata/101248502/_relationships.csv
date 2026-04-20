@@ -1,0 +1,5 @@
+ID,ModelID,Name,IsActive,Type,CrossFilteringBehavior,JoinOnDateBehavior,RelyOnReferentialIntegrity,FromTableID,FromColumnID,FromCardinality,ToTableID,ToColumnID,ToCardinality,State,RelationshipStorageID,RelationshipStorage2ID,ModifiedTime,RefreshedTime,SecurityFilteringBehavior
+732,1,"ba6ff1bf-0f5c-4a05-b8da-243780d93341",True,1,1,1,False,10,21,2,571,622,1,1,733,,2021-03-07 19:56:13.106,2021-03-07 19:56:13.106,1
+750,1,"d295222b-af2d-43a3-999f-46840ecfc9bd",True,1,1,1,False,10,20,2,648,699,1,1,751,,2021-03-07 19:56:30.763,2021-03-07 19:56:30.763,1
+768,1,"a25672c0-35d0-45d4-9ab0-780681b733c0",True,1,1,1,False,461,465,2,571,622,1,1,769,,2021-03-07 19:56:48.303,2021-03-07 19:56:48.303,1
+786,1,"2a18d2c7-49c9-4401-8e09-f5e0dfbddbe8",True,1,1,1,False,461,464,2,648,699,1,1,787,,2021-03-07 19:56:57.360,2021-03-07 19:56:57.360,1

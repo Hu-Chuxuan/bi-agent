@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,parsed_unpivot_col_list,parsed_unpivot_attr_col_name,parsed_unpivot_val_col_name,step
+122000300,12,Enrollment,Unpivot,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']",Year,Enrollment,"    #""Unpivoted Columns"" = Table.UnpivotOtherColumns(#""Changed Type"", {""ID""}, ""Attribute"", ""Value""),"

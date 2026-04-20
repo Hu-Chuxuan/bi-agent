@@ -1,0 +1,13 @@
+EventSubclass,Sub Class,Ordinal
+2,"Graph Finished",1
+1,"Process",20
+6,"Commit",100
+17,"ReadData",15
+25,"ExecuteSQL",10
+37,"Backup",200
+44,"Compress Segment",30
+52,"Metadata Traversal during Backup",150
+53,"VertiPaq",140
+57,"Tabular Transation Commit",130
+58,"Sequence point",2
+59,"Tabular object processing",110

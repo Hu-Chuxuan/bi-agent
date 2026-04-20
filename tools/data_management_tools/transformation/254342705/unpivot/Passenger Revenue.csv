@@ -1,0 +1,526 @@
+Column1,variable,value
+American,1995,13326
+Continental,1995,"$4,354"
+Delta,1995,11386
+Northwest,1995,"$7,762"
+United,1995,13027
+US Airways,1995,"$6,268"
+America West,1995,"$1,443"
+ --sub Network,1995,57566
+Southwest,1995,2761
+jetBlue,1995,$-
+AirTran,1995,$-
+Frontier,1995,54
+Virgin America,1995,$-
+ -- sub LCC,1995,2814
+Alaska,1995,958
+Hawaiian,1995,298
+Spirit,1995,49
+Allegiant,1995,$-
+ -- sub Other,1995,1305
+Total All Sectors,1995,61685
+Total Industry,1995,69470
+American,1996,13632
+Continental,1996,"$4,885"
+Delta,1996,11981
+Northwest,1996,"$8,598"
+United,1996,14247
+US Airways,1996,"$6,799"
+America West,1996,"$1,625"
+ --sub Network,1996,61768
+Southwest,1996,3269
+jetBlue,1996,$-
+AirTran,1996,$-
+Frontier,1996,105
+Virgin America,1996,$-
+ -- sub LCC,1996,3374
+Alaska,1996,1106
+Hawaiian,1996,326
+Spirit,1996,54
+Allegiant,1996,$-
+ -- sub Other,1996,1486
+Total All Sectors,1996,66628
+Total Industry,1996,75286
+American,1997,14284
+Continental,1997,"$5,686"
+Delta,1997,12773
+Northwest,1997,"$8,722"
+United,1997,15069
+US Airways,1997,"$7,112"
+America West,1997,"$1,753"
+ --sub Network,1997,65399
+Southwest,1997,3639
+jetBlue,1997,$-
+AirTran,1997,$102
+Frontier,1997,131
+Virgin America,1997,$-
+ -- sub LCC,1997,3871
+Alaska,1997,1256
+Hawaiian,1997,332
+Spirit,1997,64
+Allegiant,1997,$-
+ -- sub Other,1997,1652
+Total All Sectors,1997,70922
+Total Industry,1997,79471
+American,1998,14688
+Continental,1998,"$6,388"
+Delta,1998,13179
+Northwest,1998,"$7,513"
+United,1998,15202
+US Airways,1998,"$7,021"
+America West,1998,"$1,853"
+ --sub Network,1998,65844
+Southwest,1998,3964
+jetBlue,1998,$-
+AirTran,1998,$344
+Frontier,1998,182
+Virgin America,1998,$-
+ -- sub LCC,1998,4490
+Alaska,1998,1371
+Hawaiian,1998,354
+Spirit,1998,116
+Allegiant,1998,$-
+ -- sub Other,1998,1841
+Total All Sectors,1998,72176
+Total Industry,1998,80985
+American,1999,14456
+Continental,1999,"$6,975"
+Delta,1999,13203
+Northwest,1999,"$8,587"
+United,1999,15441
+US Airways,1999,"$6,848"
+America West,1999,"$2,024"
+ --sub Network,1999,67533
+Southwest,1999,4499
+jetBlue,1999,$-
+AirTran,1999,$486
+Frontier,1999,293
+Virgin America,1999,$-
+ -- sub LCC,1999,5279
+Alaska,1999,1480
+Hawaiian,1999,400
+Spirit,1999,212
+Allegiant,1999,$-
+ -- sub Other,1999,2093
+Total All Sectors,1999,74905
+Total Industry,1999,84317
+American,2000,16371
+Continental,2000,"$8,062"
+Delta,2000,14138
+Northwest,2000,"$9,523"
+United,2000,16603
+US Airways,2000,"$7,556"
+America West,2000,"$2,176"
+ --sub Network,2000,74429
+Southwest,2000,5397
+jetBlue,2000,$102
+AirTran,2000,$605
+Frontier,2000,433
+Virgin America,2000,$-
+ -- sub LCC,2000,6538
+Alaska,2000,1577
+Hawaiian,2000,475
+Spirit,2000,274
+Allegiant,2000,$-
+ -- sub Other,2000,2326
+Total All Sectors,2000,83292
+Total Industry,2000,93639
+American,2001,14084
+Continental,2001,"$7,156"
+Delta,2001,11876
+Northwest,2001,"$8,219"
+United,2001,13466
+US Airways,2001,"$6,580"
+America West,2001,"$1,933"
+ --sub Network,2001,63313
+Southwest,2001,5290
+jetBlue,2001,$310
+AirTran,2001,$648
+Frontier,2001,429
+Virgin America,2001,$-
+ -- sub LCC,2001,6678
+Alaska,2001,1565
+Hawaiian,2001,488
+Spirit,2001,326
+Allegiant,2001,$-
+ -- sub Other,2001,2379
+Total All Sectors,2001,72370
+Total Industry,2001,80943
+American,2002,14418
+Continental,2002,"$6,585"
+Delta,2002,10734
+Northwest,2002,"$7,753"
+United,2002,11519
+US Airways,2002,"$5,224"
+America West,2002,"$1,920"
+ --sub Network,2002,58153
+Southwest,2002,5237
+jetBlue,2002,$615
+AirTran,2002,$714
+Frontier,2002,444
+Virgin America,2002,$-
+ -- sub LCC,2002,7010
+Alaska,2002,1624
+Hawaiian,2002,542
+Spirit,2002,379
+Allegiant,2002,$-
+ -- sub Other,2002,2546
+Total All Sectors,2002,67709
+Total Industry,2002,73352
+American,2003,14236
+Continental,2003,"$6,556"
+Delta,2003,10272
+Northwest,2003,"$7,617"
+United,2003,10619
+US Airways,2003,"$4,925"
+America West,2003,"$2,108"
+ --sub Network,2003,56333
+Southwest,2003,5612
+jetBlue,2003,$965
+AirTran,2003,$888
+Frontier,2003,558
+Virgin America,2003,$-
+ -- sub LCC,2003,8023
+Alaska,2003,1794
+Hawaiian,2003,627
+Spirit,2003,438
+Allegiant,2003,$-
+ -- sub Other,2003,2858
+Total All Sectors,2003,67214
+Total Industry,2003,77342
+American,2004,14983
+Continental,2004,"$7,129"
+Delta,2004,10823
+Northwest,2004,"$8,432"
+United,2004,11954
+US Airways,2004,"$5,051"
+America West,2004,"$2,192"
+ --sub Network,2004,60564
+Southwest,2004,6116
+jetBlue,2004,"$1,221"
+AirTran,2004,"$1,003"
+Frontier,2004,672
+Virgin America,2004,$-
+ -- sub LCC,2004,9012
+Alaska,2004,1961
+Hawaiian,2004,700
+Spirit,2004,468
+Allegiant,2004,$46
+ -- sub Other,2004,3176
+Total All Sectors,2004,72752
+Total Industry,2004,85697
+American,2005,16572
+Continental,2005,"$7,943"
+Delta,2005,11346
+Northwest,2005,"$8,838"
+United,2005,12460
+US Airways,2005,"$5,046"
+America West,2005,"$2,510"
+ --sub Network,2005,64715
+Southwest,2005,7092
+jetBlue,2005,"$1,623"
+AirTran,2005,"$1,391"
+Frontier,2005,806
+Virgin America,2005,$-
+ -- sub LCC,2005,10912
+Alaska,2005,2118
+Hawaiian,2005,750
+Spirit,2005,468
+Allegiant,2005,$91
+ -- sub Other,2005,3427
+Total All Sectors,2005,79054
+Total Industry,2005,93500
+American,2006,17843
+Continental,2006,"$9,303"
+Delta,2006,11660
+Northwest,2006,"$9,051"
+United,2006,13890
+US Airways,2006,"$7,818"
+America West,2006,$-
+ --sub Network,2006,69565
+Southwest,2006,8546
+jetBlue,2006,"$2,223"
+AirTran,2006,"$1,810"
+Frontier,2006,952
+Virgin America,2006,$-
+ -- sub LCC,2006,13531
+Alaska,2006,2375
+Hawaiian,2006,797
+Spirit,2006,516
+Allegiant,2006,$178
+ -- sub Other,2006,3867
+Total All Sectors,2006,86962
+Total Industry,2006,101294
+American,2007,18088
+Continental,2007,"$10,357"
+Delta,2007,12768
+Northwest,2007,"$9,293"
+United,2007,14846
+US Airways,2007,"$7,935"
+America West,2007,$-
+ --sub Network,2007,73287
+Southwest,2007,9167
+jetBlue,2007,"$2,632"
+AirTran,2007,"$2,193"
+Frontier,2007,1112
+Virgin America,2007,$12
+ -- sub LCC,2007,15117
+Alaska,2007,2481
+Hawaiian,2007,889
+Spirit,2007,686
+Allegiant,2007,$259
+ -- sub Other,2007,4314
+Total All Sectors,2007,92718
+Total Industry,2007,107015
+American,2008,18220
+Continental,2008,"$10,958"
+Delta,2008,13767
+Northwest,2008,"$9,386"
+United,2008,14728
+US Airways,2008,"$7,973"
+America West,2008,$-
+ --sub Network,2008,75031
+Southwest,2008,10225
+jetBlue,2008,"$3,056"
+AirTran,2008,"$2,396"
+Frontier,2008,1203
+Virgin America,2008,$342
+ -- sub LCC,2008,17220
+Alaska,2008,2549
+Hawaiian,2008,1106
+Spirit,2008,661
+Allegiant,2008,$331
+ -- sub Other,2008,4646
+Total All Sectors,2008,96898
+Total Industry,2008,111533
+American,2009,15019
+Continental,2009,"$8,869"
+Delta,2009,11206
+Northwest,2009,"$6,837"
+United,2009,11262
+US Airways,2009,"$6,556"
+America West,2009,$-
+ --sub Network,2009,59748
+Southwest,2009,9561
+jetBlue,2009,"$2,928"
+AirTran,2009,"$2,079"
+Frontier,2009,924
+Virgin America,2009,$492
+ -- sub LCC,2009,15982
+Alaska,2009,2310
+Hawaiian,2009,1040
+Spirit,2009,550
+Allegiant,2009,$375
+ -- sub Other,2009,4275
+Total All Sectors,2009,80006
+Total Industry,2009,91331
+American,2010,16744
+Continental,2010,"$10,093"
+Delta,2010,21215
+Northwest,2010,$-
+United,2010,13447
+US Airways,2010,"$7,476"
+America West,2010,$-
+ --sub Network,2010,68974
+Southwest,2010,11122
+jetBlue,2010,"$3,410"
+AirTran,2010,"$2,345"
+Frontier,2010,1085
+Virgin America,2010,$658
+ -- sub LCC,2010,18621
+Alaska,2010,2599
+Hawaiian,2010,1155
+Spirit,2010,568
+Allegiant,2010,$458
+ -- sub Other,2010,4781
+Total All Sectors,2010,92376
+Total Industry,2010,103978
+American,2011,17930
+Continental,2011,"$11,803"
+Delta,2011,23397
+Northwest,2011,$-
+United,2011,14159
+US Airways,2011,"$8,362"
+America West,2011,$-
+ --sub Network,2011,75651
+Southwest,2011,12582
+jetBlue,2011,"$4,080"
+AirTran,2011,"$2,606"
+Frontier,2011,1462
+Virgin America,2011,$953
+ -- sub LCC,2011,21683
+Alaska,2011,3013
+Hawaiian,2011,1481
+Spirit,2011,732
+Allegiant,2011,$532
+ -- sub Other,2011,5757
+Total All Sectors,2011,103092
+Total Industry,2011,114299
+American,2012,18723
+Continental,2012,$-
+Delta,2012,24427
+Northwest,2012,$-
+United,2012,25666
+US Airways,2012,"$8,841"
+America West,2012,$-
+ --sub Network,2012,77658
+Southwest,2012,15453
+jetBlue,2012,"$4,549"
+AirTran,2012,$-
+Frontier,2012,1169
+Virgin America,2012,"$1,223"
+ -- sub LCC,2012,22394
+Alaska,2012,3290
+Hawaiian,2012,1767
+Spirit,2012,832
+Allegiant,2012,$631
+ -- sub Other,2012,6520
+Total All Sectors,2012,106572
+Total Industry,2012,115975
+American,2013,19571
+Continental,2013,$-
+Delta,2013,25801
+Northwest,2013,$-
+United,2013,25853
+US Airways,2013,"$9,511"
+America West,2013,$-
+ --sub Network,2013,80736
+Southwest,2013,16722
+jetBlue,2013,"$4,971"
+AirTran,2013,$-
+Frontier,2013,1138
+Virgin America,2013,"$1,287"
+ -- sub LCC,2013,24119
+Alaska,2013,3498
+Hawaiian,2013,1943
+Spirit,2013,1045
+Allegiant,2013,$708
+ -- sub Other,2013,7194
+Total All Sectors,2013,112050
+Total Industry,2013,120642
+American,2014,20319
+Continental,2014,$-
+Delta,2014,27953
+Northwest,2014,$-
+United,2014,26615
+US Airways,2014,"$9,957"
+America West,2014,$-
+ --sub Network,2014,84845
+Southwest,2014,17658
+jetBlue,2014,"$5,343"
+AirTran,2014,$-
+Frontier,2014,1265
+Virgin America,2014,"$1,312"
+ -- sub LCC,2014,25577
+Alaska,2014,3784
+Hawaiian,2014,2038
+Spirit,2014,1221
+Allegiant,2014,$801
+ -- sub Other,2014,7844
+Total All Sectors,2014,118266
+Total Industry,2014,126706
+American,2015,29023
+Continental,2015,$-
+Delta,2015,28218
+Northwest,2015,$-
+United,2015,26160
+US Airways,2015,$-
+America West,2015,$-
+ --sub Network,2015,83401
+Southwest,2015,18299
+jetBlue,2015,"$5,893"
+AirTran,2015,$-
+Frontier,2015,1194
+Virgin America,2015,"$1,341"
+ -- sub LCC,2015,26727
+Alaska,2015,3952
+Hawaiian,2015,2011
+Spirit,2015,1267
+Allegiant,2015,$824
+ -- sub Other,2015,8054
+Total All Sectors,2015,118182
+Total Industry,2015,126352
+American,2016,27872
+Continental,2016,$-
+Delta,2016,27376
+Northwest,2016,$-
+United,2016,25239
+US Airways,2016,$-
+America West,2016,$-
+ --sub Network,2016,80487
+Southwest,2016,18594
+jetBlue,2016,"$6,013"
+AirTran,2016,$-
+Frontier,2016,1084
+Virgin America,2016,"$1,452"
+ -- sub LCC,2016,27143
+Alaska,2016,4025
+Hawaiian,2016,2131
+Spirit,2016,1312
+Allegiant,2016,$860
+ -- sub Other,2016,8327
+Total All Sectors,2016,115957
+Total Industry,2016,124633
+American,2017,29215
+Continental,2017,$-
+Delta,2017,28235
+Northwest,2017,$-
+United,2017,26398
+US Airways,2017,$-
+America West,2017,$-
+ --sub Network,2017,83848
+Southwest,2017,19141
+jetBlue,2017,"$6,289"
+AirTran,2017,$-
+Frontier,2017,1145
+Virgin America,2017,"$1,487"
+ -- sub LCC,2017,28061
+Alaska,2017,4377
+Hawaiian,2017,2349
+Spirit,2017,1499
+Allegiant,2017,$937
+ -- sub Other,2017,9162
+Total All Sectors,2017,121071
+Total Industry,2017,129914
+American,2018,30644
+Continental,2018,$-
+Delta,2018,30887
+Northwest,2018,$-
+United,2018,28757
+US Airways,2018,$-
+America West,2018,$-
+ --sub Network,2018,90288
+Southwest,2018,19729
+jetBlue,2018,"$6,857"
+AirTran,2018,$-
+Frontier,2018,1203
+Virgin America,2018,$-
+ -- sub LCC,2018,27789
+Alaska,2018,6039
+Hawaiian,2018,2433
+Spirit,2018,1890
+Allegiant,2018,"$1,043"
+ -- sub Other,2018,11405
+Total All Sectors,2018,129481
+Total Industry,2018,138420
+American,2019,31445
+Continental,2019,$-
+Delta,2019,32848
+Northwest,2019,$-
+United,2019,30269
+US Airways,2019,$-
+America West,2019,$-
+ --sub Network,2019,94562
+Southwest,2019,19911
+jetBlue,2019,"$7,183"
+AirTran,2019,$-
+Frontier,2019,1366
+Virgin America,2019,$-
+ -- sub LCC,2019,28460
+Alaska,2019,6303
+Hawaiian,2019,2430
+Spirit,2019,2124
+Allegiant,2019,"$1,200"
+ -- sub Other,2019,12056
+Total All Sectors,2019,135078
+Total Industry,2019,144497

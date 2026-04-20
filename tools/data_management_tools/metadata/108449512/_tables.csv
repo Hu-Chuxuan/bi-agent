@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+1036,1,"LEOKA_Assault_Time_Weapon_Injury","","",False,1130,2022-09-03 00:37:00.586,2019-02-03 15:23:48.146,0,False,False,,0,,,False,"60e9ba4f-3ec8-4292-b016-9b5a376998c8",""
+4767,1,"Location","","",False,4784,2022-09-03 00:37:00.586,2019-02-03 08:34:33.410,0,False,False,,0,,,False,"64e7ac0e-3783-47c3-840f-cbe88a8be2e0",""
+7089,1,"HateCrimeDate","","",False,7145,2022-09-03 00:37:00.586,2019-02-02 21:00:19.183,0,False,False,,0,,,False,"55b0ca19-f5e1-423c-97b6-5efb1739a43d",""
+7215,1,"Arrests National","","",False,7394,2022-09-03 00:37:00.586,2019-02-10 21:16:30.876,0,False,False,,0,,,False,"43682f71-a9f3-4554-8af4-137fead76a92",""
+7574,1,"Cargo Theft","","",False,7703,2022-09-03 00:37:00.586,2019-02-03 15:57:58.873,0,False,False,,0,,,False,"7b3a3139-734c-4484-9fec-d1c60e1768dd",""
+7738,1,"Police Employee Data","","",False,7812,2022-09-03 00:37:00.586,2019-02-17 17:46:53.336,0,False,False,,0,,,False,"e1dd24cc-5577-4e56-948f-b85223946bf4",""
+7887,1,"Territories","","",False,8001,2022-09-03 00:37:00.586,2019-03-16 18:02:04.046,0,False,False,,0,,,False,"d134f91f-341e-4d64-ac41-d360f86c0455",""
+12945,1,"Human Trafficking","","",False,13018,2022-09-03 00:37:00.586,2019-02-02 21:07:57.320,0,False,False,,0,,,False,"de16ba49-7aa0-422d-bb48-1154def1a5b1",""
+13088,1,"LEOKA_Assignment Activity","","",False,13223,2022-09-03 00:37:00.586,2019-02-09 20:40:55.646,0,False,False,,0,,,False,"e3acc319-6e14-4f45-bdf9-37eb3680a025",""
+13348,1,"HateCrime","","",False,13536,2022-09-03 00:37:00.586,2019-02-03 15:54:58.770,0,False,False,,0,,,False,"168db281-0d04-4eff-bc27-0320e8c118fe",""
+17958,1,"Years","","",False,17967,2022-09-03 00:37:00.586,2019-02-03 15:09:53.116,0,False,False,,0,,,False,"f81927bc-4d58-479d-ae9a-82f90ec65697",""

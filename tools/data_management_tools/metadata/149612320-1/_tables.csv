@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"DateTableTemplate_23105765-d44e-468f-bcc4-e03ba8d6a8dd","","",True,50,2022-08-14 01:19:48.693,2017-06-29 19:25:07.043,2,False,True,,0,,,False,"86df9784-ddef-4c85-b2ca-34e1bfb7d398",""
+273,1,"CSE Performance","","",False,281,2022-08-14 01:19:48.693,2017-06-29 19:26:10.480,0,False,False,,0,,,False,"dbcf26f8-9e9c-4a56-9e9c-6a268d380051",""
+333,1,"Attendance","","",False,348,2022-08-14 01:19:48.693,2017-06-29 19:26:10.560,0,False,False,,0,,,False,"732e19c3-89ce-4471-81c7-5495d49190a3",""
+400,1,"Department","","",False,415,2022-08-14 01:19:48.693,2017-06-29 19:26:10.596,0,False,False,,0,,,False,"680b7019-26e0-4120-858b-37bc11fb273d",""
+440,1,"Proffessor","","",False,452,2022-08-14 01:19:48.693,2017-06-29 19:26:10.660,0,False,False,,0,,,False,"76b44045-faa2-42b1-8062-e90deba124a0",""
+495,1,"Qualifications","","",False,509,2022-08-14 01:19:48.693,2017-06-29 19:26:10.763,0,False,False,,0,,,False,"40e233d9-a06b-4ed8-8add-f5e406f764fe",""
+570,1,"Students","","",False,586,2022-08-14 01:19:48.693,2017-06-29 19:26:11.016,0,False,False,,0,,,False,"33640f71-e08c-4eaa-b697-c87c53a59fa3",""
+638,1,"LocalDateTable_99785e06-ec54-4216-92f3-45ffd74f82fa","","",True,689,2022-08-14 01:19:48.693,2017-06-29 19:26:10.906,2,True,False,,0,,,False,"5968dc62-fae1-442c-9e4e-ebda412031e2",""
+752,1,"Subjects","","",False,769,2022-08-14 01:19:48.693,2017-06-30 07:49:44.756,0,False,False,,0,,,False,"96ad9629-25e7-4ef0-a6b4-15ea762a637c",""
+794,1,"Years","","",False,806,2022-08-14 01:19:48.693,2017-06-29 19:26:11.113,0,False,False,,0,,,False,"627c6e44-3132-4e16-b365-ab892d299ea8",""

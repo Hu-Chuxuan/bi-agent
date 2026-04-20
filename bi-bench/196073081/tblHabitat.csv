@@ -1,0 +1,8 @@
+HabitatId,HabitatName,EnvironmentId
+1,"Grasslands",1
+2,"Forest",1
+3,"Fresh water",3
+4,"Salt water",3
+5,"Desert",1
+6,"Urban",1
+7,"Sky",2

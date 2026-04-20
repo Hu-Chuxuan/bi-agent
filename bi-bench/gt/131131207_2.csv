@@ -1,0 +1,148 @@
+,Menu Order,Food Name,Order YearMonth,Quantity
+0,Wonder Plus,Add-On Beverage Item [Arabic Cold Brew],2020-11-01 00:00:00.000,2
+1,Wonder Plus,Add-On Beverage Item [Kombucha Beetroot],2020-11-01 00:00:00.000,4
+2,Wonder Plus,Add-On Beverage Item [Kombucha Beetroot],2021-02-01 00:00:00.000,2
+3,Wonder Plus,Add-On Beverage Item [Kombucha Green Tea],2020-11-01 00:00:00.000,4
+4,Wonder Plus,Add-On Beverage Item [Kombucha Green Tea],2021-02-01 00:00:00.000,2
+5,Wonder Plus,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2020-11-01 00:00:00.000,4
+6,Wonder Plus,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2020-12-01 00:00:00.000,1
+7,Wonder Plus,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2021-02-01 00:00:00.000,1
+8,Wonder Plus,Add-On Beverage Item [Kombucha Passionfruit],2020-11-01 00:00:00.000,8
+9,Wonder Plus,Add-On Beverage Item [Kombucha Passionfruit],2020-12-01 00:00:00.000,5
+10,Wonder Plus,Add-On Beverage Item [Kombucha Passionfruit],2021-01-01 00:00:00.000,2
+11,Wonder Plus,Add-On Beverage Item [Kombucha Passionfruit],2021-02-01 00:00:00.000,3
+12,Wonder Plus,Add-On Beverage Item [N. Soda Apply & Vanilla],2020-11-01 00:00:00.000,4
+13,Wonder Plus,Add-On Beverage Item [N. Soda Apply & Vanilla],2020-12-01 00:00:00.000,1
+14,Wonder Plus,Add-On Beverage Item [N. Soda Guava & Lemongr],2020-11-01 00:00:00.000,3
+15,Wonder Plus,Add-On Beverage Item [N. Soda Lengkuas & Lemonade],2020-11-01 00:00:00.000,4
+16,Wonder Plus,Add-On Food Item [Amazin' Grace Granola],2020-11-01 00:00:00.000,1
+17,Wonder Plus,Add-On Food Item [Amazin' Grace Nut Mix],2020-12-01 00:00:00.000,1
+18,Wonder Plus,Add-On Food Item [Buttermilk Pita Chips],2020-11-01 00:00:00.000,4
+19,Wonder Plus,Add-On Food Item [Cheese Pita Chips],2020-12-01 00:00:00.000,2
+20,Wonder Plus,Add-On Food Item [Cooked Falafel],2021-01-01 00:00:00.000,1
+21,Wonder Plus,Add-On Food Item [Cookies],2020-12-01 00:00:00.000,5
+22,Wonder Plus,Add-On Food Item [Cookies],2021-01-01 00:00:00.000,6
+23,Wonder Plus,Add-On Food Item [Frozen Chicken Meatball],2020-12-01 00:00:00.000,1
+24,Wonder Plus,Add-On Food Item [Frozen Sambusak],2020-12-01 00:00:00.000,1
+25,Wonder Plus,Add-On Food Item [Mediterranean Lamb Stew],2020-11-01 00:00:00.000,1
+26,Wonder Plus,Add-On Food Item [Pulut Hitam Creme BrulÃ©e],2020-11-01 00:00:00.000,2
+27,Wonder Plus,Add-On Food Item [Shawarma Pita Chips],2020-11-01 00:00:00.000,3
+28,Wonder Plus,Add-On Food Item [Sourdough (Kefir King)],2020-11-01 00:00:00.000,1
+29,Wonder Plus,Add-On Food Item [Sourdough (Kefir King)],2020-12-01 00:00:00.000,4
+30,Wonder Plus,Add-On Food Item [Sourdough (Kefir King)],2021-01-01 00:00:00.000,5
+31,Wonder Plus,Add-On Food Item [Sourdough (Kefir King)],2021-02-01 00:00:00.000,2
+32,Wonder Plus,Menu Orders [PM1 - Chicken Mandi],2020-11-01 00:00:00.000,28
+33,Wonder Plus,Menu Orders [PM1 - Chicken Mandi],2020-12-01 00:00:00.000,25
+34,Wonder Plus,Menu Orders [PM1 - Chicken Mandi],2021-01-01 00:00:00.000,41
+35,Wonder Plus,Menu Orders [PM1 - Chicken Mandi],2021-02-01 00:00:00.000,20
+36,Wonder Plus,Menu Orders [PM2 - CNY Special - Pan Seared Seabass Fillet],2020-11-01 00:00:00.000,56
+37,Wonder Plus,Menu Orders [PM2 - CNY Special - Pan Seared Seabass Fillet],2020-12-01 00:00:00.000,45
+38,Wonder Plus,Menu Orders [PM2 - CNY Special - Pan Seared Seabass Fillet],2021-01-01 00:00:00.000,37
+39,Wonder Plus,Menu Orders [PM2 - CNY Special - Pan Seared Seabass Fillet],2021-02-01 00:00:00.000,20
+40,Wonder Plus,Menu Orders [PM3 - Picha Lamb Dhansak],2020-11-01 00:00:00.000,42
+41,Wonder Plus,Menu Orders [PM3 - Picha Lamb Dhansak],2020-12-01 00:00:00.000,29
+42,Wonder Plus,Menu Orders [PM3 - Picha Lamb Dhansak],2021-01-01 00:00:00.000,66
+43,Wonder Plus,Menu Orders [PM3 - Picha Lamb Dhansak],2021-02-01 00:00:00.000,10
+44,Wonder Plus,Menu Orders [SM1 - Soy Chunk & Tofu Butter Masala],2020-11-01 00:00:00.000,44
+45,Wonder Plus,Menu Orders [SM1 - Soy Chunk & Tofu Butter Masala],2020-12-01 00:00:00.000,50
+46,Wonder Plus,Menu Orders [SM1 - Soy Chunk & Tofu Butter Masala],2021-01-01 00:00:00.000,39
+47,Wonder Plus,Menu Orders [SM1 - Soy Chunk & Tofu Butter Masala],2021-02-01 00:00:00.000,12
+48,Wonder Plus,Menu Orders [SM2 - CNY Special Fried Chicken],2020-11-01 00:00:00.000,75
+49,Wonder Plus,Menu Orders [SM2 - CNY Special Fried Chicken],2020-12-01 00:00:00.000,78
+50,Wonder Plus,Menu Orders [SM2 - CNY Special Fried Chicken],2021-01-01 00:00:00.000,67
+51,Wonder Plus,Menu Orders [SM2 - CNY Special Fried Chicken],2021-02-01 00:00:00.000,32
+52,Wonder Plus,Menu Orders [SM3 - Mediterranean Beef Kofta],2020-11-01 00:00:00.000,76
+53,Wonder Plus,Menu Orders [SM3 - Mediterranean Beef Kofta],2020-12-01 00:00:00.000,104
+54,Wonder Plus,Menu Orders [SM3 - Mediterranean Beef Kofta],2021-01-01 00:00:00.000,87
+55,Wonder Plus,Menu Orders [SM3 - Mediterranean Beef Kofta],2021-02-01 00:00:00.000,31
+56,Wonder Plus,Menu Orders [SM4 - Koshari],2020-11-01 00:00:00.000,74
+57,Wonder Plus,Menu Orders [SM4 - Koshari],2020-12-01 00:00:00.000,76
+58,Wonder Plus,Menu Orders [SM4 - Koshari],2021-01-01 00:00:00.000,56
+59,Wonder Plus,Menu Orders [SM4 - Koshari],2021-02-01 00:00:00.000,21
+60,Wonder Plus,Menu Orders [SM5 - Young Jackfruit Rendang],2020-11-01 00:00:00.000,67
+61,Wonder Plus,Menu Orders [SM5 - Young Jackfruit Rendang],2020-12-01 00:00:00.000,92
+62,Wonder Plus,Menu Orders [SM5 - Young Jackfruit Rendang],2021-01-01 00:00:00.000,89
+63,Wonder Plus,Menu Orders [SM5 - Young Jackfruit Rendang],2021-02-01 00:00:00.000,13
+64,Wonder Plus,Menu Orders [SM6 - Kimchi Roasted Chicken],2020-11-01 00:00:00.000,65
+65,Wonder Plus,Menu Orders [SM6 - Kimchi Roasted Chicken],2020-12-01 00:00:00.000,52
+66,Wonder Plus,Menu Orders [SM6 - Kimchi Roasted Chicken],2021-01-01 00:00:00.000,82
+67,Wonder Plus,Menu Orders [SM6 - Kimchi Roasted Chicken],2021-02-01 00:00:00.000,26
+68,Wonder Plus,Menu Orders [SM7 - Coriander Chicken Meatballs],2020-11-01 00:00:00.000,60
+69,Wonder Plus,Menu Orders [SM7 - Coriander Chicken Meatballs],2020-12-01 00:00:00.000,59
+70,Wonder Plus,Menu Orders [SM7 - Coriander Chicken Meatballs],2021-01-01 00:00:00.000,68
+71,Wonder Plus,Menu Orders [SM7 - Coriander Chicken Meatballs],2021-02-01 00:00:00.000,34
+72,Wonder Plus,Menu Orders [SM8 - Roasted Pumpkin],2020-11-01 00:00:00.000,56
+73,Wonder Plus,Menu Orders [SM8 - Roasted Pumpkin],2020-12-01 00:00:00.000,49
+74,Wonder Plus,Menu Orders [SM8 - Roasted Pumpkin],2021-01-01 00:00:00.000,75
+75,Wonder Plus,Menu Orders [SM8 - Roasted Pumpkin],2021-02-01 00:00:00.000,7
+76,Wonder Plus,Menu Orders [SM9 - Chicken Jalfrezi],2020-11-01 00:00:00.000,54
+77,Wonder Plus,Menu Orders [SM9 - Chicken Jalfrezi],2020-12-01 00:00:00.000,70
+78,Wonder Plus,Menu Orders [SM9 - Chicken Jalfrezi],2021-01-01 00:00:00.000,76
+79,Wonder Plus,Menu Orders [SM9 - Chicken Jalfrezi],2021-02-01 00:00:00.000,25
+80,Wonder Plus,Menu Orders [VM1 - Afghan Eggplant Curry],2020-11-01 00:00:00.000,21
+81,Wonder Plus,Menu Orders [VM1 - Afghan Eggplant Curry],2020-12-01 00:00:00.000,22
+82,Wonder Plus,Menu Orders [VM1 - Afghan Eggplant Curry],2021-01-01 00:00:00.000,18
+83,Wonder Plus,Menu Orders [VM1 - Afghan Eggplant Curry],2021-02-01 00:00:00.000,10
+84,Wonder Plus,Menu Orders [VM2 - Cauli-Chickpeas Veggie Balls],2020-11-01 00:00:00.000,15
+85,Wonder Plus,Menu Orders [VM2 - Cauli-Chickpeas Veggie Balls],2020-12-01 00:00:00.000,28
+86,Wonder Plus,Menu Orders [VM2 - Cauli-Chickpeas Veggie Balls],2021-01-01 00:00:00.000,19
+87,Wonder Plus,Menu Orders [VM2 - Cauli-Chickpeas Veggie Balls],2021-02-01 00:00:00.000,4
+88,Wonder Plus,Menu Orders [VM3 - Soy Chunk & Tofu Butter Masala],2020-11-01 00:00:00.000,8
+89,Wonder Plus,Menu Orders [VM3 - Soy Chunk & Tofu Butter Masala],2020-12-01 00:00:00.000,19
+90,Wonder Plus,Menu Orders [VM3 - Soy Chunk & Tofu Butter Masala],2021-01-01 00:00:00.000,11
+91,Wonder Plus,Menu Orders [VM3 - Soy Chunk & Tofu Butter Masala],2021-02-01 00:00:00.000,1
+92,Wonder Starter 3 Meals,Add-On Beverage Item [Kombucha Beetroot],2021-02-01 00:00:00.000,2
+93,Wonder Starter 3 Meals,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2021-02-01 00:00:00.000,1
+94,Wonder Starter 3 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-01-01 00:00:00.000,1
+95,Wonder Starter 3 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-02-01 00:00:00.000,3
+96,Wonder Starter 3 Meals,Add-On Food Item [Amazin' Grace Granola],2020-12-01 00:00:00.000,1
+97,Wonder Starter 3 Meals,Add-On Food Item [Amazin' Grace Nut Mix],2020-12-01 00:00:00.000,1
+98,Wonder Starter 3 Meals,Add-On Food Item [Amazin' Grace Nut Mix],2021-01-01 00:00:00.000,1
+99,Wonder Starter 3 Meals,Add-On Food Item [Cookies],2021-01-01 00:00:00.000,1
+100,Wonder Starter 3 Meals,Add-On Food Item [Frozen Chicken Meatball],2021-01-01 00:00:00.000,1
+101,Wonder Starter 3 Meals,Add-On Food Item [Frozen Falafel Mix],2021-02-01 00:00:00.000,1
+102,Wonder Starter 3 Meals,Add-On Food Item [Sourdough (Kefir King)],2020-11-01 00:00:00.000,1
+103,Wonder Starter 3 Meals,Add-On Food Item [Sourdough (Kefir King)],2021-01-01 00:00:00.000,2
+104,Wonder Starter 6 Meals,Add-On Beverage Item [Arabic Cold Brew],2021-02-01 00:00:00.000,2
+105,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Beetroot],2020-12-01 00:00:00.000,1
+106,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Green Tea],2020-12-01 00:00:00.000,1
+107,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Green Tea],2021-02-01 00:00:00.000,1
+108,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Passionfruit],2020-12-01 00:00:00.000,1
+109,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-01-01 00:00:00.000,1
+110,Wonder Starter 6 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-02-01 00:00:00.000,1
+111,Wonder Starter 6 Meals,Add-On Food Item [Sourdough (Kefir King)],2020-11-01 00:00:00.000,1
+112,Wonder Starter 6 Meals,Add-On Food Item [Sourdough (Kefir King)],2020-12-01 00:00:00.000,1
+113,Wonder Starter 6 Meals,Add-On Food Item [Sourdough (Kefir King)],2021-02-01 00:00:00.000,2
+114,Wonder Starter 9 Meals,Add-On Beverage Item [Arabic Cold Brew],2020-12-01 00:00:00.000,2
+115,Wonder Starter 9 Meals,Add-On Beverage Item [Arabic Cold Brew],2021-01-01 00:00:00.000,2
+116,Wonder Starter 9 Meals,Add-On Beverage Item [Kombucha Beetroot],2021-02-01 00:00:00.000,2
+117,Wonder Starter 9 Meals,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2021-01-01 00:00:00.000,2
+118,Wonder Starter 9 Meals,Add-On Beverage Item [Kombucha Passionfruit],2020-12-01 00:00:00.000,2
+119,Wonder Starter 9 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-01-01 00:00:00.000,2
+120,Wonder Starter 9 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-02-01 00:00:00.000,2
+121,Wonder Starter 9 Meals,Add-On Food Item [Cookies],2021-02-01 00:00:00.000,1
+122,Wonder Starter 9 Meals,Add-On Food Item [Frozen Bolani],2021-01-01 00:00:00.000,1
+123,Wonder Starter 9 Meals,Add-On Food Item [Frozen Falafel Mix],2021-01-01 00:00:00.000,1
+124,Wonder Starter 9 Meals,Add-On Food Item [Frozen Sambusak],2021-01-01 00:00:00.000,2
+125,Wonder Starter 9 Meals,Add-On Food Item [Sourdough (Kefir King)],2020-12-01 00:00:00.000,2
+126,Wonder Starter 9 Meals,Add-On Food Item [Sourdough (Kefir King)],2021-01-01 00:00:00.000,3
+127,Wonder Starter 9 Meals,Add-On Food Item [Sourdough (Kefir King)],2021-02-01 00:00:00.000,2
+128,Wonder Starter 9 Meals,Menu Orders [SM9 - Chicken Jalfrezi],2020-11-01 00:00:00.000,1
+129,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Arabic Cold Brew],2020-11-01 00:00:00.000,4
+130,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Beetroot],2020-11-01 00:00:00.000,5
+131,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Beetroot],2021-02-01 00:00:00.000,1
+132,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Green Tea],2020-11-01 00:00:00.000,3
+133,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Green Tea],2021-02-01 00:00:00.000,2
+134,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Lemongrass & Green Tea],2021-02-01 00:00:00.000,1
+135,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Passionfruit],2020-11-01 00:00:00.000,8
+136,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [Kombucha Passionfruit],2021-02-01 00:00:00.000,3
+137,Wonder Starter Vegetarian 3 Meals,Add-On Beverage Item [N. Soda Guava & Lemongr],2020-11-01 00:00:00.000,5
+138,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Amazin' Grace Granola],2021-02-01 00:00:00.000,1
+139,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Amazin' Grace Nut Mix],2020-11-01 00:00:00.000,4
+140,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Amazin' Grace Nut Mix],2021-02-01 00:00:00.000,1
+141,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Fresh Mantu],2020-11-01 00:00:00.000,4
+142,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Frozen Bolani],2020-12-01 00:00:00.000,1
+143,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Hummus & Bread],2020-11-01 00:00:00.000,3
+144,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Mandi Rice],2020-11-01 00:00:00.000,4
+145,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Pulut Hitam Creme BrulÃ©e],2020-11-01 00:00:00.000,3
+146,Wonder Starter Vegetarian 3 Meals,Add-On Food Item [Sourdough (Kefir King)],2020-11-01 00:00:00.000,1

@@ -1,0 +1,3 @@
+case_id,modified_table_id,modified_table_name,transform,post_pivot_key_cols,pivot_col,val_col,step
+750549015,7323,Fans,Pivot,['Serial No'],variable,value,"    #""Pivoted Column"" = Table.Pivot(#""Removed Columns"", List.Distinct(#""Removed Columns""[EventElementTypeCode]), ""EventElementTypeCode"", ""FreeAnswer""),"
+750549015,78537,Customers,Pivot,['CustomerCode'],variable,value,"    #""Pivoted Column"" = Table.Pivot(#""Removed Columns"", List.Distinct(#""Removed Columns""[EventElementTypeCode]), ""EventElementTypeCode"", ""FreeAnswer""),"

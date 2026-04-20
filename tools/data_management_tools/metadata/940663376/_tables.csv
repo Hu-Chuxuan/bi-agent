@@ -1,0 +1,10 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+13,1,"DateTableTemplate_236a55a6-876e-4a6e-9861-d8bacade2d51","","",True,57,2021-07-18 03:27:00.980,2018-01-04 13:02:55.770,2,False,True,,0,,,False,"db513459-0a94-448b-af1f-47fbe1454510",""
+2086,1,"Transactions","","",False,2177,2021-07-18 03:27:00.980,2018-12-06 07:48:00.680,0,False,False,,0,,,False,"3663e577-1c1a-449b-ac40-4fda5dc17992",""
+2700,1,"Cal","Time","",False,2706,2021-07-18 03:27:00.980,2018-12-06 01:00:19.360,2,False,False,,0,,,False,"271d5829-49df-4a38-a82f-b5379f019ab4",""
+3823,1,"Orders","","",False,3906,2021-07-18 03:27:00.980,2018-12-06 07:35:32.560,0,False,False,,0,,,False,"49808181-3c54-4e35-9e63-6ff6bf98d29f",""
+5652,1,"LocalDateTable_9d5a057e-acfc-4da7-8731-c6dee4867ce7","","",True,5706,2021-07-18 03:27:00.980,2018-11-03 08:55:51.786,2,True,False,,0,,,False,"590c769e-9648-4689-bf15-c21ecffdee15",""
+6752,1,"LocalDateTable_9272b866-98d2-4878-b027-c8b99aace72a","","",True,6806,2021-07-18 03:27:00.980,2018-11-03 08:56:43.443,2,True,False,,0,,,False,"fb6ea7e5-6e65-40c4-ab15-69393988366a",""
+7216,1,"Image","","",False,7229,2021-07-18 03:27:00.980,2018-11-05 00:53:17.106,0,False,False,,0,,,False,"e2ca16da-cf60-442a-b456-5e0b2b62d4d9",""
+7393,1,"M","","",False,7402,2021-07-18 03:27:00.980,2018-12-07 01:05:38.050,0,False,False,,0,,,False,"2ef9741a-b7c2-4c77-be15-e25bc1579e20",""
+16056,1,"Benchmark Table","","",False,16062,2021-07-18 03:27:00.980,2018-12-06 07:26:38.363,2,False,False,,0,,,False,"5baa656a-3f6f-4670-9f5d-71b47e51774d",""

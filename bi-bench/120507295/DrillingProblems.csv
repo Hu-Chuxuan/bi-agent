@@ -1,0 +1,39 @@
+WellName,HoleSize inch,Problem,Formation,Remedial Action,Depth In (m),Depth Out (m),Min. Loss Rate (BPM),Max. Loss Rate (BPM),Min. Gain Rate (BPM),Average Gain Rate (BPM),Max. Gain Rate (BPM),Min. MW (PCF),Max. MW (PCF),Column16,Column17,Average Loss Rate (BPM)
+"WellA",26,"Fishing","Gachsaran5-2","OBS TWIST OF  STRG F/FIRST 24"" S.STAB IN BOX - FISHING JOB WAS DONE SUCCESSFULLY",505,505,0,0,0,0,0,80,80,"","",0
+"WellA",26,"Wash Out","Gachsaran5-2","OBS DECREASE 45 PSI PRESS, POH AND OBS WASH OUT ON 11 JTS 5"" H.W.D.P FROM CONNECTION AND 1 JT 5"" DP (SLIPS AREA)",746,746,0,0,0,0,0,84,84,"","",0
+"WellA",26,"Wash Out","Gachsaran5-2","OBS DECREASE 80 PSI PRESS, POH AND OBS WASH OUT ON 6 JTS 5"" H.W.D.P FROM CONNECTION AND 1 JT 5"" DP CONNECTION",866,866,0,0,0,0,0,86,86,"","",0
+"WellA",26,"Wash Out","Gachsaran5-2","OBS DEC. 40 PSI PRESS, POH AND OBS 4 JTs HWDP (SPIRAL) W.OUT F/ CONN. (THREAD) & 1 JT HWDP (SPIRAL) W.OUT F/ TOOL FACE.",916,916,0,0,0,0,0,88,88,"","",0
+"WellA",26,"Wash Out","Gachsaran5-2","OBS DEC. 50 PSI PRESS OBS. WASH OUT ON 5"" DP BODY (SLIPS AREA)",989,989,0,0,0,0,0,90,90,"","",0
+"WellA",17.5,"Stuck Pipe","Gachsaran5-2","PUMP S.WTR ( 68PCF, 5PPB CITRIC ACID) AND SPUD AROUND BHA, HOLD R.H TOR. AND WORK ON STRG D.WARD FREE PIPES",1276,1276,0,0,0,0,0,105,105,"","",0
+"WellA",17.5,"Stuck Pipe","Gachsaran5-2","PUMP S.WTR ( 68PCF, 5PPB CITRIC ACID) AND SPUD AROUND BHA GRADUALLY, HOLD R.H TOR.&WORK ON STRG D.WARD FREE PIPES",1627,1627,0,0,0,0,0,108,108,"","",0
+"WellA",12.25,"Hole Condition","Pabdeh","Adding kcl to mud system (Up to 5%) and pumping Lcm/Hi-Vis/Phpa Pill periodically",2266,2403,2,5,0,0,0,63,66,"","",4
+"WellA",8.5,"Hole Condition","Kazhdumi","Work on mud properties to tackle the problem of shale instabilty of the formation",2730,2905,4,12,0,0,0,69,69,"","",8
+"WellA",8.5,"Hole Condition","Dariyan","Work on mud properties to tackle the problem of shale instabilty of the formation",2905,2919,20,40,0,2,3,73,88,"","",30
+"WellA",17.5,"Formation Loss","Gachsaran5-2","Decrease MW",1093,1115,6,12,0,0,0,108,106,"","",9
+"WellA",17.5,"Formation Loss","Gachsaran5-2","Decrease MW",1115,1149,2,4,0,0,0,106,105,"","",3
+"WellA",12.25,"Formation Loss","Asmari"," Pump Lcm/Phpa Pill (2Lb/Bbl Phpa, 66Pcf, Vis: 70) Period. And Add Kcl To Mud Sys. As Shale Inhibitor",1891,2081,8,14,0,0,0,63,63,"","",11
+"WellA",12.25,"Formation Loss","Asmari","Spot 40 Bbl Hi-Vis Lcm Pill (10 Lb/Bbl O.Shell (M))",2081,2081,60,70,0,0,0,63,63,"","",65
+"WellA",12.25,"Formation Loss","Asmari","By Pass Shaker & Pump Hi-Vis Lcm Pill (12#) Peri.",2081,2155,10,12,0,0,0,63,63,"","",11
+"WellA",12.25,"Formation Loss","Asmari"," Pump Lcm/Phpa Pill (2Lb/Bbl Phpa, 66Pcf, Vis: 70) Period. And Add Kcl To Mud Sys. As Shale Inhibitor",2155,2265,4,5,0,0,0,63,67,"","",4
+"WellA",12.25,"Formation Loss","Pabdeh"," Pump Lcm/Phpa Pill (2Lb/Bbl Phpa, 66Pcf, Vis: 70) Period. And Add Kcl To Mud Sys. As Shale Inhibitor",2265,2403,4,5,0,0,0,63,67,"","",4
+"WellA",12.25,"Formation Loss","Sarvak","Dut to Add Kcl to Mud System While Hard& Ream as Hole Condition",2403,2413,4,5,0,0,0,67,72,"","",4
+"WellA",8.5,"Formation Loss","Sarvak","PUMP 20BBL HI-VIS PILL PERIODICALLY",2613,2615,8,10,0,0,0,65,65,"","",9
+"WellA",8.5,"Formation Loss","Sarvak","PUMP 20BBL HI-VIS PILL PERIODICALLY",2615,2633,12,15,0,0,0,68,68,"","",14
+"WellA",8.5,"Formation Loss","Sarvak","PUMP & SPOT 100BBL LCM PILL",2633,2637,40,50,0,0,0,69,69,"","",45
+"WellA",8.5,"Formation Loss","Sarvak","SPOT 100BBL LCM PILL (7LB/BBL O.SHELL F+7LB/BBL O.SHELL M) @ 2639M, POOH TO 2412M(9-5/8""CSG SHOE)",2637,2639,10,10,0,0,0,70,70,"","",10
+"WellA",8.5,"Formation Loss","Sarvak","PUMP 30 BBL LCM PILL (14 LB/BBL O.SHELL F+M) PERIODICALLY",2639,2640,15,20,0,0,0,70,70,"","",18
+"WellA",8.5,"Formation Loss","Sarvak","By pass shakers, PUMP & SPOT 100BBL LCM PILL (14LB/BBL O.SHELL 7LB F+7LB M)",2640,2643,10,80,0,0,0,70,70,"","",45
+"WellA",8.5,"Formation Loss","Sarvak","By pass shakers, PUMP & SPOT 100BBL LCM PILL (14LB/BBL O.SHELL 7LB F+7LB M), POOH TO 2500M, RUN BACK TO BTM.",2643,2646,18,20,0,0,0,70,70,"","",19
+"WellA",8.5,"Formation Loss","Sarvak","ADD 5LB O.SHELL TO MUD SYS. (3LB M + 2 LB F). & DEC. MW F/70 TO 68 PCF",2646,2678,5,20,0,0,0,68,70,"","",12
+"WellA",8.5,"Formation Loss","Kazhdumi","By pass shakers",2678,2700,6,10,0,0,0,68,68,"","",8
+"WellA",8.5,"Formation Loss","Kazhdumi","PUMP 30BBL KCL PHPA LCM PILL (15#)  EACH JOINT",2700,2848,8,12,0,0,0,70,70,"","",10
+"WellA",8.5,"Formation Loss","Kazhdumi","Step by step As Program",2848,2869,8,16,0,0,0,70,73,"","",12
+"WellA",8.5,"Formation Loss","Kazhdumi","PUMP LCM PILL & HI-VIS PILL PERIODICALLY",2869,2905,20,40,0,0,0,73,73,"","",30
+"WellA",8.5,"Formation Loss","Dariyan","Due to kill the well w/ 76 pcf mud OBS 20-40BPH loss",2905,2911,20,40,0,0,0,76,76,"","",30
+"WellA",8.5,"Formation Loss","Dariyan","OBS the well at shoe w/ 3 bph flow- Inc. MW to 78pcf",2911,2911,4,8,0,0,0,78,78,"","",6
+"WellA",8.5,"Formation Loss","Dariyan","Inc. Mud weight Due to OBS gain",2911,2911,2,40,0,0,0,81,81,"","",21
+"WellA",8.5,"Formation Loss","Dariyan","Inc. Mud weight Due to OBS gain",2911,2911,15,20,0,0,0,83,83,"","",18
+"WellA",8.5,"Formation Loss","Dariyan"," 
+Due to Hard W&R as Hole condition and Downhole loss change MW several times",2911,2911,8,10,0,0,0,85,85,"","",9
+"WellA",8.5,"Gain","Dariyan","While drilling OBS gain close the well  AFTER 2.5 HRS SICP: 320 PSI& SIDPP: 100 PSI, kill the well w/ 76 pcf mud",2911,2911,0,0,0,2,3,73,73,"","",0
+"WellA",8.5,"Gain","Dariyan","OBS the well @ shoe w/ 3BPH gain, While killl the well and Inc. MW to 83 pcf at sev. Satages w/ 2-40 BPH loss, RIH to 2911m as Hole Cond.",2911,2911,2,40,0,2,3,76,83,"","",21

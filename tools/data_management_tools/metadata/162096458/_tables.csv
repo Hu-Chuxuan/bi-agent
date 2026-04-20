@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+16,1,"DateTableTemplate_296f3fad-a55b-46ae-85b7-fad1728c8fae","","",True,60,2022-07-13 01:47:58.773,2020-05-23 11:01:28.013,2,False,True,,0,,,False,"51100b2e-951b-4a6e-988c-ef827c24f81d",""
+14209,1,"QuizResponses","","",True,14612,2022-07-13 01:47:58.773,2020-06-21 03:23:49.170,0,False,False,,0,,,False,"c95c1ced-5e98-425a-b364-ef2b0ecc8875",""
+15061,1,"Q&A","","",False,15528,2022-07-13 01:47:58.773,2020-06-27 08:34:23.240,0,False,False,,0,,,False,"9a948d6f-9617-4a37-bca8-357d21611f5b",""
+15832,1,"Rounds","","",False,16184,2022-07-13 01:47:58.773,2020-06-27 08:32:55.303,0,False,False,,0,,,False,"975bdee6-2104-4c82-a0ca-05c8b1a831e2",""
+16453,1,"Teams","","",False,17530,2022-07-13 01:47:58.773,2020-06-14 00:28:51.983,0,False,False,,0,,,False,"f9480e25-e187-4640-a473-a1212b1d568f",""
+16456,1,"LocalDateTable_bc8606cb-f4c4-4139-8116-324866b943b5","","",True,17532,2022-07-13 01:47:58.773,2020-06-08 01:26:52.400,2,True,False,,0,,,False,"518cc9cc-319a-4ed7-a6c3-9942de7c43f8",""
+45613,1,"Contact","","",False,46878,2022-07-13 01:47:58.773,2020-06-14 00:41:47.350,0,False,False,,0,,,False,"88bc11b9-42ea-46a6-b769-ae240d0ff7cf",""
+75334,1,"QuizMeister","","",False,75383,2022-07-13 01:47:58.773,2020-06-13 23:51:52.786,0,False,False,,0,,,False,"12162f63-acc8-4fec-be26-c618005871bd",""
+109061,1,"Submitted Answer","","",False,109098,2022-07-13 01:47:58.773,2020-07-01 07:22:46.956,0,False,False,,0,,,False,"216faf0c-1b76-407c-8c0a-a82c2f81ee3c",""
+122879,1,"Quiz","","",False,122978,2022-07-13 01:47:58.773,2020-06-27 08:31:18.490,0,False,False,,0,,,False,"9931291c-a00a-4d0b-8437-636602146769",""
+122882,1,"LocalDateTable_c954d903-bbf0-4113-8f04-dcbd4e758055","","",True,122980,2022-07-13 01:47:58.773,2020-06-27 08:31:18.490,2,True,False,,0,,,False,"3afbce94-4e8b-472f-8aca-8153e2754487",""

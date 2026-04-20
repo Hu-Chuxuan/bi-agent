@@ -1,0 +1,16 @@
+Name,Class,Minimum,Custom,Dec,Mock,Nov,Oct,Sept
+Damien,A,1,1,,,,,1.0
+Damien,A,1,2,,,,2.0,
+Damien,A,1,3,,,2.0,,
+Damien,A,1,4,2.0,,,,
+Damien,A,1,5,,1.0,,,
+Greg,A,1,1,,,,,9.0
+Greg,A,1,2,,,,8.0,
+Greg,A,1,3,,,9.0,,
+Greg,A,1,4,8.0,,,,
+Greg,A,1,5,,9.0,,,
+Joe,A,1,1,,,,,5.0
+Joe,A,1,2,,,,6.0,
+Joe,A,1,3,,,8.0,,
+Joe,A,1,4,6.0,,,,
+Joe,A,1,5,,5.0,,,

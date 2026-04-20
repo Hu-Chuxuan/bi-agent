@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,parsed_unpivot_col_list,parsed_unpivot_attr_col_name,parsed_unpivot_val_col_name,step
+147354242,35196,Required Bay,Unpivot,"['2021-01-01 00:00:00.000', '2021-02-01 00:00:00.000', '2021-03-01 00:00:00.000', '2021-04-01 00:00:00.000', '2021-05-01 00:00:00.000', '2021-06-01 00:00:00.000', '2021-07-01 00:00:00.000']",Date,Value,"    #""Unpivoted Other Columns"" = Table.UnpivotOtherColumns(#""Removed Columns"", {""Productgroup""}, ""Attribute"", ""Value""),"

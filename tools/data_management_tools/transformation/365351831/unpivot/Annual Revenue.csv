@@ -1,0 +1,597 @@
+Year,variable,value
+Attribute,2019-01-01 00:00:00.000,Revenue Item
+Revenue,2019-01-01 00:00:00.000,2019
+Attribute,2019-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2019-01-01 00:00:00.000.1,35381
+Attribute,2019-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2019-01-01 00:00:00.000.2,27804
+Attribute,2019-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2019-01-01 00:00:00.000.3,16606
+Attribute,2019-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2019-01-01 00:00:00.000.4,6544
+Attribute,2019-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2019-01-01 00:00:00.000.5,3819
+Attribute,2019-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2019-01-01 00:00:00.000.6,2709
+Attribute,2019-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2019-01-01 00:00:00.000.7,2761
+Attribute,2019-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2019-01-01 00:00:00.000.8,1241
+Attribute,2019-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2019-01-01 00:00:00.000.9,774
+Attribute,2019-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2019-01-01 00:00:00.000.10,607
+Attribute,2019-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2019-01-01 00:00:00.000.11,435
+Attribute,2019-01-01 00:00:00.000.12,Other Taxes
+Revenue,2019-01-01 00:00:00.000.12,653
+Attribute,2019-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2019-01-01 00:00:00.000.13,14852
+Attribute,2019-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2019-01-01 00:00:00.000.14,5451
+Attribute,2019-01-01 00:00:00.000.15,Equalization
+Revenue,2019-01-01 00:00:00.000.15,963
+Attribute,2019-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2019-01-01 00:00:00.000.16,605
+Attribute,2019-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2019-01-01 00:00:00.000.17,1015
+Attribute,2019-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2019-01-01 00:00:00.000.18,1420
+Attribute,2019-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2019-01-01 00:00:00.000.19,1991
+Attribute,2019-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2019-01-01 00:00:00.000.20,1873
+Attribute,2019-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2019-01-01 00:00:00.000.21,1088
+Attribute,2019-01-01 00:00:00.000.22,Reimbursements
+Revenue,2019-01-01 00:00:00.000.22,998
+Attribute,2019-01-01 00:00:00.000.23,Royalties
+Revenue,2019-01-01 00:00:00.000.23,251
+Attribute,2019-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2019-01-01 00:00:00.000.24,173
+Attribute,2019-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2019-01-01 00:00:00.000.25,472
+Attribute,2019-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2019-01-01 00:00:00.000.26,15
+Attribute,2019-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2019-01-01 00:00:00.000.27,1477
+Attribute,2019-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2019-01-01 00:00:00.000.28,6171
+Attribute,2019-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2019-01-01 00:00:00.000.29,41
+Attribute,2019-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2019-01-01 00:00:00.000.30,394
+Attribute,2019-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2019-01-01 00:00:00.000.31,2276
+Attribute,2019-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2019-01-01 00:00:00.000.32,2464
+Attribute,2019-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2019-01-01 00:00:00.000.33,19
+Attribute,2019-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2019-01-01 00:00:00.000.34,390
+Attribute,2019-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2019-01-01 00:00:00.000.35,9237
+Attribute,2019-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2019-01-01 00:00:00.000.36,772
+Attribute,2019-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2019-01-01 00:00:00.000.37,-42
+Attribute,2020-01-01 00:00:00.000,Revenue Item
+Revenue,2020-01-01 00:00:00.000,2020
+Attribute,2020-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2020-01-01 00:00:00.000.1,37743
+Attribute,2020-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2020-01-01 00:00:00.000.2,28619
+Attribute,2020-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2020-01-01 00:00:00.000.3,15414
+Attribute,2020-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2020-01-01 00:00:00.000.4,6731
+Attribute,2020-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2020-01-01 00:00:00.000.5,4059
+Attribute,2020-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2020-01-01 00:00:00.000.6,2783
+Attribute,2020-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2020-01-01 00:00:00.000.7,3067
+Attribute,2020-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2020-01-01 00:00:00.000.8,1118
+Attribute,2020-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2020-01-01 00:00:00.000.9,807
+Attribute,2020-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2020-01-01 00:00:00.000.10,582
+Attribute,2020-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2020-01-01 00:00:00.000.11,505
+Attribute,2020-01-01 00:00:00.000.12,Other Taxes
+Revenue,2020-01-01 00:00:00.000.12,623
+Attribute,2020-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2020-01-01 00:00:00.000.13,15640
+Attribute,2020-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2020-01-01 00:00:00.000.14,5650
+Attribute,2020-01-01 00:00:00.000.15,Equalization
+Revenue,2020-01-01 00:00:00.000.15,0
+Attribute,2020-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2020-01-01 00:00:00.000.16,400
+Attribute,2020-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2020-01-01 00:00:00.000.17,1054
+Attribute,2020-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2020-01-01 00:00:00.000.18,1756
+Attribute,2020-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2020-01-01 00:00:00.000.19,2055
+Attribute,2020-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2020-01-01 00:00:00.000.20,1222
+Attribute,2020-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2020-01-01 00:00:00.000.21,1156
+Attribute,2020-01-01 00:00:00.000.22,Reimbursements
+Revenue,2020-01-01 00:00:00.000.22,1005
+Attribute,2020-01-01 00:00:00.000.23,Royalties
+Revenue,2020-01-01 00:00:00.000.23,283
+Attribute,2020-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2020-01-01 00:00:00.000.24,122
+Attribute,2020-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2020-01-01 00:00:00.000.25,0
+Attribute,2020-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2020-01-01 00:00:00.000.26,0
+Attribute,2020-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2020-01-01 00:00:00.000.27,1369
+Attribute,2020-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2020-01-01 00:00:00.000.28,6179
+Attribute,2020-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2020-01-01 00:00:00.000.29,30
+Attribute,2020-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2020-01-01 00:00:00.000.30,484
+Attribute,2020-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2020-01-01 00:00:00.000.31,2402
+Attribute,2020-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2020-01-01 00:00:00.000.32,2309
+Attribute,2020-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2020-01-01 00:00:00.000.33,48
+Attribute,2020-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2020-01-01 00:00:00.000.34,414
+Attribute,2020-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2020-01-01 00:00:00.000.35,9281
+Attribute,2020-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2020-01-01 00:00:00.000.36,1167
+Attribute,2020-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2020-01-01 00:00:00.000.37,19
+Attribute,2021-01-01 00:00:00.000,Revenue Item
+Revenue,2021-01-01 00:00:00.000,2021
+Attribute,2021-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2021-01-01 00:00:00.000.1,35876
+Attribute,2021-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2021-01-01 00:00:00.000.2,26042
+Attribute,2021-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2021-01-01 00:00:00.000.3,11435
+Attribute,2021-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2021-01-01 00:00:00.000.4,6480
+Attribute,2021-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2021-01-01 00:00:00.000.5,3958
+Attribute,2021-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2021-01-01 00:00:00.000.6,2120
+Attribute,2021-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2021-01-01 00:00:00.000.7,3481
+Attribute,2021-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2021-01-01 00:00:00.000.8,1103
+Attribute,2021-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2021-01-01 00:00:00.000.9,711
+Attribute,2021-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2021-01-01 00:00:00.000.10,615
+Attribute,2021-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2021-01-01 00:00:00.000.11,557
+Attribute,2021-01-01 00:00:00.000.12,Other Taxes
+Revenue,2021-01-01 00:00:00.000.12,581
+Attribute,2021-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2021-01-01 00:00:00.000.13,16208
+Attribute,2021-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2021-01-01 00:00:00.000.14,5815
+Attribute,2021-01-01 00:00:00.000.15,Equalization
+Revenue,2021-01-01 00:00:00.000.15,0
+Attribute,2021-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2021-01-01 00:00:00.000.16,1025
+Attribute,2021-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2021-01-01 00:00:00.000.17,1521
+Attribute,2021-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2021-01-01 00:00:00.000.18,8450
+Attribute,2021-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2021-01-01 00:00:00.000.19,2065
+Attribute,2021-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2021-01-01 00:00:00.000.20,1241
+Attribute,2021-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2021-01-01 00:00:00.000.21,1042
+Attribute,2021-01-01 00:00:00.000.22,Reimbursements
+Revenue,2021-01-01 00:00:00.000.22,1174
+Attribute,2021-01-01 00:00:00.000.23,Royalties
+Revenue,2021-01-01 00:00:00.000.23,342
+Attribute,2021-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2021-01-01 00:00:00.000.24,114
+Attribute,2021-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2021-01-01 00:00:00.000.25,0
+Attribute,2021-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2021-01-01 00:00:00.000.26,0
+Attribute,2021-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2021-01-01 00:00:00.000.27,754
+Attribute,2021-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2021-01-01 00:00:00.000.28,6000
+Attribute,2021-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2021-01-01 00:00:00.000.29,28
+Attribute,2021-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2021-01-01 00:00:00.000.30,331
+Attribute,2021-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2021-01-01 00:00:00.000.31,2452
+Attribute,2021-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2021-01-01 00:00:00.000.32,300
+Attribute,2021-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2021-01-01 00:00:00.000.33,140
+Attribute,2021-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2021-01-01 00:00:00.000.34,395
+Attribute,2021-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2021-01-01 00:00:00.000.35,8353
+Attribute,2021-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2021-01-01 00:00:00.000.36,1034
+Attribute,2021-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2021-01-01 00:00:00.000.37,70
+Attribute,2022-01-01 00:00:00.000,Revenue Item
+Revenue,2022-01-01 00:00:00.000,2022
+Attribute,2022-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2022-01-01 00:00:00.000.1,36351
+Attribute,2022-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2022-01-01 00:00:00.000.2,27632
+Attribute,2022-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2022-01-01 00:00:00.000.3,14389
+Attribute,2022-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2022-01-01 00:00:00.000.4,6445
+Attribute,2022-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2022-01-01 00:00:00.000.5,4141
+Attribute,2022-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2022-01-01 00:00:00.000.6,2421
+Attribute,2022-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2022-01-01 00:00:00.000.7,3890
+Attribute,2022-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2022-01-01 00:00:00.000.8,1060
+Attribute,2022-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2022-01-01 00:00:00.000.9,814
+Attribute,2022-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2022-01-01 00:00:00.000.10,618
+Attribute,2022-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2022-01-01 00:00:00.000.11,454
+Attribute,2022-01-01 00:00:00.000.12,Other Taxes
+Revenue,2022-01-01 00:00:00.000.12,605
+Attribute,2022-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2022-01-01 00:00:00.000.13,16737
+Attribute,2022-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2022-01-01 00:00:00.000.14,6005
+Attribute,2022-01-01 00:00:00.000.15,Equalization
+Revenue,2022-01-01 00:00:00.000.15,0
+Attribute,2022-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2022-01-01 00:00:00.000.16,1086
+Attribute,2022-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2022-01-01 00:00:00.000.17,1316
+Attribute,2022-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2022-01-01 00:00:00.000.18,1577
+Attribute,2022-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2022-01-01 00:00:00.000.19,2096
+Attribute,2022-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2022-01-01 00:00:00.000.20,1322
+Attribute,2022-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2022-01-01 00:00:00.000.21,1208
+Attribute,2022-01-01 00:00:00.000.22,Reimbursements
+Revenue,2022-01-01 00:00:00.000.22,1031
+Attribute,2022-01-01 00:00:00.000.23,Royalties
+Revenue,2022-01-01 00:00:00.000.23,284
+Attribute,2022-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2022-01-01 00:00:00.000.24,102
+Attribute,2022-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2022-01-01 00:00:00.000.25,0
+Attribute,2022-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2022-01-01 00:00:00.000.26,0
+Attribute,2022-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2022-01-01 00:00:00.000.27,1402
+Attribute,2022-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2022-01-01 00:00:00.000.28,5754
+Attribute,2022-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2022-01-01 00:00:00.000.29,5
+Attribute,2022-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2022-01-01 00:00:00.000.30,299
+Attribute,2022-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2022-01-01 00:00:00.000.31,2435
+Attribute,2022-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2022-01-01 00:00:00.000.32,1266
+Attribute,2022-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2022-01-01 00:00:00.000.33,245
+Attribute,2022-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2022-01-01 00:00:00.000.34,424
+Attribute,2022-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2022-01-01 00:00:00.000.35,9758
+Attribute,2022-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2022-01-01 00:00:00.000.36,670
+Attribute,2022-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2022-01-01 00:00:00.000.37,170
+Attribute,2018-01-01 00:00:00.000,Revenue Item
+Revenue,2018-01-01 00:00:00.000,2018
+Attribute,2018-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2018-01-01 00:00:00.000.1,32900
+Attribute,2018-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2018-01-01 00:00:00.000.2,25923
+Attribute,2018-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2018-01-01 00:00:00.000.3,15612
+Attribute,2018-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2018-01-01 00:00:00.000.4,6205
+Attribute,2018-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2018-01-01 00:00:00.000.5,3672
+Attribute,2018-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2018-01-01 00:00:00.000.6,2701
+Attribute,2018-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2018-01-01 00:00:00.000.7,3174
+Attribute,2018-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2018-01-01 00:00:00.000.8,1244
+Attribute,2018-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2018-01-01 00:00:00.000.9,760
+Attribute,2018-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2018-01-01 00:00:00.000.10,603
+Attribute,2018-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2018-01-01 00:00:00.000.11,494
+Attribute,2018-01-01 00:00:00.000.12,Other Taxes
+Revenue,2018-01-01 00:00:00.000.12,552
+Attribute,2018-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2018-01-01 00:00:00.000.13,14359
+Attribute,2018-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2018-01-01 00:00:00.000.14,5314
+Attribute,2018-01-01 00:00:00.000.15,Equalization
+Revenue,2018-01-01 00:00:00.000.15,1424
+Attribute,2018-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2018-01-01 00:00:00.000.16,1065
+Attribute,2018-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2018-01-01 00:00:00.000.17,969
+Attribute,2018-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2018-01-01 00:00:00.000.18,996
+Attribute,2018-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2018-01-01 00:00:00.000.19,1912
+Attribute,2018-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2018-01-01 00:00:00.000.20,1616
+Attribute,2018-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2018-01-01 00:00:00.000.21,1029
+Attribute,2018-01-01 00:00:00.000.22,Reimbursements
+Revenue,2018-01-01 00:00:00.000.22,1000
+Attribute,2018-01-01 00:00:00.000.23,Royalties
+Revenue,2018-01-01 00:00:00.000.23,290
+Attribute,2018-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2018-01-01 00:00:00.000.24,185
+Attribute,2018-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2018-01-01 00:00:00.000.25,2401
+Attribute,2018-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2018-01-01 00:00:00.000.26,593
+Attribute,2018-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2018-01-01 00:00:00.000.27,2450
+Attribute,2018-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2018-01-01 00:00:00.000.28,5883
+Attribute,2018-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2018-01-01 00:00:00.000.29,74
+Attribute,2018-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2018-01-01 00:00:00.000.30,419
+Attribute,2018-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2018-01-01 00:00:00.000.31,2207
+Attribute,2018-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2018-01-01 00:00:00.000.32,2487
+Attribute,2018-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2018-01-01 00:00:00.000.33,0
+Attribute,2018-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2018-01-01 00:00:00.000.34,314
+Attribute,2018-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2018-01-01 00:00:00.000.35,8309
+Attribute,2018-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2018-01-01 00:00:00.000.36,1464
+Attribute,2018-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2018-01-01 00:00:00.000.37,-6
+Attribute,2017-01-01 00:00:00.000,Revenue Item
+Revenue,2017-01-01 00:00:00.000,2017
+Attribute,2017-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2017-01-01 00:00:00.000.1,30671
+Attribute,2017-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2017-01-01 00:00:00.000.2,24750
+Attribute,2017-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2017-01-01 00:00:00.000.3,14872
+Attribute,2017-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2017-01-01 00:00:00.000.4,5908
+Attribute,2017-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2017-01-01 00:00:00.000.5,3575
+Attribute,2017-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2017-01-01 00:00:00.000.6,2626
+Attribute,2017-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2017-01-01 00:00:00.000.7,2728
+Attribute,2017-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2017-01-01 00:00:00.000.8,1230
+Attribute,2017-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2017-01-01 00:00:00.000.9,742
+Attribute,2017-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2017-01-01 00:00:00.000.10,589
+Attribute,2017-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2017-01-01 00:00:00.000.11,334
+Attribute,2017-01-01 00:00:00.000.12,Other Taxes
+Revenue,2017-01-01 00:00:00.000.12,453
+Attribute,2017-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2017-01-01 00:00:00.000.13,13910
+Attribute,2017-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2017-01-01 00:00:00.000.14,5146
+Attribute,2017-01-01 00:00:00.000.15,Equalization
+Revenue,2017-01-01 00:00:00.000.15,2304
+Attribute,2017-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2017-01-01 00:00:00.000.16,732
+Attribute,2017-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2017-01-01 00:00:00.000.17,965
+Attribute,2017-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2017-01-01 00:00:00.000.18,761
+Attribute,2017-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2017-01-01 00:00:00.000.19,1727
+Attribute,2017-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2017-01-01 00:00:00.000.20,772
+Attribute,2017-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2017-01-01 00:00:00.000.21,974
+Attribute,2017-01-01 00:00:00.000.22,Reimbursements
+Revenue,2017-01-01 00:00:00.000.22,988
+Attribute,2017-01-01 00:00:00.000.23,Royalties
+Revenue,2017-01-01 00:00:00.000.23,272
+Attribute,2017-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2017-01-01 00:00:00.000.24,838
+Attribute,2017-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2017-01-01 00:00:00.000.25,0
+Attribute,2017-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2017-01-01 00:00:00.000.26,621
+Attribute,2017-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2017-01-01 00:00:00.000.27,1999
+Attribute,2017-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2017-01-01 00:00:00.000.28,5868
+Attribute,2017-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2017-01-01 00:00:00.000.29,129
+Attribute,2017-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2017-01-01 00:00:00.000.30,441
+Attribute,2017-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2017-01-01 00:00:00.000.31,2349
+Attribute,2017-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2017-01-01 00:00:00.000.32,2358
+Attribute,2017-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2017-01-01 00:00:00.000.33,0
+Attribute,2017-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2017-01-01 00:00:00.000.34,285
+Attribute,2017-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2017-01-01 00:00:00.000.35,7957
+Attribute,2017-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2017-01-01 00:00:00.000.36,860
+Attribute,2017-01-01 00:00:00.000.37,Ontario Cannabis Store
+Revenue,2017-01-01 00:00:00.000.37,0
+Attribute,2016-01-01 00:00:00.000,Revenue Item
+Revenue,2016-01-01 00:00:00.000,2016
+Attribute,2016-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2016-01-01 00:00:00.000.1,31141
+Attribute,2016-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2016-01-01 00:00:00.000.2,23455
+Attribute,2016-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2016-01-01 00:00:00.000.3,11428
+Attribute,2016-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2016-01-01 00:00:00.000.4,5649
+Attribute,2016-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2016-01-01 00:00:00.000.5,3453
+Attribute,2016-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2016-01-01 00:00:00.000.6,2459
+Attribute,2016-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2016-01-01 00:00:00.000.7,2118
+Attribute,2016-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2016-01-01 00:00:00.000.8,1226
+Attribute,2016-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2016-01-01 00:00:00.000.9,751
+Attribute,2016-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2016-01-01 00:00:00.000.10,582
+Attribute,2016-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2016-01-01 00:00:00.000.11,3247
+Attribute,2016-01-01 00:00:00.000.12,Other Taxes
+Revenue,2016-01-01 00:00:00.000.12,470
+Attribute,2016-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2016-01-01 00:00:00.000.13,13089
+Attribute,2016-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2016-01-01 00:00:00.000.14,4984
+Attribute,2016-01-01 00:00:00.000.15,Equalization
+Revenue,2016-01-01 00:00:00.000.15,2363
+Attribute,2016-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2016-01-01 00:00:00.000.16,146
+Attribute,2016-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2016-01-01 00:00:00.000.17,927
+Attribute,2016-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2016-01-01 00:00:00.000.18,893
+Attribute,2016-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2016-01-01 00:00:00.000.19,1565
+Attribute,2016-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2016-01-01 00:00:00.000.20,985
+Attribute,2016-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2016-01-01 00:00:00.000.21,964
+Attribute,2016-01-01 00:00:00.000.22,Reimbursements
+Revenue,2016-01-01 00:00:00.000.22,991
+Attribute,2016-01-01 00:00:00.000.23,Royalties
+Revenue,2016-01-01 00:00:00.000.23,274
+Attribute,2016-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2016-01-01 00:00:00.000.24,875
+Attribute,2016-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2016-01-01 00:00:00.000.25,0
+Attribute,2016-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2016-01-01 00:00:00.000.26,859
+Attribute,2016-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2016-01-01 00:00:00.000.27,2102
+Attribute,2016-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2016-01-01 00:00:00.000.28,5839
+Attribute,2016-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2016-01-01 00:00:00.000.29,172
+Attribute,2016-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2016-01-01 00:00:00.000.30,455
+Attribute,2016-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2016-01-01 00:00:00.000.31,1956
+Attribute,2016-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2016-01-01 00:00:00.000.32,2234
+Attribute,2016-01-01 00:00:00.000.33,Ontario Portion of the Federal Cannabis Excise  Duty
+Revenue,2016-01-01 00:00:00.000.33,0
+Attribute,2016-01-01 00:00:00.000.34,Direct Transfers to Broader Public-Sector  Organizations
+Revenue,2016-01-01 00:00:00.000.34,284
+Attribute,2016-01-01 00:00:00.000.35,"Fees, Donations and Other Revenues from  Hospitals, School Boards and Colleges"
+Revenue,2016-01-01 00:00:00.000.35,7493
+Attribute,2016-01-01 00:00:00.000.36,Ontario Power Generation Inc./Hydro One Ltd.
+Revenue,2016-01-01 00:00:00.000.36,719
+Attribute,2015-01-01 00:00:00.000,Revenue Item
+Revenue,2015-01-01 00:00:00.000,2015
+Attribute,2015-01-01 00:00:00.000.1,Personal Income Tax
+Revenue,2015-01-01 00:00:00.000.1,29313
+Attribute,2015-01-01 00:00:00.000.2,Sales Taxes
+Revenue,2015-01-01 00:00:00.000.2,21689
+Attribute,2015-01-01 00:00:00.000.3,Corporations Tax
+Revenue,2015-01-01 00:00:00.000.3,9557
+Attribute,2015-01-01 00:00:00.000.4,Employer Health Tax
+Revenue,2015-01-01 00:00:00.000.4,5415
+Attribute,2015-01-01 00:00:00.000.5,Ontario Health Premium
+Revenue,2015-01-01 00:00:00.000.5,3366
+Attribute,2015-01-01 00:00:00.000.6,Gasoline Tax
+Revenue,2015-01-01 00:00:00.000.6,2447
+Attribute,2015-01-01 00:00:00.000.7,Land Transfer Tax
+Revenue,2015-01-01 00:00:00.000.7,1778
+Attribute,2015-01-01 00:00:00.000.8,Tobacco Tax
+Revenue,2015-01-01 00:00:00.000.8,1163
+Attribute,2015-01-01 00:00:00.000.9,Fuel Tax
+Revenue,2015-01-01 00:00:00.000.9,739
+Attribute,2015-01-01 00:00:00.000.10,"Beer, Wine and Spirits Taxes"
+Revenue,2015-01-01 00:00:00.000.10,560
+Attribute,2015-01-01 00:00:00.000.11,Electricity Payments in Lieu of Taxes
+Revenue,2015-01-01 00:00:00.000.11,180
+Attribute,2015-01-01 00:00:00.000.12,Other Taxes
+Revenue,2015-01-01 00:00:00.000.12,507
+Attribute,2015-01-01 00:00:00.000.13,Canada Health Transfer
+Revenue,2015-01-01 00:00:00.000.13,12408
+Attribute,2015-01-01 00:00:00.000.14,Canada Social Transfer
+Revenue,2015-01-01 00:00:00.000.14,4847
+Attribute,2015-01-01 00:00:00.000.15,Equalization
+Revenue,2015-01-01 00:00:00.000.15,1988
+Attribute,2015-01-01 00:00:00.000.16,Infrastructure Programs
+Revenue,2015-01-01 00:00:00.000.16,137
+Attribute,2015-01-01 00:00:00.000.17,Labour Market Programs
+Revenue,2015-01-01 00:00:00.000.17,896
+Attribute,2015-01-01 00:00:00.000.18,Other Federal Payments
+Revenue,2015-01-01 00:00:00.000.18,874
+Attribute,2015-01-01 00:00:00.000.19,Vehicle and Driver Registration Fees
+Revenue,2015-01-01 00:00:00.000.19,1433
+Attribute,2015-01-01 00:00:00.000.20,Miscellaneous Other Non-Tax Revenue
+Revenue,2015-01-01 00:00:00.000.20,1196
+Attribute,2015-01-01 00:00:00.000.21,Other Fees and Licences
+Revenue,2015-01-01 00:00:00.000.21,693
+Attribute,2015-01-01 00:00:00.000.22,Reimbursements
+Revenue,2015-01-01 00:00:00.000.22,985
+Attribute,2015-01-01 00:00:00.000.23,Royalties
+Revenue,2015-01-01 00:00:00.000.23,275
+Attribute,2015-01-01 00:00:00.000.24,Power Supply Contract Recoveries
+Revenue,2015-01-01 00:00:00.000.24,950
+Attribute,2015-01-01 00:00:00.000.25,Carbon Allowance Proceeds
+Revenue,2015-01-01 00:00:00.000.25,0
+Attribute,2015-01-01 00:00:00.000.26,Electricity Debt Retirement Charge
+Revenue,2015-01-01 00:00:00.000.26,956
+Attribute,2015-01-01 00:00:00.000.27,Sales and Rentals
+Revenue,2015-01-01 00:00:00.000.27,2336
+Attribute,2015-01-01 00:00:00.000.28,Education Property Tax
+Revenue,2015-01-01 00:00:00.000.28,5561
+Attribute,2015-01-01 00:00:00.000.29,Net Reduction of Power Purchase Contracts
+Revenue,2015-01-01 00:00:00.000.29,217
+Attribute,2015-01-01 00:00:00.000.30,Social Housing Agreement
+Revenue,2015-01-01 00:00:00.000.30,465
+Attribute,2015-01-01 00:00:00.000.31,Liquor Control Board of Ontario
+Revenue,2015-01-01 00:00:00.000.31,1831
+Attribute,2015-01-01 00:00:00.000.32,Ontario Lottery and Gaming Corporation
+Revenue,2015-01-01 00:00:00.000.32,1995

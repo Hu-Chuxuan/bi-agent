@@ -1,0 +1,5 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Enrollment","","",False,57,2022-08-21 18:05:44.880,2020-01-21 02:14:21.000,0,False,False,,0,,,False,"6007f2e0-cf45-45c6-9e5c-df7792775da7",""
+15,1,"DateTableTemplate_40f500bc-4d8d-44de-a1eb-84bba3218493","","",True,59,2022-08-21 18:05:44.880,2020-01-18 17:18:09.790,2,False,True,,0,,,False,"9b033589-bbe6-441a-bc69-5b6d55554f84",""
+201,1,"CollegeInfo","","",False,253,2022-08-21 18:05:44.880,2020-01-21 02:06:56.540,0,False,False,,0,,,False,"ef28a1c2-f589-4ab6-acee-b27b1f65ac96",""
+1115,1,"UserSelection","","",False,1128,2022-08-21 18:05:44.880,2020-01-20 23:48:36.266,0,False,False,,0,,,False,"376c5fc0-886e-444e-9920-eba9f666d034",""

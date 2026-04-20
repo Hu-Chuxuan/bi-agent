@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"time_series_covid19_confirmed_global","","",False,57,2022-07-29 17:22:55.426,2020-07-06 23:14:48.933,0,False,False,,0,,,False,"64a758c6-9f5c-4def-8153-eb43cf582285",""
+15,1,"DateTableTemplate_39797aa9-b6f2-43f2-aba5-d62d827739d4","","",True,59,2022-07-29 17:22:55.426,2020-07-06 21:00:11.183,2,False,True,,0,,,False,"95f208b6-f277-422b-9713-ffb70a878694",""
+10260,1,"time_series_covid19_deaths_global","","",False,10945,2022-07-29 17:22:55.426,2020-07-06 21:06:53.306,0,False,False,,0,,,False,"ca931af6-6c8b-4320-bafd-1482b1abeb05",""
+15604,1,"time_series_covid19_recovered_global","","",False,15629,2022-07-29 17:22:55.426,2020-07-06 21:10:10.603,0,False,False,,0,,,False,"6bfb8603-078b-4bc2-a893-2329fd200161",""
+15804,1,"Daily_Cases","","",False,16877,2022-07-29 17:22:55.426,2020-07-07 02:29:29.480,0,False,False,,0,,,False,"e8b98a8e-4cb3-4504-b059-4eebeb297a6a",""
+25488,1,"Daily_Deaths","","",False,26565,2022-07-29 17:22:55.426,2020-07-07 02:37:07.453,0,False,False,,0,,,False,"2af6483b-f2d2-4788-bc30-3a8f384220e5",""
+34067,1,"Daily_Recovered","","",False,34080,2022-07-29 17:22:55.426,2020-07-07 02:39:52.103,0,False,False,,0,,,False,"b4eca3ff-18de-4cc5-994c-1007cdb473e3",""
+34194,1,"LocalDateTable_14f6b247-5090-41dc-9cd2-514b1d6445d2","","",True,34243,2022-07-29 17:22:55.426,2020-07-07 02:47:59.823,2,True,False,,0,,,False,"d3d98572-3447-4c99-865b-def3b9550022",""

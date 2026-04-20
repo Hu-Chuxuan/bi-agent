@@ -1,0 +1,6 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Progress Report End","","",False,134,2022-03-15 10:06:10.270,2021-02-13 02:30:42.926,0,False,False,,0,,,False,"fe0601c9-c490-4805-8d65-b9043d36f656",""
+13,1,"Event Subclasses","","",False,136,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,0,False,False,,0,,,False,"5642077a-5bf4-434a-b2ba-64c642f0431a",""
+2076,1,"Location of JobGraph File","","",False,2086,2022-03-20 17:59:31.680,2022-03-20 17:59:31.956,0,False,False,,0,,,False,"dca15919-32f1-4bba-b43d-3b6dc048aa52",""
+9437,1,"ExecuteSQL ReadData","","",False,9468,2022-03-15 10:41:13.320,2022-03-20 18:11:40.213,0,False,False,,0,,,False,"f52796df-20c9-4d5d-9aaa-ce7bf08bb17e",""
+10906,1,"Location of Duration Trace File","","",False,10915,2022-03-20 17:59:31.956,2022-03-20 17:59:31.900,0,False,False,,0,,,False,"0dfda9bc-faf2-455c-b15b-9ef3d82355c1",""

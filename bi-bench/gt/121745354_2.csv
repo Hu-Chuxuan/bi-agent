@@ -1,0 +1,313 @@
+Province,District,Value (c),Count
+ADDIS ABABA,ADDIS ABABA,1,13
+AFFAR,Affar - Zone 2,1,7
+AFFAR,Affar -ZONE 1,1,6
+AMHARA,Awi - Zone,1,3
+AMHARA,East Gojjam - Zone,1,14
+AMHARA,East Gojjam - Zone,2,1
+AMHARA,East Hararge-Zone,2,1
+AMHARA,North Gondar-Zone,1,13
+AMHARA,North Gondar-Zone,2,1
+AMHARA,North Shewa - Zone,1,7
+AMHARA,North Shewa - Zone,2,1
+AMHARA,North Shewa-Zone,1,1
+AMHARA,North Wello-Zone,1,8
+AMHARA,North Wello-Zone,2,2
+AMHARA,Oromia - Zone,1,2
+AMHARA,Oromia - Zone,2,2
+AMHARA,South Gondar-Zone,1,10
+AMHARA,South Wello-Zone,1,14
+AMHARA,South Wello-Zone,2,2
+AMHARA,Waghemira - Zone,1,3
+AMHARA,Waghemira - Zone,2,2
+AMHARA,West Gojjam - Zone,1,6
+Aligarh,Aligarh,1,95
+Aligarh,Aligarh,2,12
+Allahabad,Allahabad,1,177
+Allahabad,Allahabad,2,8
+Ayeyarwaddy,Hinthada,1,55
+Ayeyarwaddy,Hinthada,2,14
+Ayeyarwaddy,Pathein,1,8
+Bago,Bago,1,68
+Bago,Bago,2,6
+Bhojpur,Bhojpur,1,86
+Bhojpur,Bhojpur,2,7
+Boucle Du Mouhoun,Mouhoun,1,51
+Boucle Du Mouhoun,Mouhoun,2,17
+Cascades,Comoé,1,23
+Cascades,Comoé,2,2
+Central,Gatundu,1,2
+Central,Gatundu,2,2
+Central,Kiambu East (Kiambaa),2,8
+Central,Kikuyu,2,7
+Central,Kirinyaga,2,5
+Central,Muranga North,1,5
+Central,Muranga North,2,2
+Central,Muranga South,1,2
+Central,Muranga South,2,4
+Central,Nyandarua South,1,2
+Central,Nyandarua South,2,10
+Central,Nyeri North,1,3
+Central,Nyeri North,2,2
+Central,Nyeri South,1,2
+Central,Nyeri South,2,8
+Central,Ruiru,2,4
+Central,Thika West,2,7
+Centre,Kadiogo,1,77
+Centre,Kadiogo,2,6
+Centre Est,Boulgou,1,44
+Centre Est,Boulgou,2,6
+Centre Nord,Sanmatenga,1,41
+Centre Nord,Sanmatenga,2,6
+Centre Ouest,Boulgou,1,3
+Centre Ouest,Boulgou,2,2
+Centre Ouest,Boulkiemde,1,46
+Centre Ouest,Boulkiemde,2,4
+Centre Sud,Zoundwéogo,1,26
+Centre Sud,Zoundwéogo,2,1
+Coast,Kaloleni,1,4
+Coast,Kaloleni,2,4
+Coast,Kilifi,1,4
+Coast,Kilifi,2,8
+Coast,Kilindini,1,1
+Coast,Kilindini,2,1
+Coast,Kinango,1,3
+Coast,Kinango,2,3
+Coast,Malindi,1,4
+Coast,Malindi,2,6
+Coast,Mombasa,1,5
+Coast,Mombasa,2,2
+Coast,Taita,2,6
+DIRE DAWA,DIRE DAWA,1,4
+DIRE DAWA,DIRE DAWA,2,1
+Darbhanga,Darbhanga,1,115
+Darbhanga,Darbhanga,2,7
+East Champaran,East Champaran,1,136
+East Champaran,East Champaran,2,18
+Eastern,Embu,2,7
+Eastern,Igembe,2,4
+Eastern,Imenti North,2,9
+Eastern,Imenti South,2,8
+Eastern,Kangundo,1,4
+Eastern,Kangundo,2,2
+Eastern,Kitui,1,7
+Eastern,Kitui,2,4
+Eastern,Machakos,1,6
+Eastern,Machakos,2,6
+Eastern,Mutomo,1,3
+Eastern,Mutomo,2,2
+Eastern,Mwingi,1,3
+Eastern,Mwingi,2,2
+Eastern,Nzaui,1,4
+Eastern,Nzaui,2,4
+Eastern,Tigania,2,8
+Eastern,Yatta,1,3
+Eastern,Yatta,2,3
+Est,Gourma,1,50
+Est,Gourma,2,4
+Gaya,Gaya,1,115
+Gaya,Gaya,2,4
+Gonda,Gonda,1,90
+Gonda,Gonda,2,18
+Hauts Bassins,Houet,1,57
+Hauts Bassins,Houet,2,4
+Jhansi,Jhansi,1,47
+Jhansi,Jhansi,2,15
+Kanpur Rural,Kanpur Rural,1,49
+Kanpur Rural,Kanpur Rural,2,4
+Magway,Thayet ;,1,56
+Magway,Thayet ;,2,3
+Mandalay,Kyaukse,1,53
+Mandalay,Kyaukse,2,3
+Mandalay,Mandalay,1,19
+Mandalay,Mandalay,2,9
+Meerut,Meerut,1,80
+Meerut,Meerut,2,6
+Mon,Maw La Mying,1,6
+Mon,Maw La Mying,2,2
+Mon,Thaton,1,19
+Mon,Thaton,2,2
+Munger,Munger,1,31
+Nairobi,Nairobi East,1,23
+Nairobi,Nairobi East,2,19
+Nairobi,Nairobi North,1,3
+Nairobi,Nairobi North,2,2
+Nairobi,Nairobi West,1,1
+Nairobi,Nairobi West,2,3
+Nairobi,Westlands,1,7
+Nairobi,Westlands,2,1
+Nord,Yatenga,1,42
+Nord,Yatenga,2,7
+North Central,BENUE,1,71
+North Central,BENUE,2,71
+North Central,FCT ABUJA,1,32
+North Central,FCT ABUJA,2,14
+North Central,JIGAWA,1,2
+North Central,KADUNA,1,24
+North Central,KADUNA,2,19
+North Central,KANO,1,51
+North Central,KANO,2,19
+North Eaatern,Kajiado North,1,5
+North Eaatern,Wajir East,1,8
+North Eaatern,Wajir East,2,3
+North Eaatern,Wajir North,1,2
+North Eaatern,Wajir South,1,6
+North Eaatern,Wajir South,2,7
+North Eaatern,Wajir West,1,12
+North Eaatern,Wajir West,2,1
+North East,JIGAWA,1,9
+North East,JIGAWA,2,6
+North East,KADUNA,1,8
+North East,KADUNA,2,18
+North East,KANO,1,13
+North East,KANO,2,6
+North West,JIGAWA,1,49
+North West,JIGAWA,2,16
+North West,KADUNA,1,26
+North West,KADUNA,2,6
+North West,KANO,1,44
+North West,KANO,2,30
+Nyanza,Gucha,1,1
+Nyanza,Gucha,2,7
+Nyanza,Homabay,1,2
+Nyanza,Homabay,2,5
+Nyanza,Kisii Central,1,2
+Nyanza,Kisii Central,2,16
+Nyanza,Kisumu East,1,2
+Nyanza,Kisumu East,2,14
+Nyanza,Masaba,2,6
+Nyanza,Migori,2,4
+Nyanza,Nyamira,1,2
+Nyanza,Nyamira,2,9
+Nyanza,Nyando,1,1
+Nyanza,Nyando,2,8
+Nyanza,Rachounyo,2,5
+Nyanza,Rongo,2,7
+Nyanza,Siaya,2,6
+Nyanza,Suba,1,1
+Nyanza,Suba,2,6
+OROMIA,Arsi-Zone,1,10
+OROMIA,Arsi-Zone,2,1
+OROMIA,Asossa-Zone,1,3
+OROMIA,Bale-Zone,1,5
+OROMIA,Bale-Zone,2,2
+OROMIA,Bench Maji-Zone,2,1
+OROMIA,Borena-Zone,1,1
+OROMIA,Borena-Zone,2,1
+OROMIA,East Hararge-Zone,1,18
+OROMIA,East Hararge-Zone,2,1
+OROMIA,East Shewa-Zone,1,3
+OROMIA,East Shewa-Zone,2,1
+OROMIA,East Wellega-Zone,1,12
+OROMIA,Guji-Zone,1,6
+OROMIA,Guji-Zone,2,3
+OROMIA,Horo Gudru Welega-Zone,1,5
+OROMIA,Horo Gudru Welega-Zone,2,1
+OROMIA,Illu Aba Bora-Zone,1,5
+OROMIA,Illu Aba Bora-Zone,2,1
+OROMIA,Jimma-Zone,1,10
+OROMIA,Jimma-Zone,2,4
+OROMIA,North Shewa - Zone,1,4
+OROMIA,North Shewa-Zone,2,1
+OROMIA,South West Shewa-Zone,1,3
+OROMIA,South West Shewa-Zone,2,2
+OROMIA,West Arsi-Zone,1,4
+OROMIA,West Arsi-Zone,2,2
+OROMIA,West Hararge - Zone,1,5
+OROMIA,West Hararge - Zone,2,1
+OROMIA,West Shewa-Zone,1,10
+OROMIA,West Shewa-Zone,2,1
+OROMIA,West Wellega-Zone,1,8
+OROMIA,West Wellega-Zone,2,1
+Plateau Central,Kadiogo,1,14
+Plateau Central,Kadiogo,2,2
+Plateau Central,Oubritenga,1,16
+Purnia,Bhojpur,1,2
+Purnia,Purnia,1,88
+Purnia,Purnia,2,5
+Rakhine,Sittwe,1,4
+Rakhine,Sittwe,2,1
+Rakhine,Thandwe,1,14
+Rakhine,Thandwe,2,8
+Rift Valley,Bomet,1,8
+Rift Valley,Bomet,2,4
+Rift Valley,Buret,2,4
+Rift Valley,Eldoret West,1,8
+Rift Valley,Eldoret West,2,4
+Rift Valley,Kericho,1,1
+Rift Valley,Kericho,2,17
+Rift Valley,Kwanza,1,5
+Rift Valley,Kwanza,2,4
+Rift Valley,Molo,2,2
+Rift Valley,Naivasha,1,3
+Rift Valley,Naivasha,2,8
+Rift Valley,Nakuru,1,14
+Rift Valley,Nakuru,2,9
+Rift Valley,Nakuru North,2,6
+Rift Valley,Narok North,1,2
+Rift Valley,Narok North,2,4
+Rift Valley,Narok South,1,3
+Rift Valley,Pokot Central,1,3
+Rift Valley,Pokot Central,2,3
+Rift Valley,Sotik,1,1
+Rift Valley,Trans Nzoia East,1,7
+Rift Valley,Trans Nzoia East,2,13
+Rift Valley,Trans Nzoia West,1,8
+Rift Valley,Trans Nzoia West,2,1
+SNNP,Arsi-Zone,1,2
+SNNP,Bench Maji-Zone,1,2
+SNNP,Bench Maji-Zone,2,1
+SNNP,Dawro-Zone,1,2
+SNNP,Gamo Gofa-Zone,1,9
+SNNP,Gedeo-Zone,1,5
+SNNP,Gurage-Zone,1,5
+SNNP,Gurage-Zone,2,2
+SNNP,Hadiya-Zone,1,3
+SNNP,Kembata Tembaro-Zone,1,2
+SNNP,Sidama-Zone,1,13
+SNNP,Sidama-Zone,2,14
+SNNP,Silti-Zone,1,6
+SNNP,South Omo-Zone,1,7
+SNNP,Wolayita-Zone,1,7
+SNNP,Wolayita-Zone,2,1
+Sagaing,Monywa,1,51
+Sagaing,Monywa,2,12
+Sagaing,Sagaing,1,8
+Sagaing,Sagaing,2,2
+Sahel,Séno,1,34
+Sahel,Séno,2,5
+Shan,Kyaukme,1,43
+Shan,Kyaukme,2,17
+Shan,Taunggyi,1,10
+Shan,Taunggyi,2,8
+Somali,East Hararge-Zone,1,1
+Somali,Jijiga-Zone,1,15
+Somali,Shinile-Zone,1,8
+South East,Abia,1,40
+South East,ENUGU,1,85
+South East,RIVERS,1,2
+South South,Abia,1,31
+South South,EDO,1,64
+South South,LAGOS,1,6
+South South,RIVERS,1,130
+South West,LAGOS,1,141
+South West,OYO,1,104
+South West,Ogun,1,14
+Sud-Ouest,Poni,1,27
+Sud-Ouest,Poni,2,6
+TIGRAY,Central Tigray-Zone,1,11
+TIGRAY,Eastern Tigray-Zone,1,3
+TIGRAY,North Western Tigray-Zone,1,2
+TIGRAY,Southern Tigray-Zone,1,7
+Western,Bungoma West,2,7
+Western,Busia,2,12
+Western,Butere,2,6
+Western,Kakamega Central,2,7
+Western,Kakamega East,2,5
+Western,Lugari,2,6
+Western,Mumias,2,4
+Western,Vihiga,2,14
+Yangon,Yangon (North),1,47
+Yangon,Yangon (North),2,19
+Yangon,Yangon (South),1,24
+Yangon,Yangon (South),2,10

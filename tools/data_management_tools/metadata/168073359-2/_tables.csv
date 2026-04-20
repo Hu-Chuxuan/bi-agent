@@ -1,0 +1,10 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"disability age","","",False,57,2022-08-20 05:00:23.743,2020-01-14 19:00:06.126,0,False,False,,0,,,False,"0ceab711-0799-4303-95c6-51a1cddfa30b",""
+15,1,"DateTableTemplate_a09c5d4c-76b8-4446-8e15-555227bd6f72","","",True,59,2022-08-20 05:00:23.743,2020-01-14 19:00:05.913,2,False,True,,0,,,False,"24b06ce0-0288-45c2-bad8-d8d1239b96f7",""
+138,1,"disability area","","",False,165,2022-08-20 05:00:23.743,2020-01-14 19:00:06.156,0,False,False,,0,,,False,"40e01d09-204a-444f-b1b2-8a29ff028f40",""
+190,1,"disability city","","",False,220,2022-08-20 05:00:23.743,2020-01-14 19:00:06.183,0,False,False,,0,,,False,"d830b0a7-949a-4dfc-b01c-4d5ddc6eae55",""
+245,1,"disability disability_type","","",False,271,2022-08-20 05:00:23.743,2020-01-14 19:00:06.206,0,False,False,,0,,,False,"dab5682e-03a6-4855-b079-e8ace5a5117b",""
+291,1,"disability gender","","",False,314,2022-08-20 05:00:23.743,2020-01-14 19:00:06.233,0,False,False,,0,,,False,"ef1c4c4d-19c7-415c-b83a-738d9d066773",""
+334,1,"disability state","","",False,357,2022-08-20 05:00:23.743,2020-01-16 01:17:50.566,0,False,False,,0,,,False,"8157c7b5-3891-4b91-9402-a2589049463c",""
+377,1,"disability time","","",False,400,2022-08-20 05:00:23.743,2020-01-14 19:00:06.293,0,False,False,,0,,,False,"054609a8-b5cc-4040-8656-bc3b9d5705bd",""
+420,1,"disability disability_rate","","",False,463,2022-08-20 05:00:23.743,2020-01-14 19:00:06.326,0,False,False,,0,,,False,"071adbdc-d79b-4248-beaf-1dfee012a114",""

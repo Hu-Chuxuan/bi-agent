@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"sales customers","","",False,57,2021-04-30 12:11:32.680,2020-06-26 22:17:47.443,0,False,False,,0,,,False,"8b126d06-ecb6-4381-b4fb-063edcb8bf35",""
+15,1,"DateTableTemplate_67826131-9c29-4268-b777-721c6d7e9352","","",True,59,2021-04-30 12:11:32.680,2020-06-25 16:30:59.773,2,False,True,,0,,,False,"5d3b7e04-a097-4acc-a64c-c4941440736c",""
+333,1,"sales products","","",False,370,2021-04-30 12:11:32.680,2020-06-25 16:31:01.576,0,False,False,,0,,,False,"4f06c9e9-3d8d-462f-82dd-9935826b0dc3",""
+390,1,"sales date","","",False,520,2021-04-30 12:11:32.680,2020-06-25 16:31:01.630,0,False,False,,0,,,False,"f9a9fcb2-3681-4dd4-ac8f-99bfdd76d94b",""
+393,1,"LocalDateTable_6df79a01-813e-4f42-b1c3-664b15eceee3","","",True,522,2021-04-30 12:11:32.680,2020-06-25 16:31:01.630,2,True,False,,0,,,False,"bde94e36-32cf-4af1-bafa-0463f74f6684",""
+396,1,"LocalDateTable_433d0368-fde4-48d7-9bae-81c951c5dfb5","","",True,524,2021-04-30 12:11:32.680,2020-06-25 16:31:01.630,2,True,False,,0,,,False,"dc26cc2c-22df-4e6f-af1f-6c3f9955d043",""
+651,1,"sales markets","","",False,686,2021-04-30 12:11:32.680,2020-06-25 16:31:01.710,0,False,False,,0,,,False,"8a6a250e-d71f-4565-96a8-6a0ce2318c99",""
+2661,1,"BaseMeasures (2)","","",False,2670,2021-04-30 12:11:32.680,2020-07-04 17:19:44.043,0,False,False,,0,,,False,"47aff864-a0db-4317-89ef-32f4f9de7f9c",""
+3402,1,"Sales transactions","","",False,3451,2021-04-30 12:11:32.680,2021-03-30 20:37:12.103,0,False,False,,0,,,False,"6b8449dd-dd5b-4f98-976f-1bff7431d303",""
+3898,1,"Profit Target","","",False,3904,2021-04-30 12:11:32.680,2020-07-04 17:16:05.426,2,False,False,,0,,,False,"dca504e5-11bb-46fd-939a-1233594e384b",""
+4063,1,"basicmeasures (2)","","",False,4076,2021-04-30 12:11:32.680,2021-03-31 15:43:57.580,0,False,False,,0,,,False,"e8dd0e30-190f-4043-9bd1-9a3ff7032868",""

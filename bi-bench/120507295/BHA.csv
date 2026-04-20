@@ -1,0 +1,24 @@
+WellName,DepthIn,DepthOut,Discription,Remarks,HoleSize inch
+"WellA",13.7,107," 26"" BIT + 9-1/2"" BIT SUB+2 JTS 11"" D.C+26"" STB+2 JTS 11"" D.C+2 JTS 9-1/2"" DC + XOS","Drilling",36
+"WellA",107,107," 26"" BIT+36"" Hole Opener + 9-1/2"" BIT SUB+4 JTS 11"" D.C +2 JTS 9-1/2"" DC + XOS","Enlarement",36
+"WellA",107,107," 26"" BIT+ 9-1/2"" BIT SUB+4 JTS 11"" D.C +2 JTS 9-1/2"" DC + XOS","Drill Out",36
+"WellA",107,135," 26"" BIT+ 9-1/2"" BIT SUB+4 JTS 11"" D.C +2 JTS 9-1/2"" DC + XOS","Drilling",26
+"WellA",135,296," 26"" BIT+ 9-3/4"" BIT SUB+1 JT 11"" D.C+26"" STAB (1/16 U.G)+1 JT 11"" D.C+26"" STAB (1/8 U.G) +2 JTS 11"" D.C+ 5 JTS 9-3/4"" DC + XOS","Drilling",26
+"WellA",296,529," 26"" BIT+ 9-3/4"" BIT SUB+2 JT 11"" D.C+26"" STAB (1/16 U.G)+1 JT 11"" D.C+26"" STAB (1/8 U.G) +1 JTS 11"" D.C+5 JTS 9-3/4"" DC+XOS+3 JTS 8-1/2"" D.C+XOS+9 JTS 5"" HWDP","Drilling",26
+"WellA",529,608," 26"" BIT+ 9-3/4"" BIT SUB+2 JT 11"" D.C+26"" STAB (1/8 U.G)+1 JT 11"" D.C+1 JTS 11"" D.C+6 JTS 9-3/4"" DC+XOS+3 JTS 8-1/2"" D.C+XOS+9 JTS 5"" HWDP","Drilling",26
+"WellA",608,642," 26"" BIT+ 9-3/4"" BIT SUB+2 JT 11"" D.C+26"" STAB (1/16 U.G)+1 JT 11"" D.C+26"" STAB (1/8 U.G) +1 JTS 11"" D.C+5 JTS 9-3/4"" DC+XOS+3 JTS 8-1/2"" D.C+XOS+9 JTS 5"" HWDP","Drilling",26
+"WellA",642,746,"26"" BIT + 9-3/4"" BIT SUB+ 2 JT 11"" DC + 26"" NEW S.STAB (1/16"" U.GAUGE) + 1 JT 11"" DC + 26"" S.STAB (1/18"" U.GAUGE) + 2 STD 9-3/4"" DC +  XOS + 1 STD 8-1/2"" DC + XOS + 5 STD 5"" HWDP","Drilling",26
+"WellA",746,998,"26"" PDC BIT+ 9-3/4"" BIT SUB+ 2 JT 11"" DC + 26"" NEW S.STAB (1/16"" U.GAUGE) + 1 JT 11"" DC + 26"" S.STAB (1/18"" U.GAUGE) + 2 STD 9-3/4"" DC +  XOS + 1 STD 8-1/2"" DC + XOS + 5 STD 5"" HWDP","Drilling",26
+"WellA",998,1023,"17-1/2"" B.BIT+9-1/2"" B.SUB+6 JTs 9-3/4""DC+ X.O.S+ 3 JTS 8-1/2"" DCs+ 9 JTs HWDPs","Drilling",17.5
+"WellA",1023,1023,"17-1/2"" B.BIT+JUNK SUB+9-1/2"" B.SUB+6 JTs 9-3/4""DC+ X.O.S+ 3 JTS 8-1/2"" DCs+ 9 JTs HWDPs","Fishing",17.5
+"WellA",1023,1832,"17-1/2"" PDC+9-1/2"" B.SUB+2 JTs 9-3/4""DC+17-1/2"" ST.STAB+4 JTs 9-3/4""DC+ X.O.S+ 6 JTS 8-1/2"" DCs+ 15 JTs HWDPs","Drilling",17.5
+"WellA",1832,1877,"17-1/2"" B.BIT+9-1/2"" B.SUB+6 JTs 9-3/4""DC+ X.O.S+ 6 JTS 8-1/2"" DCs+ 15 JTs HWDPs","Drilling",17.5
+"WellA",1877,1877,"17-1/2"" B.BIT+9-1/2"" B.SUB+2 JTs 9-3/4""DC+17-1/2"" ST.STAB+4 JTs 9-3/4""DC+ X.O.S+ 6 JTS 8-1/2"" DCs+ 15 JTs HWDPs","Hole Condition",17.5
+"WellA",1877,1885,"12-1/4"" R.BIT+8-1/2""B.SUB+3 STD 8-1/2"" DCs+8-1/2"" D.JAR+ 1 STD 8-1/2"" DC+X.O.S+5 STD 5"" HWDPs","Drill Out",12.25
+"WellA",1885,2155,"12-1/4"" PDC+8-1/2""B.SUB+3 STD 8-1/2"" DCs ( ST.STAB@20m)+8-1/2"" D.JAR+ 1 STD 8-1/2"" DC+X.O.S+5 STD 5"" HWDPs","Drilling",12.25
+"WellA",2155,2155,"12-1/4"" R.BIT+8-1/2""B.SUB+3 STD 8-1/2"" DCs +8-1/2"" D.JAR+ 1 STD 8-1/2"" DC+X.O.S+5 STD 5"" HWDPs","Drill Out",12.25
+"WellA",2155,2413,"12-1/4"" PDC+8-1/2""B.SUB+3 STD 8-1/2"" DCs ( ST.STAB@20m)+8-1/2"" D.JAR+ 1 STD 8-1/2"" DC+X.O.S+5 STD 5"" HWDPs","Drilling",12.25
+"WellA",2413,2413,"8-1/2"" B.BIT + 6-1/2"" BIT SUB +4 STD 6-1/2"" DC + 4 STD 5"" HWDP","Drill Out",8.5
+"WellA",2413,2427,"8-1/2"" B.BIT + 6-1/2"" BIT SUB +4 STD 6-1/2"" DC + 4 STD 5"" HWDP","Drilling",8.5
+"WellA",2427,2919.5,"8-1/2"" PDC.BIT + 6-1/2"" BIT SUB +1 JT 6-1/2"" Monel + 1 JT  6-1/2"" DC+8-1/2"" ST.STAB + 8 JTS  6-1/2"" DC + 6-1/2"" D.JAR + 3 JTS 6-1/2"" DC +5 STD 5"" HWDP","Drilling",8.5
+"WellA",2919.5,2919.5,"8-1/2"" B.BIT + 6-1/2"" BIT SUB + 2 JT  6-1/2"" DC+ (8-1/2"" & 8-3/8"") ST.STAB + 7 JTS  6-1/2"" DC + 6-1/2"" D.JAR + 3 JTS 6-1/2"" DC +5 STD 5"" HWDP","Hole Condition",8.5

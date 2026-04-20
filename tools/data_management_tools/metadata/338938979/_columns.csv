@@ -1,0 +1,58 @@
+ID,TableID,ExplicitName,InferredName,ExplicitDataType,InferredDataType,DataCategory,Description,IsHidden,State,IsUnique,IsKey,IsNullable,Alignment,TableDetailPosition,IsDefaultLabel,IsDefaultImage,SummarizeBy,ColumnStorageID,Type,SourceColumn,ColumnOriginID,Expression,FormatString,IsAvailableInMDX,SortByColumnID,AttributeHierarchyID,ModifiedTime,StructureModifiedTime,RefreshedTime,SystemFlags,KeepUniqueRows,DisplayOrdinal,ErrorMessage,SourceProviderType,DisplayFolder,EncodingHint,RelatedColumnDetailsID,AlternateOfID,LineageTag,SourceLineageTag
+13,12,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,68,3,"",,"","",True,,14,2021-06-04 12:55:53.990,2021-06-04 12:55:53.913,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+114,12,"id","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,235,1,"id",,"","0",True,,219,2021-06-04 16:47:39.423,2021-06-04 12:55:59.780,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"e0707ff1-92a3-4c99-ba25-5be648fa3209",""
+115,12,"name","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,239,1,"name",,"","",True,,220,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"d70cf65a-910f-4d65-aaad-16ebd9af7062",""
+116,12,"irish_name","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,243,1,"irish_name",,"","",True,,221,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"c68b1059-d6d2-4a8f-8728-bb4b2baefc3e",""
+117,12,"county","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,247,1,"county",,"","",True,,222,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"e4d60713-0117-4ced-9e8f-b1944a287c3a",""
+118,12,"country","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,251,1,"country",,"","",True,,223,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"7c90ef04-66d5-4c52-9f46-2a0a7d31bd28",""
+119,12,"eircode","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,255,1,"eircode",,"","",True,,224,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"dcb1aaf3-312f-4add-9a0d-71761fcd5f94",""
+120,12,"grid_reference","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,259,1,"grid_reference",,"","",True,,225,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"56b2607e-2563-4f3b-a1d7-13eeca18c6c0",""
+121,12,"easting","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,263,1,"easting",,"","0",True,,226,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"ae5fa7f8-ab2f-43e5-9018-38996113d2af",""
+122,12,"northing","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,267,1,"northing",,"","0",True,,227,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"a0b72d60-3552-4f6e-a6e9-8a02b6b93c24",""
+123,12,"latitude","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,271,1,"latitude",,"","",True,,228,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"0363a590-71c5-4cc0-8256-aaf2073329df",""
+124,12,"longitude","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,275,1,"longitude",,"","",True,,229,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"6fcd6051-72c4-45a3-8b72-b367fd686788",""
+125,12,"postal_town","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,279,1,"postal_town",,"","",True,,230,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"0e847b84-bae2-463e-91a2-b8e8d5be27e8",""
+126,12,"local_government_area","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,283,1,"local_government_area",,"","",True,,231,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"d2ab38e1-7fd5-48cc-9bf8-e25915d19823",""
+127,12,"province","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,287,1,"province",,"","",True,,232,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"34d64b9f-929a-4cc8-8141-e9e05640ebf5",""
+128,12,"nuts3_region","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,291,1,"nuts3_region",,"","",True,,233,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"fc40cdf1-67f2-4f17-86b5-82aaa41aa5d3",""
+129,12,"type","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,295,1,"type",,"","",True,,234,2021-06-04 16:47:39.423,2021-06-04 12:55:59.786,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"34f47423-e59c-4f5c-ae9b-8d9b2dbbe7ae",""
+16,15,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,72,3,"",,"","",True,,17,2021-06-04 12:55:53.990,2021-06-04 12:55:53.933,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+18,15,"","Date",1,9,"PaddedDateTableDates","",True,1,False,False,True,1,-1,False,False,2,76,4,"[Date]",,"","",True,,51,2021-08-20 17:52:10.400,2021-06-04 12:55:53.940,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"22e9f10c-991e-4d45-87fc-1872f28c358a",""
+19,15,"Año","",1,6,"Years","",True,1,False,False,True,1,-1,False,False,2,80,2,"",,"YEAR([Date])","",True,,52,2021-08-20 17:52:10.400,2021-06-04 12:55:53.940,2021-06-04 12:56:00.900,2,False,0,"","","",0,,,"9ee960e0-fc81-4d67-9efc-1c261b6facb4",""
+20,15,"NroMes","",1,6,"MonthOfYear","",True,1,False,False,True,1,-1,False,False,2,84,2,"",,"MONTH([Date])","",True,,53,2021-08-20 17:52:10.400,2021-06-04 12:55:53.940,2021-06-04 12:56:00.900,2,False,0,"","","",0,,,"ba1dd57a-6e4d-445d-87b9-cc42b3736bd8",""
+21,15,"Mes","",1,2,"Months","",True,1,False,False,True,1,-1,False,False,2,88,2,"",,"FORMAT([Date], ""MMMM"")","",True,20,54,2021-06-04 12:56:00.900,2021-06-04 12:55:53.940,2021-06-04 12:56:00.900,2,False,0,"","","",0,,,"1d160b8c-6637-40bb-98b7-cbc15cc5415d",""
+22,15,"NroTrimestre","",1,6,"QuarterOfYear","",True,1,False,False,True,1,-1,False,False,2,92,2,"",,"INT(([NroMes] + 2) / 3)","",True,,55,2021-08-20 17:52:10.400,2021-06-04 12:55:53.940,2021-06-04 12:56:00.960,2,False,0,"","","",0,,,"d3e59fcf-89c3-4a43-895d-510d33e83b58",""
+23,15,"Trimestre","",1,2,"Quarters","",True,1,False,False,True,1,-1,False,False,2,96,2,"",,"""Trim. "" & [NroTrimestre]","",True,22,56,2021-06-04 12:56:01.023,2021-06-04 12:55:53.940,2021-06-04 12:56:01.023,2,False,0,"","","",0,,,"bf2cd008-17be-43d9-b1bd-fcabac798fdd",""
+24,15,"Día","",1,6,"DayOfMonth","",True,1,False,False,True,1,-1,False,False,2,100,2,"",,"DAY([Date])","",True,,57,2021-08-20 17:52:10.400,2021-06-04 12:55:53.940,2021-06-04 12:56:00.900,2,False,0,"","","",0,,,"aadc7651-3ee3-4ca4-b661-2f4527be5295",""
+837,836,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,890,3,"",,"","",True,,838,2021-06-04 13:43:32.606,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+839,836,"Year","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,894,1,"Year",,"","0",True,,879,2021-06-04 17:36:34.276,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"f2fd1513-b1c6-444a-afab-d920901ef171",""
+840,836,"County and Region","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,898,1,"County and Region",,"","",True,,880,2021-06-04 13:43:32.603,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"0c90d175-42d6-47be-9ef4-71cf1e9067fb",""
+842,836,"Total Income per Person","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,906,1,"Total Income per Person",,"","0",True,,882,2021-06-04 17:36:34.313,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"d7dbd880-3440-421f-875d-a6a2cb8152f7",""
+843,836,"Disposable Income per Person","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,910,1,"Disposable Income per Person",,"","0",True,,883,2021-06-04 17:36:34.343,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"c081c8e9-6857-4c24-bbb7-75acc6b63fbc",""
+844,836,"Disposable Income per Person (excluding Rent)","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,914,1,"Disposable Income per Person (excluding Rent)",,"","0",True,,884,2021-06-04 17:36:34.386,2021-06-04 13:43:32.603,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"935c23bf-f969-42fb-8156-e1d69e4a3e0f",""
+2185,836,"Inter-annual variation","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,2187,2,"",,"
+VAR ValueLastYear =
+    CALCULATE (
+        SUM ( Economics[Disposable Income per Person (excluding Rent)] ),
+        FILTER (
+            Economics,
+            Economics[Year]
+                = ( EARLIER ( Economics[Year] ) - 1 )
+                && Economics[County and Region] = EARLIER ( Economics[County and Region] )
+        )
+    )
+RETURN
+    IF (
+        ISBLANK ( ValueLastYear ),
+        0,
+        ( Economics[Disposable Income per Person (excluding Rent)] - ValueLastYear )
+            / ValueLastYear
+    )","#,0.00%;-#,0.00%;#,0.00%",True,,2186,2022-06-23 03:34:48.016,2021-06-04 17:43:15.883,2021-06-04 17:52:00.330,0,False,0,"","","",0,,,"1e2d74df-f3f7-4968-a7ae-d0c95c5ca02d",""
+2283,2282,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,2343,3,"",,"","",True,,2284,2021-06-04 20:53:57.846,2021-06-04 20:53:57.826,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+2285,2282,"CensusYear","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,2347,1,"CensusYear",,"","0",True,,2331,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"8744cc6c-bbe6-4348-9f8d-a625b0909fa6",""
+2286,2282,"Towns","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,2351,1,"Towns",,"","",True,,2332,2021-06-04 20:53:57.846,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"51ec3a41-43be-41c4-b8f7-4b8c08e7beed",""
+2287,2282,"Total population","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,2355,1,"Total population",,"","0",True,,2333,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"36648b5b-32d2-4a57-8760-fac39842d6ab",""
+2288,2282,"Males","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,2359,1,"Males",,"","0",True,,2334,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"e3162d65-b764-48f7-9115-b6dc0fd974e8",""
+2289,2282,"Females","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,2363,1,"Females",,"","0",True,,2335,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"330bd934-4ad4-4eb1-9ab8-b2be1139dfd6",""
+2290,2282,"Population density (persons per sq km)","",8,19,"","",False,1,False,False,True,1,-1,False,False,2,2367,1,"Population density (persons per sq km)",,"","",True,,2336,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"6d5f60a2-a41f-4aad-ac22-b1786dc1e616",""
+2291,2282,"Area (sq km)","",8,19,"","",False,1,False,False,True,1,-1,False,False,2,2371,1,"Area (sq km)",,"","",True,,2337,2021-06-04 20:57:49.690,2021-06-04 20:53:57.846,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"153b922d-4b9b-4120-8469-6d6d53e91ce9",""

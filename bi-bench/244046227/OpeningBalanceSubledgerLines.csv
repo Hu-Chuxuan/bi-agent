@@ -1,0 +1,5 @@
+Source.Name,nr,obLineNr,desc,amnt,amntTp,custSupID,invRef,invPurSalTp,invTp,invDt,invDueDt,mutTp,sbDesc,Link,Debet,Credit
+"ExactOnline_V32_2016.xaf","","","",,"","","","","",,,"","","",0,0
+"Multivers_V32_2017.xaf","","","",,"","","","","",,,"","","",0,0
+"Twinfield_V31_2016.xaf","","","",,"","","","","",,,"","","",0,0
+"XmlAuditfileFinancieel3.2_test.xaf","String","String","String",3.14,"C","String","String","P","C",1967-08-13 00:00:00.000,1967-08-13 00:00:00.000,"I","String","XmlAuditfileFinancieel3.2_test.xaf-String",0,3.14

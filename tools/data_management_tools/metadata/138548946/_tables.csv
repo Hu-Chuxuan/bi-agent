@@ -1,0 +1,6 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+13,1,"Questionnaire Results","","",False,35,2022-07-11 14:15:55.783,2020-05-04 22:14:49.973,0,False,False,,0,,,False,"96b95ddd-e1d8-4327-93a4-d29bb0717ccd",""
+163,1,"Question","","",False,175,2022-07-11 14:15:55.783,2020-05-04 22:03:00.833,0,False,False,,0,,,False,"366aff9f-8381-44d7-886c-bbe33b0d979b",""
+195,1,"Student","","",False,215,2022-07-11 14:15:55.783,2020-05-04 22:03:00.963,0,False,False,,0,,,False,"8288ab3d-b51b-4ab8-bede-73ce50470a55",""
+363,1,"Calendar","","",False,369,2022-07-11 14:15:55.783,2020-05-04 22:06:14.103,2,False,False,,0,,,False,"3d241cbf-e53b-47f2-b70e-66356ecd5414",""
+813,1,"Answer Points","","",False,819,2022-07-11 14:15:55.783,2020-05-04 22:23:03.753,2,False,False,,0,,,False,"51cfc8b2-2b8c-4571-8c45-1b8ba0ef90f4",""

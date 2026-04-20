@@ -1,0 +1,103 @@
+region,state_name,Employee_Type,Employee_Count,population,percentage
+USA West Region,Alaska,Civilian,686,744849,0.0921
+USA West Region,Alaska,Officer,1247,744849,0.1674
+USA South Region,Alabama,Civilian,3088,5135776,0.0601
+USA South Region,Alabama,Officer,5565,5135776,0.1084
+USA South Region,Arkansas,Civilian,3555,3021597,0.1177
+USA South Region,Arkansas,Officer,5975,3021597,0.1977
+USA West Region,Arizona,Civilian,9888,7037119,0.1405
+USA West Region,Arizona,Officer,12862,7037119,0.1828
+USA West Region,California,Civilian,40944,39713887,0.1031
+USA West Region,California,Officer,78740,39713887,0.1983
+USA West Region,Colorado,Civilian,6045,5661529,0.1068
+USA West Region,Colorado,Officer,12373,5661529,0.2185
+USA Northeast Region,Connecticut,Civilian,1442,3645220,0.0396
+USA Northeast Region,Connecticut,Officer,7325,3645220,0.2009
+USA South Region,District of Columbia,Civilian,697,693972,0.1004
+USA South Region,District of Columbia,Officer,4228,693972,0.6092
+USA South Region,Delaware,Civilian,694,978771,0.0709
+USA South Region,Delaware,Officer,2282,978771,0.2331
+USA South Region,Florida,Civilian,28371,21152963,0.1341
+USA South Region,Florida,Officer,45976,21152963,0.2174
+USA South Region,Georgia,Civilian,8112,10885394,0.0745
+USA South Region,Georgia,Officer,24694,10885394,0.2269
+,,Civilian,778,1427538,0.0545
+,,Officer,2951,1427538,0.2067
+USA Midwest Region,Iowa,Civilian,2889,3179051,0.0909
+USA Midwest Region,Iowa,Officer,5235,3179051,0.1647
+USA West Region,Idaho,Civilian,1655,1779810,0.093
+USA West Region,Idaho,Officer,2851,1779810,0.1602
+USA Midwest Region,Illinois,Civilian,10126,12911525,0.0784
+USA Midwest Region,Illinois,Officer,25277,12911525,0.1958
+USA Midwest Region,Indiana,Civilian,1471,6678341,0.022
+USA Midwest Region,Indiana,Officer,7289,6678341,0.1091
+USA Midwest Region,Kansas,Civilian,2739,3006891,0.0911
+USA Midwest Region,Kansas,Officer,6873,3006891,0.2286
+USA South Region,Kentucky,Civilian,2152,4494059,0.0479
+USA South Region,Kentucky,Officer,7651,4494059,0.1702
+USA South Region,Louisiana,Civilian,4677,4819273,0.097
+USA South Region,Louisiana,Officer,15369,4819273,0.3189
+USA Northeast Region,Massachusetts,Civilian,3607,6872032,0.0525
+USA Northeast Region,Massachusetts,Officer,16504,6872032,0.2402
+USA South Region,Maryland,Civilian,5203,6249375,0.0833
+USA South Region,Maryland,Officer,16964,6249375,0.2715
+USA Northeast Region,Maine,Civilian,582,1390713,0.0418
+USA Northeast Region,Maine,Officer,2323,1390713,0.167
+USA Midwest Region,Michigan,Civilian,6780,10400915,0.0652
+USA Midwest Region,Michigan,Officer,17106,10400915,0.1645
+USA Midwest Region,Minnesota,Civilian,5160,5894269,0.0875
+USA Midwest Region,Minnesota,Officer,9694,5894269,0.1645
+USA Midwest Region,Missouri,Civilian,5900,6199257,0.0952
+USA Midwest Region,Missouri,Officer,14675,6199257,0.2367
+USA South Region,Mississippi,Civilian,1135,2985402,0.038
+USA South Region,Mississippi,Officer,2183,2985402,0.0731
+USA West Region,Montana,Civilian,1117,1108663,0.1008
+USA West Region,Montana,Officer,1917,1108663,0.1729
+USA Midwest Region,Nebraska,Civilian,1507,1987973,0.0758
+USA Midwest Region,Nebraska,Officer,3345,1987973,0.1683
+USA South Region,North Carolina,Civilian,12705,11965888,0.1062
+USA South Region,North Carolina,Officer,28065,11965888,0.2345
+USA Midwest Region,North Dakota,Civilian,669,781178,0.0856
+USA Midwest Region,North Dakota,Officer,1748,781178,0.2238
+USA Northeast Region,New Hampshire,Civilian,859,1373143,0.0626
+USA Northeast Region,New Hampshire,Officer,2764,1373143,0.2013
+USA Northeast Region,New Jersey,Civilian,9128,9066144,0.1007
+USA Northeast Region,New Jersey,Officer,31341,9066144,0.3457
+USA West Region,New Mexico,Civilian,1275,2093574,0.0609
+USA West Region,New Mexico,Officer,2933,2093574,0.1401
+USA West Region,Nevada,Civilian,3052,3004362,0.1016
+USA West Region,Nevada,Officer,6818,3004362,0.2269
+USA Northeast Region,New York,Civilian,21210,21794544,0.0973
+USA Northeast Region,New York,Officer,62433,21794544,0.2865
+USA Midwest Region,Ohio,Civilian,4489,11763545,0.0382
+USA Midwest Region,Ohio,Officer,13448,11763545,0.1143
+USA South Region,Oklahoma,Civilian,4120,3955379,0.1042
+USA South Region,Oklahoma,Officer,8833,3955379,0.2233
+USA West Region,Oregon,Civilian,3963,4249078,0.0933
+USA West Region,Oregon,Officer,6767,4249078,0.1593
+USA Northeast Region,Pennsylvania,Civilian,4918,13598612,0.0362
+USA Northeast Region,Pennsylvania,Officer,25842,13598612,0.19
+USA Northeast Region,Rhode Island,Civilian,646,1066209,0.0606
+USA Northeast Region,Rhode Island,Officer,2511,1066209,0.2355
+USA South Region,South Carolina,Civilian,3575,5067266,0.0706
+USA South Region,South Carolina,Officer,9128,5067266,0.1801
+USA Midwest Region,South Dakota,Civilian,1191,909430,0.131
+USA Midwest Region,South Dakota,Officer,1778,909430,0.1955
+USA South Region,Tennessee,Civilian,10031,6734436,0.149
+USA South Region,Tennessee,Officer,16736,6734436,0.2485
+USA South Region,Texas,Civilian,27380,28467008,0.0962
+USA South Region,Texas,Officer,43780,28467008,0.1538
+USA West Region,Utah,Civilian,2210,3317709,0.0666
+USA West Region,Utah,Officer,4988,3317709,0.1503
+USA South Region,Virginia,Civilian,4989,8478323,0.0588
+USA South Region,Virginia,Officer,19036,8478323,0.2245
+USA Northeast Region,Vermont,Civilian,299,636517,0.047
+USA Northeast Region,Vermont,Officer,1188,636517,0.1866
+USA West Region,Washington,Civilian,4667,7452537,0.0626
+USA West Region,Washington,Officer,10719,7452537,0.1438
+USA Midwest Region,Wisconsin,Civilian,5541,5908949,0.0938
+USA Midwest Region,Wisconsin,Officer,12885,5908949,0.2181
+USA South Region,West Virginia,Civilian,1030,1828820,0.0563
+USA South Region,West Virginia,Officer,3669,1828820,0.2006
+USA West Region,Wyoming,Civilian,234,588905,0.0397
+USA West Region,Wyoming,Officer,381,588905,0.0647

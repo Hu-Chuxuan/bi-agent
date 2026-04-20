@@ -1,0 +1,130 @@
+year,STATE_NAME,STATE_ABBR,locality,population,aggravated_assault,arson,burglary,homicide,larceny,motor_vehicle_theft,property_crime,rape_legacy,rape_revised,robbery,violent_crime
+1995,American Samoa,AS,,,117,12,253,1,124,5,382,4,,4,126
+1995,Guam,GM,,,242,30,2149,7,5077,667,7893,112,,127,488
+1995,Puerto Rico,PR,,,5509,,27689,864,39960,15989,83638,324,,15753,22450
+1995,U.S. Virgin Islands,VI,,,1472,62,2893,21,2903,601,6397,60,,482,2035
+1995,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+1995,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+1996,American Samoa,AS,,,142,13,259,4,136,6,401,17,,7,170
+1996,Guam,GM,,,231,13,2202,15,4526,745,7473,168,,107,521
+1996,Puerto Rico,PR,,,5063,,27866,868,35652,16123,79641,316,,13900,20147
+1996,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+1996,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+1996,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+1997,American Samoa,AS,,,182,0,254,3,163,11,428,6,,5,196
+1997,Guam,GM,,,240,10,2467,11,6010,1078,9555,86,,144,481
+1997,Puerto Rico,PR,,,4952,,26942,723,32715,15623,75280,278,,13642,19595
+1997,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+1997,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+1997,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+1998,American Samoa,AS,,,183,4,234,1,144,12,390,9,,12,205
+1998,Guam,GM,,,205,9,1325,9,4554,611,6490,87,,146,447
+1998,Puerto Rico,PR,,,4096,,24512,652,30493,15576,70581,243,,11448,16439
+1998,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+1998,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+1998,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+1999,American Samoa,AS,,,,,,,,,,,,,
+1999,Guam,GM,,,,,,,,,,,,,
+1999,Puerto Rico,PR,,3889507,3563,,23033,567,30206,14435,67674,223,,9827,14180
+1999,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+1999,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+1999,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2000,American Samoa,AS,,,143,4,244,4,99,5,348,13,,2,162
+2000,Guam,GM,,,,,,,,,,,,,
+2000,Puerto Rico,PR,,3808610,2726,,21057,693,28940,12976,62973,228,,8757,12404
+2000,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2000,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2000,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2001,American Samoa,AS,,,152,4,215,1,98,10,323,27,,3,183
+2001,Guam,GM,,,,,,,,,,,,,
+2001,Puerto Rico,PR,,3839810,2473,,19931,744,26140,12643,58714,187,,7999,11403
+2001,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2001,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2001,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2002,American Samoa,AS,,,124,2,235,6,98,5,338,22,,2,154
+2002,Guam,GM,,,,,,,,,,,,,
+2002,Puerto Rico,PR,,3859523,3478,,24737,774,39640,12935,77312,241,,8978,13471
+2002,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2002,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2002,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2003,American Samoa,AS,,,102,0,196,3,110,11,317,19,,1,125
+2003,Guam,GM,,,,,,,,,,,,,
+2003,Puerto Rico,PR,,3878532,3165,,20857,779,36827,12211,69895,204,,7737,11885
+2003,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2003,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2003,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2004,American Samoa,AS,,,87,2,192,4,76,6,274,11,,3,105
+2004,Guam,GM,,,,,,,,,,,,,
+2004,Puerto Rico,PR,,3894855,3023,,18264,793,31681,10128,60073,199,,6030,10045
+2004,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2004,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2004,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2005,American Samoa,AS,,,100,2,159,5,65,4,228,16,,2,123
+2005,Guam,GM,,,,,,,,,,,,,
+2005,Puerto Rico,PR,,3911810,3094,,17191,766,28976,9299,55466,169,,5550,9579
+2005,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2005,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2005,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2006,American Samoa,AS,,,,,,,,,,,,,
+2006,Guam,GM,,,,,,,,,,,,,
+2006,Puerto Rico,PR,,3927776,2827,,16668,739,27936,8593,53197,118,,5245,8929
+2006,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2006,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2006,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2007,American Samoa,AS,,,,,,,,,,,,,
+2007,Guam,GM,,,,,,,,,,,,,
+2007,Puerto Rico,PR,,3941459,2983,,17160,728,28955,7822,53937,97,,5134,8942
+2007,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2007,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2007,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2008,American Samoa,AS,,,,,,,,,,,,,
+2008,Guam,GM,,,,,,,,,,,,,
+2008,Puerto Rico,PR,,3954553,3115,,19138,807,33113,7003,59254,95,,5467,9484
+2008,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2008,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2008,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2009,American Samoa,AS,,,,,,,,,,,,,
+2009,Guam,GM,,,,,,,,,,,,,
+2009,Puerto Rico,PR,,3967288,3440,,18521,894,30584,6832,55937,65,,6093,10492
+2009,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2009,U.S. Virgin Islands,VI,St. Croix,,,,,,,,,,,,
+2009,U.S. Virgin Islands,VI,St. Thomas,,,,,,,,,,,,
+2010,American Samoa,AS,,,,,,,,,,,,,
+2010,Guam,GM,,,,,,,,,,,,,
+2010,Puerto Rico,PR,,3721978,2714,,17494,977,26773,6769,51036,39,,6516,10246
+2010,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2010,U.S. Virgin Islands,VI,St. Croix,,405,31,585,29,659,141,1385,21,,118,573
+2010,U.S. Virgin Islands,VI,St. Thomas,,848,36,788,31,699,122,1609,45,,252,1176
+2011,American Samoa,AS,,,,,,,,,,,,,
+2011,Guam,GM,,,,,,,,,,,,,
+2011,Puerto Rico,PR,,3706690,2894,,16591,1136,29273,5853,51717,45,,6465,10540
+2011,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2011,U.S. Virgin Islands,VI,St. Croix,,432,32,545,27,633,102,1280,20,,114,593
+2011,U.S. Virgin Islands,VI,St. Thomas,,519,18,823,14,739,112,1674,35,,167,735
+2012,American Samoa,AS,,,,,,,,,,,,,
+2012,Guam,GM,,,,,,,,,,,,,
+2012,Puerto Rico,PR,,3651545,2733,,15287,978,30545,5847,51679,32,,6298,10041
+2012,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2012,U.S. Virgin Islands,VI,St. Croix,,311,78,634,24,629,124,1387,21,,101,457
+2012,U.S. Virgin Islands,VI,St. Thomas,,367,27,678,28,676,114,1468,26,,142,563
+2013,American Samoa,AS,,,,,,,,,,,,,
+2013,Guam,GM,,,400,9,1620,9,2521,378,4519,106,,145,660
+2013,Puerto Rico,PR,,3595839,2395,,13961,883,29360,5530,48851,26,,6016,9320
+2013,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2013,U.S. Virgin Islands,VI,St. Croix,,212,58,571,18,563,114,1248,17,,103,350
+2013,U.S. Virgin Islands,VI,St. Thomas,,576,44,564,15,727,112,1403,35,,128,754
+2014,American Samoa,AS,,,,,,,,,,,,,
+2014,Guam,GM,,,294,,1577,6,1970,258,3805,117,,128,545
+2014,Puerto Rico,PR,,3534888,2475,,12035,681,28948,4639,45622,41,,5171,8368
+2014,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2014,U.S. Virgin Islands,VI,St. Croix,,149,50,462,19,510,100,1072,18,,64,250
+2014,U.S. Virgin Islands,VI,St. Thomas,,495,67,400,18,712,112,1224,,36,144,693
+2015,American Samoa,AS,,,,,,,,,,,,,
+2015,Guam,GM,,,,,,,,,,,,,
+2015,Puerto Rico,PR,,3474182,2965,,9427,584,25165,4129,38721,165,,4122,7836
+2015,U.S. Virgin Islands,VI,,,,,,,,,,,,,
+2015,U.S. Virgin Islands,VI,St. Croix,,172,49,440,23,403,89,932,,19,77,291
+2015,U.S. Virgin Islands,VI,St. Thomas,,476,72,456,23,639,94,1189,,32,77,608
+2016,Guam,GM,,,195,,1114,1,887,238,2239,,27,70,293
+2016,Puerto Rico,PR,,3411307,3594,,8251,679,23163,3787,35201,128,169,3201,7643
+2017,Puerto Rico,PR,,3337177,3819,,7949,679,19633,3594,31176,,209,3055,7762

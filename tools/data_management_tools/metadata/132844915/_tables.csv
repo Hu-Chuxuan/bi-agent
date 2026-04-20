@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Customer","","",False,57,2022-07-22 01:14:47.063,2021-02-09 20:42:52.343,0,False,False,,0,,,False,"91649ac7-c504-44af-a64e-a9a9524ac9d2",""
+183,1,"Date","Time","Filters the Sales table using sales order date",False,289,2022-07-22 01:14:47.063,2021-02-08 23:10:07.826,0,False,False,,0,,,False,"83e45485-654a-49da-8ed2-483eeb11d5f6",""
+382,1,"Sales Territory","","",False,428,2022-07-22 01:14:47.063,2021-02-09 20:40:55.736,0,False,False,,0,,,False,"aab681b9-b4b2-47ce-988d-dcc16b569b4f",""
+458,1,"Product","","",False,511,2022-07-22 01:14:47.063,2021-02-09 20:38:29.763,0,False,False,,0,,,False,"dc54318a-ea1e-4426-b776-2cfb4dc1268b",""
+561,1,"Sales Order","","",False,606,2022-07-22 01:14:47.063,2020-06-05 03:32:01.103,0,False,False,,0,,,False,"1392356e-1bc6-4b52-83df-314443f4fa8d",""
+4380,1,"Sales","","",False,4445,2022-07-22 01:14:47.063,2021-02-09 20:42:34.133,0,False,False,,0,,,False,"152f2aa4-8ad7-4e7a-9f6d-9040006ff044",""
+5597,1,"Reseller","","",False,5630,2022-07-22 01:14:47.063,2020-06-05 03:40:43.186,0,False,False,,0,,,False,"1d3ac398-9a9f-41b1-90c4-fb5893f1d663",""
+11771,1,"Icons","","",False,11783,2022-07-22 01:14:47.063,2021-01-19 18:34:19.750,0,False,False,,0,,,False,"d9e6d265-25bb-4882-8dc8-6d822a3d73a4",""

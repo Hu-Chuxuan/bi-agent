@@ -1,0 +1,5 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+13,1,"Products","","",False,34,2022-08-13 13:55:31.506,2021-01-01 12:25:30.706,0,False,False,,0,,,False,"fb7d3759-1305-4961-9b24-b84f66bc77fd",""
+104,1,"Component Inventory","","",False,124,2022-08-13 13:55:31.506,2021-01-01 12:26:21.220,0,False,False,,0,,,False,"2e54456d-bbfc-4216-b648-6e5c60755674",""
+194,1,"Assembly details / BOM","","",False,221,2022-08-13 13:55:31.506,2021-01-01 12:39:48.163,0,False,False,,0,,,False,"a3f53321-b976-407b-ae05-e58c8c204a6c",""
+354,1,"Production Plan","","",False,382,2022-08-13 13:55:31.506,2021-01-01 12:29:33.756,0,False,False,,0,,,False,"a873cdbf-4cca-4638-9b2d-14fe7c5d3f7a",""

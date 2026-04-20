@@ -1,0 +1,6 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"FinData","","",False,57,2022-08-15 21:41:18.920,2021-01-24 15:17:04.013,0,False,False,,0,,,False,"2dc5c4fd-7fb5-478b-bcb3-aafb07aa418f",""
+15,1,"DateTableTemplate_f1414633-f69e-494a-98c9-c09841cba001","","",True,59,2022-08-15 21:41:18.920,2021-01-24 15:17:03.183,2,False,True,,0,,,False,"79e15aa5-5beb-4878-82d3-0f9d7db32e3f",""
+113,1,"LocalDateTable_5dceb58b-429f-4754-ab39-24382239f2a2","","",True,190,2022-08-15 21:41:18.920,2021-01-24 15:17:04.013,2,True,False,,0,,,False,"91b8c00e-9944-4302-8b39-10832577ea3c",""
+767,1,"Key Measures","","",False,776,2022-08-15 21:41:18.920,2021-01-24 16:32:19.870,0,False,False,,0,,,False,"e23bf726-ceec-4ee7-9599-cb2f8d55d760",""
+836,1,"Type","","",False,849,2022-08-15 21:41:18.920,2021-01-24 16:27:07.983,0,False,False,,0,,,False,"070bf2f6-399c-4003-b987-d2d82d99e675",""

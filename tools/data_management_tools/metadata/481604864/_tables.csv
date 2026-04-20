@@ -1,0 +1,13 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"coronavirus-deaths_latest","","",False,58,2021-11-16 01:59:15.706,2021-11-16 09:01:57.276,0,False,False,,0,,,False,"60bde699-6222-4bec-86a6-607926cca69b",""
+15,1,"DateTableTemplate_463ee3c2-d874-42d6-83b8-ed95a3eb58e9","","",True,60,2021-11-16 01:59:15.706,2021-11-16 01:59:14.936,2,False,True,,0,,,False,"79d8f0fd-4bfb-4384-9de0-bb42151441c1",""
+114,1,"LocalDateTable_b66c96cd-d893-4147-9990-98ad390be6bb","","",True,213,2021-11-16 01:59:15.703,2021-11-16 01:59:15.703,2,True,False,,0,,,False,"f3e6e025-e7c2-48be-a56e-c1168c10db95",""
+3966,1,"Occurrences - All data","","",False,4022,2021-11-17 02:02:46.810,2021-11-17 02:02:46.810,0,False,False,,0,,,False,"1641db17-9fc5-4b2c-aa5f-582564014a4f",""
+4237,1,"Registrations - All data","","",False,4286,2021-11-17 02:19:54.950,2021-11-17 02:19:54.950,0,False,False,,0,,,False,"43780d5c-dd34-41ec-ab2d-3891b22b6915",""
+4529,1,"GOV_deaths","","",False,4557,2021-11-17 02:41:26.926,2021-11-17 14:30:22.226,0,False,False,,0,,,False,"3b9cc3b7-3f7d-41d6-9a7d-4d81b1afbdca",""
+9185,1,"Weekly figures 2019","","",False,9268,2021-11-17 03:20:31.223,2021-11-17 03:20:31.223,0,False,False,,0,,,False,"1897e0ee-cc0a-4d6d-b77f-0a6db88adfde",""
+9188,1,"LocalDateTable_86c85c05-73da-4104-bd50-4bf99425c6e4","","",True,9270,2021-11-17 03:20:31.223,2021-11-17 03:20:31.223,2,True,False,,0,,,False,"fde4fefa-87aa-4e39-82a9-1d9139707aca",""
+9635,1,"Weekly figures 2020","","",False,9718,2021-11-17 03:23:29.273,2021-11-17 03:23:29.273,0,False,False,,0,,,False,"fba13505-7583-4030-be04-bedfa4a470f3",""
+9638,1,"LocalDateTable_9b090454-d2a9-41b7-8df3-a73df1f6162d","","",True,9720,2021-11-17 03:23:29.273,2021-11-17 03:23:29.273,2,True,False,,0,,,False,"5a19050e-06d4-42f7-a5e3-3dd6286f1e12",""
+11201,1,"Positive","","",False,11250,2021-11-17 06:31:01.793,2021-11-17 07:01:37.490,0,False,False,,0,,,False,"09c63d4b-1c37-4bac-87f5-6c0aae4bb235",""
+11927,1,"LocalDateTable_12d2698f-21d4-42e5-bf5a-d076fe5cc6fe","","",True,11974,2021-11-17 06:45:23.053,2021-11-17 06:45:23.053,2,True,False,,0,,,False,"2be4d720-5e31-47ac-901a-971d59a6eaaa",""

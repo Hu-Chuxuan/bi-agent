@@ -1,0 +1,901 @@
+Category,Source.Name,variable,value
+Falling,call_100002.csv,Category Sort Order,4
+Rising,call_100003.csv,Category Sort Order,2
+Falling,call_100005.csv,Category Sort Order,4
+Steady Neutral,call_100006.csv,Category Sort Order,3
+Falling,call_100007.csv,Category Sort Order,4
+Falling,call_100008.csv,Category Sort Order,4
+Rising,call_100010.csv,Category Sort Order,2
+Falling,call_100012.csv,Category Sort Order,4
+Falling,call_100014.csv,Category Sort Order,4
+Steady Neutral,call_100018.csv,Category Sort Order,3
+Falling,call_100020.csv,Category Sort Order,4
+Rising,call_100021.csv,Category Sort Order,2
+Falling,call_100022.csv,Category Sort Order,4
+Falling,call_100024.csv,Category Sort Order,4
+Rising,call_100025.csv,Category Sort Order,2
+Falling,call_100027.csv,Category Sort Order,4
+Falling,call_100029.csv,Category Sort Order,4
+Rising,call_100033.csv,Category Sort Order,2
+Rising,call_100034.csv,Category Sort Order,2
+Falling,call_100035.csv,Category Sort Order,4
+Rising,call_100036.csv,Category Sort Order,2
+Falling,call_100037.csv,Category Sort Order,4
+Rising,call_100040.csv,Category Sort Order,2
+Falling,call_100042.csv,Category Sort Order,4
+Falling,call_100044.csv,Category Sort Order,4
+Rising,call_100048.csv,Category Sort Order,2
+Falling,call_100050.csv,Category Sort Order,4
+Rising,call_100051.csv,Category Sort Order,2
+Falling,call_100052.csv,Category Sort Order,4
+Steady Neutral,call_100055.csv,Category Sort Order,3
+Steady Neutral,call_100057.csv,Category Sort Order,3
+Falling,call_100059.csv,Category Sort Order,4
+Falling,call_100060.csv,Category Sort Order,4
+Rising,call_100063.csv,Category Sort Order,2
+Falling,call_100065.csv,Category Sort Order,4
+Rising,call_100066.csv,Category Sort Order,2
+Falling,call_100067.csv,Category Sort Order,4
+Rising,call_100070.csv,Category Sort Order,2
+Falling,call_100072.csv,Category Sort Order,4
+Steady Neutral,call_100074.csv,Category Sort Order,3
+Steady Neutral,call_100078.csv,Category Sort Order,3
+Falling,call_100080.csv,Category Sort Order,4
+Rising,call_100081.csv,Category Sort Order,2
+Falling,call_100082.csv,Category Sort Order,4
+Rising,call_100085.csv,Category Sort Order,2
+Falling,call_100087.csv,Category Sort Order,4
+Falling,call_100089.csv,Category Sort Order,4
+Rising,call_100093.csv,Category Sort Order,2
+Steady Neutral,call_100095.csv,Category Sort Order,3
+Steady Neutral,call_100096.csv,Category Sort Order,3
+Falling,call_100097.csv,Category Sort Order,4
+Steady Neutral,call_100099.csv,Category Sort Order,3
+Rising,call_100100.csv,Category Sort Order,2
+Falling,call_100102.csv,Category Sort Order,4
+Falling,call_100104.csv,Category Sort Order,4
+Rising,call_100108.csv,Category Sort Order,2
+Steady Neutral,call_100109.csv,Category Sort Order,3
+Falling,call_100110.csv,Category Sort Order,4
+Rising,call_100111.csv,Category Sort Order,2
+Falling,call_100112.csv,Category Sort Order,4
+Steady Neutral,call_100115.csv,Category Sort Order,3
+Rising,call_100116.csv,Category Sort Order,2
+Falling,call_100117.csv,Category Sort Order,4
+Rising,call_100118.csv,Category Sort Order,2
+Falling,call_100119.csv,Category Sort Order,4
+Rising,call_100123.csv,Category Sort Order,2
+Rising,call_100124.csv,Category Sort Order,2
+Steady Neutral,call_100125.csv,Category Sort Order,3
+Rising,call_100126.csv,Category Sort Order,2
+Steady Neutral,call_100127.csv,Category Sort Order,3
+Rising,call_100130.csv,Category Sort Order,2
+Rising,call_100131.csv,Category Sort Order,2
+Falling,call_100132.csv,Category Sort Order,4
+Falling,call_100134.csv,Category Sort Order,4
+Rising,call_100138.csv,Category Sort Order,2
+Falling,call_100140.csv,Category Sort Order,4
+Rising,call_100141.csv,Category Sort Order,2
+Falling,call_100142.csv,Category Sort Order,4
+Rising,call_100145.csv,Category Sort Order,2
+Falling,call_100147.csv,Category Sort Order,4
+Falling,call_100149.csv,Category Sort Order,4
+Falling,call_100151.csv,Category Sort Order,4
+Rising,call_100153.csv,Category Sort Order,2
+Falling,call_100155.csv,Category Sort Order,4
+Rising,call_100156.csv,Category Sort Order,2
+Falling,call_100157.csv,Category Sort Order,4
+Rising,call_100160.csv,Category Sort Order,2
+Falling,call_100162.csv,Category Sort Order,4
+Falling,call_100164.csv,Category Sort Order,4
+Rising,call_100168.csv,Category Sort Order,2
+Falling,call_100170.csv,Category Sort Order,4
+Rising,call_100171.csv,Category Sort Order,2
+Falling,call_100172.csv,Category Sort Order,4
+Rising,call_100175.csv,Category Sort Order,2
+Falling,call_100177.csv,Category Sort Order,4
+Falling,call_100179.csv,Category Sort Order,4
+Steady Negative,call_100001.csv,Category Sort Order,5
+Steady High,call_100004.csv,Category Sort Order,1
+Steady Negative,call_100009.csv,Category Sort Order,5
+Steady High,call_100011.csv,Category Sort Order,1
+Rising,call_100013.csv,Category Sort Order,2
+Rising,call_100015.csv,Category Sort Order,2
+Steady Negative,call_100016.csv,Category Sort Order,5
+Steady Negative,call_100017.csv,Category Sort Order,5
+Steady High,call_100019.csv,Category Sort Order,1
+Rising,call_100023.csv,Category Sort Order,2
+Steady High,call_100026.csv,Category Sort Order,1
+Rising,call_100028.csv,Category Sort Order,2
+Steady Negative,call_100030.csv,Category Sort Order,5
+Steady Negative,call_100031.csv,Category Sort Order,5
+Steady Negative,call_100032.csv,Category Sort Order,5
+Steady Negative,call_100038.csv,Category Sort Order,5
+Steady Negative,call_100039.csv,Category Sort Order,5
+Steady High,call_100041.csv,Category Sort Order,1
+Rising,call_100043.csv,Category Sort Order,2
+Rising,call_100045.csv,Category Sort Order,2
+Steady Negative,call_100046.csv,Category Sort Order,5
+Steady Negative,call_100047.csv,Category Sort Order,5
+Falling,call_100049.csv,Category Sort Order,4
+Steady Negative,call_100053.csv,Category Sort Order,5
+Steady Negative,call_100054.csv,Category Sort Order,5
+Steady High,call_100056.csv,Category Sort Order,1
+Rising,call_100058.csv,Category Sort Order,2
+Steady Negative,call_100061.csv,Category Sort Order,5
+Steady Negative,call_100062.csv,Category Sort Order,5
+Steady High,call_100064.csv,Category Sort Order,1
+Steady Negative,call_100068.csv,Category Sort Order,5
+Steady Negative,call_100069.csv,Category Sort Order,5
+Steady High,call_100071.csv,Category Sort Order,1
+Rising,call_100073.csv,Category Sort Order,2
+Steady Negative,call_100075.csv,Category Sort Order,5
+Steady Negative,call_100076.csv,Category Sort Order,5
+Steady Negative,call_100077.csv,Category Sort Order,5
+Steady High,call_100079.csv,Category Sort Order,1
+Steady Negative,call_100083.csv,Category Sort Order,5
+Steady Negative,call_100084.csv,Category Sort Order,5
+Falling,call_100086.csv,Category Sort Order,4
+Rising,call_100088.csv,Category Sort Order,2
+Steady Negative,call_100090.csv,Category Sort Order,5
+Steady Negative,call_100091.csv,Category Sort Order,5
+Steady Negative,call_100092.csv,Category Sort Order,5
+Steady High,call_100094.csv,Category Sort Order,1
+Rising,call_100098.csv,Category Sort Order,2
+Steady High,call_100101.csv,Category Sort Order,1
+Rising,call_100103.csv,Category Sort Order,2
+Steady Negative,call_100105.csv,Category Sort Order,5
+Steady Negative,call_100106.csv,Category Sort Order,5
+Rising,call_100107.csv,Category Sort Order,2
+Steady Negative,call_100113.csv,Category Sort Order,5
+Rising,call_100114.csv,Category Sort Order,2
+Steady Negative,call_100120.csv,Category Sort Order,5
+Steady Negative,call_100121.csv,Category Sort Order,5
+Steady Negative,call_100122.csv,Category Sort Order,5
+Steady Negative,call_100128.csv,Category Sort Order,5
+Steady Negative,call_100129.csv,Category Sort Order,5
+Rising,call_100133.csv,Category Sort Order,2
+Steady Negative,call_100135.csv,Category Sort Order,5
+Steady Negative,call_100136.csv,Category Sort Order,5
+Steady Negative,call_100137.csv,Category Sort Order,5
+Steady High,call_100139.csv,Category Sort Order,1
+Steady Negative,call_100143.csv,Category Sort Order,5
+Steady Negative,call_100144.csv,Category Sort Order,5
+Steady High,call_100146.csv,Category Sort Order,1
+Rising,call_100148.csv,Category Sort Order,2
+Steady Negative,call_100150.csv,Category Sort Order,5
+Steady Negative,call_100152.csv,Category Sort Order,5
+Steady High,call_100154.csv,Category Sort Order,1
+Steady Negative,call_100158.csv,Category Sort Order,5
+Rising,call_100159.csv,Category Sort Order,2
+Steady High,call_100161.csv,Category Sort Order,1
+Rising,call_100163.csv,Category Sort Order,2
+Steady Negative,call_100165.csv,Category Sort Order,5
+Steady Negative,call_100166.csv,Category Sort Order,5
+Steady Negative,call_100167.csv,Category Sort Order,5
+Steady High,call_100169.csv,Category Sort Order,1
+Steady Negative,call_100173.csv,Category Sort Order,5
+Steady Negative,call_100174.csv,Category Sort Order,5
+Steady High,call_100176.csv,Category Sort Order,1
+Rising,call_100178.csv,Category Sort Order,2
+Steady Negative,call_100180.csv,Category Sort Order,5
+Falling,call_100002.csv,Initial SCORE,0.41
+Rising,call_100003.csv,Initial SCORE,0.47
+Falling,call_100005.csv,Initial SCORE,0.49
+Steady Neutral,call_100006.csv,Initial SCORE,0.46
+Falling,call_100007.csv,Initial SCORE,0.54
+Falling,call_100008.csv,Initial SCORE,0.42
+Rising,call_100010.csv,Initial SCORE,0.53
+Falling,call_100012.csv,Initial SCORE,0.52
+Falling,call_100014.csv,Initial SCORE,0.49
+Steady Neutral,call_100018.csv,Initial SCORE,0.46
+Falling,call_100020.csv,Initial SCORE,0.47
+Rising,call_100021.csv,Initial SCORE,0.5
+Falling,call_100022.csv,Initial SCORE,0.5
+Falling,call_100024.csv,Initial SCORE,0.42
+Rising,call_100025.csv,Initial SCORE,0.48
+Falling,call_100027.csv,Initial SCORE,0.54
+Falling,call_100029.csv,Initial SCORE,0.49
+Rising,call_100033.csv,Initial SCORE,0.53
+Rising,call_100034.csv,Initial SCORE,0.6
+Falling,call_100035.csv,Initial SCORE,0.51
+Rising,call_100036.csv,Initial SCORE,0.49
+Falling,call_100037.csv,Initial SCORE,0.54
+Rising,call_100040.csv,Initial SCORE,0.49
+Falling,call_100042.csv,Initial SCORE,0.48
+Falling,call_100044.csv,Initial SCORE,0.55
+Rising,call_100048.csv,Initial SCORE,0.55
+Falling,call_100050.csv,Initial SCORE,0.48
+Rising,call_100051.csv,Initial SCORE,0.49
+Falling,call_100052.csv,Initial SCORE,0.55
+Steady Neutral,call_100055.csv,Initial SCORE,0.53
+Steady Neutral,call_100057.csv,Initial SCORE,0.45
+Falling,call_100059.csv,Initial SCORE,0.55
+Falling,call_100060.csv,Initial SCORE,0.44
+Rising,call_100063.csv,Initial SCORE,0.55
+Falling,call_100065.csv,Initial SCORE,0.53
+Rising,call_100066.csv,Initial SCORE,0.51
+Falling,call_100067.csv,Initial SCORE,0.45
+Rising,call_100070.csv,Initial SCORE,0.54
+Falling,call_100072.csv,Initial SCORE,0.5
+Steady Neutral,call_100074.csv,Initial SCORE,0.54
+Steady Neutral,call_100078.csv,Initial SCORE,0.51
+Falling,call_100080.csv,Initial SCORE,0.47
+Rising,call_100081.csv,Initial SCORE,0.47
+Falling,call_100082.csv,Initial SCORE,0.5
+Rising,call_100085.csv,Initial SCORE,0.55
+Falling,call_100087.csv,Initial SCORE,0.48
+Falling,call_100089.csv,Initial SCORE,0.47
+Rising,call_100093.csv,Initial SCORE,0.49
+Steady Neutral,call_100095.csv,Initial SCORE,0.51
+Steady Neutral,call_100096.csv,Initial SCORE,0.51
+Falling,call_100097.csv,Initial SCORE,0.54
+Steady Neutral,call_100099.csv,Initial SCORE,0.45
+Rising,call_100100.csv,Initial SCORE,0.45
+Falling,call_100102.csv,Initial SCORE,0.53
+Falling,call_100104.csv,Initial SCORE,0.46
+Rising,call_100108.csv,Initial SCORE,0.55
+Steady Neutral,call_100109.csv,Initial SCORE,0.56
+Falling,call_100110.csv,Initial SCORE,0.48
+Rising,call_100111.csv,Initial SCORE,0.47
+Falling,call_100112.csv,Initial SCORE,0.48
+Steady Neutral,call_100115.csv,Initial SCORE,0.47
+Rising,call_100116.csv,Initial SCORE,0.6
+Falling,call_100117.csv,Initial SCORE,0.52
+Rising,call_100118.csv,Initial SCORE,0.41
+Falling,call_100119.csv,Initial SCORE,0.46
+Rising,call_100123.csv,Initial SCORE,0.45
+Rising,call_100124.csv,Initial SCORE,0.6
+Steady Neutral,call_100125.csv,Initial SCORE,0.53
+Rising,call_100126.csv,Initial SCORE,0.46
+Steady Neutral,call_100127.csv,Initial SCORE,0.54
+Rising,call_100130.csv,Initial SCORE,0.51
+Rising,call_100131.csv,Initial SCORE,0.55
+Falling,call_100132.csv,Initial SCORE,0.5
+Falling,call_100134.csv,Initial SCORE,0.55
+Rising,call_100138.csv,Initial SCORE,0.5
+Falling,call_100140.csv,Initial SCORE,0.48
+Rising,call_100141.csv,Initial SCORE,0.54
+Falling,call_100142.csv,Initial SCORE,0.48
+Rising,call_100145.csv,Initial SCORE,0.5
+Falling,call_100147.csv,Initial SCORE,0.51
+Falling,call_100149.csv,Initial SCORE,0.55
+Falling,call_100151.csv,Initial SCORE,0.45
+Rising,call_100153.csv,Initial SCORE,0.54
+Falling,call_100155.csv,Initial SCORE,0.47
+Rising,call_100156.csv,Initial SCORE,0.49
+Falling,call_100157.csv,Initial SCORE,0.55
+Rising,call_100160.csv,Initial SCORE,0.55
+Falling,call_100162.csv,Initial SCORE,0.46
+Falling,call_100164.csv,Initial SCORE,0.5
+Rising,call_100168.csv,Initial SCORE,0.51
+Falling,call_100170.csv,Initial SCORE,0.5
+Rising,call_100171.csv,Initial SCORE,0.48
+Falling,call_100172.csv,Initial SCORE,0.51
+Rising,call_100175.csv,Initial SCORE,0.47
+Falling,call_100177.csv,Initial SCORE,0.45
+Falling,call_100179.csv,Initial SCORE,0.5
+Steady Negative,call_100001.csv,Initial SCORE,0.26
+Steady High,call_100004.csv,Initial SCORE,0.66
+Steady Negative,call_100009.csv,Initial SCORE,0.4
+Steady High,call_100011.csv,Initial SCORE,0.77
+Rising,call_100013.csv,Initial SCORE,0.12
+Rising,call_100015.csv,Initial SCORE,0.35
+Steady Negative,call_100016.csv,Initial SCORE,0.23
+Steady Negative,call_100017.csv,Initial SCORE,0.21
+Steady High,call_100019.csv,Initial SCORE,0.8
+Rising,call_100023.csv,Initial SCORE,0.33
+Steady High,call_100026.csv,Initial SCORE,0.87
+Rising,call_100028.csv,Initial SCORE,0.16
+Steady Negative,call_100030.csv,Initial SCORE,0.14
+Steady Negative,call_100031.csv,Initial SCORE,0.18
+Steady Negative,call_100032.csv,Initial SCORE,0.17
+Steady Negative,call_100038.csv,Initial SCORE,0.11
+Steady Negative,call_100039.csv,Initial SCORE,0.17
+Steady High,call_100041.csv,Initial SCORE,0.94
+Rising,call_100043.csv,Initial SCORE,0.39
+Rising,call_100045.csv,Initial SCORE,0.1
+Steady Negative,call_100046.csv,Initial SCORE,0.1
+Steady Negative,call_100047.csv,Initial SCORE,0.33
+Falling,call_100049.csv,Initial SCORE,0.66
+Steady Negative,call_100053.csv,Initial SCORE,0.2
+Steady Negative,call_100054.csv,Initial SCORE,0.12
+Steady High,call_100056.csv,Initial SCORE,0.86
+Rising,call_100058.csv,Initial SCORE,0.24
+Steady Negative,call_100061.csv,Initial SCORE,0.18
+Steady Negative,call_100062.csv,Initial SCORE,0.24
+Steady High,call_100064.csv,Initial SCORE,0.89
+Steady Negative,call_100068.csv,Initial SCORE,0.3
+Steady Negative,call_100069.csv,Initial SCORE,0.31
+Steady High,call_100071.csv,Initial SCORE,0.79
+Rising,call_100073.csv,Initial SCORE,0.16
+Steady Negative,call_100075.csv,Initial SCORE,0.24
+Steady Negative,call_100076.csv,Initial SCORE,0.23
+Steady Negative,call_100077.csv,Initial SCORE,0.21
+Steady High,call_100079.csv,Initial SCORE,0.95
+Steady Negative,call_100083.csv,Initial SCORE,0.1
+Steady Negative,call_100084.csv,Initial SCORE,0.32
+Falling,call_100086.csv,Initial SCORE,0.82
+Rising,call_100088.csv,Initial SCORE,0.25
+Steady Negative,call_100090.csv,Initial SCORE,0.13
+Steady Negative,call_100091.csv,Initial SCORE,0.23
+Steady Negative,call_100092.csv,Initial SCORE,0.31
+Steady High,call_100094.csv,Initial SCORE,0.61
+Rising,call_100098.csv,Initial SCORE,0.14
+Steady High,call_100101.csv,Initial SCORE,0.71
+Rising,call_100103.csv,Initial SCORE,0.38
+Steady Negative,call_100105.csv,Initial SCORE,0.25
+Steady Negative,call_100106.csv,Initial SCORE,0.29
+Rising,call_100107.csv,Initial SCORE,0.28
+Steady Negative,call_100113.csv,Initial SCORE,0.3
+Rising,call_100114.csv,Initial SCORE,0.27
+Steady Negative,call_100120.csv,Initial SCORE,0.15
+Steady Negative,call_100121.csv,Initial SCORE,0.23
+Steady Negative,call_100122.csv,Initial SCORE,0.25
+Steady Negative,call_100128.csv,Initial SCORE,0.29
+Steady Negative,call_100129.csv,Initial SCORE,0.31
+Rising,call_100133.csv,Initial SCORE,0.16
+Steady Negative,call_100135.csv,Initial SCORE,0.27
+Steady Negative,call_100136.csv,Initial SCORE,0.29
+Steady Negative,call_100137.csv,Initial SCORE,0.15
+Steady High,call_100139.csv,Initial SCORE,0.74
+Steady Negative,call_100143.csv,Initial SCORE,0.39
+Steady Negative,call_100144.csv,Initial SCORE,0.29
+Steady High,call_100146.csv,Initial SCORE,0.94
+Rising,call_100148.csv,Initial SCORE,0.11
+Steady Negative,call_100150.csv,Initial SCORE,0.3
+Steady Negative,call_100152.csv,Initial SCORE,0.33
+Steady High,call_100154.csv,Initial SCORE,0.86
+Steady Negative,call_100158.csv,Initial SCORE,0.11
+Rising,call_100159.csv,Initial SCORE,0.18
+Steady High,call_100161.csv,Initial SCORE,0.79
+Rising,call_100163.csv,Initial SCORE,0.35
+Steady Negative,call_100165.csv,Initial SCORE,0.28
+Steady Negative,call_100166.csv,Initial SCORE,0.39
+Steady Negative,call_100167.csv,Initial SCORE,0.23
+Steady High,call_100169.csv,Initial SCORE,0.73
+Steady Negative,call_100173.csv,Initial SCORE,0.25
+Steady Negative,call_100174.csv,Initial SCORE,0.3
+Steady High,call_100176.csv,Initial SCORE,0.9
+Rising,call_100178.csv,Initial SCORE,0.25
+Steady Negative,call_100180.csv,Initial SCORE,0.3
+Falling,call_100002.csv,Final SCORE,0.21
+Rising,call_100003.csv,Final SCORE,0.76
+Falling,call_100005.csv,Final SCORE,0.21
+Steady Neutral,call_100006.csv,Final SCORE,0.57
+Falling,call_100007.csv,Final SCORE,0.3
+Falling,call_100008.csv,Final SCORE,0.12
+Rising,call_100010.csv,Final SCORE,0.9
+Falling,call_100012.csv,Final SCORE,0.18
+Falling,call_100014.csv,Final SCORE,0.26
+Steady Neutral,call_100018.csv,Final SCORE,0.57
+Falling,call_100020.csv,Final SCORE,0.26
+Rising,call_100021.csv,Final SCORE,0.95
+Falling,call_100022.csv,Final SCORE,0.31
+Falling,call_100024.csv,Final SCORE,0.36
+Rising,call_100025.csv,Final SCORE,0.78
+Falling,call_100027.csv,Final SCORE,0.37
+Falling,call_100029.csv,Final SCORE,0.39
+Rising,call_100033.csv,Final SCORE,0.71
+Rising,call_100034.csv,Final SCORE,0.91
+Falling,call_100035.csv,Final SCORE,0.35
+Rising,call_100036.csv,Final SCORE,0.63
+Falling,call_100037.csv,Final SCORE,0.15
+Rising,call_100040.csv,Final SCORE,0.92
+Falling,call_100042.csv,Final SCORE,0.26
+Falling,call_100044.csv,Final SCORE,0.33
+Rising,call_100048.csv,Final SCORE,0.85
+Falling,call_100050.csv,Final SCORE,0.18
+Rising,call_100051.csv,Final SCORE,0.94
+Falling,call_100052.csv,Final SCORE,0.21
+Steady Neutral,call_100055.csv,Final SCORE,0.55
+Steady Neutral,call_100057.csv,Final SCORE,0.45
+Falling,call_100059.csv,Final SCORE,0.4
+Falling,call_100060.csv,Final SCORE,0.27
+Rising,call_100063.csv,Final SCORE,0.87
+Falling,call_100065.csv,Final SCORE,0.34
+Rising,call_100066.csv,Final SCORE,0.81
+Falling,call_100067.csv,Final SCORE,0.17
+Rising,call_100070.csv,Final SCORE,0.78
+Falling,call_100072.csv,Final SCORE,0.17
+Steady Neutral,call_100074.csv,Final SCORE,0.43
+Steady Neutral,call_100078.csv,Final SCORE,0.57
+Falling,call_100080.csv,Final SCORE,0.34
+Rising,call_100081.csv,Final SCORE,0.85
+Falling,call_100082.csv,Final SCORE,0.26
+Rising,call_100085.csv,Final SCORE,0.93
+Falling,call_100087.csv,Final SCORE,0.13
+Falling,call_100089.csv,Final SCORE,0.34
+Rising,call_100093.csv,Final SCORE,0.93
+Steady Neutral,call_100095.csv,Final SCORE,0.44
+Steady Neutral,call_100096.csv,Final SCORE,0.58
+Falling,call_100097.csv,Final SCORE,0.18
+Steady Neutral,call_100099.csv,Final SCORE,0.42
+Rising,call_100100.csv,Final SCORE,0.82
+Falling,call_100102.csv,Final SCORE,0.4
+Falling,call_100104.csv,Final SCORE,0.28
+Rising,call_100108.csv,Final SCORE,0.65
+Steady Neutral,call_100109.csv,Final SCORE,0.55
+Falling,call_100110.csv,Final SCORE,0.29
+Rising,call_100111.csv,Final SCORE,0.76
+Falling,call_100112.csv,Final SCORE,0.35
+Steady Neutral,call_100115.csv,Final SCORE,0.56
+Rising,call_100116.csv,Final SCORE,0.91
+Falling,call_100117.csv,Final SCORE,0.28
+Rising,call_100118.csv,Final SCORE,0.66
+Falling,call_100119.csv,Final SCORE,0.11
+Rising,call_100123.csv,Final SCORE,0.74
+Rising,call_100124.csv,Final SCORE,0.67
+Steady Neutral,call_100125.csv,Final SCORE,0.45
+Rising,call_100126.csv,Final SCORE,0.69
+Steady Neutral,call_100127.csv,Final SCORE,0.41
+Rising,call_100130.csv,Final SCORE,0.67
+Rising,call_100131.csv,Final SCORE,0.95
+Falling,call_100132.csv,Final SCORE,0.28
+Falling,call_100134.csv,Final SCORE,0.11
+Rising,call_100138.csv,Final SCORE,0.83
+Falling,call_100140.csv,Final SCORE,0.39
+Rising,call_100141.csv,Final SCORE,0.64
+Falling,call_100142.csv,Final SCORE,0.24
+Rising,call_100145.csv,Final SCORE,0.91
+Falling,call_100147.csv,Final SCORE,0.4
+Falling,call_100149.csv,Final SCORE,0.4
+Falling,call_100151.csv,Final SCORE,0.1
+Rising,call_100153.csv,Final SCORE,0.63
+Falling,call_100155.csv,Final SCORE,0.39
+Rising,call_100156.csv,Final SCORE,0.88
+Falling,call_100157.csv,Final SCORE,0.27
+Rising,call_100160.csv,Final SCORE,0.76
+Falling,call_100162.csv,Final SCORE,0.2
+Falling,call_100164.csv,Final SCORE,0.28
+Rising,call_100168.csv,Final SCORE,0.8
+Falling,call_100170.csv,Final SCORE,0.37
+Rising,call_100171.csv,Final SCORE,0.75
+Falling,call_100172.csv,Final SCORE,0.27
+Rising,call_100175.csv,Final SCORE,0.92
+Falling,call_100177.csv,Final SCORE,0.23
+Falling,call_100179.csv,Final SCORE,0.38
+Steady Negative,call_100001.csv,Final SCORE,0.1
+Steady High,call_100004.csv,Final SCORE,0.61
+Steady Negative,call_100009.csv,Final SCORE,0.12
+Steady High,call_100011.csv,Final SCORE,0.78
+Rising,call_100013.csv,Final SCORE,0.73
+Rising,call_100015.csv,Final SCORE,0.42
+Steady Negative,call_100016.csv,Final SCORE,0.1
+Steady Negative,call_100017.csv,Final SCORE,0.1
+Steady High,call_100019.csv,Final SCORE,0.76
+Rising,call_100023.csv,Final SCORE,0.44
+Steady High,call_100026.csv,Final SCORE,0.86
+Rising,call_100028.csv,Final SCORE,0.76
+Steady Negative,call_100030.csv,Final SCORE,0.11
+Steady Negative,call_100031.csv,Final SCORE,0.1
+Steady Negative,call_100032.csv,Final SCORE,0.14
+Steady Negative,call_100038.csv,Final SCORE,0.38
+Steady Negative,call_100039.csv,Final SCORE,0.36
+Steady High,call_100041.csv,Final SCORE,0.73
+Rising,call_100043.csv,Final SCORE,0.83
+Rising,call_100045.csv,Final SCORE,0.42
+Steady Negative,call_100046.csv,Final SCORE,0.1
+Steady Negative,call_100047.csv,Final SCORE,0.26
+Falling,call_100049.csv,Final SCORE,0.55
+Steady Negative,call_100053.csv,Final SCORE,0.17
+Steady Negative,call_100054.csv,Final SCORE,0.17
+Steady High,call_100056.csv,Final SCORE,0.94
+Rising,call_100058.csv,Final SCORE,0.63
+Steady Negative,call_100061.csv,Final SCORE,0.1
+Steady Negative,call_100062.csv,Final SCORE,0.31
+Steady High,call_100064.csv,Final SCORE,0.94
+Steady Negative,call_100068.csv,Final SCORE,0.27
+Steady Negative,call_100069.csv,Final SCORE,0.34
+Steady High,call_100071.csv,Final SCORE,0.76
+Rising,call_100073.csv,Final SCORE,0.73
+Steady Negative,call_100075.csv,Final SCORE,0.34
+Steady Negative,call_100076.csv,Final SCORE,0.1
+Steady Negative,call_100077.csv,Final SCORE,0.18
+Steady High,call_100079.csv,Final SCORE,0.86
+Steady Negative,call_100083.csv,Final SCORE,0.12
+Steady Negative,call_100084.csv,Final SCORE,0.19
+Falling,call_100086.csv,Final SCORE,0.55
+Rising,call_100088.csv,Final SCORE,0.63
+Steady Negative,call_100090.csv,Final SCORE,0.33
+Steady Negative,call_100091.csv,Final SCORE,0.1
+Steady Negative,call_100092.csv,Final SCORE,0.36
+Steady High,call_100094.csv,Final SCORE,0.81
+Rising,call_100098.csv,Final SCORE,0.44
+Steady High,call_100101.csv,Final SCORE,0.74
+Rising,call_100103.csv,Final SCORE,0.56
+Steady Negative,call_100105.csv,Final SCORE,0.34
+Steady Negative,call_100106.csv,Final SCORE,0.1
+Rising,call_100107.csv,Final SCORE,0.45
+Steady Negative,call_100113.csv,Final SCORE,0.3
+Rising,call_100114.csv,Final SCORE,0.41
+Steady Negative,call_100120.csv,Final SCORE,0.37
+Steady Negative,call_100121.csv,Final SCORE,0.1
+Steady Negative,call_100122.csv,Final SCORE,0.33
+Steady Negative,call_100128.csv,Final SCORE,0.19
+Steady Negative,call_100129.csv,Final SCORE,0.27
+Rising,call_100133.csv,Final SCORE,0.94
+Steady Negative,call_100135.csv,Final SCORE,0.37
+Steady Negative,call_100136.csv,Final SCORE,0.1
+Steady Negative,call_100137.csv,Final SCORE,0.29
+Steady High,call_100139.csv,Final SCORE,0.95
+Steady Negative,call_100143.csv,Final SCORE,0.19
+Steady Negative,call_100144.csv,Final SCORE,0.24
+Steady High,call_100146.csv,Final SCORE,0.9
+Rising,call_100148.csv,Final SCORE,0.89
+Steady Negative,call_100150.csv,Final SCORE,0.32
+Steady Negative,call_100152.csv,Final SCORE,0.26
+Steady High,call_100154.csv,Final SCORE,0.81
+Steady Negative,call_100158.csv,Final SCORE,0.23
+Rising,call_100159.csv,Final SCORE,0.43
+Steady High,call_100161.csv,Final SCORE,0.68
+Rising,call_100163.csv,Final SCORE,0.6
+Steady Negative,call_100165.csv,Final SCORE,0.11
+Steady Negative,call_100166.csv,Final SCORE,0.1
+Steady Negative,call_100167.csv,Final SCORE,0.17
+Steady High,call_100169.csv,Final SCORE,0.89
+Steady Negative,call_100173.csv,Final SCORE,0.16
+Steady Negative,call_100174.csv,Final SCORE,0.4
+Steady High,call_100176.csv,Final SCORE,0.77
+Rising,call_100178.csv,Final SCORE,0.59
+Steady Negative,call_100180.csv,Final SCORE,0.34
+Falling,call_100002.csv,Initial Sentiment,Medium
+Rising,call_100003.csv,Initial Sentiment,Medium
+Falling,call_100005.csv,Initial Sentiment,Medium
+Steady Neutral,call_100006.csv,Initial Sentiment,Medium
+Falling,call_100007.csv,Initial Sentiment,Medium
+Falling,call_100008.csv,Initial Sentiment,Medium
+Rising,call_100010.csv,Initial Sentiment,Medium
+Falling,call_100012.csv,Initial Sentiment,Medium
+Falling,call_100014.csv,Initial Sentiment,Medium
+Steady Neutral,call_100018.csv,Initial Sentiment,Medium
+Falling,call_100020.csv,Initial Sentiment,Medium
+Rising,call_100021.csv,Initial Sentiment,Medium
+Falling,call_100022.csv,Initial Sentiment,Medium
+Falling,call_100024.csv,Initial Sentiment,Medium
+Rising,call_100025.csv,Initial Sentiment,Medium
+Falling,call_100027.csv,Initial Sentiment,Medium
+Falling,call_100029.csv,Initial Sentiment,Medium
+Rising,call_100033.csv,Initial Sentiment,Medium
+Rising,call_100034.csv,Initial Sentiment,Medium
+Falling,call_100035.csv,Initial Sentiment,Medium
+Rising,call_100036.csv,Initial Sentiment,Medium
+Falling,call_100037.csv,Initial Sentiment,Medium
+Rising,call_100040.csv,Initial Sentiment,Medium
+Falling,call_100042.csv,Initial Sentiment,Medium
+Falling,call_100044.csv,Initial Sentiment,Medium
+Rising,call_100048.csv,Initial Sentiment,Medium
+Falling,call_100050.csv,Initial Sentiment,Medium
+Rising,call_100051.csv,Initial Sentiment,Medium
+Falling,call_100052.csv,Initial Sentiment,Medium
+Steady Neutral,call_100055.csv,Initial Sentiment,Medium
+Steady Neutral,call_100057.csv,Initial Sentiment,Medium
+Falling,call_100059.csv,Initial Sentiment,Medium
+Falling,call_100060.csv,Initial Sentiment,Medium
+Rising,call_100063.csv,Initial Sentiment,Medium
+Falling,call_100065.csv,Initial Sentiment,Medium
+Rising,call_100066.csv,Initial Sentiment,Medium
+Falling,call_100067.csv,Initial Sentiment,Medium
+Rising,call_100070.csv,Initial Sentiment,Medium
+Falling,call_100072.csv,Initial Sentiment,Medium
+Steady Neutral,call_100074.csv,Initial Sentiment,Medium
+Steady Neutral,call_100078.csv,Initial Sentiment,Medium
+Falling,call_100080.csv,Initial Sentiment,Medium
+Rising,call_100081.csv,Initial Sentiment,Medium
+Falling,call_100082.csv,Initial Sentiment,Medium
+Rising,call_100085.csv,Initial Sentiment,Medium
+Falling,call_100087.csv,Initial Sentiment,Medium
+Falling,call_100089.csv,Initial Sentiment,Medium
+Rising,call_100093.csv,Initial Sentiment,Medium
+Steady Neutral,call_100095.csv,Initial Sentiment,Medium
+Steady Neutral,call_100096.csv,Initial Sentiment,Medium
+Falling,call_100097.csv,Initial Sentiment,Medium
+Steady Neutral,call_100099.csv,Initial Sentiment,Medium
+Rising,call_100100.csv,Initial Sentiment,Medium
+Falling,call_100102.csv,Initial Sentiment,Medium
+Falling,call_100104.csv,Initial Sentiment,Medium
+Rising,call_100108.csv,Initial Sentiment,Medium
+Steady Neutral,call_100109.csv,Initial Sentiment,Medium
+Falling,call_100110.csv,Initial Sentiment,Medium
+Rising,call_100111.csv,Initial Sentiment,Medium
+Falling,call_100112.csv,Initial Sentiment,Medium
+Steady Neutral,call_100115.csv,Initial Sentiment,Medium
+Rising,call_100116.csv,Initial Sentiment,Medium
+Falling,call_100117.csv,Initial Sentiment,Medium
+Rising,call_100118.csv,Initial Sentiment,Medium
+Falling,call_100119.csv,Initial Sentiment,Medium
+Rising,call_100123.csv,Initial Sentiment,Medium
+Rising,call_100124.csv,Initial Sentiment,Medium
+Steady Neutral,call_100125.csv,Initial Sentiment,Medium
+Rising,call_100126.csv,Initial Sentiment,Medium
+Steady Neutral,call_100127.csv,Initial Sentiment,Medium
+Rising,call_100130.csv,Initial Sentiment,Medium
+Rising,call_100131.csv,Initial Sentiment,Medium
+Falling,call_100132.csv,Initial Sentiment,Medium
+Falling,call_100134.csv,Initial Sentiment,Medium
+Rising,call_100138.csv,Initial Sentiment,Medium
+Falling,call_100140.csv,Initial Sentiment,Medium
+Rising,call_100141.csv,Initial Sentiment,Medium
+Falling,call_100142.csv,Initial Sentiment,Medium
+Rising,call_100145.csv,Initial Sentiment,Medium
+Falling,call_100147.csv,Initial Sentiment,Medium
+Falling,call_100149.csv,Initial Sentiment,Medium
+Falling,call_100151.csv,Initial Sentiment,Medium
+Rising,call_100153.csv,Initial Sentiment,Medium
+Falling,call_100155.csv,Initial Sentiment,Medium
+Rising,call_100156.csv,Initial Sentiment,Medium
+Falling,call_100157.csv,Initial Sentiment,Medium
+Rising,call_100160.csv,Initial Sentiment,Medium
+Falling,call_100162.csv,Initial Sentiment,Medium
+Falling,call_100164.csv,Initial Sentiment,Medium
+Rising,call_100168.csv,Initial Sentiment,Medium
+Falling,call_100170.csv,Initial Sentiment,Medium
+Rising,call_100171.csv,Initial Sentiment,Medium
+Falling,call_100172.csv,Initial Sentiment,Medium
+Rising,call_100175.csv,Initial Sentiment,Medium
+Falling,call_100177.csv,Initial Sentiment,Medium
+Falling,call_100179.csv,Initial Sentiment,Medium
+Steady Negative,call_100001.csv,Initial Sentiment,Low
+Steady High,call_100004.csv,Initial Sentiment,High
+Steady Negative,call_100009.csv,Initial Sentiment,Low
+Steady High,call_100011.csv,Initial Sentiment,High
+Rising,call_100013.csv,Initial Sentiment,Low
+Rising,call_100015.csv,Initial Sentiment,Low
+Steady Negative,call_100016.csv,Initial Sentiment,Low
+Steady Negative,call_100017.csv,Initial Sentiment,Low
+Steady High,call_100019.csv,Initial Sentiment,High
+Rising,call_100023.csv,Initial Sentiment,Low
+Steady High,call_100026.csv,Initial Sentiment,High
+Rising,call_100028.csv,Initial Sentiment,Low
+Steady Negative,call_100030.csv,Initial Sentiment,Low
+Steady Negative,call_100031.csv,Initial Sentiment,Low
+Steady Negative,call_100032.csv,Initial Sentiment,Low
+Steady Negative,call_100038.csv,Initial Sentiment,Low
+Steady Negative,call_100039.csv,Initial Sentiment,Low
+Steady High,call_100041.csv,Initial Sentiment,High
+Rising,call_100043.csv,Initial Sentiment,Low
+Rising,call_100045.csv,Initial Sentiment,Low
+Steady Negative,call_100046.csv,Initial Sentiment,Low
+Steady Negative,call_100047.csv,Initial Sentiment,Low
+Falling,call_100049.csv,Initial Sentiment,High
+Steady Negative,call_100053.csv,Initial Sentiment,Low
+Steady Negative,call_100054.csv,Initial Sentiment,Low
+Steady High,call_100056.csv,Initial Sentiment,High
+Rising,call_100058.csv,Initial Sentiment,Low
+Steady Negative,call_100061.csv,Initial Sentiment,Low
+Steady Negative,call_100062.csv,Initial Sentiment,Low
+Steady High,call_100064.csv,Initial Sentiment,High
+Steady Negative,call_100068.csv,Initial Sentiment,Low
+Steady Negative,call_100069.csv,Initial Sentiment,Low
+Steady High,call_100071.csv,Initial Sentiment,High
+Rising,call_100073.csv,Initial Sentiment,Low
+Steady Negative,call_100075.csv,Initial Sentiment,Low
+Steady Negative,call_100076.csv,Initial Sentiment,Low
+Steady Negative,call_100077.csv,Initial Sentiment,Low
+Steady High,call_100079.csv,Initial Sentiment,High
+Steady Negative,call_100083.csv,Initial Sentiment,Low
+Steady Negative,call_100084.csv,Initial Sentiment,Low
+Falling,call_100086.csv,Initial Sentiment,High
+Rising,call_100088.csv,Initial Sentiment,Low
+Steady Negative,call_100090.csv,Initial Sentiment,Low
+Steady Negative,call_100091.csv,Initial Sentiment,Low
+Steady Negative,call_100092.csv,Initial Sentiment,Low
+Steady High,call_100094.csv,Initial Sentiment,High
+Rising,call_100098.csv,Initial Sentiment,Low
+Steady High,call_100101.csv,Initial Sentiment,High
+Rising,call_100103.csv,Initial Sentiment,Low
+Steady Negative,call_100105.csv,Initial Sentiment,Low
+Steady Negative,call_100106.csv,Initial Sentiment,Low
+Rising,call_100107.csv,Initial Sentiment,Low
+Steady Negative,call_100113.csv,Initial Sentiment,Low
+Rising,call_100114.csv,Initial Sentiment,Low
+Steady Negative,call_100120.csv,Initial Sentiment,Low
+Steady Negative,call_100121.csv,Initial Sentiment,Low
+Steady Negative,call_100122.csv,Initial Sentiment,Low
+Steady Negative,call_100128.csv,Initial Sentiment,Low
+Steady Negative,call_100129.csv,Initial Sentiment,Low
+Rising,call_100133.csv,Initial Sentiment,Low
+Steady Negative,call_100135.csv,Initial Sentiment,Low
+Steady Negative,call_100136.csv,Initial Sentiment,Low
+Steady Negative,call_100137.csv,Initial Sentiment,Low
+Steady High,call_100139.csv,Initial Sentiment,High
+Steady Negative,call_100143.csv,Initial Sentiment,Low
+Steady Negative,call_100144.csv,Initial Sentiment,Low
+Steady High,call_100146.csv,Initial Sentiment,High
+Rising,call_100148.csv,Initial Sentiment,Low
+Steady Negative,call_100150.csv,Initial Sentiment,Low
+Steady Negative,call_100152.csv,Initial Sentiment,Low
+Steady High,call_100154.csv,Initial Sentiment,High
+Steady Negative,call_100158.csv,Initial Sentiment,Low
+Rising,call_100159.csv,Initial Sentiment,Low
+Steady High,call_100161.csv,Initial Sentiment,High
+Rising,call_100163.csv,Initial Sentiment,Low
+Steady Negative,call_100165.csv,Initial Sentiment,Low
+Steady Negative,call_100166.csv,Initial Sentiment,Low
+Steady Negative,call_100167.csv,Initial Sentiment,Low
+Steady High,call_100169.csv,Initial Sentiment,High
+Steady Negative,call_100173.csv,Initial Sentiment,Low
+Steady Negative,call_100174.csv,Initial Sentiment,Low
+Steady High,call_100176.csv,Initial Sentiment,High
+Rising,call_100178.csv,Initial Sentiment,Low
+Steady Negative,call_100180.csv,Initial Sentiment,Low
+Falling,call_100002.csv,Final Sentiment,Low
+Rising,call_100003.csv,Final Sentiment,High
+Falling,call_100005.csv,Final Sentiment,Low
+Steady Neutral,call_100006.csv,Final Sentiment,Medium
+Falling,call_100007.csv,Final Sentiment,Low
+Falling,call_100008.csv,Final Sentiment,Low
+Rising,call_100010.csv,Final Sentiment,High
+Falling,call_100012.csv,Final Sentiment,Low
+Falling,call_100014.csv,Final Sentiment,Low
+Steady Neutral,call_100018.csv,Final Sentiment,Medium
+Falling,call_100020.csv,Final Sentiment,Low
+Rising,call_100021.csv,Final Sentiment,High
+Falling,call_100022.csv,Final Sentiment,Low
+Falling,call_100024.csv,Final Sentiment,Low
+Rising,call_100025.csv,Final Sentiment,High
+Falling,call_100027.csv,Final Sentiment,Low
+Falling,call_100029.csv,Final Sentiment,Low
+Rising,call_100033.csv,Final Sentiment,High
+Rising,call_100034.csv,Final Sentiment,High
+Falling,call_100035.csv,Final Sentiment,Low
+Rising,call_100036.csv,Final Sentiment,High
+Falling,call_100037.csv,Final Sentiment,Low
+Rising,call_100040.csv,Final Sentiment,High
+Falling,call_100042.csv,Final Sentiment,Low
+Falling,call_100044.csv,Final Sentiment,Low
+Rising,call_100048.csv,Final Sentiment,High
+Falling,call_100050.csv,Final Sentiment,Low
+Rising,call_100051.csv,Final Sentiment,High
+Falling,call_100052.csv,Final Sentiment,Low
+Steady Neutral,call_100055.csv,Final Sentiment,Medium
+Steady Neutral,call_100057.csv,Final Sentiment,Medium
+Falling,call_100059.csv,Final Sentiment,Low
+Falling,call_100060.csv,Final Sentiment,Low
+Rising,call_100063.csv,Final Sentiment,High
+Falling,call_100065.csv,Final Sentiment,Low
+Rising,call_100066.csv,Final Sentiment,High
+Falling,call_100067.csv,Final Sentiment,Low
+Rising,call_100070.csv,Final Sentiment,High
+Falling,call_100072.csv,Final Sentiment,Low
+Steady Neutral,call_100074.csv,Final Sentiment,Medium
+Steady Neutral,call_100078.csv,Final Sentiment,Medium
+Falling,call_100080.csv,Final Sentiment,Low
+Rising,call_100081.csv,Final Sentiment,High
+Falling,call_100082.csv,Final Sentiment,Low
+Rising,call_100085.csv,Final Sentiment,High
+Falling,call_100087.csv,Final Sentiment,Low
+Falling,call_100089.csv,Final Sentiment,Low
+Rising,call_100093.csv,Final Sentiment,High
+Steady Neutral,call_100095.csv,Final Sentiment,Medium
+Steady Neutral,call_100096.csv,Final Sentiment,Medium
+Falling,call_100097.csv,Final Sentiment,Low
+Steady Neutral,call_100099.csv,Final Sentiment,Medium
+Rising,call_100100.csv,Final Sentiment,High
+Falling,call_100102.csv,Final Sentiment,Low
+Falling,call_100104.csv,Final Sentiment,Low
+Rising,call_100108.csv,Final Sentiment,High
+Steady Neutral,call_100109.csv,Final Sentiment,Medium
+Falling,call_100110.csv,Final Sentiment,Low
+Rising,call_100111.csv,Final Sentiment,High
+Falling,call_100112.csv,Final Sentiment,Low
+Steady Neutral,call_100115.csv,Final Sentiment,Medium
+Rising,call_100116.csv,Final Sentiment,High
+Falling,call_100117.csv,Final Sentiment,Low
+Rising,call_100118.csv,Final Sentiment,High
+Falling,call_100119.csv,Final Sentiment,Low
+Rising,call_100123.csv,Final Sentiment,High
+Rising,call_100124.csv,Final Sentiment,High
+Steady Neutral,call_100125.csv,Final Sentiment,Medium
+Rising,call_100126.csv,Final Sentiment,High
+Steady Neutral,call_100127.csv,Final Sentiment,Medium
+Rising,call_100130.csv,Final Sentiment,High
+Rising,call_100131.csv,Final Sentiment,High
+Falling,call_100132.csv,Final Sentiment,Low
+Falling,call_100134.csv,Final Sentiment,Low
+Rising,call_100138.csv,Final Sentiment,High
+Falling,call_100140.csv,Final Sentiment,Low
+Rising,call_100141.csv,Final Sentiment,High
+Falling,call_100142.csv,Final Sentiment,Low
+Rising,call_100145.csv,Final Sentiment,High
+Falling,call_100147.csv,Final Sentiment,Low
+Falling,call_100149.csv,Final Sentiment,Low
+Falling,call_100151.csv,Final Sentiment,Low
+Rising,call_100153.csv,Final Sentiment,High
+Falling,call_100155.csv,Final Sentiment,Low
+Rising,call_100156.csv,Final Sentiment,High
+Falling,call_100157.csv,Final Sentiment,Low
+Rising,call_100160.csv,Final Sentiment,High
+Falling,call_100162.csv,Final Sentiment,Low
+Falling,call_100164.csv,Final Sentiment,Low
+Rising,call_100168.csv,Final Sentiment,High
+Falling,call_100170.csv,Final Sentiment,Low
+Rising,call_100171.csv,Final Sentiment,High
+Falling,call_100172.csv,Final Sentiment,Low
+Rising,call_100175.csv,Final Sentiment,High
+Falling,call_100177.csv,Final Sentiment,Low
+Falling,call_100179.csv,Final Sentiment,Low
+Steady Negative,call_100001.csv,Final Sentiment,Low
+Steady High,call_100004.csv,Final Sentiment,High
+Steady Negative,call_100009.csv,Final Sentiment,Low
+Steady High,call_100011.csv,Final Sentiment,High
+Rising,call_100013.csv,Final Sentiment,High
+Rising,call_100015.csv,Final Sentiment,Medium
+Steady Negative,call_100016.csv,Final Sentiment,Low
+Steady Negative,call_100017.csv,Final Sentiment,Low
+Steady High,call_100019.csv,Final Sentiment,High
+Rising,call_100023.csv,Final Sentiment,Medium
+Steady High,call_100026.csv,Final Sentiment,High
+Rising,call_100028.csv,Final Sentiment,High
+Steady Negative,call_100030.csv,Final Sentiment,Low
+Steady Negative,call_100031.csv,Final Sentiment,Low
+Steady Negative,call_100032.csv,Final Sentiment,Low
+Steady Negative,call_100038.csv,Final Sentiment,Low
+Steady Negative,call_100039.csv,Final Sentiment,Low
+Steady High,call_100041.csv,Final Sentiment,High
+Rising,call_100043.csv,Final Sentiment,High
+Rising,call_100045.csv,Final Sentiment,Medium
+Steady Negative,call_100046.csv,Final Sentiment,Low
+Steady Negative,call_100047.csv,Final Sentiment,Low
+Falling,call_100049.csv,Final Sentiment,Medium
+Steady Negative,call_100053.csv,Final Sentiment,Low
+Steady Negative,call_100054.csv,Final Sentiment,Low
+Steady High,call_100056.csv,Final Sentiment,High
+Rising,call_100058.csv,Final Sentiment,High
+Steady Negative,call_100061.csv,Final Sentiment,Low
+Steady Negative,call_100062.csv,Final Sentiment,Low
+Steady High,call_100064.csv,Final Sentiment,High
+Steady Negative,call_100068.csv,Final Sentiment,Low
+Steady Negative,call_100069.csv,Final Sentiment,Low
+Steady High,call_100071.csv,Final Sentiment,High
+Rising,call_100073.csv,Final Sentiment,High
+Steady Negative,call_100075.csv,Final Sentiment,Low
+Steady Negative,call_100076.csv,Final Sentiment,Low
+Steady Negative,call_100077.csv,Final Sentiment,Low
+Steady High,call_100079.csv,Final Sentiment,High
+Steady Negative,call_100083.csv,Final Sentiment,Low
+Steady Negative,call_100084.csv,Final Sentiment,Low
+Falling,call_100086.csv,Final Sentiment,Medium
+Rising,call_100088.csv,Final Sentiment,High
+Steady Negative,call_100090.csv,Final Sentiment,Low
+Steady Negative,call_100091.csv,Final Sentiment,Low
+Steady Negative,call_100092.csv,Final Sentiment,Low
+Steady High,call_100094.csv,Final Sentiment,High
+Rising,call_100098.csv,Final Sentiment,Medium
+Steady High,call_100101.csv,Final Sentiment,High
+Rising,call_100103.csv,Final Sentiment,Medium
+Steady Negative,call_100105.csv,Final Sentiment,Low
+Steady Negative,call_100106.csv,Final Sentiment,Low
+Rising,call_100107.csv,Final Sentiment,Medium
+Steady Negative,call_100113.csv,Final Sentiment,Low
+Rising,call_100114.csv,Final Sentiment,Medium
+Steady Negative,call_100120.csv,Final Sentiment,Low
+Steady Negative,call_100121.csv,Final Sentiment,Low
+Steady Negative,call_100122.csv,Final Sentiment,Low
+Steady Negative,call_100128.csv,Final Sentiment,Low
+Steady Negative,call_100129.csv,Final Sentiment,Low
+Rising,call_100133.csv,Final Sentiment,High
+Steady Negative,call_100135.csv,Final Sentiment,Low
+Steady Negative,call_100136.csv,Final Sentiment,Low
+Steady Negative,call_100137.csv,Final Sentiment,Low
+Steady High,call_100139.csv,Final Sentiment,High
+Steady Negative,call_100143.csv,Final Sentiment,Low
+Steady Negative,call_100144.csv,Final Sentiment,Low
+Steady High,call_100146.csv,Final Sentiment,High
+Rising,call_100148.csv,Final Sentiment,High
+Steady Negative,call_100150.csv,Final Sentiment,Low
+Steady Negative,call_100152.csv,Final Sentiment,Low
+Steady High,call_100154.csv,Final Sentiment,High
+Steady Negative,call_100158.csv,Final Sentiment,Low
+Rising,call_100159.csv,Final Sentiment,Medium
+Steady High,call_100161.csv,Final Sentiment,High
+Rising,call_100163.csv,Final Sentiment,Medium
+Steady Negative,call_100165.csv,Final Sentiment,Low
+Steady Negative,call_100166.csv,Final Sentiment,Low
+Steady Negative,call_100167.csv,Final Sentiment,Low
+Steady High,call_100169.csv,Final Sentiment,High
+Steady Negative,call_100173.csv,Final Sentiment,Low
+Steady Negative,call_100174.csv,Final Sentiment,Low
+Steady High,call_100176.csv,Final Sentiment,High
+Rising,call_100178.csv,Final Sentiment,Medium
+Steady Negative,call_100180.csv,Final Sentiment,Low

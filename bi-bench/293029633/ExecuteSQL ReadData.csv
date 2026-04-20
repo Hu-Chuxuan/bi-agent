@@ -1,0 +1,51 @@
+EventSubclass,TextData,Duration,Process,Query
+25,"let __AS_Query__ = Solutions,
+__AS_Table__ = Table.FromValue(__AS_Query__, [DefaultColumnName = ""Column1""]),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",1344,"Query Steps","Solutions"
+17,"Finished reading data for the 'Solutions' table.",13,"Reading Data","Solutions"
+25,"let __AS_Query__ = Suppliers,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",3752,"Query Steps","Suppliers"
+25,"let __AS_Query__ = Products,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",3771,"Query Steps","Products"
+25,"let __AS_Query__ = Categories,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",3833,"Query Steps","Categories"
+25,"let __AS_Query__ = Customers,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",3867,"Query Steps","Customers"
+25,"let __AS_Query__ = Employees,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",4022,"Query Steps","Employees"
+17,"Finished reading data for the 'Suppliers' table.",765,"Reading Data","Suppliers"
+17,"Finished reading data for the 'Categories' table.",751,"Reading Data","Categories"
+17,"Finished reading data for the 'Employees' table.",1194,"Reading Data","Employees"
+17,"Finished reading data for the 'Products' table.",1393,"Reading Data","Products"
+17,"Finished reading data for the 'Customers' table.",1991,"Reading Data","Customers"
+25,"let __AS_Query__ = Orders,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",6317,"Query Steps","Orders"
+17,"Finished reading data for the 'Orders' table.",40,"Reading Data","Orders"
+25,"let __AS_Query__ = Calendar,
+__AS_Table__ = Table.FromValue(__AS_Query__),
+__AS_Compact__ = Table.RemoveColumns(__AS_Table__, Table.ColumnsOfType(__AS_Table__, { type table, type record, type list })),
+__AS_Effective__ = Table.TransformColumnNames(__AS_Compact__, Text.Clean)
+in __AS_Effective__",6383,"Query Steps","Calendar"
+17,"Finished reading data for the 'Calendar' table.",43,"Reading Data","Calendar"
+17,"Finished reading data for the 'Question8' table.",0,"Reading Data","Question8"
+17,"Finished reading data for the 'Table' table.",2,"Reading Data","Table"

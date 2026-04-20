@@ -1,0 +1,4 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+15,1,"DateTableTemplate_bbee3d93-1c1b-4c33-9a4c-0b92193c4f42","","",True,59,2022-07-09 18:48:33.986,2019-04-26 23:45:26.370,2,False,True,,0,,,False,"b7a13585-eba9-4dd5-8a1d-005c7e6a0c81",""
+3946,1,"Call Input","","",False,3995,2022-07-09 18:48:33.986,2019-05-09 03:32:08.166,0,False,False,,0,,,False,"454923cf-eb7a-463d-9dc6-d5ac7b480db4",""
+4060,1,"Call Category","","",False,4128,2022-07-09 18:48:33.986,2019-05-14 21:10:33.463,0,False,False,,0,,,False,"7a059c5a-9c7d-480b-8a11-c7a904854c01",""

@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"sales customers","","",False,58,2022-02-08 15:52:28.896,2022-02-08 15:52:28.890,0,False,False,,0,,,False,"d0801181-0a18-4b2f-bb2a-284c8fdd0390",""
+15,1,"DateTableTemplate_6fafa769-d980-4575-a2fe-4000789593fc","","",True,60,2022-02-08 15:52:28.896,2022-02-08 15:52:26.170,2,False,True,,0,,,False,"4a36c8b4-01be-43a2-bd67-aeb2ebc3616d",""
+114,1,"sales date","","",False,451,2022-02-08 15:52:28.886,2022-02-08 15:52:28.886,0,False,False,,0,,,False,"a72bc270-52a6-47cc-b242-1f7cd6d75447",""
+117,1,"LocalDateTable_8c6eacad-e790-4811-8504-31abb8535ef6","","",True,453,2022-02-08 15:52:28.886,2022-02-08 15:52:28.886,2,True,False,,0,,,False,"2cb92c5b-b756-42f3-8974-4e0158596e3d",""
+120,1,"LocalDateTable_533b0b76-40b2-4c42-abab-ed27a9f56911","","",True,455,2022-02-08 15:52:28.886,2022-02-08 15:52:28.886,2,True,False,,0,,,False,"0f5bce46-dedb-462e-bddb-58c3df9a930d",""
+123,1,"sales markets","","",False,457,2022-02-08 15:52:28.886,2022-02-08 15:52:28.886,0,False,False,,0,,,False,"e555bd7d-dfe9-4b1c-aba4-7e7bbc442c85",""
+126,1,"sales transactions","","",False,459,2022-02-08 15:52:28.886,2022-02-08 16:13:28.910,0,False,False,,0,,,False,"9fe69020-7ea5-49cb-a990-4fa604f9de5d",""
+132,1,"sales products","","",False,463,2022-02-08 15:52:28.886,2022-02-08 15:52:28.886,0,False,False,,0,,,False,"fe6a1d6e-fa62-44c0-9c66-77f755e62fa0",""
+2533,1,"BaseMeasures","","",False,2546,2022-02-08 16:27:39.396,2022-02-09 14:19:00.160,0,False,False,,0,,,False,"fa52fe0d-b0e8-4dd7-a3d0-2cf422d9ce08",""
+2613,1,"Profit Target","","",False,2619,2022-02-09 14:04:52.620,2022-02-09 14:04:52.616,2,False,False,,0,,,False,"3cc621f0-074f-44bf-ae46-de72bb581df1",""

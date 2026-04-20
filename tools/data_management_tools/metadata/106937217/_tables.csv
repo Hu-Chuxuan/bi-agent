@@ -1,0 +1,4 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+15,1,"DateTableTemplate_042e1147-a6fd-48e0-a603-13f74511b49d","","",True,59,2022-02-28 05:48:34.453,2019-03-19 09:20:49.360,2,False,True,,0,,,False,"642411f9-5e52-4776-9b4c-e05e0bdd02e0",""
+2102,1,"Stations","","",False,2147,2022-02-28 05:48:34.453,2019-03-19 10:17:25.126,0,False,False,,0,,,False,"0cfdc308-c928-40c4-9d8f-bf6be1c9681b",""
+2439,1,"Non-interchance passengers 2017-18","","",False,2456,2022-02-28 05:48:34.453,2019-03-19 10:17:25.056,0,False,False,,0,,,False,"5c4b571f-970f-48fe-be32-143fe5904b52",""

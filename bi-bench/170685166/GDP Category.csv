@@ -1,0 +1,11 @@
+Index Name,Name,IndexKey,IndexID
+"Real GDP","GDP","GDPRealGDP",1
+"Real PCE","PCE","GDPRealPCE",2
+"Real PCE Durable Goods","PCE Durable Goods","GDPRealPCEDurableGoods",3
+"PCE Deflator","PCE Deflator","GDPPCEDeflator",4
+"Real Gross Private Domestic Investment","Private Domestic Investment","GDPRealGrossPrivateDomesticInvestment",5
+"Real Net Exports of Goods and Services","Exports of Goods and Services","GDPRealNetExportsofGoodsandServices",6
+"Real Government Consumption Expenditures and Gross Investment","Govt Consumption & Investment","GDPRealGovernmentConsumptionExpendituresandGrossInvestment",7
+"Real Final Sales of Domestic Product","Final Sales of Domestic Product","GDPRealFinalSalesofDomesticProduct",8
+"Real Gross Domestic Purchases","Gross Domestic Purchases","GDPRealGrossDomesticPurchases",9
+"Real Final Sales to Domestic Purchasers","Final Sales to Domestic Purchasers","GDPRealFinalSalestoDomesticPurchasers",10

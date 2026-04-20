@@ -1,0 +1,186 @@
+Severity,Repair Type,Year,ModYear,Model,Repair Cost
+Minor,Lights And Instruments,2020,M5Y5,Tacoma,18968400
+Minor.1,Lights And Instruments,2019,M3Y4,Prius,25449840
+Minor.2,Lights And Instruments,2019,M7Y4,Rav4,32707200
+Minor.3,Lights And Instruments,2018,M2Y3,Camry,26973360
+Minor.4,Lights And Instruments,2018,M4Y3,Sienna,16269839.999999998
+Minor.5,Lights And Instruments,2018,M6Y3,Yaris,16978320
+Minor.6,Lights And Instruments,2017,M3Y2,Prius,24125760
+Minor.7,Lights And Instruments,2017,M6Y2,Yaris,17417520
+Minor.8,Lights And Instruments,2016,M3Y1,Prius,1883700
+Minor.9,Lights And Instruments,2016,M6Y1,Yaris,1372740
+Minor.10,Visual System,2020,M2Y5,Camry,4676400
+Minor.11,Visual System,2020,M4Y5,Sienna,2905560
+Minor.12,Visual System,2020,M5Y5,Tacoma,3161400
+Minor.13,Visual System,2020,M7Y5,Rav4,3398640
+Minor.14,Visual System,2019,M2Y4,Camry,4590360
+Minor.15,Visual System,2019,M5Y4,Tacoma,3050519.9999999995
+Minor.16,Visual System,2018,M3Y3,Prius,4172879.9999999995
+Minor.17,Visual System,2018,M5Y3,Tacoma,2942400
+Minor.18,Visual System,2017,M4Y2,Sienna,2597280
+Minor.19,Visual System,2017,M5Y2,Tacoma,2749320
+Minor.20,Visual System,2016,M4Y1,Sienna,2528280
+Minor.21,Visual System,2016,M7Y1,Rav4,2821800
+Minor.22,Label,2020,M4Y5,Sienna,6392232
+Minor.23,Label,2019,M2Y4,Camry,10098792
+Minor.24,Label,2019,M4Y4,Sienna,6139056
+Minor.25,Label,2018,M4Y3,Sienna,5965607.9999999991
+Minor.26,Label,2018,M7Y3,Rav4,6884327.9999999991
+Minor.27,Label,2017,M2Y2,Camry,9553895.9999999981
+Minor.28,Label,2016,M5Y1,Tacoma,6084936
+Minor.29,Label,2016,M6Y1,Yaris,6040056
+Minor.30,Structure,2020,M3Y5,Prius,4299000
+Minor.31,Structure,2020,M6Y5,Yaris,3116160
+Minor.32,Structure,2019,M4Y4,Sienna,2790480
+Minor.33,Structure,2019,M6Y4,Yaris,3021600
+Minor.34,Structure,2018,M2Y3,Camry,4495560
+Minor.35,Structure,2018,M4Y3,Sienna,2711640
+Minor.36,Structure,2018,M6Y3,Yaris,2829720
+Minor.37,Structure,2017,M4Y2,Sienna,2597280
+Minor.38,Structure,2016,M3Y1,Prius,3767400
+Minor.39,Structure,2016,M4Y1,Sienna,2528280
+Minor.40,Accessories,2020,M1Y5,Corolla,2705880
+Minor.41,Accessories,2020,M4Y5,Sienna,1452780
+Minor.42,Accessories,2020,M5Y5,Tacoma,1580700
+Minor.43,Accessories,2020,M7Y5,Rav4,1699320
+Minor.44,Accessories,2019,M1Y4,Corolla,2656440
+Minor.45,Accessories,2019,M2Y4,Camry,2295180
+Minor.46,Accessories,2019,M3Y4,Prius,2120820
+Minor.47,Accessories,2019,M4Y4,Sienna,1395240
+Minor.48,Accessories,2019,M5Y4,Tacoma,1525259.9999999998
+Minor.49,Accessories,2019,M7Y4,Rav4,1635359.9999999998
+Minor.50,Accessories,2018,M1Y3,Corolla,2592240
+Minor.51,Accessories,2018,M2Y3,Camry,2247780
+Minor.52,Accessories,2018,M3Y3,Prius,2086439.9999999998
+Minor.53,Accessories,2018,M4Y3,Sienna,1355820
+Minor.54,Accessories,2018,M5Y3,Tacoma,1471200
+Minor.55,Accessories,2018,M7Y3,Rav4,1564620
+Minor.56,Accessories,2017,M1Y2,Corolla,2541000
+Minor.57,Accessories,2017,M2Y2,Camry,2171340
+Minor.58,Accessories,2017,M3Y2,Prius,2010480
+Minor.59,Accessories,2017,M4Y2,Sienna,1298640
+Minor.60,Accessories,2017,M5Y2,Tacoma,1374660
+Minor.61,Accessories,2017,M6Y2,Yaris,1451460
+Minor.62,Accessories,2017,M7Y2,Rav4,1524720
+Minor.63,Accessories,2016,M1Y1,Corolla,2427180
+Minor.64,Accessories,2016,M2Y1,Camry,2040480
+Minor.65,Accessories,2016,M3Y1,Prius,1883700
+Minor.66,Accessories,2016,M4Y1,Sienna,1264140
+Minor.67,Accessories,2016,M5Y1,Tacoma,1382940
+Minor.68,Accessories,2016,M6Y1,Yaris,1372740
+Minor.69,Accessories,2016,M7Y1,Rav4,1410900
+Extreme,Seats And Restraints,2020,M1Y5,Corolla,10823520
+Extreme.1,Seats And Restraints,2020,M6Y5,Yaris,6232320
+Extreme.2,Seats And Restraints,2019,M3Y4,Prius,8483280
+Extreme.3,Seats And Restraints,2019,M7Y4,Rav4,6541440.0000000009
+Extreme.4,Seats And Restraints,2018,M2Y3,Camry,8991120
+Extreme.5,Seats And Restraints,2018,M3Y3,Prius,8345760
+Extreme.6,Seats And Restraints,2018,M7Y3,Rav4,6258480.0000000009
+Extreme.7,Seats And Restraints,2017,M5Y2,Tacoma,5498640
+Extreme.8,Seats And Restraints,2016,M3Y1,Prius,7534800
+Extreme.9,Seats And Restraints,2016,M6Y1,Yaris,5490960
+Extreme.10,Brakes,2020,M3Y5,Prius,12897000
+Extreme.11,Brakes,2020,M4Y5,Sienna,8716680
+Extreme.12,Brakes,2020,M5Y5,Tacoma,9484200
+Extreme.13,Brakes,2020,M7Y5,Rav4,10195920.000000002
+Extreme.14,Brakes,2019,M2Y4,Camry,13771080
+Extreme.15,Brakes,2019,M4Y4,Sienna,8371440
+Extreme.16,Brakes,2019,M5Y4,Tacoma,9151560.0000000019
+Extreme.17,Brakes,2018,M4Y3,Sienna,8134920.0000000009
+Extreme.18,Brakes,2018,M5Y3,Tacoma,8827200
+Extreme.19,Brakes,2017,M2Y2,Camry,13028040
+Extreme.20,Brakes,2017,M3Y2,Prius,12062880
+Extreme.21,Brakes,2017,M4Y2,Sienna,7791840
+Extreme.22,Brakes,2017,M7Y2,Rav4,9148320.0000000019
+Extreme.23,Brakes,2016,M2Y1,Camry,12242880
+Extreme.24,Brakes,2016,M4Y1,Sienna,7584840
+Extreme.25,Steering,2020,M2Y5,Camry,10911600
+Extreme.26,Steering,2020,M4Y5,Sienna,6779640.0000000009
+Extreme.27,Steering,2020,M7Y5,Rav4,7930160.0000000009
+Extreme.28,Steering,2019,M4Y4,Sienna,6511120
+Extreme.29,Steering,2019,M7Y4,Rav4,7631680.0000000009
+Extreme.30,Steering,2018,M4Y3,Sienna,6327160.0000000009
+Extreme.31,Steering,2018,M6Y3,Yaris,6511120
+Extreme.32,Steering,2017,M5Y2,Tacoma,6415080
+Extreme.33,Steering,2016,M1Y1,Corolla,11326840
+Extreme.34,Steering,2016,M2Y1,Camry,9522240
+Extreme.35,Steering,2016,M6Y1,Yaris,6406120
+Extreme.36,Steering,2016,M7Y1,Rav4,6584200
+Extreme.37,Powertrain,2020,M1Y5,Corolla,19843120
+Extreme.38,Powertrain,2020,M3Y5,Prius,15763000
+Extreme.39,Powertrain,2019,M6Y4,Yaris,11079200
+Extreme.40,Powertrain,2018,M2Y3,Camry,16483720
+Extreme.41,Powertrain,2018,M5Y3,Tacoma,10788800
+Extreme.42,Powertrain,2017,M3Y2,Prius,14743520
+Extreme.43,Powertrain,2017,M6Y2,Yaris,10644040
+Extreme.44,Powertrain,2016,M3Y1,Prius,13813800
+Extreme.45,Powertrain,2016,M4Y1,Sienna,9270360
+Extreme.46,Airbag,2020,M1Y5,Corolla,5411760
+Extreme.47,Airbag,2020,M4Y5,Sienna,2905560
+Extreme.48,Airbag,2020,M7Y5,Rav4,3398640.0000000005
+Extreme.49,Airbag,2019,M1Y4,Corolla,5312880.0000000009
+Extreme.50,Airbag,2019,M3Y4,Prius,4241640
+Extreme.51,Airbag,2019,M5Y4,Tacoma,3050520.0000000005
+Extreme.52,Airbag,2019,M7Y4,Rav4,3270720.0000000005
+Extreme.53,Airbag,2018,M1Y3,Corolla,5184480.0000000009
+Extreme.54,Airbag,2018,M2Y3,Camry,4495560
+Extreme.55,Airbag,2018,M3Y3,Prius,4172880
+Extreme.56,Airbag,2018,M6Y3,Yaris,2829720
+Extreme.57,Airbag,2018,M7Y3,Rav4,3129240.0000000005
+Extreme.58,Airbag,2017,M1Y2,Corolla,5082000
+Extreme.59,Airbag,2017,M2Y2,Camry,4342680
+Extreme.60,Airbag,2017,M3Y2,Prius,4020960
+Extreme.61,Airbag,2017,M7Y2,Rav4,3049440.0000000005
+Extreme.62,Airbag,2016,M2Y1,Camry,5101200
+Extreme.63,Airbag,2016,M6Y1,Yaris,2745480
+Major,Electrical,2020,M3Y5,Prius,16121250
+Major.1,Electrical,2020,M5Y5,Tacoma,11855250
+Major.2,Electrical,2019,M2Y4,Camry,17213850
+Major.3,Electrical,2019,M3Y4,Prius,15906150
+Major.4,Electrical,2018,M1Y3,Corolla,19441800
+Major.5,Electrical,2018,M2Y3,Camry,16858350
+Major.6,Electrical,2018,M3Y3,Prius,15648300
+Major.7,Electrical,2018,M4Y3,Sienna,10168650
+Major.8,Electrical,2018,M6Y3,Yaris,10611450
+Major.9,Electrical,2018,M7Y3,Rav4,11734650
+Major.10,Electrical,2017,M1Y2,Corolla,19057500
+Major.11,Electrical,2017,M2Y2,Camry,16285050
+Major.12,Electrical,2017,M3Y2,Prius,15078600
+Major.13,Electrical,2017,M4Y2,Sienna,9739800
+Major.14,Electrical,2017,M5Y2,Tacoma,10309950
+Major.15,Electrical,2017,M6Y2,Yaris,10885950
+Major.16,Electrical,2017,M7Y2,Rav4,11435400
+Major.17,Electrical,2016,M1Y1,Corolla,18203850
+Major.18,Electrical,2016,M2Y1,Camry,15303600
+Major.19,Electrical,2016,M3Y1,Prius,14127750
+Major.20,Electrical,2016,M4Y1,Sienna,9481050
+Major.21,Electrical,2016,M5Y1,Tacoma,10372050
+Major.22,Electrical,2016,M6Y1,Yaris,10295550
+Major.23,Electrical,2016,M7Y1,Rav4,10581750
+Major.24,Fuel Supply,2020,M1Y5,Corolla,6088230
+Major.25,Fuel Supply,2020,M2Y5,Camry,5260950
+Major.26,Fuel Supply,2020,M4Y5,Sienna,3268755
+Major.27,Fuel Supply,2020,M5Y5,Tacoma,3556575
+Major.28,Fuel Supply,2020,M6Y5,Yaris,3505680
+Major.29,Fuel Supply,2020,M7Y5,Rav4,3823470
+Major.30,Fuel Supply,2019,M1Y4,Corolla,5976990
+Major.31,Fuel Supply,2019,M2Y4,Camry,5164155
+Major.32,Fuel Supply,2019,M4Y4,Sienna,4771845
+Major.33,Fuel Supply,2019,M5Y4,Tacoma,3431835
+Major.34,Fuel Supply,2018,M2Y3,Camry,5057505
+Major.35,Fuel Supply,2018,M4Y3,Sienna,3050595
+Major.36,Fuel Supply,2018,M5Y3,Tacoma,3310200
+Major.37,Fuel Supply,2017,M4Y2,Sienna,2921940
+Major.38,Fuel Supply,2017,M6Y2,Yaris,3265785
+Major.39,Fuel Supply,2016,M2Y1,Camry,4591080
+Major.40,Fuel Supply,2016,M5Y1,Tacoma,3111615
+Major.41,Suspension,2020,M4Y5,Sienna,5326860
+Major.42,Suspension,2020,M6Y5,Yaris,5712960
+Major.43,Suspension,2019,M3Y4,Prius,7776340
+Major.44,Suspension,2019,M6Y4,Yaris,5539600
+Major.45,Suspension,2019,M7Y4,Rav4,5996320
+Major.46,Suspension,2018,M3Y3,Prius,7650280
+Major.47,Suspension,2018,M6Y3,Yaris,5187820
+Major.48,Suspension,2017,M3Y2,Prius,7371760
+Major.49,Suspension,2016,M4Y1,Sienna,4635180
+Major.50,Suspension,2016,M6Y1,Yaris,5033380

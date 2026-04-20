@@ -1,0 +1,5 @@
+Currency,Currency Rate,Currency Format
+"SEK",1,"0,000kr"
+"EUR",1.1,"€0,00"
+"USD",0.8,"$0,000"
+"CAD",1.2,"$0,000ca"

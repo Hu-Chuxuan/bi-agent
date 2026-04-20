@@ -1,0 +1,85 @@
+ID,TableID,ExplicitName,InferredName,ExplicitDataType,InferredDataType,DataCategory,Description,IsHidden,State,IsUnique,IsKey,IsNullable,Alignment,TableDetailPosition,IsDefaultLabel,IsDefaultImage,SummarizeBy,ColumnStorageID,Type,SourceColumn,ColumnOriginID,Expression,FormatString,IsAvailableInMDX,SortByColumnID,AttributeHierarchyID,ModifiedTime,StructureModifiedTime,RefreshedTime,SystemFlags,KeepUniqueRows,DisplayOrdinal,ErrorMessage,SourceProviderType,DisplayFolder,EncodingHint,RelatedColumnDetailsID,AlternateOfID,LineageTag,SourceLineageTag
+11,10,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,285,3,"",,"","",True,,12,2021-05-10 07:11:50.286,2020-04-19 15:04:15.446,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+39,10,"","Date",1,9,"","",False,1,False,False,True,1,-1,False,False,2,317,4,"[Date]",,"","",True,,220,2022-07-13 17:16:26.430,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"a224238a-a227-453c-bc1c-a07a3154de02",""
+40,10,"","Index",1,6,"","",False,1,False,False,True,1,-1,False,False,2,321,4,"[Index]",,"","0",True,,221,2021-05-10 07:11:50.286,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"28676e93-5d71-4e90-ba01-ed6e7ff2a164",""
+41,10,"","Month",1,2,"","",False,1,False,False,True,1,-1,False,False,2,325,4,"[Month]",,"","",True,40,222,2021-05-10 07:11:50.286,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"2e30d775-4a96-4c74-8066-c59eff771a7b",""
+42,10,"","Year",1,2,"","",False,1,False,False,True,1,-1,False,False,2,329,4,"[Year]",,"","",True,,223,2021-05-10 07:11:50.286,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"9c21fd68-94c1-464b-a5ce-618813a6f293",""
+14,13,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,289,3,"",,"","",True,,15,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+43,13,"",".",1,6,"","",True,1,False,False,True,1,-1,False,False,3,333,4,"[.]",,"","0",True,,224,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"4d47d93d-564f-48fe-9625-fc27eb778499",""
+17,16,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,293,3,"",,"","",True,,18,2021-05-10 07:10:48.723,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+44,16,"","Duration",1,2,"","",False,1,False,False,True,1,-1,False,False,2,337,4,"[Duration]",,"","",True,45,225,2021-05-10 07:10:48.723,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"ee395961-0f33-4852-83c4-2bfd61498b38",""
+45,16,"","Lower",1,6,"","",False,1,False,False,True,1,-1,False,False,3,341,4,"[Lower]",,"","0",True,,226,2021-05-10 07:10:48.723,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"fd395122-5295-4c14-a096-901cc0478b13",""
+46,16,"","Upper",1,6,"","",False,1,False,False,True,1,-1,False,False,3,345,4,"[Upper]",,"","0",True,,227,2021-05-10 07:10:48.723,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"66385d0a-71b6-4706-90bb-56205eb32a4c",""
+20,19,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,297,3,"",,"","",True,,21,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+47,19,"Value","Value",1,6,"","",False,1,False,False,True,1,-1,False,False,3,349,4,"[Value]",,"","0",True,,228,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"67de80df-f5c3-4161-bcfb-0b144ba1d84a",""
+48,19,"","Tag",1,2,"","",False,1,False,False,True,1,-1,False,False,2,353,4,"[Tag]",,"","",True,47,229,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"46239fbf-0de8-4656-95fd-199010f179ed",""
+23,22,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,301,3,"",,"","",True,,24,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+49,22,"Country, Other","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,357,1,"Country, Other",,"","",True,,230,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"d9f35611-b82e-4bbd-be4a-21db9a22f664",""
+50,22,"Active Cases","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,361,1,"Active Cases",,"","0",True,,231,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"96f5258a-77dc-4ad1-b472-ebe30bb3158a",""
+26,25,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,305,3,"",,"","",True,,27,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+51,25,"State","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,365,1,"State",,"","",True,,232,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"aab3fa73-fc77-478a-ba48-8a59eba9a6f0",""
+52,25,"Date","",9,19,"","",False,1,False,False,True,1,-1,False,False,2,369,1,"Date",,"","Long Date",True,,233,2022-07-13 17:16:26.430,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"f61dd74c-0ffe-4e9c-a08c-ed87380a1db2",""
+53,25,"Total","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,373,1,"Total",,"","",True,,234,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"e12ed1d2-c212-46aa-a2ea-572d0df2a65f",""
+54,25,"Active","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,377,1,"Active",,"","",True,,235,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"ea208c1e-560b-4824-92c0-2441f7afda84",""
+55,25,"Recovered","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,381,1,"Recovered",,"","",True,,236,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"dbcef43d-58fc-4994-a04b-e4e43b3ca9b4",""
+56,25,"Deaths","",8,19,"","",False,1,False,False,True,1,-1,False,False,3,385,1,"Deaths",,"","",True,,237,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"7e8ad828-9318-4c98-b021-e05bb638cb87",""
+57,25,"Total Added","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,389,2,"",,"
+VAR PrevValue = 
+MAXX(
+    FILTER(
+        ALL(Data),
+        Data[State] = EARLIER(Data[State]) &&
+        Data[Date] = (EARLIER(Data[Date]) - 1)
+    ),
+    Data[Total] 
+)
+RETURN
+Data[Total] - PrevValue","0",True,,238,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,2021-05-10 07:09:30.736,0,False,0,"","","",0,,,"b0c12ffb-d505-461e-9bfa-90058fc7702c",""
+58,25,"Active Added","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,393,2,"",,"
+VAR PrevValue = 
+MAXX(
+    FILTER(
+        ALL(Data),
+        Data[State] = EARLIER(Data[State]) &&
+        Data[Date] = (EARLIER(Data[Date]) - 1)
+    ),
+    Data[Active] 
+)
+RETURN
+Data[Active] - PrevValue","",True,,239,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,2021-05-10 07:09:30.726,0,False,0,"","","",0,,,"b90ad9bd-7bf8-433b-a6e3-a4aec07eea38",""
+59,25,"Deaths Added","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,397,2,"",,"
+VAR PrevValue = 
+MAXX(
+    FILTER(
+        ALL(Data),
+        Data[State] = EARLIER(Data[State]) &&
+        Data[Date] = (EARLIER(Data[Date]) - 1)
+    ),
+    Data[Deaths] 
+)
+RETURN
+Data[Deaths] - PrevValue","",True,,240,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,2021-05-10 07:09:30.736,0,False,0,"","","",0,,,"6de3eaf7-82b1-438d-88ff-188199683a42",""
+60,25,"Recovered Added","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,401,2,"",,"
+VAR PrevValue = 
+MAXX(
+    FILTER(
+        ALL(Data),
+        Data[State] = EARLIER(Data[State]) &&
+        Data[Date] = (EARLIER(Data[Date]) - 1)
+    ),
+    Data[Recovered] 
+)
+RETURN
+Data[Recovered] - PrevValue","",True,,241,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,2021-05-10 07:09:30.726,0,False,0,"","","",0,,,"d4463cd1-14f2-4e73-86a6-6c9b3fb80e65",""
+61,25,"Running Total by State","",1,8,"","",False,1,False,False,True,1,-1,False,False,3,405,2,"",,"
+CALCULATE(
+    SUM(Data[Total Added]),
+    FILTER(
+        ALL(Data),
+        Data[Date] <= EARLIER(Data[Date])
+    )
+)","0",True,,242,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,2021-05-10 07:09:30.766,0,False,0,"","","",0,,,"ddd21039-e8c5-4f03-8e1c-d107a9ac5853",""
+29,28,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,309,3,"",,"","",True,,30,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"",""
+62,28,"","Label",1,2,"","",False,1,False,False,True,1,-1,False,False,2,409,4,"[Label]",,"","",True,,243,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,2,False,0,"","","",0,,,"2ca73f07-3da9-4d43-8fd1-6e35021a37cb",""
+32,31,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,313,3,"",,"","",True,,33,2020-04-19 15:04:15.456,2020-04-19 15:04:15.450,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+63,31,"Refresh","",9,19,"","",False,1,False,False,True,1,-1,False,False,2,413,1,"Refresh",,"","General Date",True,,244,2021-05-10 06:29:47.753,2020-04-19 15:04:15.453,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"b2ae6e20-1e2b-48af-8ca6-419c1f630a9a",""

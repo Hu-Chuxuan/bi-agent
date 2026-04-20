@@ -1,0 +1,26 @@
+Status,Epic_Label,MultiState,JiraStates,Story_Points
+"Backlog","AWS","Backlog","Backlog",18
+"In Progress","AWS","Working","Committed",10
+"Backlog","GSLB","Backlog","Backlog",15
+"Awaiting Implementation","GSLB","Waiting","Committed",3
+"Backlog","Logging","Backlog","Backlog",18
+"Backlog","PCF-Logging","Backlog","Backlog",41
+"In Progress","PCF-Logging","Working","Committed",3
+"Awaiting Implementation","AWS","Waiting","Committed",0
+"Blocked","AWS","Waiting","Committed",0
+"Ready for Review","AWS","Working","Committed",0
+"Blocked","GSLB","Waiting","Committed",0
+"Ready for Review","GSLB","Working","Committed",0
+"In Progress","GSLB","Working","Committed",0
+"In Progress","Logging","Working","Committed",0
+"Ready for Review","Logging","Working","Committed",0
+"Awaiting Implementation","Logging","Waiting","Committed",0
+"Blocked","Logging","Waiting","Committed",0
+"In Progress","PCC","Working","Committed",0
+"Ready for Review","PCC","Working","Committed",0
+"Awaiting Implementation","PCC","Waiting","Committed",0
+"Backlog","PCC","Backlog","Backlog",0
+"Blocked","PCC","Waiting","Committed",0
+"Ready for Review","PCF-Logging","Working","Committed",0
+"Awaiting Implementation","PCF-Logging","Waiting","Committed",0
+"Blocked","PCF-Logging","Waiting","Committed",0

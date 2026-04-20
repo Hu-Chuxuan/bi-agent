@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Lookup_Customers","","",False,548,2021-05-06 15:13:34.853,2021-05-06 05:04:47.033,0,False,False,,0,,,False,"09db2457-18c2-4fec-b464-2521b47d0824",""
+13,1,"DateTableTemplate_54502b7f-a651-4509-b926-991aab5b9783","","",True,550,2021-05-06 05:04:47.036,2021-05-06 05:04:47.036,2,False,True,,0,,,False,"b1fdd9e4-9187-4ff0-8831-585d60b492e9",""
+16,1,"LocalDateTable_583796ba-d518-4027-92e6-efe7b15fa7d7","","",True,552,2021-05-06 05:04:47.036,2021-05-06 05:04:47.036,2,True,False,,0,,,False,"62f6a784-5c38-4bbf-bf7d-ed0c8698013b",""
+19,1,"Lookup_calender","Time","",False,554,2021-05-06 05:04:47.036,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"676ee7c0-44a7-4074-9c57-6313cd5c69dd",""
+22,1,"Lookup_Product Category","","",False,556,2021-05-06 15:14:11.116,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"1ba3827b-9851-434f-919b-30343071a2a1",""
+25,1,"Lookup_Product","","",False,558,2021-05-06 15:13:45.943,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"8e25e616-a149-43fa-8f24-4eca0c715967",""
+28,1,"Lookup_Product Sub-Category","","",False,560,2021-05-06 15:14:00.013,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"4fd312f9-928d-47de-a039-e25ea0c4c668",""
+31,1,"Lookup_Territory","","",False,562,2021-05-06 15:14:19.833,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"0bf60e63-118c-47f4-9af6-7dea070aa3f1",""
+34,1,"Fact_Returns","","",False,564,2021-05-06 05:04:47.036,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"bc7bc791-a6ca-45e3-b5e5-e8a90296c95a",""
+37,1,"Fact_Sales","","",False,566,2021-05-06 05:04:47.036,2021-05-06 05:04:47.036,0,False,False,,0,,,False,"67881c23-3929-4acf-b970-3233c7e699d7",""

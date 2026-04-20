@@ -1,0 +1,6 @@
+Metric,Ordinal,MetricKey,MetricType,Format
+"MoM",2,"PriceIndexMoM","PPI","0.0"
+"MoM %",3,"PriceIndexMoMPct","PPI","0.0%"
+"YoY",4,"PriceIndexYoY","PPI","0.0"
+"YoY %",5,"PriceIndexYoYPct","PPI","0.0%"
+"Value",1,"PriceIndexValue","PPI","0.0"

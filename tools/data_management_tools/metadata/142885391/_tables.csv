@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+15,1,"DateTableTemplate_dbaea841-4ba9-4fa4-ab73-7ec1017572f5","","",True,59,2022-07-14 22:15:39.700,2020-06-06 13:36:57.663,2,False,True,,0,,,False,"9cdd4ab2-9435-43e4-b218-f16a0d29fcd3",""
+156,1,"orders","","",False,240,2022-07-14 22:15:39.700,2020-06-07 18:03:05.543,0,False,False,,0,,,False,"c85fba95-c154-417c-afb2-e69f8aff9bae",""
+1040,1,"products","","",False,1077,2022-07-14 22:15:39.700,2020-06-07 19:16:19.640,0,False,False,,0,,,False,"5a4035da-006e-495d-9c8b-0da5f049eb74",""
+1361,1,"recipes","","",False,1374,2022-07-14 22:15:39.700,2020-06-07 18:02:15.496,0,False,False,,0,,,False,"2e5e400e-a86a-492c-824b-9331a538b777",""
+1691,1,"warehouse","","",False,1776,2022-07-14 22:15:39.700,2020-06-07 14:30:12.526,0,False,False,,0,,,False,"98610404-4d0a-48a9-8d52-485c3ed5bc69",""
+2318,1,"recipe_ingredient","","",False,2339,2022-07-14 22:15:39.700,2020-06-07 18:35:12.016,0,False,False,,0,,,False,"355a1d0c-b2fa-4665-8098-790732478ce9",""
+2642,1,"calendar","Time","",False,2648,2022-07-14 22:15:39.700,2020-06-07 18:42:29.930,2,False,False,,0,,,False,"ee43c001-2b86-49e0-be06-dfc158495572",""
+8507,1,"LocalDateTable_ebf3f616-b7da-40a1-98be-f6794c9fbecd","","",True,8554,2022-07-14 22:15:39.700,2020-06-07 14:37:05.120,2,True,False,,0,,,False,"701a86bd-c489-4139-9a78-b281a213a273",""

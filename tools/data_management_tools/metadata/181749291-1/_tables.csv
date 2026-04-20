@@ -1,0 +1,10 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+15,1,"DateTableTemplate_02ded170-8381-4734-bea6-3f6a855b4572","","",True,59,2022-07-02 12:03:23.423,2020-03-19 20:46:58.226,2,False,True,,0,,,False,"5dd56f88-d974-4eb7-bbeb-2d924abbe155",""
+3839,1,"RKI","","",False,3916,2022-07-02 12:03:23.423,2020-03-23 18:31:33.163,0,False,False,,0,,,False,"59b524a1-2e94-40f9-8cb3-5afa8596b26b",""
+4687,1,"Hopkins","","",False,4776,2022-07-02 12:03:23.423,2021-01-11 11:02:47.833,0,False,False,,0,,,False,"80c84641-9d29-4c9b-9218-e6f17760d4f4",""
+6220,1,"ECDC","","",False,6297,2022-07-02 12:03:23.423,2020-03-23 19:01:49.613,0,False,False,,0,,,False,"e7bf8967-c07b-4e3c-a444-2831d5efbf48",""
+9778,1,"RKICounty","","",False,9891,2022-07-02 12:03:23.423,2020-03-24 08:28:59.366,0,False,False,,0,,,False,"fc6f0537-9d10-4b0b-87a2-0c0dc01282b8",""
+13218,1,"Date","","",False,13411,2022-07-02 12:03:23.423,2020-03-23 10:31:21.266,0,False,False,,0,,,False,"cd4a52c6-4acd-4f3d-a59c-b90129495800",""
+13221,1,"LocalDateTable_58a8f404-7444-4330-8389-d57f738f6826","","",True,13413,2022-07-02 12:03:23.423,2020-03-23 10:31:21.266,2,True,False,,0,,,False,"6976430c-5328-427d-a87b-90656956d203",""
+13224,1,"LocalDateTable_553b953e-61ea-4bdc-a719-9dab3041d3ba","","",True,13415,2022-07-02 12:03:23.423,2020-03-23 10:31:21.266,2,True,False,,0,,,False,"c2ea27c1-e52e-4b07-84a5-e177867d4a4f",""
+19025,1,"Country","","",False,19054,2022-07-02 12:03:23.423,2020-03-23 18:21:55.313,0,False,False,,0,,,False,"3f21ce03-67bf-4a1d-821d-8a57ee6b1f9a",""

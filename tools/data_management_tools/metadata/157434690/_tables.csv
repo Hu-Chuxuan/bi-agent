@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Customer Data","","",False,58,2021-09-11 08:21:53.936,2021-09-11 08:21:53.906,0,False,False,,0,,,False,"f56acd33-df81-458f-8867-18aa466650c8",""
+15,1,"DateTableTemplate_6b0a68f9-b32f-46ed-bc57-62e1fcebb1f5","","",True,60,2021-09-11 08:21:53.936,2021-09-11 08:21:50.700,2,False,True,,0,,,False,"0f0ee503-ea7b-4915-8df3-9e6d0bfb39e0",""
+114,1,"Metric Selection","","",False,411,2021-09-11 08:21:53.903,2021-09-11 08:21:53.903,0,False,False,,0,,,False,"7bd77679-7a93-4d63-8178-f500285045d8",""
+117,1,"Product Data","","",False,413,2021-09-11 08:21:53.903,2021-09-11 10:20:30.546,0,False,False,,0,,,False,"2de2e186-f55c-407b-adc9-5927c5f8813c",""
+120,1,"Regions","","",False,415,2021-09-11 08:21:53.903,2021-09-11 08:21:53.903,0,False,False,,0,,,False,"df5deaa5-51b2-42ed-a663-4265048bc181",""
+123,1,"Sales","","",False,417,2021-09-11 08:21:53.903,2021-09-11 16:47:29.080,0,False,False,,0,,,False,"06f8e86e-7435-4b47-a55d-e2d6d5aff571",""
+129,1,"LocalDateTable_dcdf53a4-dae4-4b36-9501-8d191686eaaa","","",True,421,2021-09-11 08:21:53.903,2021-09-11 08:21:53.903,2,True,False,,0,,,False,"a3f9e611-6c98-40b5-aa02-19c6e58fbbd3",""
+1862,1,"Important Measures","","",False,1876,2021-09-11 08:27:07.916,2021-09-11 10:22:47.866,0,False,False,,0,,,False,"a1006a6c-86e6-41da-8250-992c3cfc645d",""
+2067,1,"DimTable","Time","",False,2293,2021-09-11 10:52:57.050,2021-09-11 15:55:49.716,0,False,False,,0,,,False,"6881fbbd-d6b3-420c-91a6-32e3af6fc5e2",""
+3376,1,"TimeIntelligenceMeasures","","",False,3389,2021-09-11 12:25:59.836,2021-09-11 14:19:09.196,0,False,False,,0,,,False,"c7cbe933-25d9-468e-a897-724007862565",""
+3593,1,"Specific Scenarios","","",False,3606,2021-09-11 16:05:08.793,2021-09-11 16:28:46.910,0,False,False,,0,,,False,"0d4948b6-51c4-48d4-b7dd-4ad16371dade",""

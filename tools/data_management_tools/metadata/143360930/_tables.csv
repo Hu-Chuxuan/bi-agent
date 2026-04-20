@@ -1,0 +1,5 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"US States","","",False,57,2022-07-25 05:57:40.046,2020-08-25 13:55:55.296,0,False,False,,0,,,False,"be308a51-629f-48fc-8291-9b6e48f7d544",""
+15,1,"DateTableTemplate_32a932e9-fc28-4e28-8db0-287c7f1cade7","","",True,59,2022-07-25 05:57:40.046,2020-08-24 13:24:34.900,2,False,True,,0,,,False,"c29d6573-5b68-4715-97ac-7f5f24686406",""
+147,1,"GDP","","",False,177,2022-07-25 05:57:40.046,2020-08-25 13:57:34.590,0,False,False,,0,,,False,"08963c54-e9a8-4f97-b1fa-48c778ae9cb0",""
+202,1,"Population","","",False,232,2022-07-25 05:57:40.046,2020-08-24 14:01:06.333,0,False,False,,0,,,False,"8e0b8e4d-7a0a-4f56-90be-686f0200a642",""

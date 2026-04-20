@@ -1,0 +1,985 @@
+WellName,NPT&PT,OperationType,TBDCoding,ForecastHrs,HoleSize inch
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,36
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,36
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,36
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,36
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,26
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,26
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,26
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,26
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,17.5
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,17.5
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,17.5
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,12.25
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,12.25
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,12.25
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,8.5
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,8.5
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,8.5
+"WellA","Non-Productive Time","Project Waiting","Bit Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,6.125
+"WellA","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Well head Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Explosive Material",0,6.125
+"WellA","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,6.125
+"WellA","Non-Productive Time","Project Waiting","Drilling Water Storage",0,6.125
+"WellB","Non-Productive Time","Project Waiting","Bit Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,36
+"WellB","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Well head Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Explosive Material",0,36
+"WellB","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,36
+"WellB","Non-Productive Time","Project Waiting","Drilling Water Storage",0,36
+"WellB","Non-Productive Time","Project Waiting","Bit Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Shortage Completion Eq.",0,26
+"WellB","Non-Productive Time","Project Waiting","CSG/LNR/TBG Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Completion Fluid Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Well head Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Explosive Material",0,26
+"WellB","Non-Productive Time","Project Waiting","CSG Acc. Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Other Procurements Shortage",0,26
+"WellB","Non-Productive Time","Project Waiting","Drilling Water Storage",0,26
+"WellB","Non-Productive Time","Rig operation waiting","Moveable Department",0,36
+"WellB","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,36
+"WellB","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,36
+"WellB","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,36
+"WellB","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,36
+"WellB","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,36
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,36
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,36
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,36
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,36
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,36
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,36
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,36
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,36
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,36
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,36
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,36
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,36
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,36
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,36
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,36
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,36
+"WellB","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,36
+"WellB","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,36
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,36
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,36
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,36
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,36
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,36
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,36
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,36
+"WellB","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,36
+"WellB","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,36
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,36
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,36
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,36
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,36
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,36
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,36
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,36
+"WellB","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,36
+"WellB","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,36
+"WellB","Non-Productive Time","Decision Waiting","Client Waiting",0,36
+"WellB","Non-Productive Time","Rig operation waiting","Moveable Department",0,26
+"WellB","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,26
+"WellB","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,26
+"WellB","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,26
+"WellB","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,26
+"WellB","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,26
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,26
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,26
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,26
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,26
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,26
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,26
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,26
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,26
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,26
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,26
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,26
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,26
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,26
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,26
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,26
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,26
+"WellB","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,26
+"WellB","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,26
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,26
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,26
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,26
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,26
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,26
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,26
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,26
+"WellB","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,26
+"WellB","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,26
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,26
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,26
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,26
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,26
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,26
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,26
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,26
+"WellB","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,26
+"WellB","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,26
+"WellB","Non-Productive Time","Decision Waiting","Client Waiting",0,26
+"WellB","Non-Productive Time","Rig operation waiting","Moveable Department",0,17.5
+"WellB","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,17.5
+"WellB","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,17.5
+"WellB","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,17.5
+"WellB","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,17.5
+"WellB","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,17.5
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,17.5
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,17.5
+"WellB","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,17.5
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,17.5
+"WellB","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,17.5
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,17.5
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,17.5
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,17.5
+"WellB","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,17.5
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,17.5
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,17.5
+"WellB","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,17.5
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,17.5
+"WellB","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,17.5
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,17.5
+"WellB","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,17.5
+"WellB","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,17.5
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellB","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,17.5
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,17.5
+"WellB","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,17.5
+"WellB","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,17.5
+"WellB","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,17.5
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,17.5
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,17.5
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,17.5
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,17.5
+"WellB","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,17.5
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,17.5
+"WellB","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,17.5
+"WellB","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,17.5
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,36
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,36
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,36
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,36
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,36
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,36
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,36
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,36
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,36
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,36
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,36
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,36
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,36
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,36
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,36
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,36
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,36
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,36
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,36
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,36
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,36
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,36
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,36
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,36
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,36
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,36
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,36
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,36
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,36
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,36
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,36
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,36
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,36
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,36
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,36
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,36
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,36
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,36
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,36
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,36
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,36
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,36
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,36
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,26
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,26
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,26
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,26
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,26
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,26
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,26
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,26
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,26
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,26
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,26
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,26
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,26
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,26
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,26
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,26
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,26
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,26
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,26
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,26
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,26
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,26
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,26
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,26
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,26
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,26
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,26
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,26
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,26
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,26
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,26
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,26
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,26
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,26
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,26
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,26
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,26
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,26
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,26
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,26
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,26
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,26
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,26
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,17.5
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,17.5
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,17.5
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,17.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,17.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,17.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,17.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,17.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,17.5
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,17.5
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,17.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,17.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,17.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,17.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,17.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,17.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,17.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,17.5
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,17.5
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,17.5
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,17.5
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,17.5
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,17.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,17.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,17.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,17.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,17.5
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,17.5
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,17.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,17.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,17.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,17.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,17.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,17.5
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,17.5
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,17.5
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,17.5
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,17.5
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,17.5
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,12.25
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,12.25
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,12.25
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,12.25
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,12.25
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,12.25
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,12.25
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,12.25
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,12.25
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,12.25
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,12.25
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,12.25
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,12.25
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,12.25
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,12.25
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,12.25
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,12.25
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,12.25
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,12.25
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,12.25
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,12.25
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,12.25
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,12.25
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,12.25
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,12.25
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,12.25
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,12.25
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,12.25
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,12.25
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,12.25
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,12.25
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,12.25
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,12.25
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,12.25
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,12.25
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,12.25
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,12.25
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,12.25
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,12.25
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,12.25
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,12.25
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,12.25
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,8.5
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,8.5
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,8.5
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,8.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,8.5
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,8.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,8.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,8.5
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,8.5
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,8.5
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,8.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,8.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,8.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,8.5
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,8.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,8.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,8.5
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,8.5
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,8.5
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,8.5
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,8.5
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,8.5
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,8.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,8.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,8.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,8.5
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,8.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,8.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,8.5
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,8.5
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,8.5
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,8.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,8.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,8.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,8.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,8.5
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,8.5
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,8.5
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,8.5
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,8.5
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,8.5
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,8.5
+"WellA","Non-Productive Time","Rig operation waiting","Moveable Department",0,6.125
+"WellA","Non-Productive Time","Rig operation waiting","Wait on Rig Decision",0,6.125
+"WellA","Non-Productive Time","Rig operation waiting","Delay on Rig Operation",0,6.125
+"WellA","Non-Productive Time","Rig operation waiting","Others Rig operation waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","NIDC Logging Service  Waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","OTS Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","WSI Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","RENE Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","Persia Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Logging Service Company Waiting","Other Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Perforation Service Company Waiting","NIDC Perforation Service Waiting",0,6.125
+"WellA","Non-Productive Time","Perforation Service Company Waiting","OTS Perforation Service Waiting",0,6.125
+"WellA","Non-Productive Time","Perforation Service Company Waiting","Others Perforation Service Waiting",0,6.125
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","BEP Completion Service Waiting",0,6.125
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Nasr Mob. Completion Service Waiting",0,6.125
+"WellA","Non-Productive Time","Completion Running Service Company Waiting","Others Completion Service Waiting",0,6.125
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","NIDC Casing Running Service Waiting",0,6.125
+"WellA","Non-Productive Time","Casing Running Service Company Waiting","Others Casing Running Service Waiting",0,6.125
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","HPOGC Liner Hanger Service Waiting",0,6.125
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","IDC Liner Hanger Service Waiting",0,6.125
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","PPAC Liner Hanger Service Waiting",0,6.125
+"WellA","Non-Productive Time","Liner Hanger Service Company Waiting","Others Liner Hanger Service Waiting",0,6.125
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","MSA Wellhead Service Waiting",0,6.125
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","NIDC Wellhead Service Waiting",0,6.125
+"WellA","Non-Productive Time","Wellhead Service Company Waiting","Others Wellhead Service Waiting",0,6.125
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","NIDC Waste Management Service Waiting",0,6.125
+"WellA","Non-Productive Time","Waste Management Service Company Waiting","Others Waste Management Service Waiting",0,6.125
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","NIDC Mud Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","Mud Logging Service Company Waiting","Others Mud Logging Service Waiting",0,6.125
+"WellA","Non-Productive Time","H2S Service Company Waiting","NIDC H2S Service Waiting",0,6.125
+"WellA","Non-Productive Time","H2S Service Company Waiting","Others Service Company Waiting",0,6.125
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting"," NIDC Dry test / RTTS / RBP Service Waiting",0,6.125
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Persia Dry test / RTTS / RBP Service Waiting",0,6.125
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","OTS Dry test / RTTS / RBP Service Waiting",0,6.125
+"WellA","Non-Productive Time"," Dry test / RTTS / RBP Service Company Waiting","Others Dry test / RTTS / RBP Service Waiting",0,6.125
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","NIDC Directional Drilling Service Waiting",0,6.125
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","PGO Directional Drilling Service Waiting",0,6.125
+"WellA","Non-Productive Time","Directional Drilling Service Company Waiting","Others Directional Drilling Service Waiting",0,6.125
+"WellA","Non-Productive Time","Cement Service Company Waiting","NIDC Cement Service Waiting",0,6.125
+"WellA","Non-Productive Time","Cement Service Company Waiting","Others Cement Service Waiting",0,6.125
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Special fluid Additive",0,6.125
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Mud material",0,6.125
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Un-suitable mud properties",0,6.125
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Equipments",0,6.125
+"WellA","Non-Productive Time","Drilling Fluid Service Company Waiting","Others Drilling Fluid Service Waiting",0,6.125
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","NIDC Surface facilities Service Waiting",0,6.125
+"WellA","Non-Productive Time","Surface facilities Service Company Waiting","Others Surface facilities Service Waiting",0,6.125
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","NIDC Acidizing Service Waiting",0,6.125
+"WellA","Non-Productive Time","Acidizing Service Company Waiting","Others Acidizing Service Waiting",0,6.125
+"WellA","Non-Productive Time","Decision Waiting","Client Waiting",0,6.125
+"WellA","Productive Time","Prepration","Skidding/Moving",0,36
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,36
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",0,36
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",0,36
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",0,36
+"WellA","Productive Time","CSG/LNR Running","Dry Test",0,36
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,36
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,36
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,36
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,36
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",0,36
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,36
+"WellA","Productive Time","Completion Operation","Perforation",0,36
+"WellA","Productive Time","Completion Operation","Completion",0,36
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,36
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,36
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,36
+"WellA","Productive Time","Extra Work","Extra Work",0,36
+"WellA","Productive Time","Prepration","Skidding/Moving",0,26
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,26
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",0,26
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",0,26
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",0,26
+"WellA","Productive Time","CSG/LNR Running","Dry Test",0,26
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,26
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,26
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,26
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,26
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",0,26
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,26
+"WellA","Productive Time","Completion Operation","Perforation",0,26
+"WellA","Productive Time","Completion Operation","Completion",0,26
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,26
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,26
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,26
+"WellA","Productive Time","Extra Work","Extra Work",0,26
+"WellA","Productive Time","Prepration","Skidding/Moving",0,17.5
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,17.5
+"WellA","Productive Time","Drilling Operation","Round Trip",0,17.5
+"WellA","Productive Time","Drilling Operation","Surveying",0,17.5
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",0,17.5
+"WellA","Productive Time","CSG/LNR Running","Dry Test",0,17.5
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,17.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,17.5
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,17.5
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,17.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,17.5
+"WellA","Productive Time","Completion Operation","Perforation",0,17.5
+"WellA","Productive Time","Completion Operation","Completion",0,17.5
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,17.5
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,17.5
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,17.5
+"WellA","Productive Time","Extra Work","Extra Work",0,17.5
+"WellA","Productive Time","Prepration","Skidding/Moving",0,12.25
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,12.25
+"WellA","Productive Time","Drilling Operation","Surveying",0,12.25
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",0,12.25
+"WellA","Productive Time","CSG/LNR Running","Dry Test",0,12.25
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,12.25
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,12.25
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,12.25
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,12.25
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,12.25
+"WellA","Productive Time","Completion Operation","Perforation",0,12.25
+"WellA","Productive Time","Completion Operation","Completion",0,12.25
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,12.25
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,12.25
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,12.25
+"WellA","Productive Time","Extra Work","Extra Work",0,12.25
+"WellA","Productive Time","Prepration","Skidding/Moving",0,8.5
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,8.5
+"WellA","Productive Time","Drilling Operation","Surveying",0,8.5
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",0,8.5
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,8.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,8.5
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,8.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,8.5
+"WellA","Productive Time","Completion Operation","Perforation",0,8.5
+"WellA","Productive Time","Completion Operation","Completion",0,8.5
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,8.5
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,8.5
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,8.5
+"WellA","Productive Time","Extra Work","Extra Work",0,8.5
+"WellA","Productive Time","Prepration","Skidding/Moving",0,6.125
+"WellA","Productive Time","Drilling Operation","Directional Drilling",0,6.125
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",0,6.125
+"WellA","Productive Time","Drilling Operation","Surveying",0,6.125
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",0,6.125
+"WellA","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,6.125
+"WellA","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,6.125
+"WellA","Productive Time"," Geology & Res. Evaluation","Coring",0,6.125
+"WellA","Productive Time","Completion Operation","Suspension/Abandonment",0,6.125
+"WellA","Productive Time","Completion Operation","Others Completion Operation",0,6.125
+"WellA","Productive Time","Extra Work","Extra Work",0,6.125
+"WellB","Productive Time","Prepration","Skidding/Moving",0,36
+"WellB","Productive Time","Drilling Operation","Directional Drilling",0,36
+"WellB","Productive Time","Drilling Operation","BOP Test/Drill",0,36
+"WellB","Productive Time","Drilling Operation","Hole Conditioning",0,36
+"WellB","Productive Time","Drilling Operation","Mud Conditioning",0,36
+"WellB","Productive Time","CSG/LNR Running","Dry Test",0,36
+"WellB","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,36
+"WellB","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,36
+"WellB","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,36
+"WellB","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,36
+"WellB","Productive Time"," Geology & Res. Evaluation","Well Logging",0,36
+"WellB","Productive Time"," Geology & Res. Evaluation","Coring",0,36
+"WellB","Productive Time","Completion Operation","Perforation",0,36
+"WellB","Productive Time","Completion Operation","Completion",0,36
+"WellB","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,36
+"WellB","Productive Time","Completion Operation","Suspension/Abandonment",0,36
+"WellB","Productive Time","Completion Operation","Others Completion Operation",0,36
+"WellB","Productive Time","Extra Work","Extra Work",0,36
+"WellB","Productive Time","Prepration","Skidding/Moving",0,26
+"WellB","Productive Time","Drilling Operation","Directional Drilling",0,26
+"WellB","Productive Time","Drilling Operation","BOP Test/Drill",0,26
+"WellB","Productive Time","Drilling Operation","Mud Conditioning",0,26
+"WellB","Productive Time","CSG/LNR Running","Dry Test",0,26
+"WellB","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,26
+"WellB","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,26
+"WellB","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,26
+"WellB","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,26
+"WellB","Productive Time"," Geology & Res. Evaluation","Well Logging",0,26
+"WellB","Productive Time"," Geology & Res. Evaluation","Coring",0,26
+"WellB","Productive Time","Completion Operation","Perforation",0,26
+"WellB","Productive Time","Completion Operation","Completion",0,26
+"WellB","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",0,26
+"WellB","Productive Time","Completion Operation","Suspension/Abandonment",0,26
+"WellB","Productive Time","Completion Operation","Others Completion Operation",0,26
+"WellB","Productive Time","Extra Work","Extra Work",0,26
+"WellB","Productive Time","Prepration","Skidding/Moving",0,17.5
+"WellB","Productive Time","Drilling Operation","Directional Drilling",0,17.5
+"WellB","Productive Time","Drilling Operation","Surveying",0,17.5
+"WellB","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",0,17.5
+"WellB","Productive Time","CSG/LNR Running","Dry Test",0,17.5
+"WellB","Productive Time","CSG/LNR Running","CSG PRSS. TEST",0,17.5
+"WellB","Productive Time"," Geology & Res. Evaluation","Circulation for geology sample",0,17.5
+"WellB","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",0,17.5
+"WellB","Productive Time"," Geology & Res. Evaluation","LOT / FIT",0,17.5
+"WellB","Productive Time"," Geology & Res. Evaluation","Coring",0,17.5
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",56.88,36
+"WellA","Productive Time","Drilling Operation","Round Trip",12,36
+"WellA","Productive Time","Drilling Operation","Surveying",2,36
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",19,36
+"WellA","Productive Time","CSG/LNR Running","Cementing",4,36
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",5,36
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",12,36
+"WellA","Productive Time","CSG/LNR Running","Drill Out",6,36
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",1.67,36
+"WellA","Non-Productive Time","Contingency","Fishing",1.67,36
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",1.67,36
+"WellA","Non-Productive Time","Contingency","Wash Out",1.67,36
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",1.67,36
+"WellA","Non-Productive Time","Contingency","Force Majeure",1.67,36
+"WellA","Non-Productive Time","Contingency","Others Contingency",1.67,36
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",82,26
+"WellA","Productive Time","Drilling Operation","Round Trip",12,26
+"WellA","Productive Time","Drilling Operation","Surveying",8,26
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",24,26
+"WellA","Productive Time","CSG/LNR Running","Cementing",8,26
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",8,26
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",24,26
+"WellA","Productive Time","CSG/LNR Running","Drill Out",16,26
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",2.6,26
+"WellA","Non-Productive Time","Contingency","Fishing",2.6,26
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",2.6,26
+"WellA","Non-Productive Time","Contingency","Wash Out",2.6,26
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",2.6,26
+"WellA","Non-Productive Time","Contingency","Force Majeure",2.6,26
+"WellA","Non-Productive Time","Contingency","Others Contingency",2.6,26
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",237.14,17.5
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",4.81,17.5
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",7,17.5
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",4,17.5
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",43,17.5
+"WellA","Productive Time","CSG/LNR Running","Cementing",8,17.5
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",47,17.5
+"WellA","Productive Time","CSG/LNR Running","Drill Out",28,17.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",30,17.5
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Fishing",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Wash Out",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Force Majeure",5.8428571428571425,17.5
+"WellA","Non-Productive Time","Contingency","Others Contingency",5.8428571428571425,17.5
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",267.65,12.25
+"WellA","Productive Time","Drilling Operation","Round Trip",14.02,12.25
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",14.02,12.25
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",157,12.25
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",4,12.25
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",50,12.25
+"WellA","Productive Time","CSG/LNR Running","Cementing",10,12.25
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",36,12.25
+"WellA","Productive Time","CSG/LNR Running","Drill Out",31,12.25
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",77,12.25
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Fishing",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Wash Out",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Force Majeure",9.4385714285714268,12.25
+"WellA","Non-Productive Time","Contingency","Others Contingency",9.4385714285714268,12.25
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",422.91,8.5
+"WellA","Productive Time","Drilling Operation","Round Trip",38,8.5
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",20.45,8.5
+"WellA","Productive Time","Drilling Operation","Hole Conditioning",12,8.5
+"WellA","Productive Time","Drilling Operation","Mud Conditioning",3.48,8.5
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",58,8.5
+"WellA","Productive Time","CSG/LNR Running","Cementing",7,8.5
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",8,8.5
+"WellA","Productive Time","CSG/LNR Running","Drill Out",129,8.5
+"WellA","Productive Time","CSG/LNR Running","Dry Test",85,8.5
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",2,8.5
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",110,8.5
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Fishing",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Wash Out",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Force Majeure",12.797142857142857,8.5
+"WellA","Non-Productive Time","Contingency","Others Contingency",12.797142857142857,8.5
+"WellA","Productive Time","Drilling Operation","Vertical Drilling",299.55,6.125
+"WellA","Productive Time","Drilling Operation","Round Trip",30,6.125
+"WellA","Productive Time","Drilling Operation","BOP Test/Drill",34.3,6.125
+"WellA","Productive Time","CSG/LNR Running","CSG/LNR Running",71,6.125
+"WellA","Productive Time","CSG/LNR Running","Cementing",66,6.125
+"WellA","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",8,6.125
+"WellA","Productive Time","CSG/LNR Running","Nipple Up/Down",30,6.125
+"WellA","Productive Time","CSG/LNR Running","Drill Out",98,6.125
+"WellA","Productive Time","CSG/LNR Running","Dry Test",107,6.125
+"WellA","Productive Time"," Geology & Res. Evaluation","DST/F.B.DST",85,6.125
+"WellA","Productive Time"," Geology & Res. Evaluation","LOT / FIT",2,6.125
+"WellA","Productive Time"," Geology & Res. Evaluation","Well Logging",238,6.125
+"WellA","Non-Productive Time","Contingency","Stuck Pipe/Casing",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Fishing",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Plug Back / Side Tracking",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Wash Out",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Force Majeure",19.94,6.125
+"WellA","Non-Productive Time","Contingency","Others Contingency",19.94,6.125
+"WellA","Productive Time","Completion Operation","Perforation",36,6.125
+"WellA","Productive Time","Completion Operation","Completion",232,6.125
+"WellA","Productive Time","Completion Operation","Clean up/ Flow /Stimulation",59,6.125
+"WellB","Productive Time","Drilling Operation","Vertical Drilling",56.88,36
+"WellB","Productive Time","Drilling Operation","Round Trip",4,36
+"WellB","Productive Time","Drilling Operation","Surveying",2,36
+"WellB","Productive Time","CSG/LNR Running","CSG/LNR Running",13,36
+"WellB","Productive Time","CSG/LNR Running","Cementing",4,36
+"WellB","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",5,36
+"WellB","Productive Time","CSG/LNR Running","Nipple Up/Down",15,36
+"WellB","Productive Time","CSG/LNR Running","Drill Out",4,36
+"WellB","Non-Productive Time","Contingency","Stuck Pipe/Casing",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Fishing",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Plug Back / Side Tracking",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Wash Out",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Force Majeure",1.4842857142857144,36
+"WellB","Non-Productive Time","Contingency","Others Contingency",1.4842857142857144,36
+"WellB","Productive Time","Drilling Operation","Vertical Drilling",180,26
+"WellB","Productive Time","Drilling Operation","Round Trip",12,26
+"WellB","Productive Time","Drilling Operation","Hole Conditioning",8,26
+"WellB","Productive Time","Drilling Operation","Surveying",16,26
+"WellB","Productive Time","CSG/LNR Running","CSG/LNR Running",50,26
+"WellB","Productive Time","CSG/LNR Running","Cementing",11,26
+"WellB","Productive Time","CSG/LNR Running","Wait on Cement (WOC)",8,26
+"WellB","Productive Time","CSG/LNR Running","Nipple Up/Down",22,26
+"WellB","Productive Time","CSG/LNR Running","Drill Out",16,26
+"WellB","Non-Productive Time","Contingency","Stuck Pipe/Casing",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Fishing",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Plug Back / Side Tracking",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Wash Out",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Plugging Bit/String/ CSG",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Force Majeure",4.6142857142857139,26
+"WellB","Non-Productive Time","Contingency","Others Contingency",4.6142857142857139,26
+"WellB","Productive Time","Drilling Operation","Vertical Drilling",354.67,17.5
+"WellB","Productive Time","Drilling Operation","Round Trip",15,17.5
+"WellB","Productive Time","Drilling Operation","BOP Test/Drill",6.34,17.5
+"WellB","Productive Time","Drilling Operation","Hole Conditioning",6,17.5
+"WellB","Productive Time","Drilling Operation","Mud Conditioning",4,17.5
+"WellB","Productive Time","CSG/LNR Running","CSG/LNR Running",38,17.5
+"WellB","Productive Time","CSG/LNR Running","Cementing",6,17.5
+"WellB","Productive Time","CSG/LNR Running","Nipple Up/Down",36,17.5
+"WellB","Productive Time","CSG/LNR Running","Drill Out",40,17.5
+"WellB","Productive Time"," Geology & Res. Evaluation","Well Logging",33,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",0.211739130434782,36
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",0.329565217391304,26
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",0.740869565217391,17.5
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",1.09173913043478,12.25
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",1.59304347826086,8.5
+"WellA","Non-Productive Time","Rig Service/Repair","Mud pump",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","TDS",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Rotary Table",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Generator",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Draw works",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","IBOP",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Air conditioner System",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Wash pipe",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Well control system",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Weight Indicator",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Air hoist",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Air Wrench",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Stand pipe",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Work on mixer",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair"," Crain",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","TOTCO Machine",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Air compressor",2.80260869565217,6.125
+"WellA","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",2.80260869565217,6.125
+"WellB","Non-Productive Time","Rig Service/Repair","Mud pump",0.2165,36
+"WellB","Non-Productive Time","Rig Service/Repair","TDS",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Rotary Table",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Generator",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Draw works",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","IBOP",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Air conditioner System",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Wash pipe",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Well control system",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Weight Indicator",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Air hoist",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Air Wrench",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Stand pipe",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Work on mixer",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair"," Crain",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","TOTCO Machine",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Air compressor",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",0.22,36
+"WellB","Non-Productive Time","Rig Service/Repair","Mud pump",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","TDS",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Rotary Table",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Generator",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Draw works",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","IBOP",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Air conditioner System",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Wash pipe",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Well control system",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Weight Indicator",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Air hoist",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Air Wrench",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Stand pipe",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Work on mixer",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair"," Crain",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","TOTCO Machine",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Air compressor",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",0.673,26
+"WellB","Non-Productive Time","Rig Service/Repair","Mud pump",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","TDS",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Rotary Table",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Generator",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Draw works",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","IBOP",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Air conditioner System",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Wash pipe",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Well control system",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Weight Indicator",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Air hoist",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Air Wrench",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Stand pipe",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Cut & Slips drilling line",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Work on mixer",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Screen Shale Shaker",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair"," Crain",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","TOTCO Machine",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Air compressor",1.123,17.5
+"WellB","Non-Productive Time","Rig Service/Repair","Others Rig Equipments",1.123,17.5

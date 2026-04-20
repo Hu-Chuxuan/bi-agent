@@ -1,0 +1,2 @@
+jira_proj_dwkey,jira_proj_name,jira_proj_category_name,jira_proj_type_desc,jira_proj_lead,jira_proj_key_cd,product_owner_name,source_jira_proj_id,proj_active_indicator,created_by_id,created_dt,modified_by_id,modified_dt,active_flg
+319,"Cloud Foundry","","software","cklein3","CF","",15201,"Y","20171128105209",2017-11-28 18:52:14.350,"20171128105209",2017-11-28 18:52:14.350,"Y"

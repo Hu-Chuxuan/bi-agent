@@ -1,0 +1,11 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+273,1,"Customers","","",False,298,2022-02-11 06:26:54.940,2018-04-09 01:20:35.073,0,False,False,,0,,,False,"90b0bff0-457a-47b0-9004-c85f43bcb16f",""
+333,1,"Locations","","",False,415,2022-02-11 06:26:54.940,2017-08-11 04:13:13.553,0,False,False,,0,,,False,"8e1a3db0-4be1-43fc-8d1e-3050f624285f",""
+500,1,"Products","","",False,584,2022-02-11 06:26:54.940,2018-03-19 01:53:58.713,0,False,False,,0,,,False,"23257384-6bb5-4f05-a3d5-4c9096710fb9",""
+634,1,"Sales","","",False,741,2022-02-11 06:26:54.940,2017-08-11 04:13:13.673,0,False,False,,0,,,False,"dc189db4-58e1-45c4-91a5-14249594f081",""
+834,1,"Salespeople","","",False,870,2022-02-11 06:26:54.940,2017-08-11 04:13:13.730,0,False,False,,0,,,False,"441b99d0-2616-4477-b956-9070702f4259",""
+890,1,"Dates","","",False,1067,2022-02-11 06:26:54.940,2018-04-09 02:10:21.496,0,False,False,,0,,,False,"9262c32d-34e2-46d0-8fc0-11f431608c5e",""
+3662,1,"Key Measures","","",False,3671,2022-02-11 06:26:54.940,2018-03-22 20:14:06.360,0,False,False,,0,,,False,"359425c1-2acf-4427-b345-da3b4c566802",""
+3931,1,"Outlier Detection Logic","","",False,3956,2022-02-11 06:26:54.940,2017-10-09 23:49:58.956,0,False,False,,0,,,False,"450982ec-b808-4ded-8ad9-251cbe0abf02",""
+4504,1,"Churn Measures","","",False,4513,2022-02-11 06:26:54.940,2022-02-11 06:32:56.560,0,False,False,,0,,,False,"c6dfa5a0-0b3f-4ef6-9f43-84cf5d9f4570",""
+6979,1,"Churn Time Frame","","",False,6985,2022-02-11 06:26:54.940,2018-04-09 02:13:09.756,2,False,False,,0,,,False,"8fe113da-e2a5-4660-9783-b73fd7dd2b05",""

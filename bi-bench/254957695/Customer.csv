@@ -1,0 +1,11 @@
+CustomerID,AddressID,LoginID,FirstName,LastName,DateOfBirth,Phone,MembershipType,RewardPoints,CustomerNotes
+4,22,"user1@gmail.com","Joseph","Tijerina",1980-11-11 00:00:00.000,"845-446-8609","Gold",10,""
+5,23,"user2@gmail.com","George","Kersey",1992-10-20 00:00:00.000,"409-201-0855","Silver",,""
+7,24,"user3@gmail.com","John","Williams",1995-08-07 00:00:00.000,"512-601-0938","",,"New Customer"
+8,25,"user4@gmail.com","Bridgette","Ross",1985-03-21 00:00:00.000,"469-995-3009","Platinum",1000,"Regular Customer"
+9,26,"user5@gmail.com","William","Brazier",1995-08-07 00:00:00.000,"512-601-0938","Silver",20,""
+11,27,"user6@gmail.com","Stephanie","Kimberling",1982-01-28 00:00:00.000,"484-281-5470","Premium",2500,"Most Regular Customer"
+12,28,"user7@gmail.com","Terry","Terry",1993-02-07 00:00:00.000,"512-601-0938","Silver",80,""
+13,29,"user8@gmail.com","Marina","Marina",1987-10-01 00:00:00.000,"701-474-8819","",,"New Customer"
+14,30,"user9@gmail.com","Ann","Norvell",1997-08-10 00:00:00.000,"573-675-9910","",100,""
+16,31,"user10@gmail.com","Thomas","Nance",1989-06-21 00:00:00.000,"608-633-8742","",50,""

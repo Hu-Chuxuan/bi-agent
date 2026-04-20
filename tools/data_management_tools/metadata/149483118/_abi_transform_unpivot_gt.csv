@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,parsed_unpivot_col_list,parsed_unpivot_attr_col_name,parsed_unpivot_val_col_name,step
+149483118,1587,Response,Unpivot,"['Promotion', 'Professional DV', 'Industry salary', 'Independence', 'Security', 'Work situation', 'Fast career DV', 'Personal DV', 'Interesting', 'Performance salary', 'High status', 'International work']",Question Code,Score,"    #""Unpivoted Columns"" = Table.UnpivotOtherColumns(#""Removed Columns"", {""responseID_primary key_cleaned""}, ""Attribute"", ""Value""),"

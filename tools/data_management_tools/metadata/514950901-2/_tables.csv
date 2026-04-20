@@ -1,0 +1,6 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"P&L","","",False,58,2021-11-29 13:21:56.616,2021-11-30 12:07:59.713,0,False,False,,0,,,False,"3ad234f2-b126-4126-8b6e-5f44938fbd2e",""
+15,1,"DateTableTemplate_7bf4fb50-7d87-4821-8691-efa8aa927e83","","",True,60,2021-11-28 12:32:21.486,2021-11-28 12:32:18.660,2,False,True,,0,,,False,"018c5232-5c56-4c10-a977-c5499abc0fc0",""
+1485,1,"TCS vs BSE","","",False,1567,2021-11-29 09:01:33.110,2021-11-29 09:01:33.803,0,False,False,,0,,,False,"8ae64d1a-b54c-4489-bc31-6010a71836b8",""
+1488,1,"BSE","","",False,1569,2021-11-29 09:01:33.176,2021-11-29 08:57:41.243,0,False,False,,0,,,False,"8708093d-82ca-4074-b345-a00873e8f808",""
+3995,1,"Balance Sheet","","",False,4050,2021-11-29 16:35:21.203,2021-11-30 12:07:59.956,0,False,False,,0,,,False,"13cc3035-a650-4fb1-8ee8-127275a59c9e",""

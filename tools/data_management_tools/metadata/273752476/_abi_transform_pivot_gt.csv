@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,post_pivot_key_cols,pivot_col,val_col,step
+273752476,4060,Call Category,Pivot,"['Category', 'Source.Name']",variable,value,"    #""Pivoted Column"" = Table.Pivot(#""Removed Columns1"", List.Distinct(#""Removed Columns1""[Custom]), ""Custom"", ""sentimentscore""),"

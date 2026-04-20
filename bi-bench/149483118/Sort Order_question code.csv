@@ -1,0 +1,7 @@
+Sentiment,Order
+"Don't know/not relevant",1
+"Not important",2
+"Slightly important",3
+"Somewhat important",4
+"important",5
+"very important",6

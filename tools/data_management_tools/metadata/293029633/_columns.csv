@@ -1,0 +1,52 @@
+ID,TableID,ExplicitName,InferredName,ExplicitDataType,InferredDataType,DataCategory,Description,IsHidden,State,IsUnique,IsKey,IsNullable,Alignment,TableDetailPosition,IsDefaultLabel,IsDefaultImage,SummarizeBy,ColumnStorageID,Type,SourceColumn,ColumnOriginID,Expression,FormatString,IsAvailableInMDX,SortByColumnID,AttributeHierarchyID,ModifiedTime,StructureModifiedTime,RefreshedTime,SystemFlags,KeepUniqueRows,DisplayOrdinal,ErrorMessage,SourceProviderType,DisplayFolder,EncodingHint,RelatedColumnDetailsID,AlternateOfID,LineageTag,SourceLineageTag
+11,10,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,144,3,"",,"","",True,,12,2021-02-13 02:30:42.936,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+20,10,"Index","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,152,1,"Index",,"","0",True,,114,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"8f4917ea-fa36-4f8c-9a72-9765cd842a9e",""
+21,10,"EventSubclass","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,156,1,"EventSubclass",,"","0",True,,115,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"6c03ba43-798a-46f0-ba02-0dd621ce6016",""
+22,10,"IntegerData","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,160,1,"IntegerData",,"","0",True,,116,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"c0687900-1412-49c3-85aa-3918b4fa06e0",""
+23,10,"TextData","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,164,1,"TextData",,"","",True,,117,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"71405819-a8b9-4f88-a363-982ba0f11b28",""
+24,10,"StartTime","",9,19,"","",False,1,False,False,True,1,-1,False,False,2,168,1,"StartTime",,"","",True,,118,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"2319a8d2-9260-4970-b271-794c0fe66577",""
+25,10,"EndTime","",9,19,"","",True,1,False,False,True,1,-1,False,False,2,172,1,"EndTime",,"","General Date",True,,119,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"97148756-b250-4c69-aadf-b8021738068e",""
+26,10,"Duration (ms)","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,176,1,"Duration (ms)",,"","#,0",True,,120,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"55799b62-872a-4a79-a5a0-a83183f6a88d",""
+27,10,"CPUTime","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,180,1,"CPUTime",,"","#,0",True,,121,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"1b19c88c-2dfe-4228-a176-a895db96c2fa",""
+28,10,"ObjectName","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,184,1,"ObjectName",,"","",True,,122,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"3b02f2fa-aca1-4cdf-90b9-afa737626fd1",""
+29,10,"End Time","",1,9,"","",False,1,False,False,True,1,-1,False,False,2,188,2,"",,"
+VAR et = [EndTime]
+VAR st = [StartTime]
+RETURN
+    IF ( et = st, st + TIME ( 0, 0, [Duration (ms)] / 1000 ), et )
+","",True,,123,2022-03-20 18:18:48.410,2021-02-13 02:30:42.930,2022-03-20 18:18:48.410,0,False,0,"","","",0,,,"26844f60-79e8-4ebb-ad2e-b0052f5630c8",""
+30,10,"SessionID","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,192,1,"SessionID",,"","",True,,124,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"404a5d4b-5f57-4d2c-88ab-ba8ed66564d4",""
+31,10,"Duration Text","",1,2,"","",False,1,False,False,True,1,-1,False,False,2,196,2,"",,"
+VAR x = 'Progress Report End'[StartTime]
+VAR y = 'Progress Report End'[End Time]
+VAR z =
+    DATEDIFF ( x, y, SECOND )
+RETURN
+    INT ( z / 60 ) & "" mins ""
+        & MOD ( z, 60 ) & "" sec""
+","",True,,125,2022-03-20 18:18:48.413,2021-02-13 02:30:42.930,2022-03-20 18:18:48.413,0,False,0,"","","",0,,,"7e3f68ec-17dd-412c-afaf-7ca744ca413d",""
+32,10,"Partition Event","",1,11,"","",False,1,False,False,True,1,-1,False,False,2,200,2,"",,"
+LEFT ( 'Progress Report End'[TextData], 29 ) = ""Finished processing partition""
+","""TRUE"";""TRUE"";""FALSE""",True,,126,2022-03-20 18:18:48.423,2021-02-13 02:30:42.930,2022-03-20 18:18:48.423,0,False,0,"","","",0,,,"ea58d286-7d10-4786-87fc-3afcbd365a2d",""
+33,10,"Start Time (int)","",1,6,"","",False,1,False,False,True,1,-1,False,False,3,204,2,"",,"
+INT ( FORMAT ( 'Progress Report End'[StartTime], ""YYYYMMDDHHMMSS"" ) )
+","0",True,,127,2022-03-20 18:18:48.410,2021-02-13 02:30:42.930,2022-03-20 18:18:48.410,0,False,0,"","","",0,,,"fc28aa93-5b8b-4432-8336-98fcca103036",""
+34,10,"End Time (int)","",1,6,"","",False,1,False,False,True,1,-1,False,False,3,208,2,"",,"
+INT ( FORMAT ( 'Progress Report End'[End Time], ""YYYYMMDDHHMMSS"" ) )
+","0",True,,128,2022-03-20 18:18:48.410,2021-02-13 02:30:42.930,2022-03-20 18:18:48.410,0,False,0,"","","",0,,,"ccaf56ed-931c-4eed-b7a6-0dd5214daf2b",""
+35,10,"Attribute:Slot","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,212,1,"Attribute:Slot",,"","",True,,129,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"57b8e9df-9b9f-4200-87c6-6ba04ef84125",""
+36,10,"RequestID","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,216,1,"RequestID",,"","",True,,130,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"d75f9862-715e-4fdb-a4bf-6c24925f1de0",""
+14,13,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,148,3,"",,"","",True,,15,2021-02-13 02:30:42.936,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+37,13,"EventSubclass","",6,19,"","",False,1,False,False,True,1,-1,False,False,2,220,1,"EventSubclass",,"","0",True,,131,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"c22bae67-de69-43c0-a8d8-1a7d31148987",""
+38,13,"Sub Class","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,224,1,"Sub Class",,"","",True,,132,2022-03-15 10:06:10.270,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"a5823321-2292-4e6a-8a40-2535cccf1906",""
+39,13,"Ordinal","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,228,1,"Ordinal",,"","0",True,,133,2022-03-15 10:42:31.960,2021-02-13 02:30:42.930,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"ae08aa66-a307-4259-b106-b099465d347f",""
+2077,2076,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,2091,3,"",,"","",True,,2078,2021-02-13 03:08:14.096,2021-02-13 03:08:14.096,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+10930,2076,"Location of JobGraph File","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,10933,1,"Location of JobGraph File",,"","",True,,10932,2022-03-20 17:59:31.956,2022-03-20 17:59:31.926,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"35b84dc5-708c-43a1-a3a3-94d9987d80a1",""
+9438,9437,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,9473,3,"",,"","",True,,9439,2022-03-15 10:41:13.323,2022-03-15 10:41:13.320,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+9441,9437,"EventSubclass","",6,19,"","",True,1,False,False,True,1,-1,False,False,2,9481,1,"EventSubclass",,"","0",True,,9463,2022-03-15 10:52:55.876,2022-03-15 10:41:13.323,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"04f2e2b5-fc25-4377-aedd-e64c40b1d816",""
+9442,9437,"TextData","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,9485,1,"TextData",,"","",True,,9464,2022-03-15 10:41:13.323,2022-03-15 10:41:13.323,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"5c37a60f-65b3-482b-961e-6e7253492a78",""
+9443,9437,"Duration","",6,19,"","",False,1,False,False,True,1,-1,False,False,3,9489,1,"Duration",,"","0",True,,9465,2022-03-15 10:45:58.966,2022-03-15 10:41:13.323,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"2129acdb-4671-46ea-9998-6bc97e8ba34a",""
+9444,9437,"Process","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,9493,1,"Process",,"","",True,,9466,2022-03-15 10:41:13.323,2022-03-15 10:41:13.323,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"37f98e10-0dc0-4077-a41b-cd375417fe6f",""
+9445,9437,"Query","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,9497,1,"Query",,"","",True,,9467,2022-03-15 10:41:13.323,2022-03-15 10:41:13.323,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"f8a80c23-1a7c-4676-88c1-f5c58089cc03",""
+10907,10906,"RowNumber-2662979B-1795-4F74-8F37-6A1BA8059B61","",6,19,"","",True,1,True,True,False,1,-1,False,False,1,10920,3,"",,"","",True,,10908,2022-03-20 17:59:31.903,2022-03-20 17:59:31.900,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"",""
+10909,10906,"Location of Duration Trace File","",2,19,"","",False,1,False,False,True,1,-1,False,False,2,10924,1,"Location of Duration Trace File",,"","",True,,10914,2022-03-20 17:59:31.956,2022-03-20 17:59:31.903,1699-12-31 00:00:00.000,0,False,0,"","","",0,,,"2ac1a4f1-6fc3-43d9-96da-cd0de2454474",""

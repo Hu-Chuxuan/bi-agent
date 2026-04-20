@@ -1,0 +1,133 @@
+﻿Group,EquipmentName,Value,Month
+Altus,ALTUS GL,10,January
+Altus,ALTUS GL,11,February
+Altus,ALTUS GL,12,March
+Altus,ALTUS GL,9,April
+Altus,ALTUS GL,11,May
+Altus,ALTUS GL,6,June
+Altus,ALTUS GL,14,July
+Altus,ALTUS IFM,10,January
+Altus,ALTUS IFM,11,February
+Altus,ALTUS IFM,12,March
+Altus,ALTUS IFM,9,April
+Altus,ALTUS IFM,11,May
+Altus,ALTUS IFM,6,June
+Altus,ALTUS IFM,14,July
+Altus,ALTUS LFW,10,January
+Altus,ALTUS LFW,11,February
+Altus,ALTUS LFW,12,March
+Altus,ALTUS LFW,9,April
+Altus,ALTUS LFW,11,May
+Altus,ALTUS LFW,6,June
+Altus,ALTUS LFW,14,July
+Altus,ALTUS MAX,10,January
+Altus,ALTUS MAX,11,February
+Altus,ALTUS MAX,12,March
+Altus,ALTUS MAX,9,April
+Altus,ALTUS MAX,11,May
+Altus,ALTUS MAX,6,June
+Altus,ALTUS MAX,14,July
+Altus,WN MAX,10,January
+Altus,WN MAX,11,February
+Altus,WN MAX,12,March
+Altus,WN MAX,9,April
+Altus,WN MAX,11,May
+Altus,WN MAX,6,June
+Altus,WN MAX,14,July
+Argos,Argos,2,January
+Argos,Argos,2,February
+Argos,Argos,2,March
+Argos,Argos,1,April
+Argos,Argos,3,June
+Argos,Argos,2,July
+Coronus,CORONUS D,3,January
+Coronus,CORONUS D,3,February
+Coronus,CORONUS D,3,March
+Coronus,CORONUS D,3,April
+Coronus,CORONUS D,3,May
+Coronus,CORONUS D,4,June
+Coronus,CORONUS D,5,July
+Coronus,CORONUS HP,3,January
+Coronus,CORONUS HP,3,February
+Coronus,CORONUS HP,3,March
+Coronus,CORONUS HP,3,April
+Coronus,CORONUS HP,3,May
+Coronus,CORONUS HP,4,June
+Coronus,CORONUS HP,5,July
+Coronus,CORONUS STD,3,January
+Coronus,CORONUS STD,3,February
+Coronus,CORONUS STD,3,March
+Coronus,CORONUS STD,3,April
+Coronus,CORONUS STD,3,May
+Coronus,CORONUS STD,4,June
+Coronus,CORONUS STD,5,July
+Depo_Upgrade,Strata GXE,1,January
+Depo_Upgrade,Strata GXE,4,February
+Depo_Upgrade,Strata GXE,4,March
+Depo_Upgrade,Strata GXE,4,April
+Depo_Upgrade,Strata GXE,0,May
+Depo_Upgrade,Strata GXE,0,June
+Depo_Upgrade,Strata GXE,0,July
+Etch_Upgrade,UPGRADE_Flex,0,January
+Etch_Upgrade,UPGRADE_Flex,0,February
+Etch_Upgrade,UPGRADE_Flex,8,March
+Etch_Upgrade,UPGRADE_Flex,8,April
+Etch_Upgrade,UPGRADE_Flex,8,May
+Etch_Upgrade,UPGRADE_Flex,7,June
+Etch_Upgrade,UPGRADE_Flex,5,July
+Etch_Upgrade,UPGRADE_Kiyo,0,January
+Etch_Upgrade,UPGRADE_Kiyo,0,February
+Etch_Upgrade,UPGRADE_Kiyo,8,March
+Etch_Upgrade,UPGRADE_Kiyo,8,April
+Etch_Upgrade,UPGRADE_Kiyo,8,May
+Etch_Upgrade,UPGRADE_Kiyo,7,June
+Etch_Upgrade,UPGRADE_Kiyo,5,July
+Flex,Flex FL,5,January
+Flex,Flex FL,5,February
+Flex,Flex FL,5,March
+Flex,Flex FL,5,April
+Flex,Flex FL,5,May
+Flex,Flex FL,5,June
+Flex,Flex FL,6,July
+Flex,Flex FS,5,January
+Flex,Flex FS,5,February
+Flex,Flex FS,5,March
+Flex,Flex FS,5,April
+Flex,Flex FS,5,May
+Flex,Flex FS,5,June
+Flex,Flex FS,6,July
+Flex,Flex FSE,5,January
+Flex,Flex FSE,5,February
+Flex,Flex FSE,5,March
+Flex,Flex FSE,5,April
+Flex,Flex FSE,5,May
+Flex,Flex FSE,5,June
+Flex,Flex FSE,6,July
+SSM,ALTUS EFX,2,January
+SSM,ALTUS EFX,2,February
+SSM,ALTUS EFX,1,March
+SSM,ALTUS EFX,2,April
+SSM,ALTUS EFX,2,May
+SSM,ALTUS EFX,2,June
+SSM,ALTUS EFX,2,July
+SSM,C3 ICE,2,January
+SSM,C3 ICE,2,February
+SSM,C3 ICE,1,March
+SSM,C3 ICE,2,April
+SSM,C3 ICE,2,May
+SSM,C3 ICE,2,June
+SSM,C3 ICE,2,July
+SSM,Inflection GS,2,January
+SSM,Inflection GS,2,February
+SSM,Inflection GS,1,March
+SSM,Inflection GS,2,April
+SSM,Inflection GS,2,May
+SSM,Inflection GS,2,June
+SSM,Inflection GS,2,July
+SSM,PC MAX,2,January
+SSM,PC MAX,2,February
+SSM,PC MAX,1,March
+SSM,PC MAX,2,April
+SSM,PC MAX,2,May
+SSM,PC MAX,2,June
+SSM,PC MAX,2,July

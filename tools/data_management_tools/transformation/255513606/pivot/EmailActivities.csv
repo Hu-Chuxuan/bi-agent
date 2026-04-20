@@ -1,0 +1,657 @@
+mktoId,Activity date,Activity hour of day,Activitytypeid,Category,Day name,Day of week,Details,Device,Email,EmailName,HourAndDay,Is Mobile Device,Link,Platform,Program name,Subcategory,Test Variant,User Agent,emailId,leadId
+12375811,2015-12-15 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12375812,2015-12-15 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12375820,2015-12-16 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12375821,2015-12-16 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12375822,2015-12-17 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12375823,2015-12-17 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12375855,2015-12-18 00:00:00.000,21,6,,Friday,6,,,,Email,216,,,,Latisys Demo,,,,5883,318752
+12375858,2015-12-18 00:00:00.000,21,7,,Friday,6,,,,Email,216,,,,Latisys Demo,,,,5883,318752
+12375859,2015-12-18 00:00:00.000,21,10,,Friday,6,,PC,,Email,216,false,,Win7,Latisys Demo,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),5883,318752
+12375896,2015-12-18 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12375897,2015-12-18 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12375898,2015-12-19 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12375899,2015-12-19 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12375900,2015-12-19 00:00:00.000,13,11,,Saturday,7,,iPhone,,Email,137,true,http://www.reddit.com/r/mildlyinteresting/comments/2877ru/the_crosswalk_leading_to_the_baseball_stadium_is/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12375902,2015-12-19 00:00:00.000,13,11,,Saturday,7,,iPhone,,Email,137,true,http://www.reddit.com/r/AskReddit/comments/2873us/what_is_a_rule_that_is_broken_so_often_that_it/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12375904,2015-12-20 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12375905,2015-12-20 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12375987,2015-12-21 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12375988,2015-12-21 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12375997,2015-12-22 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12375998,2015-12-22 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12376006,2015-12-23 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12376007,2015-12-23 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12376123,2015-12-24 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12376124,2015-12-24 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12376197,2015-12-25 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12376198,2015-12-25 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12376211,2015-12-26 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12376212,2015-12-26 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12376219,2015-12-27 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12376220,2015-12-27 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12376233,2015-12-28 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12376234,2015-12-28 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12376241,2015-12-29 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12376242,2015-12-29 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12376243,2015-12-29 00:00:00.000,7,11,,Tuesday,3,,iPhone,,Email,73,true,http://www.npr.org/2014/06/25/322913368/opiate-use-spikes-on-martha-s-vineyard?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12376549,2015-12-30 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12376550,2015-12-30 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12402823,2015-12-31 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12402824,2015-12-31 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12402825,2015-12-31 00:00:00.000,8,11,,Thursday,5,,iPhone,,Email,85,true,http://www.npr.org/2014/06/27/326051395/wiggins-is-no-1-napier-to-miami-in-nba-draft?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12402851,2015-12-31 00:00:00.000,11,6,,Thursday,5,,,,BMW offer,115,,,,Rave Mobile Safety - 1,,,,6052,1324022
+12402868,2015-12-31 00:00:00.000,11,7,,Thursday,5,,,,BMW offer,115,,,,Rave Mobile Safety - 1,,,,6052,1324022
+12402993,2016-01-01 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12402994,2016-01-01 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12402995,2016-01-02 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12402996,2016-01-02 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12402997,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/pics/comments/29eczh/poor_choice_in_carpet_for_steps/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12402998,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/gaming/comments/29e4sc/saddest_used_video_game_cover/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12402999,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/gifs/comments/29dytx/i_think_you_got_the_wrong_sport/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12403000,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/mildlyinteresting/comments/29e3sg/i_have_an_extra_crease_on_my_little_finger/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12403006,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/mildlyinteresting/comments/29e3sg/i_have_an_extra_crease_on_my_little_finger/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12403009,2016-01-03 00:00:00.000,17,11,,Sunday,1,,iPhone,,Email,171,true,http://www.reddit.com/r/mildlyinteresting/comments/29e3sg/i_have_an_extra_crease_on_my_little_finger/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12403012,2016-01-03 00:00:00.000,18,11,,Sunday,1,,iPhone,,Email,181,true,http://www.reddit.com/r/videos/comments/29e2uj/this_pigeon_always_try_to_seduce_me/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12403021,2016-01-03 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12403022,2016-01-03 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12436258,2016-01-04 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436259,2016-01-04 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436266,2016-01-05 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436267,2016-01-05 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436274,2016-01-06 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436275,2016-01-06 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436276,2016-01-07 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436277,2016-01-07 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436284,2016-01-08 00:00:00.000,6,11,,Friday,6,,iPhone,,Email,66,true,http://www.npr.org/blogs/theprotojournalist/2014/07/04/328152589/bored-on-the-fourth-of-july-try-these-movies?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12436287,2016-01-08 00:00:00.000,12,11,,Friday,6,,iPhone,,Email,126,true,http://www.npr.org/blogs/alltechconsidered/2014/07/03/328196199/in-a-battle-for-web-traffic-bad-bots-are-going-after-grandma?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12436290,2016-01-08 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12436291,2016-01-08 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12436292,2016-01-08 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://da.feedsportal.com/r/199120392274/u/396/f/661370/c/35185/s/3c2bcfe9/sc/15/rc/1/rc.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53",5858,318752
+12436301,2016-01-09 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12436302,2016-01-09 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12436309,2016-01-10 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12436310,2016-01-10 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12436311,2016-01-11 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436312,2016-01-11 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436313,2016-01-11 00:00:00.000,9,6,,Monday,2,,,,Email,92,,,,Digesto Blog Subscription,,,,5858,318752
+12436314,2016-01-11 00:00:00.000,9,7,,Monday,2,,,,Email,92,,,,Digesto Blog Subscription,,,,5858,318752
+12436315,2016-01-11 00:00:00.000,10,11,,Monday,2,,PC,,Email,102,false,http://www.reddit.com/r/funny/comments/2a4z4j/heres_what_middleaged_napoleon_dynamite_and_pedro/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",5858,318752
+12436324,2016-01-12 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436325,2016-01-12 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436344,2016-01-13 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436345,2016-01-13 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436364,2016-01-14 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436365,2016-01-14 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436378,2016-01-15 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12436379,2016-01-15 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12436397,2016-01-16 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12436398,2016-01-16 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12436411,2016-01-17 00:00:00.000,0,11,,Sunday,1,,PC,,Email,1,false,http://www.reddit.com/r/funny/comments/2al4cz/woman_falls_into_fountain_while_texting/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",5858,318752
+12436414,2016-01-17 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12436415,2016-01-17 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12436423,2016-01-18 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436426,2016-01-18 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12436443,2016-01-19 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436444,2016-01-19 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12436460,2016-01-20 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436461,2016-01-20 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12436468,2016-01-21 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436469,2016-01-21 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12436476,2016-01-21 00:00:00.000,6,11,,Thursday,5,,iPhone,,Email,65,true,http://www.npr.org/blogs/alltechconsidered/2014/07/18/332339805/better-culture-could-have-prevented-viral-comcast-call?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12436477,2016-01-21 00:00:00.000,6,11,,Thursday,5,,iPhone,,Email,65,true,http://www.npr.org/2014/07/17/332399840/at-the-scene-of-the-crash-an-attempt-to-make-sense-of-the-wreckage?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12436478,2016-01-21 00:00:00.000,6,11,,Thursday,5,,iPhone,,Email,65,true,http://www.npr.org/blogs/thetwo-way/2014/07/18/332496334/malaysia-airlines-flight-mh17-plane-crash-what-we-know?ft=1&f=1001,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12456222,2016-01-22 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456223,2016-01-22 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456224,2016-01-22 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://feeds.wired.com/c/35185/f/661370/s/3ca50c80/sc/5/l/0L0Swired0N0C20A140C0A70Camazon0Elaunches0Ekindle0Eunlimited0C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12456227,2016-01-22 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://feeds.wired.com/c/35185/f/661370/s/3ca3cf13/sc/5/l/0L0Swired0N0C20A140C0A70Capple0Erumors0Ethis0Eweek0E20C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12456240,2016-01-23 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456241,2016-01-23 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456254,2016-01-24 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456255,2016-01-24 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456298,2016-01-25 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456299,2016-01-25 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456323,2016-01-26 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456324,2016-01-26 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456350,2016-01-27 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456357,2016-01-27 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456358,2016-01-28 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456359,2016-01-28 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456375,2016-01-29 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456376,2016-01-29 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456401,2016-01-30 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456402,2016-01-30 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456415,2016-01-31 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456416,2016-01-31 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456476,2016-02-01 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456477,2016-02-01 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456581,2016-02-02 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456582,2016-02-02 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456640,2016-02-03 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456641,2016-02-03 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456648,2016-02-04 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456649,2016-02-04 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456679,2016-02-05 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456680,2016-02-05 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456699,2016-02-06 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456700,2016-02-06 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456701,2016-02-07 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456702,2016-02-07 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456752,2016-02-08 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456753,2016-02-08 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456760,2016-02-09 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456761,2016-02-09 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456768,2016-02-10 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456769,2016-02-10 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12456897,2016-02-11 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456898,2016-02-11 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12456899,2016-02-11 00:00:00.000,9,6,,Thursday,5,,,,Email,95,,,,Digesto Blog Subscription,,,,5858,318752
+12456900,2016-02-11 00:00:00.000,9,7,,Thursday,5,,,,Email,95,,,,Digesto Blog Subscription,,,,5858,318752
+12456931,2016-02-12 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456932,2016-02-12 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12456945,2016-02-13 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456946,2016-02-13 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12456947,2016-02-14 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456948,2016-02-14 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12456973,2016-02-15 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456974,2016-02-15 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12456981,2016-02-16 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12456982,2016-02-16 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457007,2016-02-17 00:00:00.000,7,11,,Wednesday,4,,PC,,Email,74,false,http://www.reddit.com/r/pics/comments/2d5ioh/i_lost_110_pounds/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36",5858,318752
+12457010,2016-02-17 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457011,2016-02-17 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457012,2016-02-18 00:00:00.000,1,6,,Thursday,5,,,,Sales Alert,15,,,,,,,,2309,318752
+12457013,2016-02-18 00:00:00.000,1,10,,Thursday,5,,PC,,Sales Alert,15,false,,Win7,,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),2309,318752
+12457014,2016-02-18 00:00:00.000,1,7,,Thursday,5,,,,Sales Alert,15,,,,,,,,2309,318752
+12457015,2016-02-18 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457016,2016-02-18 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457017,2016-02-18 00:00:00.000,9,6,,Thursday,5,,,,Thank You Email,95,,,,,,,,3178,318752
+12457018,2016-02-18 00:00:00.000,9,7,,Thursday,5,,,,Thank You Email,95,,,,,,,,3178,318752
+12457019,2016-02-18 00:00:00.000,9,10,,Thursday,5,,PC,,Thank You Email,95,false,,Win7,,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),3178,318752
+12457075,2016-02-19 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457076,2016-02-19 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457113,2016-02-20 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457114,2016-02-20 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457134,2016-02-21 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457135,2016-02-21 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457160,2016-02-22 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457161,2016-02-22 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457162,2016-02-23 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457163,2016-02-23 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457185,2016-02-24 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457186,2016-02-24 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457211,2016-02-25 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457212,2016-02-25 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457219,2016-02-26 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457220,2016-02-26 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457233,2016-02-27 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457234,2016-02-27 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457260,2016-02-28 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457261,2016-02-28 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457287,2016-02-29 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457288,2016-02-29 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457301,2016-03-01 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457302,2016-03-01 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457829,2016-03-02 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457830,2016-03-02 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457873,2016-03-03 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457874,2016-03-03 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457912,2016-03-04 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457913,2016-03-04 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12457926,2016-03-05 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457927,2016-03-05 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12457940,2016-03-06 00:00:00.000,6,6,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457941,2016-03-06 00:00:00.000,6,7,,Sunday,1,,,,Email,61,,,,Digesto Blog Subscription,,,,5858,318752
+12457948,2016-03-07 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457949,2016-03-07 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12457956,2016-03-08 00:00:00.000,6,6,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457957,2016-03-08 00:00:00.000,6,7,,Tuesday,3,,,,Email,63,,,,Digesto Blog Subscription,,,,5858,318752
+12457971,2016-03-09 00:00:00.000,8,6,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457972,2016-03-09 00:00:00.000,8,7,,Wednesday,4,,,,Email,84,,,,Digesto Blog Subscription,,,,5858,318752
+12457985,2016-03-10 00:00:00.000,6,6,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12457986,2016-03-10 00:00:00.000,6,7,,Thursday,5,,,,Email,65,,,,Digesto Blog Subscription,,,,5858,318752
+12458019,2016-03-11 00:00:00.000,13,6,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12458020,2016-03-11 00:00:00.000,13,7,,Friday,6,,,,Email,136,,,,Digesto Blog Subscription,,,,5858,318752
+12458021,2016-03-12 00:00:00.000,12,6,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12458022,2016-03-12 00:00:00.000,12,7,,Saturday,7,,,,Email,127,,,,Digesto Blog Subscription,,,,5858,318752
+12458027,2016-03-13 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12458028,2016-03-13 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12458029,2016-03-13 00:00:00.000,8,6,,Sunday,1,,,,Email,81,,,,Digesto Blog Subscription,,,,5858,318752
+12458030,2016-03-13 00:00:00.000,8,7,,Sunday,1,,,,Email,81,,,,Digesto Blog Subscription,,,,5858,318752
+12458086,2016-03-14 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12458087,2016-03-14 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12458102,2016-03-15 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12458103,2016-03-15 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12458138,2016-03-16 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12458139,2016-03-16 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12458154,2016-03-17 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12458155,2016-03-17 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12458176,2016-03-18 00:00:00.000,0,6,,Friday,6,,,,Email,6,,,,The Hackett Group Demo,,,,6289,318752
+12458182,2016-03-18 00:00:00.000,0,7,,Friday,6,,,,Email,6,,,,The Hackett Group Demo,,,,6289,318752
+12458183,2016-03-18 00:00:00.000,0,10,,Friday,6,,PC,,Email,6,false,,Win7,The Hackett Group Demo,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),6289,318752
+12458184,2016-03-18 00:00:00.000,0,11,,Friday,6,,PC,,Email,6,false,http://ben.marketosolutionsconsulting.com/Hackett-Group.html,Win7,The Hackett Group Demo,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36",6289,318752
+12458197,2016-03-18 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12458198,2016-03-18 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12458199,2016-03-18 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://feeds.wired.com/c/35185/f/661370/s/3e6d0f16/sc/38/l/0L0Swired0N0C20A140C0A90Cgeeks0Eguide0Ekim0Eharrison0C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12458202,2016-03-18 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://feeds.wired.com/c/35185/f/661370/s/3e6a19cf/sc/15/l/0L0Swired0N0C20A140C0A90Cceefax0C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12458205,2016-03-18 00:00:00.000,13,11,,Friday,6,,iPhone,,Email,136,true,http://feeds.wired.com/c/35185/f/661370/s/3e6a0029/sc/38/l/0L0Swired0N0C20A140C0A90Canti0Etaxi0Ecampaign0Eshows0Euber0Ecant0Eafford0Eplay0Enice0C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12458208,2016-03-18 00:00:00.000,15,11,,Friday,6,,iPhone,,Email,156,true,http://feeds.wired.com/c/35185/f/661370/s/3e67af26/sc/4/l/0L0Swired0N0C20A140C0A90Cdisappointing0Edesign0Eapples0Enew0Egadgets0C/story01.htm,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",5858,318752
+12458235,2016-03-19 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12458236,2016-03-19 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12458259,2016-03-20 00:00:00.000,18,6,,Sunday,1,,,,Email,181,,,,The Hackett Group Demo,,,,6289,1324205
+12458271,2016-03-20 00:00:00.000,18,7,,Sunday,1,,,,Email,181,,,,The Hackett Group Demo,,,,6289,1324205
+12458272,2016-03-20 00:00:00.000,19,10,,Sunday,1,,PC,,Email,191,false,,Win7,The Hackett Group Demo,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),6289,1324205
+12458276,2016-03-20 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12458277,2016-03-20 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12458303,2016-03-21 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12458304,2016-03-21 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12458317,2016-03-23 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12458318,2016-03-23 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12458333,2016-03-23 00:00:00.000,16,6,,Wednesday,4,,,,Email,164,,,,Digesto Blog Subscription,,,,5858,318752
+12458334,2016-03-23 00:00:00.000,16,7,,Wednesday,4,,,,Email,164,,,,Digesto Blog Subscription,,,,5858,318752
+12458352,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,318752
+12458353,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1321305
+12458354,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1321335
+12458355,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1322828
+12458356,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1323032
+12458357,2016-03-24 00:00:00.000,17,6,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1323938
+12458358,2016-03-24 00:00:00.000,17,8,2,Thursday,5,550 5.1.1 <bhou@outlook1.com> Recipient not found.  <http://x.co/irbounce>,,bhou@outlook1.com,Email,175,,,,Digesto Blog Subscription,2003,,,5858,1322828
+12458359,2016-03-24 00:00:00.000,17,8,2,Thursday,5,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 jd10si283558pbd.104 - gsmtp,,bhou@google.com,Email,175,,,,Digesto Blog Subscription,2003,,,5858,1323032
+12458360,2016-03-24 00:00:00.000,17,8,2,Thursday,5,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 nx16si292967pdb.101 - gsmtp,,bhou@gmail.com,Email,175,,,,Digesto Blog Subscription,2003,,,5858,1323938
+12458367,2016-03-24 00:00:00.000,17,10,,Thursday,5,,PC,,Email,175,false,,Win7,Digesto Blog Subscription,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),5858,1321305
+12458368,2016-03-24 00:00:00.000,17,11,,Thursday,5,,PC,,Email,175,false,http://developers.marketo.com/blog/integrate-optimizely-with-a-marketo-landing-page/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36",5858,318752
+12458369,2016-03-24 00:00:00.000,17,7,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1321335
+12458370,2016-03-24 00:00:00.000,17,7,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,318752
+12458371,2016-03-24 00:00:00.000,17,7,,Thursday,5,,,,Email,175,,,,Digesto Blog Subscription,,,,5858,1321305
+12458397,2016-03-24 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12458398,2016-03-24 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12458408,2016-03-24 00:00:00.000,15,10,,Thursday,5,,iPhone,,Email,155,true,,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257",5858,1321335
+12459563,2016-03-28 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12459564,2016-03-28 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12459565,2016-03-28 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12459566,2016-03-28 00:00:00.000,8,6,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,1324212
+12459567,2016-03-28 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,318752
+12459568,2016-03-28 00:00:00.000,8,7,,Monday,2,,,,Email,82,,,,Digesto Blog Subscription,,,,5858,1324212
+12459569,2016-03-28 00:00:00.000,9,11,,Monday,2,,PC,,Email,92,false,http://developers.marketo.com/blog/marketo-rest-vs-soap-apis-faq/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36",5858,318752
+12459570,2016-03-28 00:00:00.000,9,11,,Monday,2,,PC,,Email,92,false,http://developers.marketo.com/blog/marketo-rest-vs-soap-apis-faq/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36",5858,318752
+12459581,2016-03-28 00:00:00.000,9,11,,Monday,2,,PC,,Email,92,false,http://developers.marketo.com/blog/marketo-rest-vs-soap-apis-faq/,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36",5858,318752
+12459613,2016-03-28 00:00:00.000,11,6,,Monday,2,,,,Email,112,,,,The Hackett Group Demo,,,,6289,318752
+12459618,2016-03-28 00:00:00.000,11,7,,Monday,2,,,,Email,112,,,,The Hackett Group Demo,,,,6289,318752
+12459626,2016-03-29 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12459627,2016-03-29 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12459647,2016-03-30 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12459648,2016-03-30 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12459663,2016-03-31 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12459664,2016-03-31 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12459693,2016-04-01 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12459694,2016-04-01 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12459702,2016-04-02 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12459703,2016-04-02 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12459711,2016-04-02 00:00:00.000,15,11,,Saturday,7,,iPhone,,Email,157,true,http://www.reddit.com/r/gifs/comments/2hp2g0/paranormal_activity/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4",5858,318752
+12459715,2016-04-03 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12459716,2016-04-03 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12459729,2016-04-03 00:00:00.000,11,6,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,318752
+12459730,2016-04-03 00:00:00.000,11,6,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,1319627
+12459731,2016-04-03 00:00:00.000,11,6,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,1321335
+12459735,2016-04-03 00:00:00.000,11,7,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,1321335
+12459736,2016-04-03 00:00:00.000,11,7,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,318752
+12459737,2016-04-03 00:00:00.000,11,7,,Sunday,1,,,,BCC Email,111,,,,BCC Test,,,,6450,1319627
+12459738,2016-04-03 00:00:00.000,11,10,,Sunday,1,,PC,,BCC Email,111,false,,WinXP,BCC Test,,,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7 (via ggpht.com GoogleImageProxy),6450,1319627
+12459748,2016-04-03 00:00:00.000,11,10,,Sunday,1,,PC,,BCC Email,111,false,,WinXP,BCC Test,,,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7 (via ggpht.com GoogleImageProxy),6450,318752
+12459749,2016-04-03 00:00:00.000,11,10,,Sunday,1,,PC,,BCC Email,111,false,,WinXP,BCC Test,,,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7 (via ggpht.com GoogleImageProxy),6450,1321335
+12459762,2016-04-04 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12459763,2016-04-04 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12459775,2016-04-05 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12459776,2016-04-05 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12459794,2016-04-05 00:00:00.000,8,6,,Tuesday,3,,,,Brochure,83,,,,,,,,3090,318752
+12459799,2016-04-05 00:00:00.000,8,7,,Tuesday,3,,,,Brochure,83,,,,,,,,3090,318752
+12459803,2016-04-05 00:00:00.000,8,6,,Tuesday,3,,,,Email,83,,,,The Hackett Group Whitepaper download,,,,6289,318752
+12459807,2016-04-05 00:00:00.000,8,7,,Tuesday,3,,,,Email,83,,,,The Hackett Group Whitepaper download,,,,6289,318752
+12459809,2016-04-05 00:00:00.000,9,11,,Tuesday,3,,PC,,Email,93,false,http://ben.marketosolutionsconsulting.com/Hackett-Group.html,Win7,The Hackett Group Whitepaper download,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",6289,318752
+12459827,2016-04-06 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12459828,2016-04-06 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12464877,2016-04-07 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12464878,2016-04-07 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12464889,2016-04-08 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12464890,2016-04-08 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12464912,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f190294/sc/46/l/0L0Swired0N0C20A140C10A0Cmobile0Eshift0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464913,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f190290/sc/5/l/0L0Swired0N0C20A140C10A0Cgoogle0Efollowing0Efacebooks0E190Ebillion0Ewhatsapp0Egambit0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464914,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f1977a4/sc/36/l/0L0Swired0N0C20A140C10A0Cburberry0Echristopher0Ebailey0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464915,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f19edf0/sc/38/l/0L0Swired0N0C20A140C10A0Cfake0Eadam0Esandler0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464916,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f19edf2/sc/4/l/0L0Swired0N0C20A140C10A0Cadaptive0Epath0Eend0Eof0Ethe0Eweb0E20E0A0Eera0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464917,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f19ffc4/sc/4/l/0L0Swired0N0C20A140C10A0Cgadget0Elab0Epodcast0E2250C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464918,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f1d41e6/sc/10/l/0L0Swired0N0C20A140C10A0Cinteractive0Esonos0Emusic0Emap0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464919,2016-04-09 00:00:00.000,22,11,,Saturday,7,,PC,,Email,227,false,http://feeds.wired.com/c/35185/f/661370/s/3f1d10c3/sc/38/l/0L0Swired0N0C20A140C10A0Cgeeks0Eguide0Edothraki0Eklingon0C/story01.htm,Win7,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",5858,318752
+12464929,2016-04-09 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12464930,2016-04-09 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12464931,2016-04-10 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12464932,2016-04-10 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12464939,2016-04-11 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12464940,2016-04-11 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12464957,2016-04-12 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12464958,2016-04-12 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12464959,2016-04-12 00:00:00.000,8,6,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12464960,2016-04-12 00:00:00.000,8,7,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12464961,2016-04-12 00:00:00.000,8,11,,Tuesday,3,,iPhone,,Email,83,true,http://www.reddit.com/r/funny/comments/2in93p/navajo_tour_guide_insisted_he_take_a_pic_of_us/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4",5858,318752
+12465059,2016-04-13 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465060,2016-04-13 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465328,2016-04-14 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465329,2016-04-14 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465449,2016-04-15 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465450,2016-04-15 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465458,2016-04-16 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465459,2016-04-16 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465474,2016-04-17 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465475,2016-04-17 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465504,2016-04-18 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12465505,2016-04-18 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12465520,2016-04-19 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465521,2016-04-19 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465535,2016-04-20 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465536,2016-04-20 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465600,2016-04-21 00:00:00.000,4,6,,Thursday,5,,,,Email,45,,,,Direct Buy,,,,6527,1324023
+12465603,2016-04-21 00:00:00.000,4,10,,Thursday,5,,PC,,Email,45,false,,Win7,Direct Buy,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),6527,1324023
+12465604,2016-04-21 00:00:00.000,4,7,,Thursday,5,,,,Email,45,,,,Direct Buy,,,,6527,1324023
+12465618,2016-04-21 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465619,2016-04-21 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465681,2016-04-22 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465682,2016-04-22 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465690,2016-04-23 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465691,2016-04-23 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465720,2016-04-24 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465721,2016-04-24 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465733,2016-04-24 00:00:00.000,11,6,,Sunday,1,,,,Email,111,,,,Direct Buy,,,,6527,1324023
+12465737,2016-04-24 00:00:00.000,11,7,,Sunday,1,,,,Email,111,,,,Direct Buy,,,,6527,1324023
+12465767,2016-04-25 00:00:00.000,10,6,,Monday,2,,,,Email,102,,,,Digesto Blog Subscription,,,,5858,318752
+12465768,2016-04-25 00:00:00.000,10,7,,Monday,2,,,,Email,102,,,,Digesto Blog Subscription,,,,5858,318752
+12465819,2016-04-26 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465820,2016-04-26 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465850,2016-04-27 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465851,2016-04-27 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465875,2016-04-27 00:00:00.000,14,6,,Wednesday,4,,,,Email Invitation,144,,,,NBA Owners Luncheon,,,,6567,318752
+12465876,2016-04-27 00:00:00.000,14,10,,Wednesday,4,,PC,,Email Invitation,144,false,,Win7,NBA Owners Luncheon,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),6567,318752
+12465877,2016-04-27 00:00:00.000,14,7,,Wednesday,4,,,,Email Invitation,144,,,,NBA Owners Luncheon,,,,6567,318752
+12465885,2016-04-28 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465886,2016-04-28 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12465901,2016-04-29 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465902,2016-04-29 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12465910,2016-04-30 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465911,2016-04-30 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12465932,2016-05-01 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465933,2016-05-01 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12465947,2016-05-02 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12465948,2016-05-02 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12465975,2016-05-03 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465976,2016-05-03 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12465992,2016-05-04 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12465993,2016-05-04 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12466006,2016-05-04 00:00:00.000,10,6,,Wednesday,4,,,,Email,104,,,,Download,,,,6571,318752
+12466020,2016-05-05 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12466021,2016-05-05 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12469556,2016-05-06 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12469557,2016-05-06 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12469666,2016-05-07 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12469667,2016-05-07 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12469668,2016-05-07 00:00:00.000,12,11,,Saturday,7,,iPhone,,Email,127,true,http://www.reddit.com/r/funny/comments/2l2i0d/adam_on_his_role_in_pitch_perfect/,iOS,Digesto Blog Subscription,,,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safari/600.1.4",5858,318752
+12469757,2016-05-08 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12469758,2016-05-08 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12469927,2016-05-08 00:00:00.000,14,6,,Sunday,1,,,,Email,141,,,,NYRR Email Token Test,,,,6659,318752
+12470025,2016-05-08 00:00:00.000,14,7,,Sunday,1,,,,Email,141,,,,NYRR Email Token Test,,,,6659,318752
+12470027,2016-05-08 00:00:00.000,14,10,,Sunday,1,,unknown,,Email,141,false,,unknown,NYRR Email Token Test,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko)",6659,318752
+12470041,2016-05-09 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12470042,2016-05-09 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12470162,2016-05-10 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12470163,2016-05-10 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12470195,2016-05-11 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12470196,2016-05-11 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12470596,2016-05-12 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12470597,2016-05-12 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12470599,2016-05-12 00:00:00.000,15,6,,Thursday,5,,,,Email,155,,,,NYRR Email Token Test,,,,6659,318752
+12470601,2016-05-12 00:00:00.000,15,7,,Thursday,5,,,,Email,155,,,,NYRR Email Token Test,,,,6659,318752
+12470603,2016-05-12 00:00:00.000,15,6,,Thursday,5,,,,Email,155,,,,NYRR Email Token Test,,,,6659,318752
+12470605,2016-05-12 00:00:00.000,15,7,,Thursday,5,,,,Email,155,,,,NYRR Email Token Test,,,,6659,318752
+12470606,2016-05-12 00:00:00.000,16,6,,Thursday,5,,,,Email,165,,,,NYRR Email Token Test,,,,6659,318752
+12470608,2016-05-12 00:00:00.000,16,7,,Thursday,5,,,,Email,165,,,,NYRR Email Token Test,,,,6659,318752
+12470609,2016-05-13 00:00:00.000,17,6,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470611,2016-05-13 00:00:00.000,17,7,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470612,2016-05-13 00:00:00.000,17,6,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470614,2016-05-13 00:00:00.000,17,7,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470615,2016-05-13 00:00:00.000,17,6,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470617,2016-05-13 00:00:00.000,17,7,,Friday,6,,,,Email,176,,,,NYRR Email Token Test,,,,6659,318752
+12470672,2016-05-13 00:00:00.000,8,6,,Friday,6,,,,Email,86,,,,Digesto Blog Subscription,,,,5858,318752
+12470673,2016-05-13 00:00:00.000,8,7,,Friday,6,,,,Email,86,,,,Digesto Blog Subscription,,,,5858,318752
+12470674,2016-05-13 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12470675,2016-05-13 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12470811,2016-05-14 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12470812,2016-05-14 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12470839,2016-05-15 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12470840,2016-05-15 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12470937,2016-05-16 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12470938,2016-05-16 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12470967,2016-05-16 00:00:00.000,13,6,,Monday,2,,,,Email,132,,,,Calendar Program,,,,6693,318752
+12470968,2016-05-16 00:00:00.000,13,7,,Monday,2,,,,Email,132,,,,Calendar Program,,,,6693,318752
+12470969,2016-05-16 00:00:00.000,13,6,,Monday,2,,,,Email,132,,,,Calendar Program,,,,6693,318752
+12470970,2016-05-16 00:00:00.000,13,7,,Monday,2,,,,Email,132,,,,Calendar Program,,,,6693,318752
+12470971,2016-05-16 00:00:00.000,13,10,,Monday,2,,PC,,Email,132,false,,Win7,Calendar Program,,,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MDDRJS; Microsoft Outlook 14.0.7113; ms-office; MSOffice 14),6693,318752
+12471029,2016-05-17 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12471030,2016-05-17 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12471625,2016-05-18 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12471626,2016-05-18 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12472154,2016-05-19 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12472155,2016-05-19 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12472687,2016-05-20 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12472688,2016-05-20 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12472797,2016-05-21 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12472798,2016-05-21 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12472905,2016-05-22 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12472906,2016-05-22 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12473036,2016-05-23 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12473037,2016-05-23 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12473237,2016-05-24 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12473238,2016-05-24 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12473481,2016-05-25 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12473482,2016-05-25 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12475632,2016-05-26 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12475633,2016-05-26 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12475796,2016-05-27 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12475797,2016-05-27 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12475824,2016-05-28 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12475825,2016-05-28 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12475853,2016-05-30 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12475854,2016-05-30 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12475908,2016-05-31 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12475909,2016-05-31 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12475990,2016-06-01 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12475991,2016-06-01 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12476019,2016-06-02 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12476020,2016-06-02 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12476458,2016-06-03 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12476459,2016-06-03 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12476568,2016-06-04 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12476569,2016-06-04 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12476651,2016-06-05 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12476652,2016-06-05 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12477513,2016-06-06 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12477514,2016-06-06 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12477649,2016-06-07 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12477650,2016-06-07 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12477705,2016-06-08 00:00:00.000,7,6,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12477706,2016-06-08 00:00:00.000,7,7,,Wednesday,4,,,,Email,74,,,,Digesto Blog Subscription,,,,5858,318752
+12477765,2016-06-09 00:00:00.000,5,6,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12477766,2016-06-09 00:00:00.000,5,7,,Thursday,5,,,,Email,55,,,,Digesto Blog Subscription,,,,5858,318752
+12477983,2016-06-10 00:00:00.000,12,6,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12477984,2016-06-10 00:00:00.000,12,7,,Friday,6,,,,Email,126,,,,Digesto Blog Subscription,,,,5858,318752
+12477985,2016-06-11 00:00:00.000,11,6,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12477986,2016-06-11 00:00:00.000,11,7,,Saturday,7,,,,Email,117,,,,Digesto Blog Subscription,,,,5858,318752
+12478040,2016-06-12 00:00:00.000,5,6,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12478041,2016-06-12 00:00:00.000,5,7,,Sunday,1,,,,Email,51,,,,Digesto Blog Subscription,,,,5858,318752
+12478042,2016-06-12 00:00:00.000,8,6,,Sunday,1,,,,Email,81,,,,Digesto Blog Subscription,,,,5858,318752
+12478043,2016-06-12 00:00:00.000,8,7,,Sunday,1,,,,Email,81,,,,Digesto Blog Subscription,,,,5858,318752
+12478152,2016-06-13 00:00:00.000,7,6,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12478153,2016-06-13 00:00:00.000,7,7,,Monday,2,,,,Email,72,,,,Digesto Blog Subscription,,,,5858,318752
+12478154,2016-06-13 00:00:00.000,10,6,,Monday,2,,,,MSC Newsletter Email,102,,,,Email Scripting - Newsletter,,,,3468,318752
+12478165,2016-06-13 00:00:00.000,10,6,,Monday,2,,,,MSC Newsletter Email,102,,,,Email Scripting - Newsletter,,,,3468,1324531
+12478194,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478195,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478331,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12478332,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12478494,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478495,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478657,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12478658,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12478792,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12478793,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12478874,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478875,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12478930,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12478931,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12479030,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12479031,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12479032,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12479033,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12493496,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12493497,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12493618,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12493619,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12493674,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12493675,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12493730,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12493731,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12493849,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12493850,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12494224,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494225,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494325,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12494326,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12494353,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494354,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494436,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12494437,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12494519,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12494520,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12494575,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494576,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12494631,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12494632,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12498707,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12498708,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12498986,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12498987,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12499042,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499043,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499125,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12499126,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12499207,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12499208,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12499369,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499370,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499674,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12499675,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12499703,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499704,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499732,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12499733,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12499734,2016-06-14 00:00:00.000,8,6,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12499735,2016-06-14 00:00:00.000,8,7,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12499782,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499783,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12499864,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12499865,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12500001,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12500002,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12500057,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12500058,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12500139,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12500140,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12500349,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12500350,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12500498,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12500499,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12500554,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12500555,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12501261,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12501262,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12501344,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12501345,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12501569,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12501570,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12501652,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12501653,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12501894,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12501895,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502058,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502059,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502087,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502088,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502167,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12502168,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12502222,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12502223,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12502320,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502321,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502495,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502496,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502578,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502579,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502607,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502608,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12502735,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12502736,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12503182,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12503183,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12503382,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12503383,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12503500,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12503501,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12503635,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12503636,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12504054,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504055,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504299,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12504300,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12504302,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504303,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504434,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12504435,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12504463,2016-06-15 00:00:00.000,17,11,,Wednesday,4,,Macintosh,,Email,174,false,https://www.wired.com/2015/02/week-on-the-internet-9/,MacOSX,Digesto Blog Subscription,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5",5858,318752
+12504464,2016-06-15 00:00:00.000,17,11,,Wednesday,4,,Macintosh,,Email,174,false,https://www.wired.com/2015/02/how-to-make-fake-snow/,MacOSX,Digesto Blog Subscription,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5",5858,318752
+12504548,2016-06-14 00:00:00.000,8,6,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12504549,2016-06-14 00:00:00.000,8,7,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,,5858,318752
+12504550,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12504551,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12504606,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504607,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504663,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12504664,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12504719,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12504720,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505099,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12505100,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12505209,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505210,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505293,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12505294,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Email,123,,,,Digesto Blog Subscription,,,,5858,318752
+12505349,2016-06-14 00:00:00.000,11,6,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12505350,2016-06-14 00:00:00.000,11,7,,Tuesday,3,,,,Email,113,,,,Digesto Blog Subscription,,,,5858,318752
+12505459,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505460,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505538,2016-06-14 00:00:00.000,7,6,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12505539,2016-06-14 00:00:00.000,7,7,,Tuesday,3,,,,Email,73,,,,Digesto Blog Subscription,,,,5858,318752
+12505576,2016-06-14 00:00:00.000,10,6,,Tuesday,3,,,,Email 1 - template,103,,,,Enablement Email Track,,,,6804,318752
+12505577,2016-06-14 00:00:00.000,10,6,,Tuesday,3,,,,Email 1 - template,103,,,,Enablement Email Track,,,,6804,1320352
+12505578,2016-06-14 00:00:00.000,10,7,,Tuesday,3,,,,Email 1 - template,103,,,,Enablement Email Track,,,,6804,1320352
+12505579,2016-06-14 00:00:00.000,10,10,,Tuesday,3,,,,Email 1 - template,103,,,,Enablement Email Track,,,,6804,318752
+12505598,2016-06-14 00:00:00.000,10,7,,Tuesday,3,,,,Email 1 - template,103,,,,Enablement Email Track,,,,6804,318752
+12505599,2016-06-14 00:00:00.000,10,10,,Tuesday,3,,Windows Desktop,,Email 1 - template,103,false,,Win7,Enablement Email Track,,,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Microsoft Outlook 14.0.7143; ms-office; MSOffice 14),6804,1320352
+12505793,2016-06-14 00:00:00.000,5,6,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505794,2016-06-14 00:00:00.000,5,7,,Tuesday,3,,,,Email,53,,,,Digesto Blog Subscription,,,,5858,318752
+12505851,2016-06-14 00:00:00.000,8,9,,Tuesday,3,,,,Email,83,,,,Digesto Blog Subscription,,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36",5858,318752
+12506404,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,HT test,123,,,,HT Test Email,,,,6819,1324835
+12506405,2016-06-14 00:00:00.000,12,10,,Tuesday,3,,Android,,HT test,123,true,,Android,HT Test Email,,,"Mozilla/5.0 (Linux; Android 4.4.4; XT1254 Build/SU2-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",6819,1324835
+12506426,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,HT test,123,,,,HT Test Email,,,,6819,1324835
+12506427,2016-06-14 00:00:00.000,12,6,,Tuesday,3,,,,Test #2 for HT,123,,,,HT Test Email,,,,6821,1324835
+12506428,2016-06-14 00:00:00.000,12,7,,Tuesday,3,,,,Test #2 for HT,123,,,,HT Test Email,,,,6821,1324835
+12506429,2016-06-14 00:00:00.000,12,10,,Tuesday,3,,Android,,Test #2 for HT,123,true,,Android,HT Test Email,,,"Mozilla/5.0 (Linux; Android 4.4.4; XT1254 Build/SU2-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",6821,1324835
+12506447,2016-06-14 00:00:00.000,14,6,,Tuesday,3,,,,Responsive Test Email for HT,143,,,,HT Test Email,,,,6826,1324835
+12506448,2016-06-14 00:00:00.000,14,7,,Tuesday,3,,,,Responsive Test Email for HT,143,,,,HT Test Email,,,,6826,1324835
+12506449,2016-06-14 00:00:00.000,14,10,,Tuesday,3,,Android,,Responsive Test Email for HT,143,true,,Android,HT Test Email,,,"Mozilla/5.0 (Linux; Android 4.4.4; XT1254 Build/SU2-12) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",6826,1324835

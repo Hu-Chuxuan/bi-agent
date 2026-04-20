@@ -1,0 +1,7 @@
+TypeCode,TypeDesc,Capacity
+"AER10","Group aerobic Endurance Exercise",10
+"CAR1","Individual cardiovascular exercise",1
+"CAR5","Group cardiovascular exercise",5
+"STR1","Individual strength training to recruit muscles",1
+"STR5","Group strength training to recruit muscles",5
+"YOG10","Flexibility Yoga",10

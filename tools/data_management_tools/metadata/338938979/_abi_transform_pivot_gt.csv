@@ -1,0 +1,2 @@
+case_id,modified_table_id,modified_table_name,transform,post_pivot_key_cols,pivot_col,val_col,step
+338938979,836,Economics,Pivot,"['Year', 'County and Region']",variable,value,"    #""Columna dinamizada"" = Table.Pivot(#""Encabezados promovidos"", List.Distinct(#""Encabezados promovidos""[STATISTIC]), ""STATISTIC"", ""VALUE""),"

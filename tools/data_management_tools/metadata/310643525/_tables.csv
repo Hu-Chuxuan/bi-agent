@@ -1,0 +1,7 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Dim_Store","","",False,207,2022-04-23 21:20:48.250,2022-04-23 10:22:43.163,0,False,False,,0,,,False,"8d8658b6-3142-4b5d-8676-8dcf875e4978",""
+13,1,"Dim_Customers","","",False,209,2022-04-23 21:20:48.270,2022-04-23 12:23:48.580,0,False,False,,0,,,False,"876444d4-c62e-46e3-9fde-acd29bd36591",""
+25,1,"Dim_Target","","",False,217,2022-04-23 21:20:48.293,2022-04-23 10:22:43.490,0,False,False,,0,,,False,"0d7ecd9a-c19a-45d4-b7e4-bbd42452e83d",""
+6341,1,"Fact_Sales","","",False,6625,2022-04-23 21:20:48.313,2022-04-25 22:00:22.670,0,False,False,,0,,,False,"3569bf04-d2de-4008-9990-0c7282fc070a",""
+10262,1,"Dim_Product","","",False,10365,2022-04-23 21:20:48.336,2022-04-23 11:06:26.440,0,False,False,,0,,,False,"cb0bece5-d985-4e2d-80d1-590953246a6f",""
+13195,1,"Dim_Date","Time","",False,13201,2022-04-23 21:07:48.250,2022-04-23 21:57:34.623,2,False,False,,0,,,False,"915ce722-fce9-4c3b-b0d3-686b869c33b1",""

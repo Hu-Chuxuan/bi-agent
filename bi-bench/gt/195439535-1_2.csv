@@ -1,0 +1,13 @@
+PartOfDay,AccidentSeverity,Count
+Afternoon,Fatal,397
+Afternoon,Serious,5721
+Afternoon,Slight,35915
+Evening,Fatal,295
+Evening,Serious,4453
+Evening,Slight,26123
+Morning,Fatal,365
+Morning,Serious,4774
+Morning,Slight,31689
+Night,Fatal,308
+Night,Serious,2592
+Night,Slight,11449

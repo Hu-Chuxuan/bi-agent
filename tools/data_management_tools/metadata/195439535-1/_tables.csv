@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"Dim Casualties","","",False,58,2022-01-07 07:27:31.076,2022-01-07 13:33:27.196,0,False,False,,0,,,True,"8f288d5d-6b0d-41eb-a01f-f54731e70f32",""
+15,1,"DateTableTemplate_811e8896-4dac-4d23-a77c-3a66d612242b","","",True,60,2022-01-06 11:17:30.223,2022-01-06 11:17:25.260,2,False,True,,0,,,False,"e0f537ad-37b0-4721-92ae-3b1ab88dcc26",""
+462,1,"Dim Date","Time","",False,1157,2022-01-07 10:24:36.343,2022-01-07 02:58:27.270,0,False,False,,0,,,True,"1a888a78-4e1a-43f2-9553-1f6dd5c8524c",""
+474,1,"DimGeography","","",False,1165,2022-01-06 11:21:39.806,2022-01-06 11:19:14.946,0,False,False,,0,,,True,"d4386529-1c9c-4b2f-8085-d76ebc31400a",""
+477,1,"DimJourneyPurpose","","",False,1167,2022-01-06 11:21:39.806,2022-01-06 11:19:14.946,0,False,False,,0,,,True,"38ac1c01-5293-46e3-8032-8500e5998a5f",""
+480,1,"DimRoadType","","",False,1169,2022-01-06 11:21:39.806,2022-01-06 11:19:14.946,0,False,False,,0,,,True,"7e68df5a-ce10-4b92-a3f2-5ad8e80a4940",""
+483,1,"DimTime","","",False,1171,2022-01-06 11:21:39.806,2022-01-07 10:56:06.623,0,False,False,,0,,,True,"4c05e249-14e0-4a34-a610-52eb4fbba5aa",""
+486,1,"DimVehicleType","","",False,1173,2022-01-06 11:21:39.806,2022-01-06 11:19:14.946,0,False,False,,0,,,True,"769e3fca-fd52-4ef2-9ab5-dbe382f045a8",""
+489,1,"FactAccidentCasualties","","",False,1175,2022-01-06 11:19:14.946,2022-01-07 05:18:37.350,0,False,False,,0,,,False,"c0e5198c-ac60-43df-8910-98c657d3fb54",""
+492,1,"FactAccidentVehicle","","",False,1177,2022-01-06 11:19:14.946,2022-01-07 07:23:58.870,0,False,False,,0,,,False,"1b2b17c0-b2aa-479d-94fe-b1849d114869",""
+495,1,"FactAccidents","","",False,1179,2022-01-06 11:19:14.946,2022-01-07 08:09:21.923,0,False,False,,0,,,False,"33be2371-f691-47de-ac93-cf268f98025a",""

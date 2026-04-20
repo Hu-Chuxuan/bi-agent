@@ -1,0 +1,9 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+10,1,"Calendar","","",False,245,2021-05-10 06:29:47.753,2020-04-19 15:04:15.446,2,False,False,,0,,,False,"9489d0c6-03bd-481b-8164-fcb329b349e2",""
+13,1,"_Measures","","",False,247,2021-05-10 06:29:47.753,2020-05-26 09:42:50.270,2,False,False,,0,,,False,"c3136e1c-a993-4719-9c44-a6870f4b654f",""
+16,1,"Range Table","","",False,249,2021-05-10 06:29:47.753,2020-04-19 15:04:15.450,2,False,False,,0,,,False,"c1807f56-ba81-41fb-bcba-cb01ff1c336f",""
+19,1,"GrowthRateTable","","",False,251,2021-05-10 06:29:47.753,2020-04-19 15:04:15.450,2,False,False,,0,,,False,"fc384017-5dd0-4c9f-b51c-59f95bfe23df",""
+22,1,"World","","",False,253,2021-05-10 06:29:47.753,2020-04-19 15:04:15.450,0,False,False,,0,,,False,"40e1691a-7567-4a70-82a5-a294b9178f84",""
+25,1,"Data","","",False,255,2021-05-10 06:29:47.753,2020-05-18 04:20:28.903,0,False,False,,0,,,False,"5d16f6bd-e139-4b2b-a4c5-27b5fdb7bcb4",""
+28,1,"On/Off Table","","",False,257,2021-05-10 06:29:47.753,2020-04-19 15:04:15.450,2,False,False,,0,,,False,"01020ccd-36e6-479a-a448-c3edaee3ede2",""
+31,1,"Refresh","","",False,259,2021-05-10 06:29:47.753,2020-04-19 15:04:15.450,0,False,False,,0,,,False,"45e7b93b-033e-40df-9f1c-bcae86f4a5f4",""

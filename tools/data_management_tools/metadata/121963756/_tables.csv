@@ -1,0 +1,12 @@
+ID,ModelID,Name,DataCategory,Description,IsHidden,TableStorageID,ModifiedTime,StructureModifiedTime,SystemFlags,ShowAsVariationsOnly,IsPrivate,DefaultDetailRowsDefinitionID,AlternateSourcePrecedence,RefreshPolicyID,CalculationGroupID,ExcludeFromModelRefresh,LineageTag,SourceLineageTag
+12,1,"CustomerAddress","","",False,57,2022-06-16 11:29:42.203,2020-11-19 11:12:18.276,0,False,False,,0,,,False,"e096f785-1114-4d28-b90f-036ac6712681",""
+15,1,"DateTableTemplate_e0395640-e82b-484d-b33f-eb16159611ec","","",True,59,2022-06-16 11:29:42.203,2020-11-18 21:22:25.143,2,False,True,,0,,,False,"4e71ac5d-0741-4b55-9ebc-d62caf4962d4",""
+174,1,"CustomerDemographic","","",False,246,2022-06-16 11:29:42.203,2020-11-19 09:28:47.040,0,False,False,,0,,,False,"73f4c1c6-0573-4966-8c89-a3be4a49113b",""
+316,1,"NewCustomerList","","",False,478,2022-06-16 11:29:42.203,2020-11-18 21:56:48.320,0,False,False,,0,,,False,"9dac1a55-3142-45da-9338-4dd738b42846",""
+626,1,"Transactions","","",False,786,2022-06-16 11:29:42.203,2020-11-19 11:33:39.240,0,False,False,,0,,,False,"14ae8d05-9cb1-4bbc-9a56-231418e9a383",""
+4065,1,"Dimdate","Time","",False,4071,2022-06-16 11:29:42.203,2020-11-19 09:12:21.846,2,False,False,,0,,,False,"7d04eddf-787e-42a9-bb50-de5149abc4d4",""
+5069,1,"LocalDateTable_d5c3af66-5aac-4ae0-923f-4cc0cc99fe7a","","",True,5116,2022-06-16 11:29:42.203,2020-11-19 08:39:23.966,2,True,False,,0,,,False,"f73fe321-6411-425c-9559-08ad0f4f18d4",""
+6499,1,"Gender_Count","","",False,6505,2022-06-16 11:29:42.203,2020-11-20 07:20:39.183,2,False,False,,0,,,False,"ec52a8fd-f0ee-43b5-bf0c-6e9ac3042c15",""
+6927,1,"bike_purchase","","",False,6933,2022-06-16 11:29:42.203,2020-11-20 07:47:10.876,2,False,False,,0,,,False,"fef509e3-e674-4e5e-97a7-743c02aa90ea",""
+7641,1,"LocalDateTable_cb59520f-ff16-44d7-a389-b71fb108d926","","",True,7688,2022-06-16 11:29:42.203,2020-11-20 07:26:16.413,2,True,False,,0,,,False,"4656f372-797b-4271-90a6-56cecfb4f6a9",""
+8205,1,"Customer10","","",False,8211,2022-06-16 11:29:42.203,2020-11-20 07:40:09.310,2,False,False,,0,,,False,"b1e5f842-ea68-464a-a176-5ad81f42197d",""
