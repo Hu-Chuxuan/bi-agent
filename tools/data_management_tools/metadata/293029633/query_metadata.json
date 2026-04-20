@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Progress Report End.csv",
+    "Event Subclasses.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Progress Report End.csv"
+    ]
+  }
+}

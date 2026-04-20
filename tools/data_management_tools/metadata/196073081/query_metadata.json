@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "tblFamily.csv",
+    "tblPurchase.csv",
+    "tblProduct.csv",
+    "tblCentre.csv",
+    "tblTown.csv",
+    "tblRegion.csv"
+  ]
+}

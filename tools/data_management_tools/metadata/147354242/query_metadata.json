@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Required Bay.csv",
+    "Date.csv",
+    "Productgroup.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Required Bay.csv"
+    ]
+  }
+}

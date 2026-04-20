@@ -1,0 +1,13 @@
+{
+  "tables": [
+    "dimCurrency.csv",
+    "Sales.csv",
+    "SalesPlan.csv",
+    "Stores.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "SalesPlan.csv"
+    ]
+  }
+}

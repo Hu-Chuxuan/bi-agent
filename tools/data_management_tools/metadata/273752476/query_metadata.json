@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Call Input.csv",
+    "Call Category.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Call Category.csv"
+    ]
+  }
+}

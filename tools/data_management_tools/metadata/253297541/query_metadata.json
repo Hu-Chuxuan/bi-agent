@@ -1,0 +1,13 @@
+{
+  "tables": [
+    "project_details.csv",
+    "project_facts.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "project_details.csv",
+      "calc_project_status_end_dates.csv",
+      "calc_non_da_latest_status.csv"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "ipl_matches.csv",
+    "merged_final.csv",
+    "run_rate_new.csv",
+    "team_key.csv"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "tables": [
+    "ECDC.csv",
+    "Hopkins.csv",
+    "RKI.csv"
+  ]
+}

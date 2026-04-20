@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Locations.csv",
+    "WomenHealth.csv",
+    "DataProfile.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "DataProfile.csv"
+    ]
+  }
+}

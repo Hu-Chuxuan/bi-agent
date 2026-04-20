@@ -1,0 +1,14 @@
+{
+  "tables": [
+    "Daily_Cases.csv",
+    "Daily_Deaths.csv",
+    "Daily_Recovered.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Daily_Cases.csv",
+      "Daily_Deaths.csv",
+      "Daily_Recovered.csv"
+    ]
+  }
+}

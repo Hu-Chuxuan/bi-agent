@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "Economics.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Economics.csv"
+    ]
+  }
+}

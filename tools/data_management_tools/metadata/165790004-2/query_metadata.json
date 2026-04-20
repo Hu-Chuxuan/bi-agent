@@ -1,0 +1,6 @@
+{
+  "tables": [
+    "Regions.csv",
+    "Sales Orders.csv"
+  ]
+}

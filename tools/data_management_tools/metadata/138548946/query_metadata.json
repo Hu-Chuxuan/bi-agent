@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Questionnaire Results.csv",
+    "Question.csv",
+    "Answer Points.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Questionnaire Results.csv"
+    ]
+  }
+}

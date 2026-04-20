@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "TBD.csv",
+    "ForecastTBD.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "TBD.csv"
+    ]
+  }
+}

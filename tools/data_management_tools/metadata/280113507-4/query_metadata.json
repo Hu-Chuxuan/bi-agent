@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "CourseOffering.csv",
+    "Grades.csv",
+    "UniversityCampus.csv",
+    "CourseCatalog.csv"
+  ]
+}

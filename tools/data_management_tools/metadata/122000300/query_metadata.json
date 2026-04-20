@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "CollegeInfo.csv",
+    "Enrollment.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Enrollment.csv"
+    ]
+  }
+}

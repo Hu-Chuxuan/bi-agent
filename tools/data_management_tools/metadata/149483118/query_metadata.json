@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "q802_Question.csv",
+    "Response.csv",
+    "Sort Order_question code.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Response.csv"
+    ]
+  }
+}

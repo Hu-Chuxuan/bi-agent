@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "wn_bothhouses_c.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "wn_bothhouses_c.csv"
+    ]
+  }
+}

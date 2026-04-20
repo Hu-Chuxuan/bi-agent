@@ -1,0 +1,6 @@
+{
+  "tables": [
+    "retail_dw_test vbi_dimpromotion.csv",
+    "retail_dw_test vbi_factonlinesales.csv"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "BSE.csv",
+    "P&L.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "P&L.csv"
+    ]
+  }
+}

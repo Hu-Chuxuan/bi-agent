@@ -1,0 +1,7 @@
+{
+  "tables": [
+    "Sales.csv",
+    "Products.csv",
+    "Locations.csv"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Cash Flow.csv",
+    "Income Statement.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Cash Flow.csv",
+      "Income Statement.csv"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tables": [
+    "Rounds.csv",
+    "Teams.csv",
+    "Submitted Answer.csv"
+  ]
+}

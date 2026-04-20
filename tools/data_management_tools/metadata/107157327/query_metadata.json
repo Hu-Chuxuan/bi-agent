@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "TCS balance Sheet.csv",
+    "TCS DATA.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "TCS balance Sheet.csv"
+    ]
+  }
+}

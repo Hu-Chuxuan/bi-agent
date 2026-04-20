@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "InsulinTable (2).csv",
+    "History Profiles.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "InsulinTable (2).csv"
+    ]
+  }
+}

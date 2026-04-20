@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Orders.csv",
+    "Order Details.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Order Details.csv"
+    ]
+  }
+}

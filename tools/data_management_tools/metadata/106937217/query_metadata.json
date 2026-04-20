@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Non-interchance passengers 2017-18.csv",
+    "Stations.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Non-interchance passengers 2017-18.csv"
+    ]
+  }
+}

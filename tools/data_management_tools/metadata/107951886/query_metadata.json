@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Countries to Continent Mapping.csv",
+    "Human Development Index.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Human Development Index.csv"
+    ]
+  }
+}

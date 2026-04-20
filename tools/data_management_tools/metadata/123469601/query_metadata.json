@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "Data.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Data.csv"
+    ]
+  }
+}

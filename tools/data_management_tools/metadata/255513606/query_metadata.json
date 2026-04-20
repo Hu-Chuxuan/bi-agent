@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "EmailActivities.csv",
+    "Datetable.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "EmailActivities.csv"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Location.csv",
+    "Police Employee Data.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Police Employee Data.csv"
+    ]
+  }
+}

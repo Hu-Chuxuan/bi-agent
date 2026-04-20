@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Byetta Table (2).csv",
+    "History Profiles.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Byetta Table (2).csv"
+    ]
+  }
+}

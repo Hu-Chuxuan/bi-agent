@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "BSE.csv",
+    "Balance Sheet.csv",
+    "TCS vs BSE.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Balance Sheet.csv"
+    ]
+  }
+}

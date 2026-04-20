@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "Orders.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Orders.csv"
+    ]
+  }
+}

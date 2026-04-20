@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "CT2_LiveCurrency.csv",
+    "List of circulating currencies by state and_or territory.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "CT2_LiveCurrency.csv"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tables": [
+    "FinData.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "FinData.csv"
+    ]
+  }
+}

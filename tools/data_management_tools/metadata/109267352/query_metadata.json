@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Production Plan.csv",
+    "Assembly details _ BOM.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Production Plan.csv"
+    ]
+  }
+}

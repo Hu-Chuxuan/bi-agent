@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "DimProductCategory.csv",
+    "FactInternetSales.csv",
+    "DimProduct.csv",
+    "DimProductSubcategory.csv"
+  ]
+}

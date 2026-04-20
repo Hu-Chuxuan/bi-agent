@@ -1,0 +1,9 @@
+{
+  "tables": [
+    "disability age.csv",
+    "disability area.csv",
+    "disability state.csv",
+    "disability disability_rate.csv",
+    "disability time.csv"
+  ]
+}

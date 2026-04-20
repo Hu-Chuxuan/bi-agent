@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Weekly figures 2019.csv",
+    "Weekly figures 2020.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Weekly figures 2019.csv",
+      "Weekly figures 2020.csv"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "tables": [
+    "FACT_STATISTICS.csv",
+    "DIM_COUNTRIES.csv"
+  ]
+}

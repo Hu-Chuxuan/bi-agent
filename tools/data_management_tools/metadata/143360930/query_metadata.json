@@ -1,0 +1,13 @@
+{
+  "tables": [
+    "GDP.csv",
+    "Population.csv",
+    "US States.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "GDP.csv",
+      "Population.csv"
+    ]
+  }
+}

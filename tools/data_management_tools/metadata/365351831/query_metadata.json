@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Annual Revenue.csv",
+    "Date Table.csv",
+    "Revenue Item Categories.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Annual Revenue.csv"
+    ]
+  }
+}

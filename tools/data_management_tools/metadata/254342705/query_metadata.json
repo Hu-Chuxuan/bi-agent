@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Air Traffic.csv",
+    "Passenger Revenue.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Passenger Revenue.csv"
+    ]
+  }
+}

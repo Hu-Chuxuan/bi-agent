@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Manufacturer.csv",
+    "Sales.csv",
+    "International Sales.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Manufacturer.csv"
+    ]
+  }
+}

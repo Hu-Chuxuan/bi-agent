@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Append1.csv",
+    "Repairs.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Repairs.csv"
+    ]
+  }
+}

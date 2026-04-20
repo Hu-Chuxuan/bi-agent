@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "Attendance.csv",
+    "Schools.csv",
+    "Students.csv",
+    "MetricSlicer.csv"
+  ]
+}

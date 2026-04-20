@@ -1,0 +1,13 @@
+{
+  "tables": [
+    "Customers.csv",
+    "Fans.csv",
+    "Product.csv"
+  ],
+  "transformation": {
+    "pivot": [
+      "Customers.csv",
+      "Fans.csv"
+    ]
+  }
+}

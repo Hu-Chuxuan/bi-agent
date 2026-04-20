@@ -1,0 +1,11 @@
+{
+  "tables": [
+    "Dim_Store.csv",
+    "Fact_Sales.csv"
+  ],
+  "transformation": {
+    "transposed": [
+      "Dim_Store.csv"
+    ]
+  }
+}

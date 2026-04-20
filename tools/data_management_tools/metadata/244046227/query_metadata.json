@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "TransactionLines.csv",
+    "Companies.csv",
+    "GeneralLedger.csv",
+    "Header.csv"
+  ]
+}

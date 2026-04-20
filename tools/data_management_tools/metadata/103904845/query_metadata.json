@@ -1,0 +1,8 @@
+{
+  "tables": [
+    "EmailClicked.csv",
+    "EmailForwarded.csv",
+    "EmailOpened.csv",
+    "EmailSent.csv"
+  ]
+}

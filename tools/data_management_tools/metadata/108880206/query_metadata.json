@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "Average Units.csv",
+    "Date.csv",
+    "Inventory.csv"
+  ],
+  "transformation": {
+    "unpivot": [
+      "Average Units.csv"
+    ]
+  }
+}
