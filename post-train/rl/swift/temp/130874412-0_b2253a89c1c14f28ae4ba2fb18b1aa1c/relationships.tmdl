@@ -1,8 +1,0 @@
-﻿relationship 2099225d-afe3-4e8c-83a6-8753f73d8286
-	fromColumn: Table1.'ID 2'
-	toColumn: 'Table1 (2)'.'ID 2'
-
-relationship 9239822e-e192-45c2-99bb-53760462efd6
-	fromColumn: 'Table1 (3)'.Index
-	toColumn: 'Table1 (2)'.Index
-

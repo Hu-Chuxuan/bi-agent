@@ -1,3 +1,0 @@
-Source,Timestamp,Details,Event
-"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:50:45.703,"Failed to convert type bigint to integer, expression `awards.nominations` to ?.","OdbcQuery/FoldingWarning"
-"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:50:45.703,"This ODBC driver doesn't support SQL_FN_CVT_CONVERT or SQL_FN_CVT_CAST. You can override this by using SqlGetInfo for SQL_CONVERT_FUNCTIONS.","OdbcQuery/FoldingWarning"

@@ -1,8 +1,0 @@
-HabitatId,HabitatName,EnvironmentId,BackColour,ForeColour
-1,"Grasslands",1,"Light green","Black"
-2,"Forest",1,"Dark green","White"
-3,"Fresh water",3,"LightBlue","Dark blue"
-4,"Salt water",3,"#78aaf5","White"
-5,"Desert",1,"#d6a740","Black"
-6,"Urban",1,"#222","White"
-7,"Sky",2,"#0a66f0","White"

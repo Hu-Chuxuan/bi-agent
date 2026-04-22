@@ -1,9 +1,0 @@
-﻿relationship 14502d63-7916-4e92-a2c5-6915e7a0bcad
-	joinOnDateBehavior: datePartOnly
-	fromColumn: Calendar.Date
-	toColumn: LocalDateTable_a341cf09-c0bc-4bfe-8569-778178a93183.Date
-
-relationship 8e50ba13-6110-4de1-b3aa-efd3a5f40e1e
-	fromColumn: Sales.Date
-	toColumn: Calendar.Date
-

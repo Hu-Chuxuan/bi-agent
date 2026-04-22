@@ -1,7 +1,0 @@
-ID,Acquisition Qtr,Purchase Qtr,Product,Acq Type
-1,"19Q1","19Q1","A","At Acq"
-1,"19Q1","18Q1","B","Pre Acq"
-1,"19Q1","20Q1","C","Post Acq"
-2,"19Q2","19Q2","C","At Acq"
-2,"19Q2","18Q2","B","Pre Acq"
-2,"19Q2","20Q2","A","Post Acq"

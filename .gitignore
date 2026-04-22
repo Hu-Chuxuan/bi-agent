@@ -49,6 +49,9 @@ output/
 # nested git repo — track only the files we care about, not the embedded repo
 nl2sql/databao-agent/
 
+# runtime temp directories
+post-train/rl/swift/temp/
+
 # oversized files excluded from Git
 bi-bench/323781751/International Sales.csv
 bi-bench/108449512/LEOKA_Assault_Time_Weapon_Injury.csv

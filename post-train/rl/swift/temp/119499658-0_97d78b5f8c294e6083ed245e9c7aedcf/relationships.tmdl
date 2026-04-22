@@ -1,9 +1,0 @@
-﻿relationship 7a85f57d-0a7a-4468-9ce1-d21e88ef4ae5
-	joinOnDateBehavior: datePartOnly
-	fromColumn: Date.Date
-	toColumn: LocalDateTable_2dfbe0b4-9413-41eb-a40b-35753c0786a6.Date
-
-relationship 861e26f4-74fa-4a8b-9047-a9a7c70c7527
-	fromColumn: Shifts.'Shift Date'
-	toColumn: Date.Date
-

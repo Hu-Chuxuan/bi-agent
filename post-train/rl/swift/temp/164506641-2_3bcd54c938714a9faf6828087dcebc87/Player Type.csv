@@ -1,5 +1,0 @@
-%player_type_id,position_name,position_name_short,squad_select,squad_min_play,squad_max_play,element_count
-1,"Goalkeeper","GKP",2,1,1,83
-2,"Defender","DEF",5,3,5,240
-3,"Midfielder","MID",5,2,5,294
-4,"Forward","FWD",3,1,3,93

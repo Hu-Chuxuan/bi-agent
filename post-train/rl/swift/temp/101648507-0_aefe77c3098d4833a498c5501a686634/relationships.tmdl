@@ -1,8 +1,0 @@
-﻿relationship 1221e6c3-3555-4482-8a4f-6de19a23265a
-	fromColumn: Sales.ProductID
-	toColumn: Product.ProductID
-
-relationship 815ed5ca-9575-4dce-968e-37519dccc52b
-	fromColumn: Sales.OrderDate
-	toColumn: Date.Date
-

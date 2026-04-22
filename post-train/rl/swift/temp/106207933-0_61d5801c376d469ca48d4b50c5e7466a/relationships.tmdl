@@ -1,4 +1,0 @@
-﻿relationship 00770dd5-a324-404a-885f-f224f40500b8
-	fromColumn: ElapsedHoursReport.'Start date'
-	toColumn: Dates.Date
-

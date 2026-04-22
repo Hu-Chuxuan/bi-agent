@@ -1,4 +1,0 @@
-item_id,sku,order_id,container_id,product_id,qty,qty_shipped,qty_received,qty_open,item_type,container_id.1,order_status,Samengevoegd,Arrival Container
-30637,"59409NP",812,887,,36,36,0,36,2,,1,"812-59409NP",
-30926,"64760",812,905,4714,60,60,54,6,2,,1,"812-64760",
-31871,"64428NP",817,951,4723,1700,1700,900,800,2,951,1,"817-64428NP",2020-10-10 00:00:00.000

@@ -1,5 +1,0 @@
-VisitID,VisitReason,PatientID,HospitalID,CentreID
-10000,"Checkup",100009,"H005",""
-10001,"Checkup",100005,"H006",""
-10002,"Checkup",100005,"",""
-10003,"Checkup",100005,"","C0006"

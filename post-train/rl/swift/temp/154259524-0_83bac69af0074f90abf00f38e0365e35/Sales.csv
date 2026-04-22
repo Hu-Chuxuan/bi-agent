@@ -1,8 +1,0 @@
-Item,Item1,Item2,Item3,Item4,Item5,Item6,Item7,Item8
-Customer,C1,C2,C3,C5,C4,C6,C4,C5
-Country,FR,FR,FR,US,US,CN,AU,GR
-Item Family,AT,AT,AT,EL,TH,ZV,TH,EL
-Quantity,50,30,40,100,100,15,100,50
-Revenu,103.55,101.2,184.0,950.0,1800.0,540.0,680.0,461.0
-Additional Discount,0.05,0.05,,0.05,,0.1,,0.05
-ASP,2.071,3.373333333333333,4.6,9.5,18.0,36.0,6.8,9.22

@@ -1,6 +1,0 @@
-﻿relationship 6f9869b5-b694-4ad7-ba29-1f8c0a268d0a
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: 'Table 2'.Key
-	toColumn: 'Table 1'.Key
-

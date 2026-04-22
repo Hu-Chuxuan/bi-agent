@@ -1,8 +1,0 @@
-﻿relationship 8cb85182-086a-49ef-84ec-f19bbab4c901
-	fromColumn: data.Status
-	toColumn: Status.Status
-
-relationship 252dce2b-0e2e-4107-bdca-95ba2ea2d1c4
-	fromColumn: data.Block
-	toColumn: Block.Block
-

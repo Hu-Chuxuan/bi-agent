@@ -1,4 +1,0 @@
-﻿relationship 7d75eed7-22ed-4149-8060-ce303602ccc4
-	fromColumn: Price.Item
-	toColumn: Sales.Item
-

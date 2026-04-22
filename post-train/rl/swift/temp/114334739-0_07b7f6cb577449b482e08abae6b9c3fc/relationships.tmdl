@@ -1,9 +1,0 @@
-﻿relationship e303e788-7ef9-4f15-a977-c66e190155ae
-	joinOnDateBehavior: datePartOnly
-	fromColumn: DATAS_BASE.'.DATA'
-	toColumn: LocalDateTable_f3e3e9cc-946c-4cea-8d5f-54437f1fd15e.Date
-
-relationship a748b179-0596-4412-a157-c263c9dcc4e1
-	fromColumn: Vendas.Data
-	toColumn: DATAS_BASE.'.DATA'
-

@@ -1,6 +1,0 @@
-﻿relationship f99fcd13-60c1-4d28-9ff3-18789b04b85f
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: Table2.id
-	toColumn: Table1.id
-

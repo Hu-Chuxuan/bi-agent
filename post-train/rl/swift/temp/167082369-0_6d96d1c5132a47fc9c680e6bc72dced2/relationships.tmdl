@@ -1,4 +1,0 @@
-﻿relationship 53973fd1-de57-4332-91a0-a6a16252bce7
-	fromColumn: Query1.Product
-	toColumn: 'Table 2'.Product
-

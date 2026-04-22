@@ -1,6 +1,0 @@
-﻿relationship 17e2bab4-b207-4a9f-b7af-477c0d92537d
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: Development.Value
-	toColumn: Table.Value
-

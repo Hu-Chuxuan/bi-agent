@@ -1,4 +1,0 @@
-﻿relationship 4c1d8103-f19b-4d19-9486-f3b2da25c6b5
-	fromColumn: 'Invoice Table'.'Invoice Date'
-	toColumn: Date.Date
-

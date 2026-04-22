@@ -1,8 +1,0 @@
-﻿relationship a403846a-08e2-4072-afec-a2d97568f275
-	fromColumn: INCIDENT_OWNER_HISTORY.ticket_nmbr
-	toColumn: INCIDENTS.TICKET_NMBR
-
-relationship b256552d-413b-49a0-a845-c8ddf51c1a4f
-	fromColumn: INCIDENT_HISTORY.ticket_nmbr
-	toColumn: INCIDENTS.TICKET_NMBR
-

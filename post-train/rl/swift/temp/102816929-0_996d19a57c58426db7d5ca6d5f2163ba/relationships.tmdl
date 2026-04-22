@@ -1,6 +1,0 @@
-﻿relationship 5545762a-63f7-480a-9251-e97237442ea1
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: Table1.PROGRAMA
-	toColumn: Table2.Programa
-

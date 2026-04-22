@@ -1,4 +1,0 @@
-﻿relationship d56641db-02db-4d2f-92ef-427573af0f52
-	fromColumn: Players.Team
-	toColumn: Teams.Team
-

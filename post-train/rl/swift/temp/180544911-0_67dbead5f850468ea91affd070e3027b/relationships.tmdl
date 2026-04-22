@@ -1,9 +1,0 @@
-﻿relationship 559ee646-6d07-407c-99b0-7b944e800288
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Input Data'.DATE
-	toColumn: LocalDateTable_0d128c8f-2258-433c-987e-852bcd909324.Date
-
-relationship 622cc992-ed82-4f1d-b0e4-c4280a997123
-	fromColumn: 'Input Data'.'PRODUCT ID'
-	toColumn: 'Master Data'.'PRODUCT ID'
-

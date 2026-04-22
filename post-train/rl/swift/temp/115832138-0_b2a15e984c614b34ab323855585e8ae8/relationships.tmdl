@@ -1,6 +1,0 @@
-﻿relationship e3fa3f1d-fd46-41c2-a009-f7bfed97d2f3
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: spStatisticalResults.id
-	toColumn: spStatisticalData.id
-

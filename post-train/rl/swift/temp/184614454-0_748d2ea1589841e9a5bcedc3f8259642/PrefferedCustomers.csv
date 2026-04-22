@@ -1,3 +1,0 @@
-CustomerID,FirstName,LastName,Gender,Occupation,DateOfBirth,Age,Street,City,State,Zipcode,PhoneNo,SSN,MembershipTypeID
-1,"John","Doe","Male","Student",1997-05-09 00:00:00.000,23,"Park st","Boston","MA",2115,98988,1111,
-4,"Martin","Gu","Male","Student",1998-12-08 00:00:00.000,22,"Pant dr","Boston","MA",2145,7848944748,111111112,102

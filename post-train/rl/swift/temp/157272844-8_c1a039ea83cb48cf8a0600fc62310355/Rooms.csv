@@ -1,9 +1,0 @@
-RoomNumber,Room Type,HospitalID
-102,Deluxe,H003
-106,General,H007
-100,ICU,H001
-109,Double Occupancy,H010
-103,Single Occupancy,H004
-105,ICU,H006
-104,Double Occupancy,H005
-108,Single Occupancy,H009

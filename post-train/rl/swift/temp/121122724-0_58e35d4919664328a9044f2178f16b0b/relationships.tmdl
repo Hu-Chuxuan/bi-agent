@@ -1,9 +1,0 @@
-﻿relationship 423f9d6d-fc68-4367-8430-3cbddaa63106
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Job Postings'.'Job Posting Date'
-	toColumn: LocalDateTable_8cf71e80-b3f3-47a3-ac29-658706622b4e.Date
-
-relationship c5a5728e-e99c-4a98-9b0b-eadc64d661ec
-	fromColumn: 'Job Skills'.'Job Posting ID'
-	toColumn: 'Job Postings'.'Job Posting ID'
-

@@ -1,4 +1,0 @@
-﻿relationship 778bdf58-e8a7-4c05-bce3-4d34809ff894
-	fromColumn: 'Sales Info'.'Load Date'
-	toColumn: 'Date Table'.DateTime
-

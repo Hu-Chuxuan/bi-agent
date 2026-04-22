@@ -1,6 +1,0 @@
-Department,Sales,Engineering,Legal,Support,Human Resources,Business Development,Product Management,Training,Research and Development,Accounting,Services,Marketing
-Very Poor,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005
-Poor,0.012,0.011,0.019,0.01,0.013,0.018,0.01,0.019,0.02,0.012,0.015,0.013
-Average,0.021,0.035,0.021,0.028,0.027,0.024,0.032,0.04,0.033,0.02,0.023,0.035
-Good,0.051,0.043,0.054,0.049,0.054,0.05,0.041,0.059,0.054,0.058,0.053,0.058
-Very Good,0.088,0.061,0.064,0.076,0.076,0.073,0.062,0.063,0.084,0.071,0.072,0.099

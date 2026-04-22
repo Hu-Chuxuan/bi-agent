@@ -1,8 +1,0 @@
-﻿relationship 1de495f5-ce9a-4c19-90af-d0047ec3b8dc
-	fromColumn: 'Hours Worked'.'Date Worked'
-	toColumn: Dates.Date
-
-relationship ef7bf8ff-4a21-445d-b2ce-872cfdd21544
-	fromColumn: 'Hours Worked'.Name
-	toColumn: Employees.Name
-

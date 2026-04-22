@@ -1,4 +1,0 @@
-﻿relationship fb693eec-ba59-4d32-80ac-96b07947b610
-	fromColumn: FactSales.DateKey
-	toColumn: DimDate.DateKey
-

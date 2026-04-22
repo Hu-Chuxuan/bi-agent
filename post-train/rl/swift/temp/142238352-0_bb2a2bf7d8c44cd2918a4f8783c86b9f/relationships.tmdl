@@ -1,9 +1,0 @@
-﻿relationship 7fc7e4d5-aab9-421d-9d80-2addd24ab50c
-	joinOnDateBehavior: datePartOnly
-	fromColumn: CountyCovid.Date
-	toColumn: LocalDateTable_9c4eac67-f0bc-4fa7-ad0a-1063b26df054.Date
-
-relationship 7a80b6ea-4cda-49a0-ac7e-3ce2af80bc6e
-	fromColumn: CountyCovid.FipsCode
-	toColumn: MaskUse.FipsCode
-

@@ -1,9 +1,0 @@
-﻿relationship 2f9ebb86-1f58-47ee-963d-fac26b6b1af5
-	joinOnDateBehavior: datePartOnly
-	fromColumn: Orders.OrderDate
-	toColumn: LocalDateTable_3c8ee92b-ef55-46ca-8540-5b541946e422.Date
-
-relationship c6aa41ef-cc47-4517-9cb3-a2039e04f9fd
-	fromColumn: Orders.CustomerID
-	toColumn: Customers.CustomerID
-

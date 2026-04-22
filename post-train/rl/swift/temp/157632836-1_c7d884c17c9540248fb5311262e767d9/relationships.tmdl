@@ -1,8 +1,0 @@
-﻿relationship 955f7f42-0dca-4196-aca6-5d3298cf7ab8
-	fromColumn: Sales.'Product Group'
-	toColumn: 'Product Groups'.'Product Group'
-
-relationship 97e090fb-32b7-498b-8457-ccc96de8d5df
-	fromColumn: Forecast.'Product Group'
-	toColumn: 'Product Groups'.'Product Group'
-

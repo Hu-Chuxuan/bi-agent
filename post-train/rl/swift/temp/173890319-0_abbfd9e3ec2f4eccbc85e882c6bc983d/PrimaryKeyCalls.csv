@@ -1,8 +1,0 @@
-CatalogName,SchemaName,TableName,AverageDuration,MaxDuration
-"sample_mflix","","movies",2.1232638888888888E-08,2.1396990740740741E-08
-"sample_mflix","","movies_cast",2.2340277777777779E-08,2.6039351851851852E-08
-"sample_mflix","","movies_countries",1.8380787037037038E-08,2.0138888888888888E-08
-"sample_mflix","","movies_directors",1.490625E-08,1.5616898148148148E-08
-"sample_mflix","","movies_genres",1.6350694444444445E-08,1.9160879629629629E-08
-"sample_mflix","","movies_languages",1.4282407407407407E-08,1.5085648148148147E-08
-"sample_mflix","","movies_writers",2.1728009259259259E-08,2.7045138888888888E-08

@@ -1,4 +1,0 @@
-﻿relationship 8b069a15-d902-4abe-a33a-4767492ad00f
-	fromColumn: DSF_emp_data.Department
-	toColumn: 'Bonus Rules'.Department
-

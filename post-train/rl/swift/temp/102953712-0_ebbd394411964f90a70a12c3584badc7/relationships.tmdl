@@ -1,4 +1,0 @@
-﻿relationship 4ce5ccc0-1dd9-449a-9e6f-11348a5f07df
-	fromColumn: Sales.'Sales ID'
-	toColumn: Products.'Sales ID'
-

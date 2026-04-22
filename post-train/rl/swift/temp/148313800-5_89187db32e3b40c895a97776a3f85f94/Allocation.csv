@@ -1,7 +1,0 @@
-Allocation,TargetPercent,Index
-"Bucket1",0.03,"^SP500TR"
-"Bucket2",0.05,"^SP500TR"
-"Bucket3",0.22,"^SP500TR"
-"Bucket4",0.7,"^SP500TR"
-"Cash",1E-09,""
-"US Broad",,"^SP500TR"

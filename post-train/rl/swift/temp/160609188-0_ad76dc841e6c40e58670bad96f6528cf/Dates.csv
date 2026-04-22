@@ -1,6 +1,0 @@
-Date,Year,Quarter #,Quarter,Month #,Month,Month.,Week #,Week,Weekday #,Weekday,Weekday.,Month & Year,Month & Year #
-2020-06-03 00:00:00.000,"2020","2","Q2","6","June","Jun","23","Wk23","2","Wednesday","Wed","Jun20","202006"
-2020-07-01 00:00:00.000,"2020","3","Q3","7","July","Jul","27","Wk27","2","Wednesday","Wed","Jul20","202007"
-2020-07-02 00:00:00.000,"2020","3","Q3","7","July","Jul","27","Wk27","3","Thursday","Thu","Jul20","202007"
-2020-07-03 00:00:00.000,"2020","3","Q3","7","July","Jul","27","Wk27","4","Friday","Fri","Jul20","202007"
-2020-08-03 00:00:00.000,"2020","3","Q3","8","August","Aug","32","Wk32","0","Monday","Mon","Aug20","202008"

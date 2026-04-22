@@ -1,9 +1,0 @@
-﻿relationship 4db4a972-5cc8-4fce-b420-a8d3e8883568
-	fromColumn: FactData.GLDate
-	toColumn: DimDate.Date
-
-relationship d738151e-2d5f-4632-9f3a-b39cabfd9579
-	isActive: false
-	fromColumn: FactData.GLDate
-	toColumn: DimDateCompare.Date
-

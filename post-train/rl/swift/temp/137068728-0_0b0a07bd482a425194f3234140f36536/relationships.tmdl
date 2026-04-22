@@ -1,8 +1,0 @@
-﻿relationship 6159d549-997c-480d-aa01-a9c6ac97246f
-	fromColumn: invtrackingsummary.barcode
-	toColumn: product_file.barcode
-
-relationship 45259552-6b39-4db2-a8a4-049406e5806a
-	fromColumn: product_stock.SUBJECT
-	toColumn: product_file.subject
-

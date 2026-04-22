@@ -1,9 +1,0 @@
-﻿relationship d3dfaf34-2480-4269-b266-a0f68b73d782
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Class Attendance'.Date
-	toColumn: LocalDateTable_6137f8f8-6992-43c8-bc43-7bb83f64bbd7.Date
-
-relationship 37ef5fa4-9c87-4324-bf0d-96d301121fb9
-	fromColumn: 'Class Attendance'.Asset
-	toColumn: 'Class Room'.ID
-

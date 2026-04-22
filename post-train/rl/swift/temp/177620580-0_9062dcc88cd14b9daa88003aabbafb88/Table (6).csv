@@ -1,7 +1,0 @@
-ID,survey_round_id,_LOOK,Date,STATUS_OF_STATION
-"100-00-00","Round 1","Match",2019-09-22 00:00:00.000,"Close"
-"100-00-00","Round 2","Match",2019-09-23 00:00:00.000,"Open"
-"100-00-01","Round 2","Not Match",2019-09-24 00:00:00.000,"Open"
-"100-00-02","Round 2","Not Match",2020-08-24 00:00:00.000,"Close"
-"100-00-03","Round 1","Match",2020-09-24 00:00:00.000,"Close"
-"100-00-03","Round 2","Match",2020-09-25 00:00:00.000,"Open"

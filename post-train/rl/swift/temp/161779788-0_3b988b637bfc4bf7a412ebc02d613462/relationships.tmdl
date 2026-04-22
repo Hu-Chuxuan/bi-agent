@@ -1,6 +1,0 @@
-﻿relationship 2989eabf-4697-43cd-90f6-ae07eddb485b
-	crossFilteringBehavior: bothDirections
-	fromCardinality: one
-	fromColumn: 'HR employee data'.EmployeeNumber
-	toColumn: 'HR Analytics Data'.EmployeeNumber
-
