@@ -1,0 +1,6 @@
+PlantID,PlantLocationLatitude,PlantLocationLongitude,PlantProdCapacityLiters,PlantRailTransportationCapacityLiters,PlantRoadTransportationCapacityLiters
+"Plant001",67.95458019,30.95143418,760,324,362
+"Plant002",18.38170216,-23.86330645,906,76,201
+"Plant003",61.77910668,-29.66737339,691,382,345
+"Plant004",78.66031164,81.44016527,165,294,445
+"Plant005",53.05397278,-95.24078678,1000,292,499

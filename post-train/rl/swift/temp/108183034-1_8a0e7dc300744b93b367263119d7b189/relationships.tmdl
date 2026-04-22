@@ -1,0 +1,86 @@
+﻿relationship 23fdd157-a0cc-46f0-a518-90465d466652
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.datekey
+	toColumn: LocalDateTable_c10b5621-98a5-4bb8-ae89-d1b4cc5b5ad5.Date
+
+relationship 96881395-0892-4671-b082-c48c0c54b6e6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.date_desc
+	toColumn: LocalDateTable_f11dae63-4b48-414f-99c9-d3107c0914db.Date
+
+relationship f985e73f-b83c-4897-a718-c38e8d37dca9
+	fromColumn: CarrierIntlFlightData.DATEKEY
+	toColumn: Dates.datekey
+
+relationship 01f9ea15-80f5-4fbe-a430-9db0ffdadf6d
+	fromColumn: OperatingPerformance.DATEKEY
+	toColumn: Dates.datekey
+
+relationship f0edf30e-09ba-4f3d-b601-27f0e5e57b95
+	fromColumn: FinancialsQrtlyProfitAndLoss.DATEKEY
+	toColumn: Dates.datekey
+
+relationship ea4f0242-0983-4cbb-8ac1-39e4664650e9
+	fromColumn: CarrierDomSalesData.DATEKEY
+	toColumn: Dates.datekey
+
+relationship 0ca3c2b4-a837-401e-a23a-62ebeb14a29f
+	fromColumn: CarrierEmployeeSummary.DATEKEY
+	toColumn: Dates.datekey
+
+relationship d26eecd1-27bc-4616-9398-1a6ef92244fb
+	fromColumn: FinancialsQrtlyBalanceSheet.DATEKEY
+	toColumn: Dates.datekey
+
+relationship a08e8c4c-1cad-4d77-ac69-6eecbdbc4fa2
+	fromColumn: 'CarrierEmployeeByCategory (2)'.DATEKEY
+	toColumn: Dates.datekey
+
+relationship 27851e2d-df6c-4220-8767-b5b7bed57ca8
+	fromColumn: CarrierIntlFlightData.ORIGIN
+	toColumn: OriginationAirport.airport_id
+
+relationship 3a79118d-d40a-41b8-bf64-fb66c2cd2c28
+	fromColumn: CarrierDomSalesData.REPORTING_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship 37a13591-1a63-4671-b92c-eca012ba5913
+	fromColumn: 'CarrierEmployeeByCategory (2)'.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship 868f256b-d840-46e3-a8ad-1530d273ab1e
+	fromColumn: CarrierEmployeeSummary.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship 590b6888-1684-4324-83de-3e343613b5b5
+	fromColumn: CarrierIntlFlightData.DEST
+	toColumn: DestinationAirport.airport_id
+
+relationship 9c149f7a-314c-4400-a1f7-7963c0631da2
+	fromColumn: CarrierIntlFlightData.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship c3fc4d9d-7704-487e-8d67-19fc8c6f371e
+	fromColumn: FinancialsQrtlyBalanceSheet.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship fe23f94a-0c3b-4a48-9d52-d220d850e6b7
+	fromColumn: FinancialsQrtlyProfitAndLoss.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship dc2fb890-28bf-43d6-aa89-5484f2d5765c
+	fromColumn: OperatingPerformance.DEST
+	toColumn: DestinationAirport.airport_id
+
+relationship bab18dcc-1e23-4b1c-9022-06836b1a9b4d
+	fromColumn: OperatingPerformance.ORIGIN
+	toColumn: OriginationAirport.airport_id
+
+relationship 44c7bc6f-732d-4810-b39f-d4465619f2a1
+	fromColumn: OperatingPerformance.UNIQUE_CARRIER
+	toColumn: Carriers.CARRIER_ID
+
+relationship 35bcc698-d1a6-496c-a161-596477849542
+	fromColumn: CarrierDomSalesData.ORIGIN
+	toColumn: OriginationAirport.airport_id
+

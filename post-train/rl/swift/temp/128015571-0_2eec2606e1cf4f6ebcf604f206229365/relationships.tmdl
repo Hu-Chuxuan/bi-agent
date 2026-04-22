@@ -1,0 +1,12 @@
+﻿relationship 937222f4-bf9e-494f-bcc3-08da1465619a
+	fromColumn: 'HR Data'.Country
+	toColumn: 'Buffer Stock - Current Stock'.Country
+
+relationship 958127b0-964e-41a5-9b5b-1fbb7f872e97
+	fromColumn: 'HR Data'.Country
+	toColumn: 'Full Laptop Table'.Country
+
+relationship 71f5cbde-7657-4387-a944-2ff232b08446
+	fromColumn: 'HR Data'.'Start Date'
+	toColumn: Dates.Date
+

@@ -1,0 +1,44 @@
+﻿relationship 90bdbdf4-1248-4602-b3f0-f0d519cc59e6
+	fromColumn: 'Internet Sales'.ProductKey
+	toColumn: Product.ProductKey
+
+relationship 4be647f0-b121-4c5f-8eaa-0d78d67d8532
+	fromColumn: 'Internet Sales'.CustomerKey
+	toColumn: Customer.CustomerKey
+
+relationship ed764010-7e66-4ead-a5ab-0027912e8acf
+	fromColumn: 'Internet Sales'.PromotionKey
+	toColumn: Promotion.PromotionKey
+
+relationship 248b9e23-8768-4d91-9b62-60c9dcb328ec
+	fromColumn: 'Internet Sales'.SalesTerritoryKey
+	toColumn: 'Sales Territory'.SalesTerritoryKey
+
+relationship 8b083f52-5e79-4a45-8315-05167ba824d0
+	fromColumn: 'Internet Sales'.OrderDateKey
+	toColumn: Date.DateKey
+
+relationship b43bd653-5c85-4070-9b04-fede1168ffcb
+	fromColumn: Customer.GeographyKey
+	toColumn: Geography.GeographyKey
+
+relationship c88096e7-4516-4963-b19e-3deacb5c927f
+	fromColumn: 'Reseller Sales'.ProductKey
+	toColumn: Product.ProductKey
+
+relationship 6a64eda8-c8a4-4957-83e2-50c98e22c632
+	fromColumn: 'Reseller Sales'.PromotionKey
+	toColumn: Promotion.PromotionKey
+
+relationship 9ee6645d-1456-43b2-b063-41fa4ee114d6
+	fromColumn: 'Reseller Sales'.SalesTerritoryKey
+	toColumn: 'Sales Territory'.SalesTerritoryKey
+
+relationship 33d20ca8-ca67-45c0-88d1-6bdd81a762f1
+	fromColumn: 'Reseller Sales'.ResellerKey
+	toColumn: Reseller.ResellerKey
+
+relationship c8bb15e6-c82d-405e-a809-00c863d4b8cb
+	fromColumn: Reseller.GeographyKey
+	toColumn: Geography.GeographyKey
+

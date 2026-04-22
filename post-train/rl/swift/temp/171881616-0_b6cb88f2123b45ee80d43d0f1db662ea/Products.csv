@@ -1,0 +1,146 @@
+Product,Supplier,ProdLine,Commission,Overcommission
+"10 Payments","Excellence","Life Ins.",45,56
+"20 Payments","Excellence","Life Ins.",45,56
+"Accent-Life 10","Zurich","Life Ins.",35,40
+"Advantage Life Plus","Transamerica Life","Life Ins.",65,58
+"AGF funds","AGF","Mutual funds",5,100
+"Architect Summit","Maritime","Life Ins.",60,55
+"ART 75","AIG","Life Ins.",32.5,76
+"Art Plus (T-1): Option A","Laurier","Life Ins.",45,27
+"Art Plus (T-1): Option B","Laurier","Life Ins.",65,27
+"Champion T-1: 100,000 and plus","Royal & Sun Alliance","Life Ins.",100,30
+"Champion T-1: 25,000 - 99,999$","Royal & Sun Alliance","Life Ins.",95,30
+"Champion T-100: 100,000 and plus","Royal & Sun Alliance","Life Ins.",100,30
+"Champion T-100: 25,000 - 99,999$","Royal & Sun Alliance","Life Ins.",85,30
+"CI funds","C.I.","Mutual funds",5,100
+"Concord","Concordia","Life Ins.",65,41
+"Continuing Life (T-10): Option A","Laurier","Life Ins.",60,27
+"Continuing Life (T-10): Option B","Laurier","Life Ins.",80,27
+"Continuing Life (T-75)","Laurier","Life Ins.",80,27
+"Destiny","RBC","Life Ins.",65,73
+"Dimension (V.U.) Series I","AIG","Life Ins.",55,76
+"Dimension (V.U.) Series II","AIG","Life Ins.",60,76
+"Dimension (V.U.) Series III : Balanced","AIG","Life Ins.",60,76
+"Dimension (V.U.) Series III : TRA","AIG","Life Ins.",65,76
+"Dynalife 100","Canada-Life","Life Ins.",40,51
+"Dynalife 20 prem.","Canada-Life","Life Ins.",60,51
+"EZ 123","Laurier","Life Ins.",30,27
+"F15","Maritime","Life Ins.",40,55
+"Flexterm 10","Royal & Sun Alliance","Life Ins.",50,30
+"Health","AVDL","Life Ins.",50,100
+"Horizon 10 : 100 000 to 499 999 $","AVDL","Life Ins.",35,100
+"Horizon 10 : 50 000 to 99 999 $","AVDL","Life Ins.",40,100
+"Horizon 10 : 500 000  plus","AVDL","Life Ins.",25,100
+"Horizon 20 : 100 000 to 499 999 $","AVDL","Life Ins.",30,100
+"Horizon 20 : 25 000 to 99 999 $","AVDL","Life Ins.",40,100
+"Horizon 20 : 500 000  plus","AVDL","Life Ins.",25,100
+"Horizon 20 accelerated : 100 000 to 499 999 $","AVDL","Life Ins.",35,100
+"Horizon 20 accelerated : 25 000 to 99 999 $","AVDL","Life Ins.",45,100
+"Horizon 20 accelerated : 500 000 plus","AVDL","Life Ins.",30,100
+"Horizon Cumul","AVDL","Life Ins.",60,100
+"Horizon Evolution","AVDL","Life Ins.",50,100
+"Horizon Evolution accelerated","AVDL","Life Ins.",60,100
+"Horizon Habitation","AVDL","Life Ins.",35,100
+"Horizon Liberty","AVDL","Life Ins.",50,100
+"Horizon Liberty accelerated","AVDL","Life Ins.",60,100
+"Horizon Liberty: Pol.","AVDL","Life Ins.",20,100
+"Horizon Progression","AVDL","Life Ins.",50,100
+"Horizon Progression accelerated","AVDL","Life Ins.",60,100
+"Horizon Progression: Pol.","AVDL","Life Ins.",20,100
+"Horizon Security","AVDL","Life Ins.",50,100
+"Horizon Security accelerated","AVDL","Life Ins.",55,100
+"Horizon Simplicity","AVDL","Life Ins.",50,100
+"Horizon Simplicity accelerated","AVDL","Life Ins.",55,100
+"Horizon Stability","AVDL","Life Ins.",40,100
+"Horizon Stability accelerated","AVDL","Life Ins.",45,100
+"Ideal Solution  (Distinct funds)","Standard Life","Annuity",3.5,24
+"Infini Temporary Mark II (T-100)","Royal & Sun Alliance","Life Ins.",60,30
+"Insurance (R.&T.) 10 years","Standard Life","Life Ins.",40,73
+"Insurance (R.&T.) 20 years","Standard Life","Life Ins.",40,73
+"Insurance Salary-Accident","ACA","Life Ins.",50,3
+"Insurance Travel (Tour Med)","C.I.","Life Ins.",10,3
+"Intrepid II","Maritime","Life Ins.",55,55
+"IPS 3","AVDL","Annuity",1.5,36
+"IPS 5.5","AVDL","Annuity",2,36
+"IPS 8.5","AVDL","Annuity",3,36
+"Life 20/65","AIG","Life Ins.",35,76
+"Life 9 - 19","AIG","Life Ins.",30,76
+"Life Certified","ACA","Life Ins.",60,3
+"Long term care","RBC","Life Ins.",30,73
+"Mac funds","Mackenzie","Mutual funds",5,100
+"Millenium","Canada-Life","Life Ins.",60,51
+"Mutual funds","Maestral","Mutual funds",5,100
+"Perma Choice Gold (T-100)","Laurier","Life Ins.",80,27
+"Perma Choix Bronze (T-100)","Laurier","Life Ins.",70,27
+"Perspecta (V.U)","Standard Life","Life Ins.",65,73
+"Perspecta (V.U.): 1,000,000  plus","Standard Life","Life Ins.",60,73
+"Primaterm III","Concordia","Life Ins.",50,41
+"Priviledge 50","AVDL","Life Ins.",30,100
+"Priviledge health","AVDL","Life Ins.",40,100
+"Priviledge health accelerated","AVDL","Life Ins.",45,100
+"Protector and Protector improved","AVDL","Life Ins.",50,100
+"Protector and Protector improved accelerated","AVDL","Life Ins.",60,100
+"Protector Executive","AVDL","Life Ins.",40,100
+"Protector Executive accelerated","AVDL","Life Ins.",50,100
+"Protector Future 20","AVDL","Life Ins.",50,100
+"Protector Future 20 accelerated","AVDL","Life Ins.",60,100
+"Qualiterm 10","Zurich","Life Ins.",42.5,40
+"Quietude +children","AVDL","Life Ins.",50,100
+"Quietude +T10","AVDL","Life Ins.",40,100
+"Quietude +T65","AVDL","Life Ins.",40,100
+"Quietude +T65 accelerated","AVDL","Life Ins.",45,100
+"Quietude +T75","AVDL","Life Ins.",40,100
+"Quietude +T75 liberty","AVDL","Life Ins.",40,100
+"Quietude +T75 liberty accelerated","AVDL","Life Ins.",45,100
+"Series 3","Millenia III","Mutual funds",5,100
+"Series 4","Millenia III","Mutual funds",0,0
+"Serious illness: 100 years","AIG","Life Ins.",45,76
+"Serious illness: 75 years","AIG","Life Ins.",40,76
+"Serious illness: Temporary","AIG","Life Ins.",30,76
+"SLT 100","Standard Life","Life Ins.",40,73
+"SLT 100: 1,000,000  plus","Standard Life","Life Ins.",35,73
+"SLT 100: 66 - 80 years","Standard Life","Life Ins.",35,73
+"SLT 100: Payable 20 years","Standard Life","Life Ins.",45,73
+"SLT 100: Payable to 65 years","Standard Life","Life Ins.",45,73
+"Solo","AVDL","Life Ins.",23.5,25
+"T - 10","Transamerica Life","Life Ins.",37.5,58
+"T -10","Excellence","Life Ins.",35,56
+"T-10","Canada-Life","Life Ins.",40,51
+"T-10 & T-85 Maximizer","Maritime","Life Ins.",30,55
+"T-10 improved: Option A","Laurier","Life Ins.",80,27
+"T-10 improved: Option B","Laurier","Life Ins.",92,27
+"T-10 Simplified: Option A","Laurier","Life Ins.",60,27
+"T-10 Simplified: Option B","Laurier","Life Ins.",72,27
+"T-10 Superior","Union Life","Life Ins.",35,41
+"T-10, T-15 & T-20: Option A","Laurier","Life Ins.",80,27
+"T-10, T-15 & T-20: Option B","Laurier","Life Ins.",92,27
+"T-100","Excellence","Life Ins.",45,56
+"T-100 gold: 10,000 - 99,999$","RBC","Life Ins.",32.5,73
+"T-100 gold: 100,000 plus","RBC","Life Ins.",25,73
+"T-100 Participation Aextra T-100: 350,000 plus","Maritime","Life Ins.",45,55
+"T-100 Participation Aextra T-100:10,000-349,999$","Maritime","Life Ins.",50,55
+"T-100 Plus: 10,000 - 49,999$","RBC","Life Ins.",47.5,73
+"T-100 Plus: 50,000 plus","RBC","Life Ins.",40,73
+"T-100 value plus 50,000  plus","RBC","Life Ins.",47.5,73
+"T-100 value plus: 10,000 - 49,999$","RBC","Life Ins.",52.5,73
+"T-20","Canada-Life","Life Ins.",40,51
+"T-5/80, T-10","Royal & Sun Alliance","Life Ins.",45,30
+"T-5: Option A","Laurier","Life Ins.",55,27
+"T-5: Option B","Laurier","Life Ins.",67,27
+"Temporary 10 Plus: 1,000,000  plus","RBC","Life Ins.",32.5,73
+"Temporary 10 Plus: 50,000 - 999,999$","RBC","Life Ins.",35,73
+"Temporary 10 priviledged","AIG","Life Ins.",40,76
+"Temporary 100","ACA","Life Ins.",60,3
+"Temporary 15 years R&T","Maritime","Life Ins.",35,55
+"Temporary 20","RBC","Life Ins.",37.5,73
+"Temporary 20 years R&T","Maritime","Life Ins.",35,55
+"Temporary 20-65 uniform","RBC","Life Ins.",47.5,73
+"Temporary 28","ACA","Life Ins.",60,3
+"Temporary 75 Plus uniform","RBC","Life Ins.",50,73
+"Temporary to 100 years: 0-69 years","Maritime","Life Ins.",40,55
+"Temporary to 100 years: 70 years plus","Maritime","Life Ins.",30,55
+"Temporarys 5 - 10 R&T","Maritime","Life Ins.",30,55
+"Triple 8","AIG","Life Ins.",30,76
+"Universal Sun Life 4","ACA","Life Ins.",60,41
+"Whole Life","AIG","Life Ins.",35,76
+"Whole Life III to 100 years (T-100)","AIG","Life Ins.",40,76

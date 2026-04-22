@@ -1,0 +1,12 @@
+﻿relationship 20d41eae-6253-4dca-8233-64a76ba45f14
+	fromColumn: Movies.'Date Published'
+	toColumn: Dates.Date
+
+relationship b50a6b6f-8f3a-4246-8bb0-e210a84322a8
+	fromColumn: Movies.Directors
+	toColumn: Directors.'Director Name'
+
+relationship 1f119a0b-66f7-4b02-9747-8b837ac79577
+	fromColumn: Movies.Genre
+	toColumn: Genres.Genre
+

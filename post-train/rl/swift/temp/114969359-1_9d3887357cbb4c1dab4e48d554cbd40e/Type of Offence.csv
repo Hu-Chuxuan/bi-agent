@@ -1,0 +1,172 @@
+OffenceId,Type of Offence,variable,value
+111,Murder,OffenceCategoryId,1
+112,Manslaughter,OffenceCategoryId,1
+113,Infanticide,OffenceCategoryId,1
+12,Dangerous driving leading to death,OffenceCategoryId,1
+21,Rape and sexual assault,OffenceCategoryId,2
+22,Other sexual offences,OffenceCategoryId,2
+311,Murder-attempt,OffenceCategoryId,3
+313,Threat to kill or cause serious harm,OffenceCategoryId,3
+33,Harassment and related offences,OffenceCategoryId,3
+34,"Assault causing harm, poisoning",OffenceCategoryId,3
+35,Other assault,OffenceCategoryId,3
+411,Dangerous driving causing serious bodily harm,OffenceCategoryId,4
+412,Driving/in charge of a vehicle while over legal alcohol limit,OffenceCategoryId,4
+413,Driving/in charge of a vehicle under the influence of drugs,OffenceCategoryId,4
+421,Endangerment with potential for serious harm/death,OffenceCategoryId,4
+422,"Abandoning a child, child neglect and cruelty",OffenceCategoryId,4
+423,Unseaworthy/dangerous use of boat or ship,OffenceCategoryId,4
+424,False alarm/interference with aircraft or air transport facilities,OffenceCategoryId,4
+425,Endangering traffic offences,OffenceCategoryId,4
+511,False imprisonment,OffenceCategoryId,5
+512,Abduction of person under 16 years of age,OffenceCategoryId,5
+513,Human trafficking offences,OffenceCategoryId,5
+611,Robbery of an establishment or institution,OffenceCategoryId,6
+612,Robbery of cash or goods in transit,OffenceCategoryId,6
+613,Robbery from the person,OffenceCategoryId,6
+621,Blackmail or extortion,OffenceCategoryId,6
+631,"Carjacking, hijacking/unlawful seizure of aircraft/vessel",OffenceCategoryId,6
+711,Aggravated burglary,OffenceCategoryId,7
+712,Burglary (not aggravated),OffenceCategoryId,7
+713,"Possession of an article (with intent to burgle, steal, demand)",OffenceCategoryId,7
+81,Theft/taking of vehicle and related offences,OffenceCategoryId,8
+821,Theft from person,OffenceCategoryId,8
+822,Theft from shop,OffenceCategoryId,8
+84,"Other thefts, handling stolen property",OffenceCategoryId,8
+1011,Importation of drugs,OffenceCategoryId,10
+1012,Cultivation or manufacture of drugs,OffenceCategoryId,10
+1021,Possession of drugs for sale or supply,OffenceCategoryId,10
+1022,Possession of drugs for personal use,OffenceCategoryId,10
+103,Other drug offences,OffenceCategoryId,10
+111,"Explosives, chemical weapons offences",OffenceCategoryId,11
+1121,Discharging a firearm,OffenceCategoryId,11
+1122,Possession of a firearm,OffenceCategoryId,11
+113,Offensive weapons offences (n.e.c.),OffenceCategoryId,11
+114,Fireworks offences,OffenceCategoryId,11
+1211,Arson,OffenceCategoryId,12
+1212,Criminal damage (not arson),OffenceCategoryId,12
+1221,Litter offences,OffenceCategoryId,12
+131,Disorderly conduct,OffenceCategoryId,13
+132,Trespass offences,OffenceCategoryId,13
+133,Liquor licensing offences,OffenceCategoryId,13
+134,Prostitution offences,OffenceCategoryId,13
+135,"Regulated betting/money, collection/trading offences",OffenceCategoryId,13
+136,Social code offences (n.e.c.),OffenceCategoryId,13
+151,Offences against government and its agents,OffenceCategoryId,15
+152,Organisation of crime and conspiracy to commit crime,OffenceCategoryId,15
+153,Perverting the course of justice,OffenceCategoryId,15
+157,"Offences while in custody, breach of court orders",OffenceCategoryId,15
+111,Murder,Category,Homicide offences
+112,Manslaughter,Category,Homicide offences
+113,Infanticide,Category,Homicide offences
+12,Dangerous driving leading to death,Category,Homicide offences
+21,Rape and sexual assault,Category,Sexual offences
+22,Other sexual offences,Category,Sexual offences
+311,Murder-attempt,Category,"Attempts/threats to murder, assaults, harassments and related offences"
+313,Threat to kill or cause serious harm,Category,"Attempts/threats to murder, assaults, harassments and related offences"
+33,Harassment and related offences,Category,"Attempts/threats to murder, assaults, harassments and related offences"
+34,"Assault causing harm, poisoning",Category,"Attempts/threats to murder, assaults, harassments and related offences"
+35,Other assault,Category,"Attempts/threats to murder, assaults, harassments and related offences"
+411,Dangerous driving causing serious bodily harm,Category,Dangerous or negligent acts
+412,Driving/in charge of a vehicle while over legal alcohol limit,Category,Dangerous or negligent acts
+413,Driving/in charge of a vehicle under the influence of drugs,Category,Dangerous or negligent acts
+421,Endangerment with potential for serious harm/death,Category,Dangerous or negligent acts
+422,"Abandoning a child, child neglect and cruelty",Category,Dangerous or negligent acts
+423,Unseaworthy/dangerous use of boat or ship,Category,Dangerous or negligent acts
+424,False alarm/interference with aircraft or air transport facilities,Category,Dangerous or negligent acts
+425,Endangering traffic offences,Category,Dangerous or negligent acts
+511,False imprisonment,Category,Kidnapping and related offences
+512,Abduction of person under 16 years of age,Category,Kidnapping and related offences
+513,Human trafficking offences,Category,Kidnapping and related offences
+611,Robbery of an establishment or institution,Category,"Robbery, extortion and hijacking offences"
+612,Robbery of cash or goods in transit,Category,"Robbery, extortion and hijacking offences"
+613,Robbery from the person,Category,"Robbery, extortion and hijacking offences"
+621,Blackmail or extortion,Category,"Robbery, extortion and hijacking offences"
+631,"Carjacking, hijacking/unlawful seizure of aircraft/vessel",Category,"Robbery, extortion and hijacking offences"
+711,Aggravated burglary,Category,Burglary and related offences
+712,Burglary (not aggravated),Category,Burglary and related offences
+713,"Possession of an article (with intent to burgle, steal, demand)",Category,Burglary and related offences
+81,Theft/taking of vehicle and related offences,Category,Theft and related offences
+821,Theft from person,Category,Theft and related offences
+822,Theft from shop,Category,Theft and related offences
+84,"Other thefts, handling stolen property",Category,Theft and related offences
+1011,Importation of drugs,Category,Controlled drug offences
+1012,Cultivation or manufacture of drugs,Category,Controlled drug offences
+1021,Possession of drugs for sale or supply,Category,Controlled drug offences
+1022,Possession of drugs for personal use,Category,Controlled drug offences
+103,Other drug offences,Category,Controlled drug offences
+111,"Explosives, chemical weapons offences",Category,Weapons and Explosives Offences
+1121,Discharging a firearm,Category,Weapons and Explosives Offences
+1122,Possession of a firearm,Category,Weapons and Explosives Offences
+113,Offensive weapons offences (n.e.c.),Category,Weapons and Explosives Offences
+114,Fireworks offences,Category,Weapons and Explosives Offences
+1211,Arson,Category,Damage to property and to the environment
+1212,Criminal damage (not arson),Category,Damage to property and to the environment
+1221,Litter offences,Category,Damage to property and to the environment
+131,Disorderly conduct,Category,Public order and other social code offences
+132,Trespass offences,Category,Public order and other social code offences
+133,Liquor licensing offences,Category,Public order and other social code offences
+134,Prostitution offences,Category,Public order and other social code offences
+135,"Regulated betting/money, collection/trading offences",Category,Public order and other social code offences
+136,Social code offences (n.e.c.),Category,Public order and other social code offences
+151,Offences against government and its agents,Category,"Offences against government, justice procedures and organisation of crime"
+152,Organisation of crime and conspiracy to commit crime,Category,"Offences against government, justice procedures and organisation of crime"
+153,Perverting the course of justice,Category,"Offences against government, justice procedures and organisation of crime"
+157,"Offences while in custody, breach of court orders",Category,"Offences against government, justice procedures and organisation of crime"
+111,Murder,Sensitivity,High
+112,Manslaughter,Sensitivity,High
+113,Infanticide,Sensitivity,High
+12,Dangerous driving leading to death,Sensitivity,High
+21,Rape and sexual assault,Sensitivity,High
+22,Other sexual offences,Sensitivity,High
+311,Murder-attempt,Sensitivity,Low
+313,Threat to kill or cause serious harm,Sensitivity,Low
+33,Harassment and related offences,Sensitivity,Low
+34,"Assault causing harm, poisoning",Sensitivity,Low
+35,Other assault,Sensitivity,Low
+411,Dangerous driving causing serious bodily harm,Sensitivity,High
+412,Driving/in charge of a vehicle while over legal alcohol limit,Sensitivity,High
+413,Driving/in charge of a vehicle under the influence of drugs,Sensitivity,High
+421,Endangerment with potential for serious harm/death,Sensitivity,High
+422,"Abandoning a child, child neglect and cruelty",Sensitivity,High
+423,Unseaworthy/dangerous use of boat or ship,Sensitivity,High
+424,False alarm/interference with aircraft or air transport facilities,Sensitivity,High
+425,Endangering traffic offences,Sensitivity,High
+511,False imprisonment,Sensitivity,High
+512,Abduction of person under 16 years of age,Sensitivity,High
+513,Human trafficking offences,Sensitivity,High
+611,Robbery of an establishment or institution,Sensitivity,High
+612,Robbery of cash or goods in transit,Sensitivity,High
+613,Robbery from the person,Sensitivity,High
+621,Blackmail or extortion,Sensitivity,High
+631,"Carjacking, hijacking/unlawful seizure of aircraft/vessel",Sensitivity,High
+711,Aggravated burglary,Sensitivity,Low
+712,Burglary (not aggravated),Sensitivity,Low
+713,"Possession of an article (with intent to burgle, steal, demand)",Sensitivity,Low
+81,Theft/taking of vehicle and related offences,Sensitivity,Low
+821,Theft from person,Sensitivity,Low
+822,Theft from shop,Sensitivity,Low
+84,"Other thefts, handling stolen property",Sensitivity,Low
+1011,Importation of drugs,Sensitivity,Low
+1012,Cultivation or manufacture of drugs,Sensitivity,Low
+1021,Possession of drugs for sale or supply,Sensitivity,Low
+1022,Possession of drugs for personal use,Sensitivity,Low
+103,Other drug offences,Sensitivity,Low
+111,"Explosives, chemical weapons offences",Sensitivity,Low
+1121,Discharging a firearm,Sensitivity,Low
+1122,Possession of a firearm,Sensitivity,Low
+113,Offensive weapons offences (n.e.c.),Sensitivity,Low
+114,Fireworks offences,Sensitivity,Low
+1211,Arson,Sensitivity,Low
+1212,Criminal damage (not arson),Sensitivity,Low
+1221,Litter offences,Sensitivity,Low
+131,Disorderly conduct,Sensitivity,High
+132,Trespass offences,Sensitivity,High
+133,Liquor licensing offences,Sensitivity,High
+134,Prostitution offences,Sensitivity,High
+135,"Regulated betting/money, collection/trading offences",Sensitivity,High
+136,Social code offences (n.e.c.),Sensitivity,High
+151,Offences against government and its agents,Sensitivity,Low
+152,Organisation of crime and conspiracy to commit crime,Sensitivity,Low
+153,Perverting the course of justice,Sensitivity,Low
+157,"Offences while in custody, breach of court orders",Sensitivity,Low

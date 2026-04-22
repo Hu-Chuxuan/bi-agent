@@ -1,0 +1,43 @@
+CodigoDependente,variable,value
+10,NomeDependente,Dependente 10
+1,NomeDependente,Dependente 1
+4,NomeDependente,Dependente 4
+2,NomeDependente,Dependente 2
+3,NomeDependente,Dependente 3
+5,NomeDependente,Dependente 5
+6,NomeDependente,Dependente 6
+10,DataNascimento,02/03/2021 00:00
+1,DataNascimento,02/02/2010 00:00
+4,DataNascimento,05/05/2010 00:00
+2,DataNascimento,05/04/2012 00:00
+3,DataNascimento,04/03/2013 00:00
+5,DataNascimento,06/07/2019 00:00
+6,DataNascimento,02/03/2018 00:00
+10,MatriculaFuncionario,2
+1,MatriculaFuncionario,1
+4,MatriculaFuncionario,4
+2,MatriculaFuncionario,3
+3,MatriculaFuncionario,3
+5,MatriculaFuncionario,4
+6,MatriculaFuncionario,9
+10,delete,0
+1,delete,0
+4,delete,0
+2,delete,0
+3,delete,0
+5,delete,0
+6,delete,0
+10,SexoDependente,0
+1,SexoDependente,1
+4,SexoDependente,0
+2,SexoDependente,1
+3,SexoDependente,0
+5,SexoDependente,1
+6,SexoDependente,0
+10,INEP_ESCOLA,11000082
+1,INEP_ESCOLA,11000082
+4,INEP_ESCOLA,11000082
+2,INEP_ESCOLA,11000082
+3,INEP_ESCOLA,11000082
+5,INEP_ESCOLA,11000082
+6,INEP_ESCOLA,11000082

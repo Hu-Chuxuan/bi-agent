@@ -1,0 +1,46 @@
+﻿relationship c3982060-9db5-481b-b9b5-2ab4e11ee7d0
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Age Index'.'Age Categories'
+	toColumn: 'COVID-19 Deaths by Age'.'Age Categories'
+
+relationship 1bde7963-4be2-4261-b162-141094c56892
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Age Index'.'Age Categories'
+	toColumn: 'COVID-19 Hospitalizations by Age'.'Age Categories'
+
+relationship cd5400ba-07d9-4b65-8e36-da125e83a95d
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'COVID-19 Cases by Age'.'Age Categories'
+	toColumn: 'Age Index'.'Age Categories'
+
+relationship 67a9ae26-f6ea-4591-8489-80cf91693483
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'COVID-19 Cases by Age'.'Age Categories'
+	toColumn: 'COVID-19 Deaths by Age'.'Age Categories'
+
+relationship 9ef83d69-8ed8-4fb5-897d-3a5a0032914a
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'COVID-19 Cases by Age'.'Age Categories'
+	toColumn: 'COVID-19 Hospitalizations by Age'.'Age Categories'
+
+relationship 57800714-eafc-4a0a-8ad4-a76564780ef6
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'COVID-19 Deaths by Age'.'Age Categories'
+	toColumn: 'COVID-19 Hospitalizations by Age'.'Age Categories'
+
+relationship 50c1060d-fa6f-4c49-bc56-4b019c475428
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Age Index'.Index
+	toColumn: 'COVID-19 Cases by Age'.'Custom Sort'
+

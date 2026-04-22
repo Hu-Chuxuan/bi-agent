@@ -1,0 +1,25 @@
+﻿relationship fde96a29-0993-44af-aefd-2669832ad534
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ID
+
+relationship 06335d57-69e8-4b89-ba0c-1401f602229e
+	fromColumn: Sales.SalespersonKey
+	toColumn: Salesperson.SalespersonKey
+
+relationship 853879b4-b915-4373-bb94-a4bd842d5344
+	fromColumn: Budget.SalespersonID
+	toColumn: Salesperson.SalespersonKey
+
+relationship 0d77fcc5-b2a4-407a-9639-d2f82f8d848a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_2218a251-69f9-4691-90f9-c9e8c3b453e1.Date
+
+relationship d6690fd1-dd70-42aa-bc63-05d68859aa6e
+	fromColumn: Budget.BudgetDate
+	toColumn: Date.Date
+
+relationship d3f62a8f-bfbf-442e-bfed-09a39e6a172a
+	fromColumn: Sales.OrderDate
+	toColumn: Date.Date
+

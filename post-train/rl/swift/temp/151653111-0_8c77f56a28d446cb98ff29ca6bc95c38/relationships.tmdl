@@ -1,0 +1,15 @@
+﻿relationship df241b95-2214-4d56-b59e-bb4fc6b35f18
+	fromColumn: Table.popgrp
+	toColumn: 'Table (2)'.popgrp
+
+relationship 8530e007-e349-4d6e-a201-9a64b7ed632a
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'data table'.city
+	toColumn: Table.city
+
+relationship 5c0e407e-6b20-48a8-bed6-6924a8a5b827
+	isActive: false
+	fromColumn: 'data table'.popgrp
+	toColumn: 'Table (2)'.popgrp
+

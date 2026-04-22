@@ -1,0 +1,204 @@
+Region,Segment,Sub-Category,Profit,Segment Region,SegmentID
+"West","Corporate","Tables",1074.2004,"Corporate,West",1
+"South","Corporate","Tables",-1388.2239,"Corporate,South",1
+"East","Corporate","Tables",-5299.6557,"Corporate,East",1
+"Central","Corporate","Tables",707.1806,"Corporate,Central",1
+"West","Corporate","Supplies",361.6119,"Corporate,West",1
+"South","Corporate","Supplies",-111.6379,"Corporate,South",1
+"East","Corporate","Supplies",-12.8974,"Corporate,East",1
+"Central","Corporate","Supplies",101.8498,"Corporate,Central",1
+"West","Corporate","Storage",3491.4869,"Corporate,West",1
+"South","Corporate","Storage",718.5711,"Corporate,South",1
+"East","Corporate","Storage",3836.4565,"Corporate,East",1
+"Central","Corporate","Storage",1084.5102,"Corporate,Central",1
+"West","Corporate","Phones",2565.1096,"Corporate,West",1
+"South","Corporate","Phones",3680.212,"Corporate,South",1
+"East","Corporate","Phones",3129.6183,"Corporate,East",1
+"Central","Corporate","Phones",2391.2797,"Corporate,Central",1
+"West","Corporate","Paper",3883.2948,"Corporate,West",1
+"South","Corporate","Paper",1410.0633,"Corporate,South",1
+"East","Corporate","Paper",2668.9582,"Corporate,East",1
+"Central","Corporate","Paper",2399.2305,"Corporate,Central",1
+"West","Corporate","Machines",960.039,"Corporate,West",1
+"South","Corporate","Machines",-2520.1179,"Corporate,South",1
+"East","Corporate","Machines",2624.6023,"Corporate,East",1
+"Central","Corporate","Machines",-361.5044,"Corporate,Central",1
+"West","Corporate","Labels",904.5902,"Corporate,West",1
+"South","Corporate","Labels",150.4372,"Corporate,South",1
+"East","Corporate","Labels",218.6299,"Corporate,East",1
+"Central","Corporate","Labels",487.17,"Corporate,Central",1
+"West","Corporate","Furnishings",1673.4023,"Corporate,West",1
+"South","Corporate","Furnishings",1087.9331,"Corporate,South",1
+"East","Corporate","Furnishings",1956.2306,"Corporate,East",1
+"Central","Corporate","Furnishings",-1209.3583,"Corporate,Central",1
+"West","Corporate","Fasteners",69.3064,"Corporate,West",1
+"South","Corporate","Fasteners",27.5699,"Corporate,South",1
+"East","Corporate","Fasteners",76.4704,"Corporate,East",1
+"Central","Corporate","Fasteners",78.5563,"Corporate,Central",1
+"West","Corporate","Envelopes",780.5998,"Corporate,West",1
+"South","Corporate","Envelopes",643.3798,"Corporate,South",1
+"East","Corporate","Envelopes",663.5852,"Corporate,East",1
+"Central","Corporate","Envelopes",483.6642,"Corporate,Central",1
+"West","Corporate","Copiers",3190.4366,"Corporate,West",1
+"South","Corporate","Copiers",1874.9615,"Corporate,South",1
+"East","Corporate","Copiers",1134.9765,"Corporate,East",1
+"Central","Corporate","Copiers",12789.9043,"Corporate,Central",1
+"West","Corporate","Chairs",1233.2305,"Corporate,West",1
+"South","Corporate","Chairs",1183.9545,"Corporate,South",1
+"East","Corporate","Chairs",2720.5878,"Corporate,East",1
+"Central","Corporate","Chairs",3206.8837,"Corporate,Central",1
+"West","Corporate","Bookcases",-12.1673,"Corporate,West",1
+"South","Corporate","Bookcases",68.3666,"Corporate,South",1
+"East","Corporate","Bookcases",964.963,"Corporate,East",1
+"Central","Corporate","Bookcases",-382.7121,"Corporate,Central",1
+"West","Corporate","Binders",5468.5415,"Corporate,West",1
+"South","Corporate","Binders",2496.2001,"Corporate,South",1
+"East","Corporate","Binders",2833.0034,"Corporate,East",1
+"Central","Corporate","Binders",-4420.4249,"Corporate,Central",1
+"West","Corporate","Art",830.2525,"Corporate,West",1
+"South","Corporate","Art",264.2543,"Corporate,South",1
+"East","Corporate","Art",566.1716,"Corporate,East",1
+"Central","Corporate","Art",343.9693,"Corporate,Central",1
+"West","Corporate","Appliances",2738.0168,"Corporate,West",1
+"South","Corporate","Appliances",2543.8218,"Corporate,South",1
+"East","Corporate","Appliances",2607.2872,"Corporate,East",1
+"Central","Corporate","Appliances",-459.2306,"Corporate,Central",1
+"West","Corporate","Accessories",5225.478,"Corporate,West",1
+"South","Corporate","Accessories",3085.4777,"Corporate,South",1
+"East","Corporate","Accessories",2933.5911,"Corporate,East",1
+"Central","Corporate","Accessories",1462.9337,"Corporate,Central",1
+"West","Consumer","Tables",521.9717,"Consumer,West",2
+"South","Consumer","Tables",-2577.4996,"Consumer,South",2
+"East","Consumer","Tables",-3708.3528,"Consumer,East",2
+"Central","Consumer","Tables",-3964.1571,"Consumer,Central",2
+"West","Consumer","Supplies",226.3174,"Consumer,West",2
+"South","Consumer","Supplies",69.8592,"Consumer,South",2
+"East","Consumer","Supplies",-1171.6357,"Consumer,East",2
+"Central","Consumer","Supplies",-782.0922,"Consumer,Central",2
+"West","Consumer","Storage",3828.2964,"Consumer,West",2
+"South","Consumer","Storage",888.6697,"Consumer,South",2
+"East","Consumer","Storage",1973.9242,"Consumer,East",2
+"Central","Consumer","Storage",413.3101,"Consumer,Central",2
+"West","Consumer","Phones",4468.9297,"Consumer,West",2
+"South","Consumer","Phones",5623.9118,"Consumer,South",2
+"East","Consumer","Phones",7328.2536,"Consumer,East",2
+"Central","Consumer","Phones",6416.0196,"Consumer,Central",2
+"West","Consumer","Paper",5617.3388,"Consumer,West",2
+"South","Consumer","Paper",3085.3364,"Consumer,South",2
+"East","Consumer","Paper",3917.3307,"Consumer,East",2
+"Central","Consumer","Paper",2914.6377,"Consumer,Central",2
+"West","Consumer","Machines",2193.616,"Consumer,West",2
+"South","Consumer","Machines",2910.5588,"Consumer,South",2
+"East","Consumer","Machines",-1296.085,"Consumer,East",2
+"Central","Consumer","Machines",-1667.028,"Consumer,Central",2
+"West","Consumer","Labels",1167.3533,"Consumer,West",2
+"South","Consumer","Labels",840.9038,"Consumer,South",2
+"East","Consumer","Labels",733.529,"Consumer,East",2
+"Central","Consumer","Labels",334.2023,"Consumer,Central",2
+"West","Consumer","Furnishings",4395.1526,"Consumer,West",2
+"South","Consumer","Furnishings",1957.1855,"Consumer,South",2
+"East","Consumer","Furnishings",3021.137,"Consumer,East",2
+"Central","Consumer","Furnishings",-1454.0524,"Consumer,Central",2
+"West","Consumer","Fasteners",185.2087,"Consumer,West",2
+"South","Consumer","Fasteners",114.2714,"Consumer,South",2
+"East","Consumer","Fasteners",149.173,"Consumer,East",2
+"Central","Consumer","Fasteners",128.1477,"Consumer,Central",2
+"West","Consumer","Envelopes",966.4406,"Consumer,West",2
+"South","Consumer","Envelopes",503.4307,"Consumer,South",2
+"East","Consumer","Envelopes",881.8797,"Consumer,East",2
+"Central","Consumer","Envelopes",912.6616,"Consumer,Central",2
+"West","Consumer","Copiers",12158.8713,"Consumer,West",2
+"South","Consumer","Copiers",1783.9452,"Consumer,South",2
+"East","Consumer","Copiers",8657.9325,"Consumer,East",2
+"Central","Consumer","Copiers",1482.9616,"Consumer,Central",2
+"West","Consumer","Chairs",1380.0007,"Consumer,West",2
+"South","Consumer","Chairs",4017.0347,"Consumer,South",2
+"East","Consumer","Chairs",4917.3952,"Consumer,East",2
+"Central","Consumer","Chairs",2920.9013,"Consumer,Central",2
+"West","Consumer","Bookcases",-1966.457,"Consumer,West",2
+"South","Consumer","Bookcases",1220.012,"Consumer,South",2
+"East","Consumer","Bookcases",-2192.0672,"Consumer,East",2
+"Central","Consumer","Bookcases",-1497.126,"Consumer,Central",2
+"West","Consumer","Binders",7838.678,"Consumer,West",2
+"South","Consumer","Binders",1583.9285,"Consumer,South",2
+"East","Consumer","Binders",6740.6697,"Consumer,East",2
+"Central","Consumer","Binders",1832.321,"Consumer,Central",2
+"West","Consumer","Art",1211.2211,"Consumer,West",2
+"South","Consumer","Art",648.4543,"Consumer,South",2
+"East","Consumer","Art",989.0642,"Consumer,East",2
+"Central","Consumer","Art",605.5615,"Consumer,Central",2
+"West","Consumer","Appliances",4293.5136,"Consumer,West",2
+"South","Consumer","Appliances",1455.2632,"Consumer,South",2
+"East","Consumer","Appliances",5008.7579,"Consumer,East",2
+"Central","Consumer","Appliances",-3775.6065,"Consumer,Central",2
+"West","Consumer","Accessories",8964.1511,"Consumer,West",2
+"South","Consumer","Accessories",2788.3072,"Consumer,South",2
+"East","Consumer","Accessories",5240.0783,"Consumer,East",2
+"Central","Consumer","Accessories",3743.3859,"Consumer,Central",2
+"West","Home Office","Tables",-113.5648,"Home Office,West",3
+"South","Home Office","Tables",-657.3344,"Home Office,South",3
+"East","Home Office","Tables",-2017.3716,"Home Office,East",3
+"Central","Home Office","Tables",-302.6739,"Home Office,Central",3
+"West","Home Office","Supplies",38.1172,"Home Office,West",3
+"South","Home Office","Supplies",43.656,"Home Office,South",3
+"East","Home Office","Supplies",29.3979,"Home Office,East",3
+"Central","Home Office","Supplies",18.3543,"Home Office,Central",3
+"West","Home Office","Storage",1325.5389,"Home Office,West",3
+"South","Home Office","Storage",667.0557,"Home Office,South",3
+"East","Home Office","Storage",2578.9905,"Home Office,East",3
+"Central","Home Office","Storage",472.0162,"Home Office,Central",3
+"West","Home Office","Phones",2076.7033,"Home Office,West",3
+"South","Home Office","Phones",1463.1515,"Home Office,South",3
+"East","Home Office","Phones",1856.8141,"Home Office,East",3
+"Central","Home Office","Phones",3515.7274,"Home Office,Central",3
+"West","Home Office","Paper",2618.6028,"Home Office,West",3
+"South","Home Office","Paper",1451.6617,"Home Office,South",3
+"East","Home Office","Paper",2429.0821,"Home Office,East",3
+"Central","Home Office","Paper",1658.0323,"Home Office,Central",3
+"West","Home Office","Machines",-3772.5814,"Home Office,West",3
+"South","Home Office","Machines",-1829.3339,"Home Office,South",3
+"East","Home Office","Machines",5600.1256,"Home Office,East",3
+"Central","Home Office","Machines",542.4658,"Home Office,Central",3
+"West","Home Office","Labels",231.1788,"Home Office,West",3
+"South","Home Office","Labels",49.4313,"Home Office,South",3
+"East","Home Office","Labels",177.1211,"Home Office,East",3
+"Central","Home Office","Labels",251.7071,"Home Office,Central",3
+"West","Home Office","Furnishings",1572.7155,"Home Office,West",3
+"South","Home Office","Furnishings",397.5643,"Home Office,South",3
+"East","Home Office","Furnishings",904.0395,"Home Office,East",3
+"Central","Home Office","Furnishings",-1242.8061,"Home Office,Central",3
+"West","Home Office","Fasteners",20.6756,"Home Office,West",3
+"South","Home Office","Fasteners",31.8768,"Home Office,South",3
+"East","Home Office","Fasteners",38.3474,"Home Office,East",3
+"Central","Home Office","Fasteners",29.9146,"Home Office,Central",3
+"West","Home Office","Envelopes",161.722,"Home Office,West",3
+"South","Home Office","Envelopes",318.6665,"Home Office,South",3
+"East","Home Office","Envelopes",266.9441,"Home Office,East",3
+"Central","Home Office","Envelopes",381.2025,"Home Office,Central",3
+"West","Home Office","Copiers",3977.9272,"Home Office,West",3
+"East","Home Office","Copiers",7229.9328,"Home Office,East",3
+"Central","Home Office","Copiers",1335.9754,"Home Office,Central",3
+"West","Home Office","Chairs",1414.3531,"Home Office,West",3
+"South","Home Office","Chairs",1411.1001,"Home Office,South",3
+"East","Home Office","Chairs",1719.7876,"Home Office,East",3
+"Central","Home Office","Chairs",464.9371,"Home Office,Central",3
+"West","Home Office","Bookcases",332.1126,"Home Office,West",3
+"South","Home Office","Bookcases",51.1132,"Home Office,South",3
+"East","Home Office","Bookcases",59.4724,"Home Office,East",3
+"Central","Home Office","Bookcases",-118.0662,"Home Office,Central",3
+"West","Home Office","Binders",2789.5821,"Home Office,West",3
+"South","Home Office","Binders",-179.4646,"Home Office,South",3
+"East","Home Office","Binders",1694.2615,"Home Office,East",3
+"Central","Home Office","Binders",1544.467,"Home Office,Central",3
+"West","Home Office","Art",332.6234,"Home Office,West",3
+"South","Home Office","Art",145.878,"Home Office,South",3
+"East","Home Office","Art",344.7085,"Home Office,East",3
+"Central","Home Office","Art",245.6283,"Home Office,Central",3
+"West","Home Office","Appliances",1229.7395,"Home Office,West",3
+"South","Home Office","Appliances",124.8546,"Home Office,South",3
+"East","Home Office","Appliances",775.3683,"Home Office,East",3
+"Central","Home Office","Appliances",1596.2196,"Home Office,Central",3
+"West","Home Office","Accessories",2294.9692,"Home Office,West",3
+"South","Home Office","Accessories",1130.7575,"Home Office,South",3
+"East","Home Office","Accessories",3022.195,"Home Office,East",3
+"Central","Home Office","Accessories",2045.311,"Home Office,Central",3

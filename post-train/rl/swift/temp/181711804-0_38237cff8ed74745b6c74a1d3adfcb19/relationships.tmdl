@@ -1,0 +1,4 @@
+﻿relationship c1c8146d-299c-4675-b960-e95190cc18a7
+	fromColumn: Players.Team
+	toColumn: 'Team Details'.Team
+

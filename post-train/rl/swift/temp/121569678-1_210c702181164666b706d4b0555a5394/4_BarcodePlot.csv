@@ -1,0 +1,364 @@
+State,SubCategory,Sales
+"Wisconsin","Supplies",21.81
+"Wisconsin","Storage",111.906666667
+"Wisconsin","Paper",154.717777778
+"Wisconsin","Labels",29.641666667
+"Wisconsin","Fasteners",1.81
+"Wisconsin","Binders",45.260769231
+"Wisconsin","Art",22.827142857
+"Wisconsin","Appliances",387.224285714
+"West Virginia","Paper",447.84
+"West Virginia","Binders",44.32
+"Washington","Supplies",53.704444444
+"Washington","Storage",268.636734694
+"Washington","Paper",56.249830508
+"Washington","Labels",67.875882353
+"Washington","Fasteners",17.546666667
+"Washington","Envelopes",85.453333333
+"Washington","Binders",211.117767442
+"Washington","Art",31.289411765
+"Washington","Appliances",115.844117647
+"Virginia","Supplies",762.538333333
+"Virginia","Storage",188.429
+"Virginia","Paper",46.373076923
+"Virginia","Labels",39.564166667
+"Virginia","Fasteners",21.29
+"Virginia","Envelopes",108.408
+"Virginia","Binders",191.7696
+"Virginia","Art",46.122105263
+"Virginia","Appliances",307.537857143
+"Vermont","Storage",1564.29
+"Vermont","Paper",46.1
+"Vermont","Envelopes",2.04
+"Vermont","Art",8.04
+"Vermont","Appliances",542.94
+"Utah","Supplies",44.4
+"Utah","Storage",150.263333333
+"Utah","Paper",104.752727273
+"Utah","Labels",15.075
+"Utah","Fasteners",5
+"Utah","Binders",63.299333333
+"Utah","Art",25.0125
+"Utah","Appliances",1089.75
+"Texas","Supplies",237.724210526
+"Texas","Storage",189.440771084
+"Texas","Paper",47.506503401
+"Texas","Labels",19.453333333
+"Texas","Fasteners",13.852666667
+"Texas","Envelopes",84.354933333
+"Texas","Binders",59.102457516
+"Texas","Art",33.373633803
+"Texas","Appliances",51.230085106
+"Tennessee","Supplies",48.896
+"Tennessee","Storage",183.936444444
+"Tennessee","Paper",40.781538462
+"Tennessee","Labels",14.421
+"Tennessee","Fasteners",28.888
+"Tennessee","Envelopes",35.4704
+"Tennessee","Binders",177.518689655
+"Tennessee","Art",25.675294118
+"Tennessee","Appliances",191.4984
+"South Dakota","Supplies",25.5
+"South Dakota","Labels",17.425
+"South Dakota","Fasteners",6.54
+"South Dakota","Binders",38.17
+"South Dakota","Appliances",416.32
+"South Carolina","Storage",285.245555556
+"South Carolina","Paper",55.308333333
+"South Carolina","Fasteners",21.705
+"South Carolina","Envelopes",106.283333333
+"South Carolina","Binders",64.385
+"South Carolina","Art",17.72
+"Rhode Island","Supplies",695.16
+"Rhode Island","Storage",514.006666667
+"Rhode Island","Paper",43.821538462
+"Rhode Island","Binders",48.736666667
+"Rhode Island","Art",49.25
+"Rhode Island","Appliances",2.22
+"Pennsylvania","Supplies",559.184
+"Pennsylvania","Storage",240.502530612
+"Pennsylvania","Paper",36.034909091
+"Pennsylvania","Labels",26.013217391
+"Pennsylvania","Fasteners",11.050857143
+"Pennsylvania","Envelopes",68.559111111
+"Pennsylvania","Binders",63.939367347
+"Pennsylvania","Art",28.804
+"Pennsylvania","Appliances",202.751304348
+"Oregon","Supplies",19.186
+"Oregon","Storage",284.445714286
+"Oregon","Paper",45.397714286
+"Oregon","Labels",150.352
+"Oregon","Fasteners",10.012
+"Oregon","Envelopes",24.76
+"Oregon","Binders",20.076
+"Oregon","Art",32.982857143
+"Oregon","Appliances",89.294666667
+"Oklahoma","Supplies",21.96
+"Oklahoma","Storage",469.01
+"Oklahoma","Paper",28.088571429
+"Oklahoma","Labels",21.413333333
+"Oklahoma","Envelopes",203.7
+"Oklahoma","Binders",40.494545455
+"Oklahoma","Art",14.7275
+"Oklahoma","Appliances",372.805
+"Ohio","Supplies",68.401142857
+"Ohio","Storage",196.336216216
+"Ohio","Paper",38.326571429
+"Ohio","Labels",12.449230769
+"Ohio","Fasteners",14.635428571
+"Ohio","Envelopes",46.833333333
+"Ohio","Binders",26.261465753
+"Ohio","Art",21.541128205
+"Ohio","Appliances",209.023304348
+"North Dakota","Storage",704.76
+"North Dakota","Fasteners",7.41
+"North Dakota","Binders",25.9
+"North Dakota","Art",45.46
+"North Carolina","Supplies",50.34
+"North Carolina","Storage",214.8805
+"North Carolina","Paper",72.062888889
+"North Carolina","Labels",25.491555556
+"North Carolina","Fasteners",16.584
+"North Carolina","Envelopes",71.857333333
+"North Carolina","Binders",71.175583333
+"North Carolina","Art",23.207384615
+"North Carolina","Appliances",243.385411765
+"New York","Supplies",102.5452
+"New York","Storage",274.779081633
+"New York","Paper",56.381733333
+"New York","Labels",28.679333333
+"New York","Fasteners",13.643333333
+"New York","Envelopes",55.5259375
+"New York","Binders",181.323530726
+"New York","Art",33.151111111
+"New York","Appliances",301.735909091
+"New Mexico","Supplies",14.78
+"New Mexico","Storage",69.915
+"New Mexico","Paper",89.397142857
+"New Mexico","Labels",18.45
+"New Mexico","Envelopes",28.4
+"New Mexico","Binders",25.1264
+"New Mexico","Art",69.175
+"New Jersey","Supplies",38.143333333
+"New Jersey","Storage",518.786666667
+"New Jersey","Paper",78.986666667
+"New Jersey","Labels",13.268
+"New Jersey","Fasteners",10.824
+"New Jersey","Envelopes",38.425
+"New Jersey","Binders",235.301333333
+"New Jersey","Art",67.527272727
+"New Jersey","Appliances",323.412307692
+"New Hampshire","Supplies",27.93
+"New Hampshire","Storage",168.65
+"New Hampshire","Paper",71.22
+"New Hampshire","Labels",20.58
+"New Hampshire","Fasteners",14.82
+"New Hampshire","Binders",254.493333333
+"New Hampshire","Art",133.2
+"New Hampshire","Appliances",33.28
+"Nevada","Supplies",86.2
+"Nevada","Storage",1325.85
+"Nevada","Paper",45.397142857
+"Nevada","Labels",14.94
+"Nevada","Fasteners",4.71
+"Nevada","Binders",699.597714286
+"Nevada","Art",53.57
+"Nevada","Appliances",47.99
+"Nebraska","Supplies",16.9
+"Nebraska","Storage",388.166666667
+"Nebraska","Paper",41.59875
+"Nebraska","Labels",14.4
+"Nebraska","Fasteners",19.213333333
+"Nebraska","Binders",25.646
+"Nebraska","Art",19.46
+"Nebraska","Appliances",125.1425
+"Montana","Storage",326.1125
+"Montana","Paper",20.5
+"Montana","Labels",14.62
+"Montana","Binders",167.456
+"Missouri","Supplies",2108.32
+"Missouri","Storage",298.656666667
+"Missouri","Paper",27.437272727
+"Missouri","Labels",14.94
+"Missouri","Envelopes",23.726666667
+"Missouri","Binders",170.510909091
+"Missouri","Art",119.81
+"Missouri","Appliances",524.347142857
+"Mississippi","Storage",143.9525
+"Mississippi","Paper",103.611428571
+"Mississippi","Labels",14.62
+"Mississippi","Fasteners",17.51
+"Mississippi","Envelopes",45.685
+"Mississippi","Binders",107.427777778
+"Mississippi","Art",121.332
+"Mississippi","Appliances",205.183333333
+"Minnesota","Supplies",37.24
+"Minnesota","Storage",242.695
+"Minnesota","Paper",29.08
+"Minnesota","Labels",26.841666667
+"Minnesota","Fasteners",21.45
+"Minnesota","Envelopes",15.28
+"Minnesota","Binders",779.39
+"Minnesota","Art",17.135
+"Minnesota","Appliances",474.021666667
+"Michigan","Supplies",37.24
+"Michigan","Storage",257.811666667
+"Michigan","Paper",64.862580645
+"Michigan","Labels",110.07
+"Michigan","Fasteners",21.9
+"Michigan","Envelopes",62.004
+"Michigan","Binders",530.743488372
+"Michigan","Art",40.1944
+"Michigan","Appliances",270.2593125
+"Massachusetts","Supplies",15.035
+"Massachusetts","Storage",357.398333333
+"Massachusetts","Paper",65.707037037
+"Massachusetts","Labels",33.13
+"Massachusetts","Fasteners",17.053333333
+"Massachusetts","Binders",123.834705882
+"Massachusetts","Art",20.55
+"Massachusetts","Appliances",557.958333333
+"Maryland","Supplies",25.02
+"Maryland","Storage",505.997142857
+"Maryland","Paper",79.95
+"Maryland","Labels",28.585
+"Maryland","Fasteners",13.66
+"Maryland","Envelopes",168.575
+"Maryland","Binders",230.360714286
+"Maryland","Art",36.140833333
+"Maryland","Appliances",264.86
+"Maine","Paper",259.74
+"Maine","Binders",19.05
+"Maine","Appliances",101.96
+"Louisiana","Supplies",1665.62
+"Louisiana","Storage",402.565
+"Louisiana","Paper",20.736
+"Louisiana","Labels",11.07
+"Louisiana","Envelopes",31.15
+"Louisiana","Binders",104.753333333
+"Louisiana","Art",64.75
+"Louisiana","Appliances",17.34
+"Kentucky","Supplies",28.773333333
+"Kentucky","Storage",344.459285714
+"Kentucky","Paper",81.426923077
+"Kentucky","Labels",60.566666667
+"Kentucky","Fasteners",19.015
+"Kentucky","Envelopes",26.3375
+"Kentucky","Binders",167.991818182
+"Kentucky","Art",29.226666667
+"Kentucky","Appliances",166.9525
+"Kansas","Supplies",357.93
+"Kansas","Storage",196.835
+"Kansas","Paper",101
+"Kansas","Labels",18.9
+"Kansas","Fasteners",12.025
+"Kansas","Binders",203.973333333
+"Kansas","Art",40.68
+"Kansas","Appliances",81.96
+"Iowa","Storage",13.48
+"Iowa","Paper",45.115714286
+"Iowa","Fasteners",45.92
+"Iowa","Envelopes",6.7
+"Iowa","Binders",30.995
+"Iowa","Art",48.86
+"Indiana","Storage",274.695333333
+"Indiana","Paper",69.611851852
+"Indiana","Labels",55.242
+"Indiana","Fasteners",4.23
+"Indiana","Envelopes",127.08
+"Indiana","Binders",211.151578947
+"Indiana","Art",32.4325
+"Indiana","Appliances",416.015
+"Illinois","Supplies",25.450285714
+"Illinois","Storage",193.198468085
+"Illinois","Paper",57.596933333
+"Illinois","Labels",17.297846154
+"Illinois","Fasteners",10.872
+"Illinois","Envelopes",48.013
+"Illinois","Binders",56.731825
+"Illinois","Art",25.136
+"Illinois","Appliances",48.736
+"Idaho","Storage",477.15
+"Idaho","Paper",43.215
+"Idaho","Binders",14.3312
+"Idaho","Appliances",227.84
+"Georgia","Supplies",19.76
+"Georgia","Storage",492.086
+"Georgia","Paper",95.39483871
+"Georgia","Labels",34.988571429
+"Georgia","Fasteners",7.56
+"Georgia","Envelopes",55.82125
+"Georgia","Binders",486.346666667
+"Georgia","Art",30.981176471
+"Georgia","Appliances",381.35
+"Florida","Supplies",152.556571429
+"Florida","Storage",296.77024
+"Florida","Paper",47.56
+"Florida","Labels",21.433777778
+"Florida","Fasteners",9.8512
+"Florida","Envelopes",23.444444444
+"Florida","Binders",55.082059701
+"Florida","Art",24.514482759
+"Florida","Appliances",197.691111111
+"District of Columbia","Paper",24.073333333
+"District of Columbia","Binders",9.64
+"District of Columbia","Art",28.33
+"Delaware","Storage",597.06
+"Delaware","Paper",36.730833333
+"Delaware","Labels",14.826
+"Delaware","Fasteners",26.18
+"Delaware","Envelopes",74.8075
+"Delaware","Binders",152.126875
+"Delaware","Art",48.668181818
+"Delaware","Appliances",70.21
+"Connecticut","Supplies",28.715
+"Connecticut","Storage",220.750909091
+"Connecticut","Paper",65.685
+"Connecticut","Labels",11.143333333
+"Connecticut","Envelopes",10.86
+"Connecticut","Binders",26.562142857
+"Connecticut","Art",23.9575
+"Connecticut","Appliances",295.836
+"Colorado","Supplies",280.68
+"Colorado","Storage",260.551384615
+"Colorado","Paper",46.485052632
+"Colorado","Labels",8.98
+"Colorado","Fasteners",11.13
+"Colorado","Envelopes",15.12
+"Colorado","Binders",18.177428571
+"Colorado","Art",19.147636364
+"Colorado","Appliances",151.921777778
+"California","Supplies",365.603488372
+"California","Storage",281.9518125
+"California","Paper",57.985986159
+"California","Labels",34.92939759
+"California","Fasteners",11.417380952
+"California","Envelopes",70.376956522
+"California","Binders",103.163652174
+"California","Art",33.307030303
+"California","Appliances",257.190638298
+"Arkansas","Storage",215
+"Arkansas","Paper",67.126666667
+"Arkansas","Labels",7.31
+"Arkansas","Fasteners",21.335
+"Arkansas","Envelopes",103.9
+"Arkansas","Binders",288.983
+"Arkansas","Art",13.05
+"Arizona","Supplies",70.632
+"Arizona","Storage",123.351619048
+"Arizona","Paper",78.734193548
+"Arizona","Labels",9.154666667
+"Arizona","Fasteners",16.872
+"Arizona","Envelopes",30.645714286
+"Arizona","Binders",62.438657143
+"Arizona","Art",99.225142857
+"Arizona","Appliances",129.072
+"Alabama","Supplies",242.255
+"Alabama","Storage",416.47
+"Alabama","Paper",110.3775
+"Alabama","Labels",253.245
+"Alabama","Fasteners",3.62
+"Alabama","Envelopes",52.92
+"Alabama","Binders",46.682
+"Alabama","Art",43.03
+"Alabama","Appliances",208.16

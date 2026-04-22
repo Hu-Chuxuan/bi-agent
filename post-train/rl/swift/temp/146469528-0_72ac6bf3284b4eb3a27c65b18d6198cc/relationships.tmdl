@@ -1,0 +1,5 @@
+﻿relationship 0f27b022-67a6-40ae-9004-6146da169626
+	crossFilteringBehavior: bothDirections
+	fromColumn: Table2.'Product ID'
+	toColumn: Table1.'Product ID'
+

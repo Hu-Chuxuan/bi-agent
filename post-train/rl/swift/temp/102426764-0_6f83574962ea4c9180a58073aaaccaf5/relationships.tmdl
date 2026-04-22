@@ -1,0 +1,9 @@
+﻿relationship 056ee404-7225-44c5-a87b-4e182a25fe59
+	fromColumn: Product.Date
+	toColumn: Dates.Date
+
+relationship 11c1d774-0557-4199-9c06-155fdc347307
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Product.'No change Date'
+	toColumn: LocalDateTable_b096ec62-66e3-470b-a77b-ab7db3facce8.Date
+

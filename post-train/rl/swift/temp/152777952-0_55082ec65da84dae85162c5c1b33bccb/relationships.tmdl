@@ -1,0 +1,9 @@
+﻿relationship f8cff44d-b3f4-4446-899d-822bdbf7ae71
+	fromColumn: covid-data.location
+	toColumn: covid_transformed.location
+
+relationship d8b38247-4297-4c1f-b1f1-b2c0b89a3a42
+	joinOnDateBehavior: datePartOnly
+	fromColumn: covid-data.date
+	toColumn: LocalDateTable_49845315-2f61-4a5f-83ab-830d1eaef393.Date
+

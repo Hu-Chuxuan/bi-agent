@@ -1,0 +1,4 @@
+﻿relationship 26bb7d3c-a0a8-4c1f-9366-4bca8ccfe414
+	fromColumn: 'Tabla Datos'.'Tipo Producto'
+	toColumn: 'Tabla Productos'.'Tipo Producto'
+

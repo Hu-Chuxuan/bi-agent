@@ -1,0 +1,29 @@
+﻿relationship e75cbcfe-c8f1-4970-b03b-1adf96c398af
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_Customer.BirthDate
+	toColumn: LocalDateTable_50f98fbc-2ed4-4a6f-8895-978965267ebd.Date
+
+relationship 5e555d62-425b-46de-8747-ea1c7e5e7bb2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_Customer.DateFirstPurchase
+	toColumn: LocalDateTable_d36662b7-3ec6-41d2-a82f-c8541efb365a.Date
+
+relationship 1368c415-9f88-4262-a3f5-8ec9774ea8aa
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_InternetSales.OrderDate
+	toColumn: LocalDateTable_67ba574c-9017-497e-beee-4a3f94ea081a.Date
+
+relationship 20385449-ba1a-4f99-8a96-056928f94c16
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_InternetSales.DueDate
+	toColumn: LocalDateTable_944d89aa-87fd-4713-8964-895d929c547f.Date
+
+relationship 8fde4a0d-8720-45bf-a70f-94435ded4dde
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_InternetSales.ShipDate
+	toColumn: LocalDateTable_09b1dcee-b370-45ff-8fbe-56884c2c7789.Date
+
+relationship b9145f7a-4946-4b6b-a22a-702432921974
+	fromColumn: fact_InternetSales.CustomerKey
+	toColumn: dim_Customer.CustomerKey
+

@@ -1,0 +1,19 @@
+﻿relationship 7fb049a8-f1ad-480a-993d-d7c2b0f568e1
+	fromColumn: stock.QuoteName
+	toColumn: holdings.QuoteName
+
+relationship c38ec6da-d9d9-424f-89b7-62d98f6dd8e2
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: type.QuoteName
+	toColumn: holdings.QuoteName
+
+relationship 53dc5a6c-0a88-4689-bba8-b19fe6d4755b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dailytrend.Date
+	toColumn: LocalDateTable_05e6338c-07df-4fa3-b440-8a52ca7ee127.Date
+
+relationship a8085894-c63b-4350-aec5-f7548a6c7789
+	fromColumn: stock.Date
+	toColumn: dailytrend.Date
+

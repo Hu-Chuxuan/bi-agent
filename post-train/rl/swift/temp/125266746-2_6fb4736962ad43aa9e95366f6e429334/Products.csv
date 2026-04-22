@@ -1,0 +1,68 @@
+Category,Item#,Item_Index,Descrition,Brand,SubCategory,Retail Price,WhslCost_Unit,FactoryCost
+"107","1012","1","DeepFake","ZEGO","AI",99.99,62.99,31.5
+"107","1013","2","AI coder","ZEGO","AI",59.99,37.79,18.9
+"107","1014","3","Facial Recognition","ZEGO","AI",149.99,94.49,47.25
+"107","1015","4","EV Train","ZEGO","AV",49.99,20,10
+"107","1016","5","RoboMan","ZEGO","Robotic",49.99,31.49,15.75
+"107","1017","6","RoboWoman","ZEGO","Robotic",49.99,20,10
+"100","2214","7","Amazing Snake Boy","ZORVEL","Comic",9.99,4,1.6
+"100","2215","8","Fighters from the East","ZORVEL","Figures",9.99,4,1.6
+"100","2216","9","Fighters from the West","ZORVEL","Figures",9.99,4,1.6
+"100","2217","10","Revengers","ZORVEL","Comic",12.99,5.2,2.08
+"100","2218","11","Revengers","ZORVEL","Comic",12.99,5.2,2.08
+"109","1400","12","EasterTreats","LookSharp","Easter",3.99,2.51,0.88
+"109","1401","13","Secrete Diary","LookSharp","BTS",3.99,2.51,0.88
+"109","1402","14","BooBoos","LookSharp","Halloween",3.99,2.51,0.88
+"109","1403","15","Stocking Stuffer","LookSharp","Christmas",4.99,3.14,1.1
+"109","1404","16","Hearts","LookSharp","Valentines",2.99,1.88,0.66
+"101","3315","17","Police Station","ZEGO","City",14.99,8.24,3.3
+"101","3316","18","Star Wars","ZEGO","Space",19.99,10.99,4.4
+"101","3317","19","Thor","ZEGO","Adventure",24.99,13.74,5.5
+"101","3318","20","City Service","ZEGO","City",29.99,16.49,6.6
+"101","3319","21","ATV X","BuildNow","Metro",34.99,19.24,7.7
+"101","3324","22","Castle","BuildNow","History",39.99,21.99,8.8
+"101","3319","23","Space Station","BuildNow","Space",34.99,19.24,7.7
+"101","3364","24","Gas Station","BuildNow","Metro",32.99,18.14,7.26
+"102","4410","25","Clown","LookSharp","Preschool",19.99,12.99,5.2
+"102","4411","26","Police Person","LookSharp","Tween",24.99,16.24,6.5
+"102","4412","27","Jailor","LookSharp","Tween",24.99,16.24,6.5
+"102","4413","28","Movie Star","LookSharp","Tween",19.99,12.99,5.2
+"102","4414","29","Ballerina","LookSharp","Preschool",19.99,12.99,5.2
+"102","4415","30","Singer","LookSharp","Tween",24.99,16.24,6.5
+"102","4416","31","Professor","LookSharp","Tween",24.99,16.24,6.5
+"103","5510","32","Dump Truck","SmoothDrive","L & S",19.99,12.99,5.2
+"103","5511","33","Excavator","SmoothDrive","L & S",17.99,11.69,4.68
+"103","5512","34","Police Car","SmoothDrive","L & S",14.99,9.74,3.9
+"103","5513","35","Race Car","SmoothDrive","L & S",14.99,9.74,3.9
+"103","5514","36","Garbage Truck","SmoothDrive","L S & Motorized",24.99,16.24,6.5
+"103","5515","37","Ambulance","SmoothDrive","L S & Motorized",29.99,19.49,7.8
+"103","5516","38","Helicopter","SmoothDrive","L S & Motorized",29.99,19.49,7.8
+"103","5517","39","Dump Truck","Wheelers","L S & Motorized",34.99,22.74,9.1
+"103","5518","40","Excavator","Wheelers","L S & Motorized",34.99,22.74,9.1
+"104","6611","41","HandPump","ZEGO","TargetPlay",9.99,5.99,3
+"104","6612","42","Longbow","ZEGO","TargetPlay",12.99,7.79,3.9
+"104","6613","43","SwiftSite","ZEGO","Game Play",19.99,11.99,6
+"104","6614","44","10-Shoooter","ZEGO","TargetPlay",22.99,13.79,6.9
+"104","6615","45","Sneaker","Stealth","Game Play",19.99,11.99,6
+"104","6616","46","Alarmer","Stealth","TargetPlay",14.99,8.99,4.5
+"104","6617","47","NightChief","Stealth","Game Play",14.99,8.99,4.5
+"104","6618","48","TopShot","Stealth","TargetPlay",39.99,23.99,12
+"104","6619","49","LongDistor","Stealth","TargetPlay",14.99,8.99,4.5
+"105","7711","50","Rattle","LookSharp","House",2.99,1.85,0.93
+"105","7712","51","BathToy","LookSharp","Bath",2.99,1.85,0.93
+"105","7713","52","Pacifier","LookSharp","AllAroundTown",1.99,1.23,0.62
+"105","7714","53","CribMonitor","LookSharp","House",44.99,27.89,13.95
+"105","7715","54","Rattle","Newbi","AllAroundTown",2.99,1.85,0.93
+"105","7716","55","BathToy","Newbi","Bath",2.99,1.85,0.93
+"105","7718","56","Pacifier","Newbi","AllAroundTown",2.49,1.54,0.77
+"105","7719","57","CribMonitor","Newbi","House",39.99,24.79,12.4
+"106","8911","58","Alika","LookSharp","AllInc",19.99,9,4
+"106","8912","59","Trisha","LookSharp","AllInc",19.99,9,4
+"106","8913","60","Lightning","LookSharp","Fashion",19.99,9,4
+"106","8914","61","StarEyes","LookSharp","Fashion",19.99,9,4
+"108","1212","62","3 Wheel","SmoothDrive","Beginner",19.99,9,4
+"108","1213","63","4 Wheel","SmoothDrive","Mid",,,
+"108","1214","64","5 Wheel","SmoothDrive","Advanced",,,
+"108","1215","65","3 Wheel","Wheelers","Beginner",,,
+"108","1216","66","4 Wheel","Wheelers","Mid",,,
+"108","1217","67","5 Wheel","Wheelers","Advanced",,,

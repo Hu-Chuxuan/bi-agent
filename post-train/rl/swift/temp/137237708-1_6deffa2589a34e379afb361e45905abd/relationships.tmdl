@@ -1,0 +1,17 @@
+﻿relationship 145744ee-1c2a-4d1a-ba8e-424db0b6a449
+	fromColumn: Reviews.Date
+	toColumn: Dates.Date
+
+relationship 28853d75-655d-4091-86b1-0b1503ff5158
+	fromColumn: Reviews.ID
+	toColumn: Restaurants.ID
+
+relationship dc601ac6-7627-4a90-84e7-069dd0df5dbb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Reviews (Key Word Analysis)'.Date
+	toColumn: LocalDateTable_911fe008-b155-467c-9563-8980062e9d8e.Date
+
+relationship 19526d64-15bb-43ad-8166-be007cab231e
+	fromColumn: 'Reviews (Key Word Analysis)'.ID
+	toColumn: Restaurants.ID
+

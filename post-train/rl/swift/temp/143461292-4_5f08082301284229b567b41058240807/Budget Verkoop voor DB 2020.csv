@@ -1,0 +1,313 @@
+Land,Landcode,Maand,Waarde
+"Nederland","NL","1",105136.66666666667
+"Nederland","NL","2",105136.66666666667
+"Nederland","NL","3",105136.66666666667
+"Nederland","NL","4",105136.66666666667
+"Nederland","NL","5",105136.66666666667
+"Nederland","NL","6",105136.66666666667
+"Nederland","NL","7",105136.66666666667
+"Nederland","NL","8",105136.66666666667
+"Nederland","NL","9",105136.66666666667
+"Nederland","NL","10",105136.66666666667
+"Nederland","NL","11",105136.66666666667
+"Nederland","NL","12",105136.66666666667
+"Duitsland","DE","1",38750
+"Duitsland","DE","2",38750
+"Duitsland","DE","3",38750
+"Duitsland","DE","4",38750
+"Duitsland","DE","5",38750
+"Duitsland","DE","6",38750
+"Duitsland","DE","7",38750
+"Duitsland","DE","8",38750
+"Duitsland","DE","9",38750
+"Duitsland","DE","10",38750
+"Duitsland","DE","11",38750
+"Duitsland","DE","12",38750
+"België","BE","1",37835
+"België","BE","2",37835
+"België","BE","3",37835
+"België","BE","4",37835
+"België","BE","5",37835
+"België","BE","6",37835
+"België","BE","7",37835
+"België","BE","8",37835
+"België","BE","9",37835
+"België","BE","10",37835
+"België","BE","11",37835
+"België","BE","12",37835
+"Luxemburg","LU","1",0
+"Luxemburg","LU","2",0
+"Luxemburg","LU","3",0
+"Luxemburg","LU","4",0
+"Luxemburg","LU","5",0
+"Luxemburg","LU","6",0
+"Luxemburg","LU","7",0
+"Luxemburg","LU","8",0
+"Luxemburg","LU","9",0
+"Luxemburg","LU","10",0
+"Luxemburg","LU","11",0
+"Luxemburg","LU","12",0
+"Frankrijk","FR","1",24200
+"Frankrijk","FR","2",24200
+"Frankrijk","FR","3",24200
+"Frankrijk","FR","4",24200
+"Frankrijk","FR","5",24200
+"Frankrijk","FR","6",24200
+"Frankrijk","FR","7",24200
+"Frankrijk","FR","8",24200
+"Frankrijk","FR","9",24200
+"Frankrijk","FR","10",24200
+"Frankrijk","FR","11",24200
+"Frankrijk","FR","12",24200
+"Polen","PL","1",35972.833333333336
+"Polen","PL","2",35972.833333333336
+"Polen","PL","3",35972.833333333336
+"Polen","PL","4",35972.833333333336
+"Polen","PL","5",35972.833333333336
+"Polen","PL","6",35972.833333333336
+"Polen","PL","7",35972.833333333336
+"Polen","PL","8",35972.833333333336
+"Polen","PL","9",35972.833333333336
+"Polen","PL","10",35972.833333333336
+"Polen","PL","11",35972.833333333336
+"Polen","PL","12",35972.833333333336
+"VK (4CS)","GB","1",29583.333333333332
+"VK (4CS)","GB","2",29583.333333333332
+"VK (4CS)","GB","3",29583.333333333332
+"VK (4CS)","GB","4",29583.333333333332
+"VK (4CS)","GB","5",29583.333333333332
+"VK (4CS)","GB","6",29583.333333333332
+"VK (4CS)","GB","7",29583.333333333332
+"VK (4CS)","GB","8",29583.333333333332
+"VK (4CS)","GB","9",29583.333333333332
+"VK (4CS)","GB","10",29583.333333333332
+"VK (4CS)","GB","11",29583.333333333332
+"VK (4CS)","GB","12",29583.333333333332
+"USA","US","1",132500
+"USA","US","2",10000
+"USA","US","3",67500
+"USA","US","4",10000
+"USA","US","5",10000
+"USA","US","6",200000
+"USA","US","7",10000
+"USA","US","8",10000
+"USA","US","9",12500
+"USA","US","10",12500
+"USA","US","11",12500
+"USA","US","12",12500
+"Canada","CA","1",132500
+"Canada","CA","2",10000
+"Canada","CA","3",67500
+"Canada","CA","4",10000
+"Canada","CA","5",10000
+"Canada","CA","6",200000
+"Canada","CA","7",10000
+"Canada","CA","8",10000
+"Canada","CA","9",12500
+"Canada","CA","10",12500
+"Canada","CA","11",12500
+"Canada","CA","12",12500
+"Zweden","SE","1",18270.833333333332
+"Zweden","SE","2",18270.833333333332
+"Zweden","SE","3",18270.833333333332
+"Zweden","SE","4",18270.833333333332
+"Zweden","SE","5",18270.833333333332
+"Zweden","SE","6",18270.833333333332
+"Zweden","SE","7",18270.833333333332
+"Zweden","SE","8",18270.833333333332
+"Zweden","SE","9",18270.833333333332
+"Zweden","SE","10",18270.833333333332
+"Zweden","SE","11",18270.833333333332
+"Zweden","SE","12",18270.833333333332
+"Noorwegen","NO","1",13455.833333333334
+"Noorwegen","NO","2",13455.833333333334
+"Noorwegen","NO","3",13455.833333333334
+"Noorwegen","NO","4",13455.833333333334
+"Noorwegen","NO","5",13455.833333333334
+"Noorwegen","NO","6",13455.833333333334
+"Noorwegen","NO","7",13455.833333333334
+"Noorwegen","NO","8",13455.833333333334
+"Noorwegen","NO","9",13455.833333333334
+"Noorwegen","NO","10",13455.833333333334
+"Noorwegen","NO","11",13455.833333333334
+"Noorwegen","NO","12",13455.833333333334
+"Oostenrijk","AT","1",21884.416666666668
+"Oostenrijk","AT","2",21884.416666666668
+"Oostenrijk","AT","3",21884.416666666668
+"Oostenrijk","AT","4",21884.416666666668
+"Oostenrijk","AT","5",21884.416666666668
+"Oostenrijk","AT","6",21884.416666666668
+"Oostenrijk","AT","7",21884.416666666668
+"Oostenrijk","AT","8",21884.416666666668
+"Oostenrijk","AT","9",21884.416666666668
+"Oostenrijk","AT","10",21884.416666666668
+"Oostenrijk","AT","11",21884.416666666668
+"Oostenrijk","AT","12",21884.416666666668
+"Viavac CZ","CZ","1",20067.666666666668
+"Viavac CZ","CZ","2",20067.666666666668
+"Viavac CZ","CZ","3",20067.666666666668
+"Viavac CZ","CZ","4",20067.666666666668
+"Viavac CZ","CZ","5",20067.666666666668
+"Viavac CZ","CZ","6",20067.666666666668
+"Viavac CZ","CZ","7",20067.666666666668
+"Viavac CZ","CZ","8",20067.666666666668
+"Viavac CZ","CZ","9",20067.666666666668
+"Viavac CZ","CZ","10",20067.666666666668
+"Viavac CZ","CZ","11",20067.666666666668
+"Viavac CZ","CZ","12",20067.666666666668
+"Marex","RS","1",14375
+"Marex","RS","2",14375
+"Marex","RS","3",14375
+"Marex","RS","4",14375
+"Marex","RS","5",14375
+"Marex","RS","6",14375
+"Marex","RS","7",14375
+"Marex","RS","8",14375
+"Marex","RS","9",14375
+"Marex","RS","10",14375
+"Marex","RS","11",14375
+"Marex","RS","12",14375
+"Letland","LV","1",9275
+"Letland","LV","2",9275
+"Letland","LV","3",9275
+"Letland","LV","4",9275
+"Letland","LV","5",9275
+"Letland","LV","6",9275
+"Letland","LV","7",9275
+"Letland","LV","8",9275
+"Letland","LV","9",9275
+"Letland","LV","10",9275
+"Letland","LV","11",9275
+"Letland","LV","12",9275
+"Turkije","TR","1",6125
+"Turkije","TR","2",6125
+"Turkije","TR","3",6125
+"Turkije","TR","4",6125
+"Turkije","TR","5",6125
+"Turkije","TR","6",6125
+"Turkije","TR","7",6125
+"Turkije","TR","8",6125
+"Turkije","TR","9",6125
+"Turkije","TR","10",6125
+"Turkije","TR","11",6125
+"Turkije","TR","12",6125
+"Roemenië","RO","1",8333.3333333333339
+"Roemenië","RO","2",8333.3333333333339
+"Roemenië","RO","3",8333.3333333333339
+"Roemenië","RO","4",8333.3333333333339
+"Roemenië","RO","5",8333.3333333333339
+"Roemenië","RO","6",8333.3333333333339
+"Roemenië","RO","7",8333.3333333333339
+"Roemenië","RO","8",8333.3333333333339
+"Roemenië","RO","9",8333.3333333333339
+"Roemenië","RO","10",8333.3333333333339
+"Roemenië","RO","11",8333.3333333333339
+"Roemenië","RO","12",8333.3333333333339
+"Denemarken","DK","1",5875
+"Denemarken","DK","2",5875
+"Denemarken","DK","3",5875
+"Denemarken","DK","4",5875
+"Denemarken","DK","5",5875
+"Denemarken","DK","6",5875
+"Denemarken","DK","7",5875
+"Denemarken","DK","8",5875
+"Denemarken","DK","9",5875
+"Denemarken","DK","10",5875
+"Denemarken","DK","11",5875
+"Denemarken","DK","12",5875
+"Zwitserland","CH","1",8878
+"Zwitserland","CH","2",8878
+"Zwitserland","CH","3",8878
+"Zwitserland","CH","4",8878
+"Zwitserland","CH","5",8878
+"Zwitserland","CH","6",8878
+"Zwitserland","CH","7",8878
+"Zwitserland","CH","8",8878
+"Zwitserland","CH","9",8878
+"Zwitserland","CH","10",8878
+"Zwitserland","CH","11",8878
+"Zwitserland","CH","12",8878
+"Bulgarije","BG","1",9583.3333333333339
+"Bulgarije","BG","2",9583.3333333333339
+"Bulgarije","BG","3",9583.3333333333339
+"Bulgarije","BG","4",9583.3333333333339
+"Bulgarije","BG","5",9583.3333333333339
+"Bulgarije","BG","6",9583.3333333333339
+"Bulgarije","BG","7",9583.3333333333339
+"Bulgarije","BG","8",9583.3333333333339
+"Bulgarije","BG","9",9583.3333333333339
+"Bulgarije","BG","10",9583.3333333333339
+"Bulgarije","BG","11",9583.3333333333339
+"Bulgarije","BG","12",9583.3333333333339
+"Finland","FI","1",17083.333333333332
+"Finland","FI","2",17083.333333333332
+"Finland","FI","3",17083.333333333332
+"Finland","FI","4",17083.333333333332
+"Finland","FI","5",17083.333333333332
+"Finland","FI","6",17083.333333333332
+"Finland","FI","7",17083.333333333332
+"Finland","FI","8",17083.333333333332
+"Finland","FI","9",17083.333333333332
+"Finland","FI","10",17083.333333333332
+"Finland","FI","11",17083.333333333332
+"Finland","FI","12",17083.333333333332
+"Spanje","ES","1",10833.333333333334
+"Spanje","ES","2",10833.333333333334
+"Spanje","ES","3",10833.333333333334
+"Spanje","ES","4",10833.333333333334
+"Spanje","ES","5",10833.333333333334
+"Spanje","ES","6",10833.333333333334
+"Spanje","ES","7",10833.333333333334
+"Spanje","ES","8",10833.333333333334
+"Spanje","ES","9",10833.333333333334
+"Spanje","ES","10",10833.333333333334
+"Spanje","ES","11",10833.333333333334
+"Spanje","ES","12",10833.333333333334
+"GCC","Overige1","1",9166.6666666666661
+"GCC","Overige1","2",9166.6666666666661
+"GCC","Overige1","3",9166.6666666666661
+"GCC","Overige1","4",9166.6666666666661
+"GCC","Overige1","5",9166.6666666666661
+"GCC","Overige1","6",9166.6666666666661
+"GCC","Overige1","7",9166.6666666666661
+"GCC","Overige1","8",9166.6666666666661
+"GCC","Overige1","9",9166.6666666666661
+"GCC","Overige1","10",9166.6666666666661
+"GCC","Overige1","11",9166.6666666666661
+"GCC","Overige1","12",9166.6666666666661
+"Australië","AU","1",5800
+"Australië","AU","2",5800
+"Australië","AU","3",5800
+"Australië","AU","4",5800
+"Australië","AU","5",5800
+"Australië","AU","6",5800
+"Australië","AU","7",5800
+"Australië","AU","8",5800
+"Australië","AU","9",5800
+"Australië","AU","10",5800
+"Australië","AU","11",5800
+"Australië","AU","12",5800
+"Overigen (Mexico Italie Japan)","Overige1","1",6000
+"Overigen (Mexico Italie Japan)","Overige1","2",6000
+"Overigen (Mexico Italie Japan)","Overige1","3",6000
+"Overigen (Mexico Italie Japan)","Overige1","4",6000
+"Overigen (Mexico Italie Japan)","Overige1","5",6000
+"Overigen (Mexico Italie Japan)","Overige1","6",6000
+"Overigen (Mexico Italie Japan)","Overige1","7",22000
+"Overigen (Mexico Italie Japan)","Overige1","8",22000
+"Overigen (Mexico Italie Japan)","Overige1","9",22000
+"Overigen (Mexico Italie Japan)","Overige1","10",22000
+"Overigen (Mexico Italie Japan)","Overige1","11",22000
+"Overigen (Mexico Italie Japan)","Overige1","12",24000
+"Overigen","Overige2","1",15050
+"Overigen","Overige2","2",15050
+"Overigen","Overige2","3",15050
+"Overigen","Overige2","4",15050
+"Overigen","Overige2","5",15050
+"Overigen","Overige2","6",15050
+"Overigen","Overige2","7",15050
+"Overigen","Overige2","8",15050
+"Overigen","Overige2","9",15050
+"Overigen","Overige2","10",15050
+"Overigen","Overige2","11",15050
+"Overigen","Overige2","12",15050

@@ -1,0 +1,21 @@
+producto_ID,producto_nombre,marca_ID,marca_nombre,categoria_ID,categoria_nombre,modelo_año,precio_lista
+1,"Trek 820 - 2016",9,"Trek",6,"Mountain Bikes",2016,379.99
+16,"Electra Townie Original 7D EQ - 2016",1,"Electra",3,"Cruisers Bicycles",2016,599.99
+30,"Surly Ice Cream Truck Frameset - 2017",8,"Surly",6,"Mountain Bikes",2017,999.99
+73,"Sun Bicycles Brickell Tandem 7 - 2017",7,"Sun Bicycles",3,"Cruisers Bicycles",2017,749.99
+74,"Electra Cruiser Lux 1 - 2017",1,"Electra",3,"Cruisers Bicycles",2017,439.99
+83,"Trek Boy's Kickster - 2015/2017",9,"Trek",1,"Children Bicycles",2017,149.99
+94,"Haro Shredder Pro 20 - 2017",2,"Haro",1,"Children Bicycles",2017,249.99
+121,"Surly Krampus Frameset - 2018",8,"Surly",6,"Mountain Bikes",2018,2499.99
+125,"Trek Kids' Dual Sport - 2018",9,"Trek",6,"Mountain Bikes",2018,469.99
+154,"Trek Domane SLR 6 Disc Women's - 2018",9,"Trek",7,"Road Bikes",2018,5499.99
+195,"Electra Townie Go! 8i Ladies' - 2018",1,"Electra",5,"Electric Bikes",2018,2599.99
+267,"Trek Precaliber 12 Girl's - 2018",9,"Trek",1,"Children Bicycles",2018,199.99
+284,"Electra Savannah 1 (20-inch) - Girl's - 2018",1,"Electra",1,"Children Bicycles",2018,319.99
+291,"Electra Sweet Ride 1 (20-inch) - Girl's - 2018",1,"Electra",1,"Children Bicycles",2018,319.99
+316,"Trek Checkpoint ALR 4 Women's - 2019",9,"Trek",7,"Road Bikes",2019,1699.99
+317,"Trek Checkpoint ALR 5 - 2019",9,"Trek",7,"Road Bikes",2019,1999.99
+318,"Trek Checkpoint ALR 5 Women's - 2019",9,"Trek",7,"Road Bikes",2019,1999.99
+319,"Trek Checkpoint SL 5 Women's - 2019",9,"Trek",7,"Road Bikes",2019,2799.99
+320,"Trek Checkpoint SL 6 - 2019",9,"Trek",7,"Road Bikes",2019,3799.99
+321,"Trek Checkpoint ALR Frameset - 2019",9,"Trek",7,"Road Bikes",2019,3199.99

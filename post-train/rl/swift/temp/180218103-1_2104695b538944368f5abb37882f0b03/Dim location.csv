@@ -1,0 +1,601 @@
+Row ID,variable,value
+3638,Country,United States
+266,Country,United States
+4246,Country,United States
+2945,Country,United States
+4210,Country,United States
+3235,Country,United States
+5647,Country,United States
+8512,Country,United States
+6773,Country,United States
+8577,Country,United States
+5033,Country,United States
+9789,Country,United States
+5416,Country,United States
+9808,Country,United States
+7090,Country,United States
+9518,Country,United States
+507,Country,United States
+1455,Country,United States
+839,Country,United States
+5458,Country,United States
+3609,Country,United States
+2475,Country,United States
+9388,Country,United States
+1814,Country,United States
+2170,Country,United States
+7067,Country,United States
+2777,Country,United States
+7813,Country,United States
+9392,Country,United States
+9455,Country,United States
+2071,Country,United States
+8405,Country,United States
+7900,Country,United States
+8373,Country,United States
+5219,Country,United States
+1880,Country,United States
+2616,Country,United States
+9222,Country,United States
+7959,Country,United States
+6510,Country,United States
+4673,Country,United States
+6387,Country,United States
+216,Country,United States
+7593,Country,United States
+5784,Country,United States
+9729,Country,United States
+5838,Country,United States
+2175,Country,United States
+9673,Country,United States
+6596,Country,United States
+3078,Country,United States
+201,Country,United States
+2291,Country,United States
+2672,Country,United States
+1358,Country,United States
+4577,Country,United States
+7738,Country,United States
+247,Country,United States
+8940,Country,United States
+3116,Country,United States
+9596,Country,United States
+1112,Country,United States
+3023,Country,United States
+6472,Country,United States
+1071,Country,United States
+4190,Country,United States
+8805,Country,United States
+2436,Country,United States
+1848,Country,United States
+9744,Country,United States
+6194,Country,United States
+9084,Country,United States
+7612,Country,United States
+2802,Country,United States
+9842,Country,United States
+6562,Country,United States
+2001,Country,United States
+3544,Country,United States
+3336,Country,United States
+1769,Country,United States
+4671,Country,United States
+8834,Country,United States
+5920,Country,United States
+2960,Country,United States
+3746,Country,United States
+9466,Country,United States
+4820,Country,United States
+3211,Country,United States
+2834,Country,United States
+9623,Country,United States
+4553,Country,United States
+6779,Country,United States
+5861,Country,United States
+1330,Country,United States
+3199,Country,United States
+2719,Country,United States
+7836,Country,United States
+3576,Country,United States
+6288,Country,United States
+7780,Country,United States
+3638,City,Springfield
+266,City,Brentwood
+4246,City,Baltimore
+2945,City,Los Angeles
+4210,City,Cranston
+3235,City,Riverside
+5647,City,Alexandria
+8512,City,New York City
+6773,City,Los Angeles
+8577,City,Concord
+5033,City,Vineland
+9789,City,Houston
+5416,City,Chicago
+9808,City,Raleigh
+7090,City,Los Angeles
+9518,City,Bowling Green
+507,City,Atlanta
+1455,City,Mobile
+839,City,Fort Worth
+5458,City,Edmonds
+3609,City,Newark
+2475,City,Los Angeles
+9388,City,Burlington
+1814,City,Newark
+2170,City,Kent
+7067,City,Los Angeles
+2777,City,Colorado Springs
+7813,City,Clinton
+9392,City,Aurora
+9455,City,Los Angeles
+2071,City,Philadelphia
+8405,City,Newark
+7900,City,Memphis
+8373,City,Seattle
+5219,City,New York City
+1880,City,Jacksonville
+2616,City,Los Angeles
+9222,City,Lafayette
+7959,City,Chico
+6510,City,New York City
+4673,City,Detroit
+6387,City,Austin
+216,City,Medina
+7593,City,Philadelphia
+5784,City,Chico
+9729,City,Lowell
+5838,City,Los Angeles
+2175,City,Houston
+9673,City,Philadelphia
+6596,City,Columbus
+3078,City,Dallas
+201,City,Akron
+2291,City,Columbus
+2672,City,Lowell
+1358,City,Louisville
+4577,City,Jackson
+7738,City,Charlotte
+247,City,Lakeville
+8940,City,Los Angeles
+3116,City,Seattle
+9596,City,San Jose
+1112,City,Houston
+3023,City,West Jordan
+6472,City,Detroit
+1071,City,Los Angeles
+4190,City,Iowa City
+8805,City,New York City
+2436,City,Springfield
+1848,City,Los Angeles
+9744,City,Newark
+6194,City,Houston
+9084,City,Suffolk
+7612,City,Garden City
+2802,City,Salem
+9842,City,Long Beach
+6562,City,Arlington
+2001,City,Pasadena
+3544,City,Columbus
+3336,City,Oakland
+1769,City,Greensboro
+4671,City,Fort Worth
+8834,City,Sandy Springs
+5920,City,New York City
+2960,City,Los Angeles
+3746,City,Columbus
+9466,City,Seattle
+4820,City,Norwich
+3211,City,Pearland
+2834,City,Hoover
+9623,City,Lancaster
+4553,City,San Francisco
+6779,City,Baltimore
+5861,City,Philadelphia
+1330,City,San Francisco
+3199,City,Jacksonville
+2719,City,Costa Mesa
+7836,City,Los Angeles
+3576,City,North Miami
+6288,City,San Francisco
+7780,City,Chesapeake
+3638,State,Ohio
+266,State,California
+4246,State,Maryland
+2945,State,California
+4210,State,Rhode Island
+3235,State,California
+5647,State,Virginia
+8512,State,New York
+6773,State,California
+8577,State,New Hampshire
+5033,State,New Jersey
+9789,State,Texas
+5416,State,Illinois
+9808,State,North Carolina
+7090,State,California
+9518,State,Ohio
+507,State,Georgia
+1455,State,Alabama
+839,State,Texas
+5458,State,Washington
+3609,State,Ohio
+2475,State,California
+9388,State,Vermont
+1814,State,Ohio
+2170,State,Ohio
+7067,State,California
+2777,State,Colorado
+7813,State,Maryland
+9392,State,Illinois
+9455,State,California
+2071,State,Pennsylvania
+8405,State,Delaware
+7900,State,Tennessee
+8373,State,Washington
+5219,State,New York
+1880,State,Florida
+2616,State,California
+9222,State,Louisiana
+7959,State,California
+6510,State,New York
+4673,State,Michigan
+6387,State,Texas
+216,State,Ohio
+7593,State,Pennsylvania
+5784,State,California
+9729,State,Massachusetts
+5838,State,California
+2175,State,Texas
+9673,State,Pennsylvania
+6596,State,Ohio
+3078,State,Texas
+201,State,Ohio
+2291,State,Georgia
+2672,State,Massachusetts
+1358,State,Kentucky
+4577,State,Michigan
+7738,State,North Carolina
+247,State,Minnesota
+8940,State,California
+3116,State,Washington
+9596,State,California
+1112,State,Texas
+3023,State,Utah
+6472,State,Michigan
+1071,State,California
+4190,State,Iowa
+8805,State,New York
+2436,State,Virginia
+1848,State,California
+9744,State,Delaware
+6194,State,Texas
+9084,State,Virginia
+7612,State,Kansas
+2802,State,Oregon
+9842,State,California
+6562,State,Texas
+2001,State,California
+3544,State,Ohio
+3336,State,California
+1769,State,North Carolina
+4671,State,Texas
+8834,State,Georgia
+5920,State,New York
+2960,State,California
+3746,State,Georgia
+9466,State,Washington
+4820,State,Connecticut
+3211,State,Texas
+2834,State,Alabama
+9623,State,Ohio
+4553,State,California
+6779,State,Maryland
+5861,State,Pennsylvania
+1330,State,California
+3199,State,North Carolina
+2719,State,California
+7836,State,California
+3576,State,Florida
+6288,State,California
+7780,State,Virginia
+3638,Postal Code,45503
+266,Postal Code,94513
+4246,Postal Code,21215
+2945,Postal Code,90049
+4210,Postal Code,2920
+3235,Postal Code,92503
+5647,Postal Code,22304
+8512,Postal Code,10035
+6773,Postal Code,90004
+8577,Postal Code,3301
+5033,Postal Code,8360
+9789,Postal Code,77070
+5416,Postal Code,60653
+9808,Postal Code,27604
+7090,Postal Code,90032
+9518,Postal Code,43402
+507,Postal Code,30318
+1455,Postal Code,36608
+839,Postal Code,76106
+5458,Postal Code,98026
+3609,Postal Code,43055
+2475,Postal Code,90032
+9388,Postal Code,5408
+1814,Postal Code,43055
+2170,Postal Code,44240
+7067,Postal Code,90049
+2777,Postal Code,80906
+7813,Postal Code,20735
+9392,Postal Code,60505
+9455,Postal Code,90032
+2071,Postal Code,19134
+8405,Postal Code,19711
+7900,Postal Code,38109
+8373,Postal Code,98105
+5219,Postal Code,10011
+1880,Postal Code,32216
+2616,Postal Code,90049
+9222,Postal Code,70506
+7959,Postal Code,95928
+6510,Postal Code,10009
+4673,Postal Code,48205
+6387,Postal Code,78745
+216,Postal Code,44256
+7593,Postal Code,19134
+5784,Postal Code,95928
+9729,Postal Code,1852
+5838,Postal Code,90036
+2175,Postal Code,77041
+9673,Postal Code,19143
+6596,Postal Code,43229
+3078,Postal Code,75217
+201,Postal Code,44312
+2291,Postal Code,31907
+2672,Postal Code,1852
+1358,Postal Code,40214
+4577,Postal Code,49201
+7738,Postal Code,28205
+247,Postal Code,55044
+8940,Postal Code,90008
+3116,Postal Code,98105
+9596,Postal Code,95123
+1112,Postal Code,77041
+3023,Postal Code,84084
+6472,Postal Code,48234
+1071,Postal Code,90008
+4190,Postal Code,52240
+8805,Postal Code,10035
+2436,Postal Code,22153
+1848,Postal Code,90004
+9744,Postal Code,19711
+6194,Postal Code,77095
+9084,Postal Code,23434
+7612,Postal Code,67846
+2802,Postal Code,97301
+9842,Postal Code,90805
+6562,Postal Code,76017
+2001,Postal Code,91104
+3544,Postal Code,43229
+3336,Postal Code,94601
+1769,Postal Code,27405
+4671,Postal Code,76106
+8834,Postal Code,30328
+5920,Postal Code,10035
+2960,Postal Code,90032
+3746,Postal Code,31907
+9466,Postal Code,98115
+4820,Postal Code,6360
+3211,Postal Code,77581
+2834,Postal Code,35244
+9623,Postal Code,43130
+4553,Postal Code,94122
+6779,Postal Code,21215
+5861,Postal Code,19120
+1330,Postal Code,94109
+3199,Postal Code,28540
+2719,Postal Code,92627
+7836,Postal Code,90045
+3576,Postal Code,33161
+6288,Postal Code,94122
+7780,Postal Code,23320
+3638,Region,East
+266,Region,West
+4246,Region,East
+2945,Region,West
+4210,Region,East
+3235,Region,West
+5647,Region,South
+8512,Region,East
+6773,Region,West
+8577,Region,East
+5033,Region,East
+9789,Region,Central
+5416,Region,Central
+9808,Region,South
+7090,Region,West
+9518,Region,East
+507,Region,South
+1455,Region,South
+839,Region,Central
+5458,Region,West
+3609,Region,East
+2475,Region,West
+9388,Region,East
+1814,Region,East
+2170,Region,East
+7067,Region,West
+2777,Region,West
+7813,Region,East
+9392,Region,Central
+9455,Region,West
+2071,Region,East
+8405,Region,East
+7900,Region,South
+8373,Region,West
+5219,Region,East
+1880,Region,South
+2616,Region,West
+9222,Region,South
+7959,Region,West
+6510,Region,East
+4673,Region,Central
+6387,Region,Central
+216,Region,East
+7593,Region,East
+5784,Region,West
+9729,Region,East
+5838,Region,West
+2175,Region,Central
+9673,Region,East
+6596,Region,East
+3078,Region,Central
+201,Region,East
+2291,Region,South
+2672,Region,East
+1358,Region,South
+4577,Region,Central
+7738,Region,South
+247,Region,Central
+8940,Region,West
+3116,Region,West
+9596,Region,West
+1112,Region,Central
+3023,Region,West
+6472,Region,Central
+1071,Region,West
+4190,Region,Central
+8805,Region,East
+2436,Region,South
+1848,Region,West
+9744,Region,East
+6194,Region,Central
+9084,Region,South
+7612,Region,Central
+2802,Region,West
+9842,Region,West
+6562,Region,Central
+2001,Region,West
+3544,Region,East
+3336,Region,West
+1769,Region,South
+4671,Region,Central
+8834,Region,South
+5920,Region,East
+2960,Region,West
+3746,Region,South
+9466,Region,West
+4820,Region,East
+3211,Region,Central
+2834,Region,South
+9623,Region,East
+4553,Region,West
+6779,Region,East
+5861,Region,East
+1330,Region,West
+3199,Region,South
+2719,Region,West
+7836,Region,West
+3576,Region,South
+6288,Region,West
+7780,Region,South
+3638,Location ID,3638
+266,Location ID,266
+4246,Location ID,4246
+2945,Location ID,2945
+4210,Location ID,4210
+3235,Location ID,3235
+5647,Location ID,5647
+8512,Location ID,8512
+6773,Location ID,6773
+8577,Location ID,8577
+5033,Location ID,5033
+9789,Location ID,9789
+5416,Location ID,5416
+9808,Location ID,9808
+7090,Location ID,7090
+9518,Location ID,9518
+507,Location ID,507
+1455,Location ID,1455
+839,Location ID,839
+5458,Location ID,5458
+3609,Location ID,3609
+2475,Location ID,2475
+9388,Location ID,9388
+1814,Location ID,1814
+2170,Location ID,2170
+7067,Location ID,7067
+2777,Location ID,2777
+7813,Location ID,7813
+9392,Location ID,9392
+9455,Location ID,9455
+2071,Location ID,2071
+8405,Location ID,8405
+7900,Location ID,7900
+8373,Location ID,8373
+5219,Location ID,5219
+1880,Location ID,1880
+2616,Location ID,2616
+9222,Location ID,9222
+7959,Location ID,7959
+6510,Location ID,6510
+4673,Location ID,4673
+6387,Location ID,6387
+216,Location ID,216
+7593,Location ID,7593
+5784,Location ID,5784
+9729,Location ID,9729
+5838,Location ID,5838
+2175,Location ID,2175
+9673,Location ID,9673
+6596,Location ID,6596
+3078,Location ID,3078
+201,Location ID,201
+2291,Location ID,2291
+2672,Location ID,2672
+1358,Location ID,1358
+4577,Location ID,4577
+7738,Location ID,7738
+247,Location ID,247
+8940,Location ID,8940
+3116,Location ID,3116
+9596,Location ID,9596
+1112,Location ID,1112
+3023,Location ID,3023
+6472,Location ID,6472
+1071,Location ID,1071
+4190,Location ID,4190
+8805,Location ID,8805
+2436,Location ID,2436
+1848,Location ID,1848
+9744,Location ID,9744
+6194,Location ID,6194
+9084,Location ID,9084
+7612,Location ID,7612
+2802,Location ID,2802
+9842,Location ID,9842
+6562,Location ID,6562
+2001,Location ID,2001
+3544,Location ID,3544
+3336,Location ID,3336
+1769,Location ID,1769
+4671,Location ID,4671
+8834,Location ID,8834
+5920,Location ID,5920
+2960,Location ID,2960
+3746,Location ID,3746
+9466,Location ID,9466
+4820,Location ID,4820
+3211,Location ID,3211
+2834,Location ID,2834
+9623,Location ID,9623
+4553,Location ID,4553
+6779,Location ID,6779
+5861,Location ID,5861
+1330,Location ID,1330
+3199,Location ID,3199
+2719,Location ID,2719
+7836,Location ID,7836
+3576,Location ID,3576
+6288,Location ID,6288
+7780,Location ID,7780

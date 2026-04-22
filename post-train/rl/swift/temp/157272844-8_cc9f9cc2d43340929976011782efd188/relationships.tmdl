@@ -1,0 +1,1071 @@
+﻿relationship 30248c08-6ba7-488f-9068-bde97f9c8815
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employee.DateOfBirth
+	toColumn: LocalDateTable_ede94e77-b71b-4ab6-a377-5bf4f79f0afb.Date
+
+relationship 0f7e686b-79c7-45b7-bb7a-198df0c37fe7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: EmployeeAudit.DateOfBirth
+	toColumn: LocalDateTable_59d3c4bf-ac10-4ed7-a2b1-e1ddf9f3771a.Date
+
+relationship c9aaef99-7e8a-4cc3-86cb-4aa389806cc2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Experiences.ExperiencedDate
+	toColumn: LocalDateTable_aba42dad-0573-4c8d-a102-f21312b5a15f.Date
+
+relationship b36b538d-30ea-4119-be5f-ba82c59ccdfd
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Patient.DateOfBirth
+	toColumn: LocalDateTable_79f75187-a716-4371-8d2c-0e6ba2ede353.Date
+
+relationship a2a9000b-668a-47f8-b6d8-440a1d3200b4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Possess.PossessedDate
+	toColumn: LocalDateTable_1c802223-39eb-4278-a783-d3acd143a6b4.Date
+
+relationship 53c57270-95a2-4b64-9c4f-283635e4bf77
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Test.Date_of_Testing
+	toColumn: LocalDateTable_18504eee-db9a-49d5-9a74-0c8ca9cd55a3.Date
+
+relationship 955c58dc-3ba0-4664-9db5-da8e0319394e
+	fromColumn: Possess.AllergyID
+	toColumn: Allergy.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4dc2c7ac-5893-4168-b408-cd714d5e0c94
+	fromColumn: Employee.HospitalID
+	toColumn: Hospital.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 63c46560-4f64-4e18-a6fd-d8287c494c65
+	fromColumn: Experiences.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 881b2326-e5f1-4515-a101-cde35a8ffebb
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Experiences.SymptomID
+	toColumn: Symptoms.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 16d4b4f0-d29c-4e7f-8699-ea95eed2f0b4
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Rooms.HospitalID
+	toColumn: Hospital.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship f1ec75ab-b9b3-4c5a-a3e8-ee5adb306123
+	fromColumn: Possess.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0f1cb22a-89c2-4fad-9a03-52e260842981
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Test.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship b4985211-592e-4f6c-aba6-613a2f153307
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Visits.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4884bd43-a5e7-4a70-a20b-01fb945d8da3
+	fromColumn: Rooms.'Room Type'
+	toColumn: AvailableRooms.'Room Type'
+
+relationship a60641b1-a166-421b-a691-1c554d48220a
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: NumberOfActPatientsInZipCode.ZipCode
+	toColumn: Patient.ZipCode
+
+relationship 15ed010b-7b56-4220-b13e-16479182cb74
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Employee (2)'.DateOfBirth
+	toColumn: LocalDateTable_26485b4a-54c5-4642-9ba8-4ee97aa197c6.Date
+
+relationship f3b4f3e8-ebc1-4f50-9cc9-8f17bb073ae5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'EmployeeAudit (2)'.DateOfBirth
+	toColumn: LocalDateTable_2dfdaec6-1917-466d-93e2-240812914f10.Date
+
+relationship 3a66ea3b-7953-42b4-aaae-550f30980cc0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Experiences (2)'.ExperiencedDate
+	toColumn: LocalDateTable_f8789c04-bba9-4f97-9c2a-0876f5aab10a.Date
+
+relationship 9098d84f-c147-474d-9637-25372d1b8d3b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Patient (2)'.DateOfBirth
+	toColumn: LocalDateTable_5cbeef02-f526-49fe-87b5-afdf4fb01e67.Date
+
+relationship ce7bd731-f02c-4541-acb3-0c65fd26b21e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Possess (2)'.PossessedDate
+	toColumn: LocalDateTable_0fdebadb-3982-435a-996a-511c404fc7f5.Date
+
+relationship e3f6ad40-9079-432b-bb78-f5b0b29d5003
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Test (2)'.Date_of_Testing
+	toColumn: LocalDateTable_dec0b737-18d9-4448-8307-fe8c57984dd3.Date
+
+relationship b9bb08b5-623c-4e9e-9875-6613301a408b
+	fromColumn: 'Possess (2)'.AllergyID
+	toColumn: 'Allergy (2)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship ca45eba9-d21e-4061-8e48-d100c09943a4
+	fromColumn: Possess.AllergyID
+	toColumn: 'Allergy (2)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0d52ff04-b447-46a0-bc9c-8a6c2d525315
+	fromColumn: 'Employee (2)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship f91895bc-0355-48a3-9d93-ea8dd9ff8065
+	fromColumn: 'Employee (2)'.HospitalID
+	toColumn: Hospital.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship a8726c23-a4b4-4963-887f-d7acc71e9fa9
+	fromColumn: 'Experiences (2)'.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 867c9cfb-6895-4802-a26d-5271076442e7
+	fromColumn: 'Experiences (2)'.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship c56e05ba-5ce3-4d41-80a4-c1192b86b776
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (2)'.SymptomID
+	toColumn: 'Symptoms (2)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 436f3793-75bc-4135-842d-bc94c295962e
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (2)'.SymptomID
+	toColumn: Symptoms.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 9186844d-0f94-4ac9-8461-074ee90fcfae
+	fromColumn: Employee.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 69379edf-2a7c-4343-9e18-bd7fbe997307
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (2)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 2438b9d7-9227-4537-9b9d-6bb790daa970
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Rooms.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship dac9c4b1-db9a-4981-b2b8-a04eafdd99bb
+	fromColumn: Experiences.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 3733a82e-fa7a-4e76-b2ef-8818bca59324
+	fromColumn: 'Possess (2)'.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship c40bd19b-70ec-4aed-9dab-3680f3a3e615
+	fromColumn: Possess.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship c7211f96-6a35-44b0-94c6-72084aa06eae
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Test (2)'.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 48bec439-c366-49d5-bcc2-e5ff8cb9dcdf
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Test.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 13bad73b-4b6c-4be6-bd96-3597edfa8e30
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (2)'.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0dbbb26b-c27b-44b2-a0fa-84531f89d8d3
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Visits.PatientID
+	toColumn: 'Patient (2)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship dc886332-afef-4847-b63b-f601f77a3121
+	fromColumn: 'Possess (2)'.AllergyID
+	toColumn: Allergy.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5064d0c5-20e4-4a50-a777-9e163a417004
+	fromColumn: 'Possess (2)'.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 115127c0-a5eb-41c9-a0b6-682342782529
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (2)'.HospitalID
+	toColumn: Hospital.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4c8317b3-85e6-4e75-9071-dfc608f9159b
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Experiences.SymptomID
+	toColumn: 'Symptoms (2)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship c9159e01-f48e-4a19-b524-bd73b90cb564
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Test (2)'.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship aedb4bbe-07af-49de-9c34-ba7dcd9ca9a8
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (2)'.PatientID
+	toColumn: Patient.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 25eeafad-47fb-4ef2-887c-dea43f427cb8
+	isActive: false
+	fromColumn: 'Rooms (2)'.'Room Type'
+	toColumn: AvailableRooms.'Room Type'
+
+relationship 91a1ea5c-7807-486f-809b-c93209e113a9
+	fromColumn: Rooms.'Room Type'
+	toColumn: 'AvailableRooms (2)'.'Room Type'
+
+relationship effeb058-6648-4f9b-90f1-df424eb174d2
+	isActive: false
+	fromColumn: 'Rooms (2)'.'Room Type'
+	toColumn: 'AvailableRooms (2)'.'Room Type'
+
+relationship fae59b2f-0f33-4226-b6af-82f2e494943b
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'NumberOfActPatientsInZipCode (2)'.ZipCode
+	toColumn: Patient.ZipCode
+
+relationship f9735e1c-f949-4144-bbf0-c2e79d2ea29c
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: NumberOfActPatientsInZipCode.ZipCode
+	toColumn: 'Patient (2)'.ZipCode
+
+relationship 033ffdf8-5cd3-480c-a009-7fd98911d66d
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'NumberOfActPatientsInZipCode (2)'.ZipCode
+	toColumn: 'Patient (2)'.ZipCode
+
+relationship 25b10acf-9152-4153-a644-7f737e2cfc49
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Employee (3)'.DateOfBirth
+	toColumn: LocalDateTable_4b7840c5-dd42-42ff-bd7b-e3c40f526453.Date
+
+relationship 6fd74eaa-42a4-4d4c-98c4-900bcfce0300
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Experiences (3)'.ExperiencedDate
+	toColumn: LocalDateTable_379373d5-8ba2-41c3-b36c-5da8b4a22f6c.Date
+
+relationship 6d4e5627-96db-4a3c-8d97-f65dacf6f266
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Medication.ManufacturerDate
+	toColumn: LocalDateTable_978483ff-d076-466d-a4a8-b2d08cf4d000.Date
+
+relationship d296a11d-9b5d-4770-b777-abe6d64ec83b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Medication.ExpiryDate
+	toColumn: LocalDateTable_640caa89-eb8b-4634-afe3-1be62ab8a942.Date
+
+relationship 918a67ed-3424-4ae5-bed8-15d1388fc38b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Patient (3)'.DateOfBirth
+	toColumn: LocalDateTable_d3c98f3e-e622-45d9-87ef-dbf0dcd4fe52.Date
+
+relationship 1756dd2a-dc32-423b-8530-5b2a0b83722f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Possess (3)'.PossessedDate
+	toColumn: LocalDateTable_b4bd0fa6-2757-4bd8-9c32-cf223083129c.Date
+
+relationship bc155113-f5af-4f49-ab7a-b2df0c3d146c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Test (3)'.Date_of_Testing
+	toColumn: LocalDateTable_c3d86c46-ac30-4570-a80e-7c1a9b5d4c60.Date
+
+relationship 853947cf-6ff2-4c69-b1db-cbe6b1a541df
+	fromColumn: 'Possess (3)'.AllergyID
+	toColumn: 'Allergy (3)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5593b606-fd42-40ee-bdde-9a7cf22a3644
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Distributor.CentreID
+	toColumn: VaccinationCentre.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship dab8a1c0-3055-4b00-943d-cab7f91518f9
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Vaccine.DistributorLicenseID
+	toColumn: Distributor.DistributorLicenseID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 2e6eeb98-3bff-4a98-9dcd-45663eaa94bb
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Prescription.DoctorID
+	toColumn: 'Doctor (3)'.DoctorID
+
+	annotation PBI_IsFromSource = FS
+
+relationship be748174-4be7-47f7-bb3f-a28fc1437edd
+	fromColumn: 'Employee (3)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4fed0c78-ce59-4bc5-b73a-88eed770a973
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (3)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 6b8db245-77f0-4c34-affc-626c8dfad52e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (3)'.SymptomID
+	toColumn: 'Symptoms (3)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship d73d8496-dc9a-42ac-8c57-8e628e0f1fd0
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (3)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 926ce846-c041-425d-9e3d-582775b9428f
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 65f4ab3b-bad8-4d5c-9a23-6cfd1a8ba947
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Medication.PrescriptionID
+	toColumn: Prescription.PrescriptionID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 85ef3e43-5259-4725-81c8-cf3db384e336
+	fromColumn: 'Possess (3)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5b355fb1-c6ac-4b4b-8b26-dd9ea0b1bc86
+	fromColumn: 'Test (3)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship f2f79c1c-ce99-46c8-9c5c-114f7a903065
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 7920233f-c0a8-46b3-bbea-aba9e1ce7cac
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.CentreID
+	toColumn: VaccinationCentre.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4f397101-4562-4d7e-93da-22ddd6cb0b14
+	fromColumn: 'Rooms (3)'.'Room Type'
+	toColumn: AvailableRooms.'Room Type'
+
+relationship 60177824-3383-44ad-a72e-b7d5439735e2
+	fromColumn: 'Rooms (3)'.'Room Type'
+	toColumn: 'AvailableRooms (2)'.'Room Type'
+
+relationship 6f4b860f-610c-4e9e-b7fb-b13316256e6f
+	fromColumn: Rooms.'Room Type'
+	toColumn: 'AvailableRooms (3)'.'Room Type'
+
+relationship 55fd9a7d-df7c-443a-a7f7-1176f1f665c5
+	isActive: false
+	fromColumn: 'Rooms (2)'.'Room Type'
+	toColumn: 'AvailableRooms (3)'.'Room Type'
+
+relationship 8c011c52-e242-4e8c-8c99-87ab00557901
+	fromColumn: 'Rooms (3)'.'Room Type'
+	toColumn: 'AvailableRooms (3)'.'Room Type'
+
+relationship b01d893a-4552-4bb3-bfd4-bfc38145376e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Patient (3)'.ZipCode
+	toColumn: Patient.ZipCode
+
+relationship 9e5227d3-6de1-4b28-9c8d-ec83d230fe4b
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Patient (3)'.ZipCode
+	toColumn: 'Patient (2)'.ZipCode
+
+relationship af1f86e4-0772-403e-ba14-6c135e6fc6f1
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Employee.EmployeeID
+	toColumn: 'Employee (3)'.EmployeeID
+
+relationship 6328490b-3072-44d1-997c-ccb0deb9af50
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Employee (2)'.EmployeeID
+	toColumn: 'Employee (3)'.EmployeeID
+
+relationship 0927077d-c712-4445-851b-0fa1f294566d
+	isActive: false
+	fromColumn: Employee.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+relationship 5c7c498f-6587-40cd-b899-517c81f11e0d
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Hospital.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+relationship 4de97293-ad01-4b9a-a5e3-7fd7ae4d8736
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Rooms.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+relationship 11a6afa0-4547-4097-881a-d0ef369bebc2
+	isActive: false
+	fromColumn: 'Employee (2)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+relationship ef17715a-8181-431b-97f8-5c00d47f3e8d
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Hospital (3)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+relationship b81742ec-9bb7-4c93-afd0-795d6463ec78
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (2)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+relationship 224625c1-fbb1-4aaa-977c-6157f866fd59
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Employee (4)'.DateOfBirth
+	toColumn: LocalDateTable_26186f5e-519c-4498-85fc-ba45b4e5c0f7.Date
+
+relationship 649ee91f-a356-4695-80f8-24f49e25d51d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Experiences (4)'.ExperiencedDate
+	toColumn: LocalDateTable_b6aafdf2-c011-4412-88ca-5f1e583ff5be.Date
+
+relationship 694eb28a-b4a3-4275-89f5-a765b40f53f7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Medication (2)'.ManufacturerDate
+	toColumn: LocalDateTable_6f1067aa-7159-45d7-abfd-2f610850fa0b.Date
+
+relationship 9b4c6204-c3d7-4402-b98b-8d07abfe7389
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Medication (2)'.ExpiryDate
+	toColumn: LocalDateTable_f979708c-04d6-4c53-9db2-0ba04a72a2bd.Date
+
+relationship 0537343b-4996-4872-9887-840db9a31251
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Patient (4)'.DateOfBirth
+	toColumn: LocalDateTable_85c12648-be46-44bd-a938-b55b8aebd65c.Date
+
+relationship a498da63-ee44-47d4-bee8-b0af53af9d28
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Possess (4)'.PossessedDate
+	toColumn: LocalDateTable_faf2ba26-791a-4eaa-a729-433f90d1bdfd.Date
+
+relationship dfb6ff96-d6f5-4755-98b2-9fe885550a92
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Test (4)'.Date_of_Testing
+	toColumn: LocalDateTable_11f3d7a5-15fc-44a8-bfcd-bfa6256d405c.Date
+
+relationship 02e842c7-aea4-4029-af7d-528e25450358
+	fromColumn: 'Possess (4)'.AllergyID
+	toColumn: 'Allergy (4)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 2d6a64d0-8628-4333-82a4-374535abb2f9
+	fromColumn: 'Possess (3)'.AllergyID
+	toColumn: 'Allergy (4)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship f103e714-ec12-4c0e-84ee-61c00de52130
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Distributor (2)'.CentreID
+	toColumn: 'VaccinationCentre (2)'.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 7b8c9503-0d15-4aef-886d-8b64ca618e80
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Distributor (2)'.CentreID
+	toColumn: VaccinationCentre.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship ce9c7dad-9b80-4512-a48d-d0c6290e7894
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Vaccine (2)'.DistributorLicenseID
+	toColumn: 'Distributor (2)'.DistributorLicenseID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 29795d42-8f50-4a4f-9336-bbce79994959
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Vaccine.DistributorLicenseID
+	toColumn: 'Distributor (2)'.DistributorLicenseID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 7e8a4ca4-c06b-47d0-943a-7b834329872b
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Prescription (2)'.DoctorID
+	toColumn: 'Doctor (4)'.DoctorID
+
+	annotation PBI_IsFromSource = FS
+
+relationship e4731554-2558-405a-8158-6c110fc7faad
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Prescription.DoctorID
+	toColumn: 'Doctor (4)'.DoctorID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 665b0ea0-8c27-4f06-a817-3e6db734c63a
+	fromColumn: 'Employee (4)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship c9215c63-e0cf-459f-a45d-9d529fb3f936
+	fromColumn: 'Employee (4)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 17581e6c-9d6d-43b0-9d83-3279b62f8974
+	fromColumn: 'Experiences (4)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship d179f42a-e1b5-44d0-9ac6-6571ddfc4293
+	fromColumn: 'Experiences (4)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship d4e4341c-ba1a-45f5-bc14-2844d3ab92e9
+	fromColumn: 'Experiences (4)'.SymptomID
+	toColumn: 'Symptoms (4)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 42b8c557-e7b7-43f0-a4c9-68e20138925c
+	isActive: false
+	fromColumn: 'Experiences (4)'.SymptomID
+	toColumn: 'Symptoms (3)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 2fe4204e-a018-45b5-8666-21dddafdeefd
+	fromColumn: 'Employee (3)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0299e32f-fddf-4160-a573-4f228dce9afd
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (4)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4fd617ad-67e4-4615-9007-fa10d2d0bbab
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (3)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 68d29f01-51cb-4e9e-83b5-98db3873f54a
+	fromColumn: 'Visits (4)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 9b2f027c-b03c-4c14-9cd4-4f17b8a7d636
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 67e6700c-c6db-421d-aca1-fe395c1d3be3
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Medication (2)'.PrescriptionID
+	toColumn: 'Prescription (2)'.PrescriptionID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 85b19b0b-59ae-410e-8250-9301404a37b0
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Medication (2)'.PrescriptionID
+	toColumn: Prescription.PrescriptionID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 45f8738a-a7f3-4dfb-bd62-716b56d64f4e
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (3)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4c36a70d-d4c1-4c98-8687-99acd9453391
+	fromColumn: 'Possess (4)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship b8cb2e79-7203-40ce-815a-df6ebee04d08
+	fromColumn: 'Possess (3)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship ae869e26-f19e-4f67-bd43-99056e6ea346
+	fromColumn: 'Test (4)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship dcd2e868-433f-4721-820d-205adb1e33bf
+	fromColumn: 'Test (3)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 3d449a9d-18f0-437c-98c5-fb3e2d5b3404
+	fromColumn: 'Visits (4)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 038c7311-0d19-4e46-a62e-2f64627f1420
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.PatientID
+	toColumn: 'Patient (4)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 2a78b030-6b59-4818-a407-8b559c82cdc0
+	fromColumn: 'Possess (4)'.AllergyID
+	toColumn: 'Allergy (3)'.AllergyID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 3237ed20-69c4-4875-8940-33fba4c614c6
+	fromColumn: 'Possess (4)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 1a6658e4-2d8c-4f0b-9c49-c38d6b0eb835
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Prescription (2)'.DoctorID
+	toColumn: 'Doctor (3)'.DoctorID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 8d05db60-924b-4689-bc46-e3cb43ad12dd
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Medication.PrescriptionID
+	toColumn: 'Prescription (2)'.PrescriptionID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 092380a2-e884-497e-9744-d2b851a9ef06
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (4)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 8b17d377-23a5-4d7b-9b1d-e25bc79134cc
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (3)'.SymptomID
+	toColumn: 'Symptoms (4)'.SymptomID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5a7e2323-5c15-4776-8742-c04e4d6fc17d
+	fromColumn: 'Test (4)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship dbf86250-e5ed-4378-be5d-7c07b6d982f8
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Distributor.CentreID
+	toColumn: 'VaccinationCentre (2)'.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 1a202faf-8892-4e9d-84e6-92d48d25d55e
+	fromColumn: 'Visits (4)'.CentreID
+	toColumn: 'VaccinationCentre (2)'.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship ad2c76a9-dc9c-43e5-a943-610112a1f19f
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (3)'.CentreID
+	toColumn: 'VaccinationCentre (2)'.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship db69842e-ae45-4f4e-81da-e0868d9a333c
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Vaccine (2)'.DistributorLicenseID
+	toColumn: Distributor.DistributorLicenseID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4fd98725-8efb-435f-8411-96c8a2ddf48e
+	isActive: false
+	fromColumn: 'Visits (4)'.HospitalID
+	toColumn: 'Hospital (3)'.HospitalID
+
+	annotation PBI_IsFromSource = FS
+
+relationship b9316fef-8c3d-4c55-9388-e8b2f843216a
+	isActive: false
+	fromColumn: 'Visits (4)'.PatientID
+	toColumn: 'Patient (3)'.PatientID
+
+	annotation PBI_IsFromSource = FS
+
+relationship 15bfb334-0442-4ee3-8da9-7c0c164a2ade
+	isActive: false
+	fromColumn: 'Visits (4)'.CentreID
+	toColumn: VaccinationCentre.CentreID
+
+	annotation PBI_IsFromSource = FS
+
+relationship beb16729-aec8-418f-a505-df15b896e3cf
+	isActive: false
+	fromColumn: 'Rooms (4)'.'Room Type'
+	toColumn: AvailableRooms.'Room Type'
+
+relationship 77f3d4ae-bd4f-4bb4-a75c-a3c88ef5a7f8
+	isActive: false
+	fromColumn: 'Rooms (4)'.'Room Type'
+	toColumn: 'AvailableRooms (2)'.'Room Type'
+
+relationship 32f099dc-3e30-486e-9b52-76a364b75752
+	isActive: false
+	fromColumn: 'Rooms (4)'.'Room Type'
+	toColumn: 'AvailableRooms (3)'.'Room Type'
+
+relationship f36fb2f8-72e3-419b-8416-f80f0c61e966
+	fromColumn: Rooms.'Room Type'
+	toColumn: 'AvailableRooms (4)'.'Room Type'
+
+relationship a0e5777f-a7cb-45a8-b825-a7c07c0afd9f
+	isActive: false
+	fromColumn: 'Rooms (2)'.'Room Type'
+	toColumn: 'AvailableRooms (4)'.'Room Type'
+
+relationship 496e9fc9-8e1a-4b9b-8f2a-d2a62e72f141
+	fromColumn: 'Rooms (3)'.'Room Type'
+	toColumn: 'AvailableRooms (4)'.'Room Type'
+
+relationship 8ff46d3c-f9a1-4fb9-a639-d4a722994dc0
+	isActive: false
+	fromColumn: 'Rooms (4)'.'Room Type'
+	toColumn: 'AvailableRooms (4)'.'Room Type'
+
+relationship 4bab1f74-50dd-4401-a27f-b444417c39fc
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'NumberOfActPatientsInZipCode (4)'.ZipCode
+	toColumn: Patient.ZipCode
+
+relationship 3293a50a-eb46-4c35-b879-e5cb43fa2599
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Patient (4)'.ZipCode
+	toColumn: Patient.ZipCode
+
+relationship 3834048c-ce9d-47ef-a74e-1d89b41c86f8
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'NumberOfActPatientsInZipCode (4)'.ZipCode
+	toColumn: 'Patient (2)'.ZipCode
+
+relationship 73513881-a4c7-46a4-b801-64f4f75ea893
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Patient (4)'.ZipCode
+	toColumn: 'Patient (2)'.ZipCode
+
+relationship 1d3adf3c-2ba5-4a9f-87c6-38d80b172f05
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Employee.EmployeeID
+	toColumn: 'Employee (4)'.EmployeeID
+
+relationship 7f99d593-ce1b-4032-95d9-0f917a7ab979
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Employee (2)'.EmployeeID
+	toColumn: 'Employee (4)'.EmployeeID
+
+relationship 41d67cf5-444e-4920-a74f-6b067adfa232
+	fromColumn: Employee.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 20eb869c-96a8-4f11-989c-28797bc23dba
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Hospital.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 9f418fd8-b057-4753-a682-944fdd7023e6
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Rooms.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 4d255b66-3c73-4df7-84c1-a0c165fcdce6
+	fromColumn: 'Employee (2)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 9f5d14f2-b94c-4b0b-96a4-86734513820d
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Hospital (2)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 2a21f76b-5a00-463c-b503-2cd6c4af6950
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (2)'.HospitalID
+	toColumn: 'Hospital (4)'.HospitalID
+
+relationship 56ba71e7-14af-4132-a0f4-408c67d528cf
+	isActive: false
+	fromColumn: 'Employee (4)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+relationship 763fc07c-fa07-46b8-9b71-343d3684ff90
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Rooms (4)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+relationship 4791961f-266f-417a-ac60-d14492243cf7
+	isActive: false
+	fromColumn: 'Visits (4)'.HospitalID
+	toColumn: 'Hospital (2)'.HospitalID
+
+relationship 29e73a3d-e1f8-4e82-ae54-eedc0dfc09c2
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (4)'.SerialNo
+	toColumn: Possess.SerialNo
+
+relationship 28acfa15-d400-4cac-b41b-f024e46fff21
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (4)'.SerialNo
+	toColumn: 'Possess (2)'.SerialNo
+
+relationship 5f0ba8a9-68d6-481c-b382-cabe062febcc
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (4)'.SerialNo
+	toColumn: 'Possess (3)'.SerialNo
+
+relationship 69b16330-8287-44c1-a22c-290178d9ca3a
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Experiences (4)'.SerialNo
+	toColumn: 'Possess (4)'.SerialNo
+
+relationship baa9c09c-59d9-42c2-add5-13dd609aada0
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Visits.VisitID
+	toColumn: 'Visits (4)'.VisitID
+
+relationship 24161813-56c5-4554-94b6-c94e68c9f891
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Visits (2)'.VisitID
+	toColumn: 'Visits (4)'.VisitID
+

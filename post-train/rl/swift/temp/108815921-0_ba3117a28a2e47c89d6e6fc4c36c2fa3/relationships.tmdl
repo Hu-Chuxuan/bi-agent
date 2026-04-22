@@ -1,0 +1,55 @@
+﻿relationship 0c9145d3-92fb-450d-a74a-77dd922b9645
+	joinOnDateBehavior: datePartOnly
+	fromColumn: EmployeesInfo.DateOfBirth
+	toColumn: LocalDateTable_d87fe972-142b-425f-b0f3-d1efd6b5ec65.Date
+
+relationship a0195524-acb5-407d-98fc-80194286696b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: EmployeesInfo.HiringDate
+	toColumn: LocalDateTable_de54104a-accd-4453-b289-2060bff4896d.Date
+
+relationship 297056cf-52bf-47ee-923e-f3de9be5237a
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: EmployeeTerritoriesInfo.EmployeeID
+	toColumn: EmployeesInfo.EmployeeID
+
+relationship c187c200-20c3-4711-a3a0-f8793eb36cde
+	fromColumn: ProductsInfo.CategoryID
+	toColumn: CategoriesInfo.CategoryID
+
+relationship 1bdc1c27-34b2-4805-b56d-19d060a3accd
+	fromColumn: OrderDetailsInfo.ProductID
+	toColumn: ProductsInfo.ProductID
+
+relationship 2a7f8100-dbd4-45f9-b0ae-4448fd02c075
+	fromColumn: ProductsInfo.SupplierID
+	toColumn: SuppliersInfo.SupplierID
+
+relationship b157bf57-5cd3-4482-9978-f1c022a7d504
+	fromColumn: EmployeeTerritoriesInfo.TerritoryID
+	toColumn: TerritoriesInfo.TerritoryID
+
+relationship 0267d7ea-5250-41f3-b0ce-7993de5e5365
+	fromColumn: TerritoriesInfo.RegionID
+	toColumn: RegionInfo.RegionID
+
+relationship 0d7d4afe-efb5-4e72-b7df-b1e397458b50
+	joinOnDateBehavior: datePartOnly
+	fromColumn: OrdersInfo.OrderDate
+	toColumn: LocalDateTable_fa5d43e3-9510-4944-a0c6-b29e56e69127.Date
+
+relationship 045d9acd-11ac-41aa-90e3-9b2be083b8a3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: OrdersInfo.ExpectedArrivalDate
+	toColumn: LocalDateTable_14144b50-bcf2-49fa-908d-23a7559eab42.Date
+
+relationship 2af1821d-c0bc-4a3d-a9c7-05515d4f2aff
+	joinOnDateBehavior: datePartOnly
+	fromColumn: OrdersInfo.ShippedDate
+	toColumn: LocalDateTable_1c90537b-6578-4308-88c6-0980a255744a.Date
+
+relationship 202c5950-4d00-4ab1-9258-ef23f1c4259a
+	fromColumn: OrderDetailsInfo.OrderID
+	toColumn: OrdersInfo.OrderID
+

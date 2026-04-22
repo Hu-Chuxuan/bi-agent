@@ -1,0 +1,4 @@
+DeliveryID,DeliveryType
+1,"CourierDelivery"
+2,"PickUP"
+3,"PostalDelivery"

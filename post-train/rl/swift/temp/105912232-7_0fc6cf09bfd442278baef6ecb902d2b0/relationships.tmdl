@@ -1,0 +1,367 @@
+﻿relationship d898528d-f6aa-41ae-93dc-5082c163e71a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data dow_data'.Date
+	toColumn: LocalDateTable_1c17e31e-5019-425d-b25b-40d72e6376cb.Date
+
+relationship 7c585074-16a8-46a4-81e7-0da05638d49a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data nasdaq_data'.Date
+	toColumn: LocalDateTable_06191547-f021-48d0-8f9c-c50436b0c11f.Date
+
+relationship 94ed38e9-faac-4d89-92af-5ca34986b885
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data spx_data'.Date
+	toColumn: LocalDateTable_173a498d-37f3-424f-b0ef-a878255869fe.Date
+
+relationship 7815e14d-1485-4082-a6d7-1bbad59c1264
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data vix_data'.Date
+	toColumn: LocalDateTable_b06666a8-e06c-4709-8fe2-587e99864327.Date
+
+relationship caf69524-156e-41c2-a0dc-faba384cf258
+	isActive: false
+	fromColumn: 'stock_data dow_data'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 830aa842-43b2-4847-bc64-27d5f5fbd9f9
+	isActive: false
+	fromColumn: 'stock_data nasdaq_data'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 31909074-2731-4299-b274-3cc13ac9b0b6
+	isActive: false
+	fromColumn: 'stock_data spx_data'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship a5cdc0e2-bc60-458d-82af-9192cb3b1644
+	isActive: false
+	fromColumn: 'stock_data vix_data'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship fac52278-1ad5-4c7d-876c-6f2e972b8d02
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data combine'.Date
+	toColumn: LocalDateTable_3e8cb7bd-40ff-4f2e-ba84-a6d4114a19d3.Date
+
+relationship b67ff4f8-68dd-4c87-9f9e-93dd30789ba6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data axp_data_lstm'.Date
+	toColumn: LocalDateTable_3d0f215c-43c1-45df-8403-4eebf3d1307c.Date
+
+relationship 1c1f30cf-3122-4e90-b908-34f3a462d76f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data brk_data_lstm'.Date
+	toColumn: LocalDateTable_52c9271d-4742-4b2a-b05c-24ac3af9c9e3.Date
+
+relationship f0845ec0-7bf3-40ae-95b9-e01c7f8611f4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data cfg_data_lstm'.Date
+	toColumn: LocalDateTable_cd9517e3-9023-4317-8d00-d2d2c61b50db.Date
+
+relationship 463e2600-3555-4ef2-927d-43b2416cf1bb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data gs_data_lstm'.Date
+	toColumn: LocalDateTable_4bab3704-5359-4629-a90d-4b5cc7a16474.Date
+
+relationship 4e700c13-9b09-45e1-8e78-f4261218d750
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data ibkr_data_lstm'.Date
+	toColumn: LocalDateTable_d8fbd937-66e1-47eb-9a3e-2596a106c436.Date
+
+relationship 15e050cc-9f31-415b-93e5-dd1686f97921
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data jpm_data_lstm'.Date
+	toColumn: LocalDateTable_20e08de6-a68e-4c03-96a5-48e2c5d9b38b.Date
+
+relationship 9a9cdb3d-5861-4176-a629-4bfc6ee6aa64
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data ms_data_lstm'.Date
+	toColumn: LocalDateTable_971b1f23-2db5-43b0-a35e-0f2242042ac3.Date
+
+relationship e3ac1ea9-0fc1-4959-880b-00e8663bc47c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data pypl_data_lstm'.Date
+	toColumn: LocalDateTable_02c015c0-1d80-4f6d-a8d5-1bfc0f2363c4.Date
+
+relationship 9ae5571b-e848-4a2a-95e2-4b9b2acb5995
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data td_data_lstm'.Date
+	toColumn: LocalDateTable_bf943f0f-e8be-4fc8-be5a-da16268d3e51.Date
+
+relationship 7cae3a4c-6d9d-431a-9816-d1210f22d24e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data usb_data_lstm'.Date
+	toColumn: LocalDateTable_48ad9002-099b-4647-a8d3-0a95211c63ad.Date
+
+relationship 283ccc51-04b7-4eac-88cc-bc2aa9158f95
+	fromColumn: 'stock_data combine'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 4d8a57ff-9980-4c64-a96a-6ff1c94a52a7
+	fromColumn: 'stock_data axp_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 82b78356-4096-454d-8b86-e06ba9c5feb5
+	fromColumn: 'stock_data cfg_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship c0f3fa33-5d14-4241-b00e-857958eaf8e5
+	fromColumn: 'stock_data gs_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 834e874f-d3f0-42d5-996c-37b9c6d62a65
+	fromColumn: 'stock_data ibkr_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 15eea666-98c3-4420-a762-9e8bd2eac7cc
+	fromColumn: 'stock_data jpm_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 47a5483d-bd61-411e-be82-1342482e735b
+	fromColumn: 'stock_data ms_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 69ad07b6-b7bc-4abb-a6ae-4f902c12eb21
+	fromColumn: 'stock_data pypl_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship a585c3b7-864e-4e95-9bba-72726a10620b
+	fromColumn: 'stock_data td_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship c2211b19-e0cf-4bcc-90ef-c5ada3829b15
+	fromColumn: 'stock_data usb_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 963348da-ed97-4f5b-9b73-e0959046bfc6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data cme_data_lstm'.Date
+	toColumn: LocalDateTable_ce0a025c-bcd4-4cde-9a25-698e6233c93a.Date
+
+relationship 79b7ffa4-1495-44fc-98ac-cb3e6cd54fa5
+	fromColumn: 'stock_data cme_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 25e49dd3-2dc6-4774-a860-9c144ba33cbe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data bmo_data_lstm'.Date
+	toColumn: LocalDateTable_04eca91a-1df5-41a2-b47b-4bd148c74f08.Date
+
+relationship 7e4f5633-b7f0-43cd-9a82-b9726e86127a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data bns_data_lstm'.Date
+	toColumn: LocalDateTable_d398b2bc-7428-43a0-a4d1-751a36c6fc48.Date
+
+relationship fe3c4eb5-f123-44ac-803e-27f28fa75795
+	fromColumn: 'stock_data bmo_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship fe90be50-85b5-4c39-85a8-78bae4ea1af7
+	fromColumn: 'stock_data bns_data_lstm'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 5bc300e4-a666-4ca6-a049-859a916d598d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data axp_actual_pred'.Date
+	toColumn: LocalDateTable_d7f5c81b-1dff-409e-a5c9-af60f9bd6f06.Date
+
+relationship b5f68851-c0b4-45d9-8d8c-250dd1e25399
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data bmo_actual_pred'.Date
+	toColumn: LocalDateTable_d6086f89-b868-481f-82eb-08a4828c95e6.Date
+
+relationship 2bb3a3c5-2754-478e-b754-48c906606efa
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data bns_actual_pred'.Date
+	toColumn: LocalDateTable_3291226d-dab1-4843-aa80-64d69f06ad79.Date
+
+relationship ef9f3806-4c3a-4cb0-9718-619ff9eb9d44
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data brk_actual_pred'.Date
+	toColumn: LocalDateTable_cd02815a-c288-4ed2-9c47-0328e3387a39.Date
+
+relationship 97c550d1-efff-4a98-80da-cd2889177591
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data cfg_actual_pred'.Date
+	toColumn: LocalDateTable_a644da83-57f7-4b5a-a26c-177288e78a96.Date
+
+relationship ea2b356e-cd96-45d9-91ed-31f5336c5501
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data gs_actual_pred'.Date
+	toColumn: LocalDateTable_1fb982e2-7372-49f5-bc8d-4e9309552ecc.Date
+
+relationship c872d8f2-8ac2-40ac-b598-4a16305dbcc0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data ibkr_actual_pred'.Date
+	toColumn: LocalDateTable_36c95bfe-4f6c-44e2-a1c5-03b418962a55.Date
+
+relationship e0b7ed73-ec08-4289-b9ba-b62aff20fc66
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data jpm_actual_pred'.Date
+	toColumn: LocalDateTable_6103f74f-c5de-421c-830e-d62d2b4bcbb1.Date
+
+relationship d9000509-bd44-4b5b-a282-79b280bfd764
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data ms_actual_pred'.Date
+	toColumn: LocalDateTable_cd055cd8-f785-42d0-ab32-25a9a4c8989e.Date
+
+relationship 24a4ff9c-46b7-4746-8052-63f56ac0280d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data pypl_actual_pred'.Date
+	toColumn: LocalDateTable_36ef8a78-b59c-4028-b4fb-8b955d28a640.Date
+
+relationship 2af5961d-1993-40c1-ace9-6962ff0a7c53
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data stocks_pred_profile'.Date
+	toColumn: LocalDateTable_e1f3c12b-2cf0-4770-bf44-86b4b535c495.Date
+
+relationship a7277de2-cf6e-489b-a65d-9a97fa0b6f02
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data stocks_profile'.Date
+	toColumn: LocalDateTable_30e1ac9d-4b5d-4828-ad77-61895f83ba4b.Date
+
+relationship c9289e5d-6a6c-4142-aff2-0afcc0f91fb2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data td_actual_pred'.Date
+	toColumn: LocalDateTable_4885a286-fea3-4d52-886d-65b629492cdf.Date
+
+relationship 154073a3-af5f-4ab8-998a-0dea7f9cdc97
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'stock_data usb_actual_pred'.Date
+	toColumn: LocalDateTable_efa01648-7a0a-4313-8f5d-ae5fcb842538.Date
+
+relationship 1dfd11aa-fb9e-472c-a24d-c773b1410af1
+	fromColumn: 'stock_data axp_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship b864d8ea-5f14-4fcb-a9dd-bdb824693ca7
+	fromColumn: 'stock_data bmo_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship a1bb9765-c76e-4e7f-821c-721c5bd7179a
+	fromColumn: 'stock_data bns_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship dbc0f926-4055-4113-af5e-e406120e5dd5
+	fromColumn: 'stock_data brk_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship bf1b3d2b-07a6-45e9-a976-019f2a46de24
+	fromColumn: 'stock_data cfg_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship f940df55-397c-4454-987e-8b715e33961d
+	fromColumn: 'stock_data gs_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 4c5c6bd9-941d-4231-a99a-88960b76da8e
+	fromColumn: 'stock_data ibkr_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship f52c6c98-0c8f-4d20-aac7-34091c7eb379
+	fromColumn: 'stock_data jpm_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 71241dd6-3177-4a9e-b02b-1fff7ad9830f
+	fromColumn: 'stock_data ms_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship cbea9579-c8ec-454a-8856-71301a8922d1
+	fromColumn: 'stock_data pypl_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship d3bf0670-5c2b-404d-a7ec-58327be44540
+	fromColumn: 'stock_data stocks_pred_profile'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 997664ba-9a73-4c92-b36c-07664f10f3a9
+	fromColumn: 'stock_data stocks_profile'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship a6d6f2dc-a663-4b23-83fb-2753eafb22a8
+	fromColumn: 'stock_data td_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship 6af12e28-3a5b-412f-afdf-6e8965d58c63
+	fromColumn: 'stock_data usb_actual_pred'.Symbols
+	toColumn: Image_table.Symbols
+
+relationship dd95fc80-1f59-461f-8525-005bf490b27b
+	fromColumn: 'stock_data yahoo_profiles'.Company_Name
+	toColumn: Image_table.Company_name
+
+relationship faedaa2e-fb0d-49f6-be35-74ef02ed0176
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data axp_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 2383c603-ffa2-4d1a-8847-4751c5568596
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data brk_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship e161baf7-2ab7-4434-9f21-7e0b35f48935
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data cfg_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 2598e811-a84a-446f-b0b7-a31ae9584ad9
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data gs_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 7927c4f7-0b2f-42d0-8e8f-b6f3bda77cdd
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data ibkr_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship ed1b3481-31e3-40f4-8858-9c42ab6b4b9a
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data jpm_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 44a6a4ca-fbef-413d-b162-bae037af9fdb
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data ms_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 35de6ef8-06bd-4efa-8721-b3a9b1e56370
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data pypl_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship b6a008fa-d8d3-4df4-923e-4e1f7ce550f3
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data td_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 0bd418c0-e94c-4025-b918-fa54c4dfb720
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'stock_data usb_actual_pred'.trend
+	toColumn: 'stock_data stocks_pred_profile'.trend
+
+relationship 959ccb62-8ee9-4276-acb1-80a24a54b54d
+	isActive: false
+	fromColumn: 'stock_data yahoo_profiles'.Ticker
+	toColumn: Image_table.Symbols
+

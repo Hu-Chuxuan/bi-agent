@@ -1,0 +1,22 @@
+﻿relationship 381a9d3a-2917-41d4-b931-e609a1321042
+	isActive: false
+	fromColumn: Table2.index
+	toColumn: filter.index
+
+relationship 28e34e4b-f391-48b5-aba1-33c6cf8df018
+	fromColumn: Table1.index
+	toColumn: filter.index
+
+relationship ed86826f-16f0-452f-a577-076ab28bdeaa
+	fromColumn: Table3.category
+	toColumn: Table1.category
+
+relationship 8972d9a5-aba7-40b8-86f8-4e4ce5f8e1a0
+	fromColumn: Table3.category
+	toColumn: Table2.category
+
+relationship 3f9d72bd-8b5c-49c4-b776-dce9f0155dab
+	isActive: false
+	fromColumn: Table3.category
+	toColumn: filter.category
+

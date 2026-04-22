@@ -1,0 +1,101 @@
+atributo,valor,protocolo,idx,MET.atributo,MET.nome,MET.valor,MET.protocolo,MET.servico,MET.idx,FK_Z_dim_DIM,FK_Z_dim_SERVICO,FK_Z_dim_MET,FK_dim_DECISAO,reg_nativo
+zipcode,65110-000,2020.7-55.543,1016,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,1,3,3.0,11,0
+apresentacao,"Pacote 100,00 UN",2020.11-59.635,335,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,10,1,1.0,11,0
+state,MA,2020.7-55.548,947,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,5,3,3.0,11,0
+city,São Paulo,2020.12-32.672,93,,,,,,,4,4,,13,1
+state,SP,2020.7-55.537,1065,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,957.0,5,3,4.0,11,0
+street,R. Aliança Liberal,2020.11-59.629,392,quantidade,Quantidade,10.0,2020.10-null.622,Compra de Materiais,488.0,2,1,1.0,11,0
+state,MA,2020.7-55.547,966,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2.0,2020.7-55.547,Situação de Assistência Social do Municipio,978.0,5,3,5.0,11,0
+item,Seringa,2020.9-59.606,572,quantidade,Quantidade,100.0,2020.11-59.637,Compra de Materiais,307.0,7,1,1.0,11,0
+street,Av. Gen. Olímpio da Silveira,2020.9-59.600,633,quantidade,Quantidade,100.0,2020.11-59.637,Compra de Materiais,307.0,2,1,1.0,11,0
+apresentacao,"Pacote 100,00 UN",2020.11-59.631,383,quantidade,Quantidade,1000.0,2020.11-59.629,Compra de Materiais,403.0,10,1,1.0,11,0
+email,livia.xavier@alpar.com.br,2020.10-null.622,489,quantidade,Quantidade,120.0,2020.9-59.606,Compra de Materiais,574.0,14,1,1.0,11,0
+fotoilustrativa,"data:image/jpeg;base64,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",2020.11-59.631,384,quantidade,Quantidade,99.0,2020.11-null.632,Compra de Materiais,372.0,11,1,1.0,11,0
+item,348807 - Abaixador de língua madeira,2020.10-59.626,441,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,7,1,1.0,11,0
+zipcode,05085-000,2020.9-60.603,594,quantidadeparaconsumo,Quantidade para consumo,100.0,2020.9-60.603,Consumo de Materiais,602.0,1,2,2.0,11,0
+solicitantenome,Fernando,2020.9-59.601,629,quantidade,Quantidade,100.0,2020.11-59.634,Compra de Materiais,355.0,16,1,1.0,11,0
+quantidade,70,2020.10-59.624,470,,,,,,,13,1,,33,1
+marcasdereferencia,3M QUALIDADE SIMILAR OU SUPERIOR,2020.11-59.636,323,quantidade,Quantidade,10.0,2020.10-null.623,Compra de Materiais,479.0,12,1,1.0,11,0
+neighborhood,Várzea da Barra Funda,2020.10-null.622,483,quantidade,Quantidade,10.0,2020.10-null.623,Compra de Materiais,479.0,3,1,1.0,11,0
+email,livia.xavier@alpar.com.br,2020.7-55.544,1015,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,14,3,3.0,11,0
+city,São Paulo,2020.11-59.641,271,quantidade,Quantidade,10.0,2020.9-59.598,Compra de Materiais,657.0,4,1,1.0,11,0
+email,livia.xavier@alpar.com.br,2020.7-55.545,1008,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,132.0,2020.7-55.538,Situação de Assistência Social do Municipio,1058.0,14,3,3.0,11,0
+marcasdereferencia,3M QUALIDADE SIMILAR OU SUPERIOR,2020.10-59.625,460,quantidade,Quantidade,1000.0,2020.11-59.629,Compra de Materiais,403.0,12,1,1.0,11,0
+email,fernando.jobim@alparservice.com.br,2020.11-59.634,359,quantidade,Quantidade,10.0,2020.9-59.598,Compra de Materiais,657.0,14,1,1.0,11,0
+name,Maria,2020.12-32.650,224,,,,,,,40,4,,13,1
+lastname,Xavier,2020.9-32.580,736,,,,,,,41,4,,13,1
+descricao,"Abaixador língua, material: madeira, tipo: descartável, comprimento: 14 cm, formato: tipo espátula, largura: 1,50 cm, espessura: 2 mm.",2020.11-59.636,319,quantidade,Quantidade,1000.0,2020.9-59.601,Compra de Materiais,627.0,8,1,1.0,11,0
+city,São José de Ribamar,2020.7-55.544,1012,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.547,Situação de Assistência Social do Municipio,976.0,4,3,3.0,11,0
+phone,,2020.8-32.578,747,,,,,,,17,4,,13,1
+name,Livia,2020.7-528.32,1111,,,,,,,40,4,,13,1
+email,email@email.com,2020.12-32.666,148,,,,,,,14,4,,13,1
+possuiveiculopararealizacaodasatividades,true,2020.7-55.546,990,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,957.0,24,3,4.0,21,0
+city,São José de Ribamar,2020.7-55.543,1019,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2.0,2020.7-55.547,Situação de Assistência Social do Municipio,978.0,4,3,5.0,11,0
+street,R. Passo da Pátria,2020.9-59.608,554,quantidade,Quantidade,70.0,2020.10-59.624,Compra de Materiais,470.0,2,1,1.0,11,0
+state,SP,2020.11-59.636,316,quantidade,Quantidade,100.0,2020.11-59.637,Compra de Materiais,307.0,5,1,1.0,11,0
+neighborhood,Várzea da Barra Funda,2020.10-59.626,437,quantidade,Quantidade,12.0,2020.10-59.625,Compra de Materiais,461.0,3,1,1.0,11,0
+zipcode,01141-000,2020.10-59.627,425,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,1,1,1.0,11,0
+email,livia.xavier@alpar.com.br,2020.10-59.626,448,quantidade,Quantidade,10.0,2020.10-null.622,Compra de Materiais,488.0,14,1,1.0,11,0
+street,R. Aliança Liberal,2020.11-59.637,296,quantidade,Quantidade,100.0,2020.11-59.637,Compra de Materiais,307.0,2,1,1.0,11,0
+zipcode,05085-000,2020.9-59.607,560,quantidade,Quantidade,1000.0,2020.9-59.601,Compra de Materiais,627.0,1,1,1.0,11,0
+item,348807 - Abaixador de língua madeira,2020.11-59.629,397,quantidade,Quantidade,25.0,2020.10-59.627,Compra de Materiais,433.0,7,1,1.0,11,0
+quantosfaltamdeacordocomosdadosdocadunicoeibge,2,2020.7-55.546,998,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.546,Situação de Assistência Social do Municipio,997.0,31,3,4.0,31,0
+zipcode,01151-010,2020.7-55.542,1022,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,1,3,3.0,11,0
+neighborhood,Santa Cecilia,2020.9-59.600,634,quantidade,Quantidade,120.0,2020.9-59.606,Compra de Materiais,574.0,3,1,1.0,11,0
+phone,1996066980,2020.11-59.629,406,quantidade,Quantidade,10.0,2020.10-null.622,Compra de Materiais,488.0,17,1,1.0,11,0
+realizoucapacitacoescomrecursospropriosnos2ultimosanos,true,2020.7-55.547,972,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,33,3,3.0,21,0
+neighborhood,Várzea da Barra Funda,2020.10-59.624,465,quantidade,Quantidade,120.0,2020.9-59.606,Compra de Materiais,574.0,3,1,1.0,11,0
+possuirecursoshumanossuficientesconformenobrh,true,2020.7-55.546,989,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,23,3,3.0,21,0
+street,R. Aliança Liberal,2020.11-59.634,344,quantidade,Quantidade,120.0,2020.9-59.606,Compra de Materiais,574.0,2,1,1.0,11,0
+zipcode,01154-000,2020.7-535.55,1087,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,4654.0,2020.7-55.538,Situação de Assistência Social do Municipio,1059.0,1,3,4.0,11,0
+quantidade,1000,2020.9-59.601,627,,,,,,,13,1,,33,1
+existesetorespecifico,true,2020.7-55.538,1054,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,26,3,3.0,21,0
+email,livia.xavier@alpar.com.br,2020.10-59.625,462,quantidade,Quantidade,90.0,2020.11-59.641,Compra de Materiais,280.0,14,1,1.0,11,0
+zipcode,65110-000,2020.7-55.543,1016,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,957.0,1,3,4.0,11,0
+zipcode,05088-000,2020.11-59.628,408,quantidade,Quantidade,25.0,2020.10-59.627,Compra de Materiais,433.0,1,1,1.0,11,0
+quantidadedeusuariosdobpcinscritosnocadunicopcd,0,2020.7-55.541,1036,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2.0,2020.7-55.548,Situação de Assistência Social do Municipio,958.0,30,3,5.0,31,0
+zipcode,05085-000,2020.9-59.598,650,quantidade,Quantidade,10.0,2020.10-null.622,Compra de Materiais,488.0,1,1,1.0,11,0
+solicitantenome,Nome Sobrenome,2020.9-59.599,648,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,16,1,1.0,11,0
+possuiespacofisicoadequado,true,2020.7-55.537,1067,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,132.0,2020.7-55.538,Situação de Assistência Social do Municipio,1058.0,22,3,3.0,21,0
+email,fernando.jobim@alparservice.com.br,2020.7-55.546,1001,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,132.0,2020.7-55.538,Situação de Assistência Social do Municipio,1058.0,14,3,3.0,11,0
+zipcode,05085-000,2020.9-59.608,553,quantidade,Quantidade,100.0,2020.11-59.634,Compra de Materiais,355.0,1,1,1.0,11,0
+tipodegestaoeconcessaodosbeneficios,compartilhada,2020.7-55.547,975,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",999.0,2020.7-55.538,Situação de Assistência Social do Municipio,1060.0,28,3,5.0,11,0
+quantosfaltamdeacordocomosdadosdocadunicoeibge,2,2020.7-55.546,998,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,31,3,3.0,31,0
+state,SP,2020.9-59.607,564,quantidade,Quantidade,100.0,2020.11-59.631,Compra de Materiais,386.0,5,1,1.0,11,0
+quantidadedeusuariosdobpcinscritosnocadunicoidosos,0,2020.7-55.546,996,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.546,Situação de Assistência Social do Municipio,996.0,29,3,3.0,31,0
+street,-,2020.9-59.599,641,quantidade,Quantidade,1000.0,2020.9-59.601,Compra de Materiais,627.0,2,1,1.0,11,0
+neighborhood,Vila Bela Alianca,2020.9-59.606,569,quantidade,Quantidade,100.0,2020.11-59.631,Compra de Materiais,386.0,3,1,1.0,11,0
+solicitantenome,Fernando,2020.11-59.635,340,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,16,1,1.0,11,0
+apresentacao,"Pacote 100,00 UN",2020.11-null.632,369,quantidade,Quantidade,100.0,2020.11-59.628,Compra de Materiais,420.0,10,1,1.0,11,0
+possuiestruturacaodasmascomareasessenciais,true,2020.7-55.548,948,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,21,3,3.0,21,0
+zipcode,65110-000,2020.7-55.539,1046,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2.0,2020.7-55.546,Situação de Assistência Social do Municipio,998.0,1,3,5.0,11,0
+zipcode,65110-000,2020.7-55.543,1016,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,1,3,3.0,11,0
+descricaocomplementar,extremidade arredondada,2020.11-59.635,334,quantidade,Quantidade,99.0,2020.11-null.632,Compra de Materiais,372.0,9,1,1.0,11,0
+hospital,Hospital de Campanha H CMO,2020.11-59.635,339,quantidade,Quantidade,100.0,2020.11-59.635,Compra de Materiais,338.0,15,1,1.0,11,0
+street,R. Passo da Pátria,2020.9-59.601,621,quantidade,Quantidade,12.0,2020.10-59.625,Compra de Materiais,461.0,2,1,1.0,11,0
+street,Av. Gen. Olímpio da Silveira,2020.9-59.600,633,quantidade,Quantidade,10.0,2020.9-59.598,Compra de Materiais,657.0,2,1,1.0,11,0
+city,São Paulo,2020.7-55.536,1074,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,4,3,3.0,11,0
+quantidadedeusuariosdobpcinscritosnocadunicopcd,4654,2020.7-55.538,1059,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",999.0,2020.7-55.538,Situação de Assistência Social do Municipio,1060.0,30,3,5.0,31,0
+state,SP,2020.10-59.626,439,quantidade,Quantidade,1000.0,2020.11-59.629,Compra de Materiais,403.0,5,1,1.0,11,0
+possuiestruturacaodasmascomareasessenciais,true,2020.7-55.536,1076,quantosfaltamdeacordocomosdadosdocadunicoeibge,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2.0,2020.7-55.546,Situação de Assistência Social do Municipio,998.0,21,3,5.0,21,0
+possuiestruturacaodasmascomareasessenciais,true,2020.7-55.536,1076,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,21,3,3.0,21,0
+street,R. Barra Funda,2020.7-34.556,891,,,,,,,2,6,,13,1
+state,SP,2020.11-59.637,299,quantidade,Quantidade,100.0,2020.11-59.637,Compra de Materiais,307.0,5,1,1.0,11,0
+zipcode,01154-000,2020.8-34.575,764,,,,,,,1,6,,13,1
+possuiveiculopararealizacaodasatividades,true,2020.7-55.546,990,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,132.0,2020.7-55.538,Situação de Assistência Social do Municipio,1058.0,24,3,3.0,21,0
+street,-,2020.10-59.626,436,quantidade,Quantidade,100.0,2020.11-59.628,Compra de Materiais,420.0,2,1,1.0,11,0
+lastname,Damares,2020.12-32.659,189,,,,,,,41,4,,13,1
+quantosfaltamdeacordocomosdadosdocadunicoeibge,2,2020.7-55.548,958,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.546,Situação de Assistência Social do Municipio,997.0,31,3,4.0,31,0
+city,São Paulo,2020.10-59.626,438,quantidade,Quantidade,10.0,2020.9-59.598,Compra de Materiais,657.0,4,1,1.0,11,0
+email,livia.xavier@alpar.com.br,2020.10-null.622,489,quantidade,Quantidade,100.0,2020.11-59.635,Compra de Materiais,338.0,14,1,1.0,11,0
+possuiespacofisicoadequado,true,2020.7-55.537,1067,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.547,Situação de Assistência Social do Municipio,976.0,22,3,3.0,21,0
+quantidadedeusuariosdobpcinscritosnocadunicoidosos,0,2020.7-55.547,976,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,4654.0,2020.7-55.538,Situação de Assistência Social do Municipio,1059.0,29,3,4.0,31,0
+qualalocalizacao,CRAS,2020.7-55.538,1055,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.548,Situação de Assistência Social do Municipio,956.0,27,3,3.0,11,0
+city,São José de Ribamar,2020.7-55.543,1019,quantidadedeusuariosdobpcinscritosnocadunicopcd,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0.0,2020.7-55.547,Situação de Assistência Social do Municipio,977.0,4,3,4.0,11,0
+descricaocomplementar,extremidade arredondada,2020.10-59.626,443,quantidade,Quantidade,10.0,2020.9-59.598,Compra de Materiais,657.0,9,1,1.0,11,0
+city,São Paulo,2020.11-59.637,298,quantidade,Quantidade,56.0,2020.11-59.636,Compra de Materiais,324.0,4,1,1.0,11,0
+nomefantasia,,2020.12-35.647,242,,,,,,,45,5,,13,1
+descricaocomplementar,extremidade arredondada,2020.10-59.626,443,,,,,,,9,1,,13,1
+email,livia.xavier@alpar.com.br,2020.7-34.569,804,,,,,,,14,6,,13,1
+street,Av. Gen. Olímpio da Silveira,2020.7-534.55,1094,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.546,Situação de Assistência Social do Municipio,996.0,2,3,3.0,11,0
+neighborhood,Santa Cecilia,2020.7-55.542,1024,quantidadedeusuariosdobpcinscritosnocadunicoidosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0.0,2020.7-55.541,Situação de Assistência Social do Municipio,1035.0,3,3,3.0,11,0

@@ -1,0 +1,101 @@
+Transaction Type,Date,Name,Amount,Job_Type
+Invoice,2024-09-20 00:00:00.000,"Sauler, Lyn:Home Remodel",16115.0,Remodel
+Invoice,2025-04-15 00:00:00.000,"Fisher, Jennifer:Garage Roof",1458.68,Repairs
+Invoice,2025-05-12 00:00:00.000,"Milner, Eloyse:Room addition",4194.29,Remodel
+Invoice,2025-11-18 00:00:00.000,Hendro Riyadi:Remodel Kitchen,4223.0,Remodel
+Invoice,2023-12-15 00:00:00.000,"Baker, Chris:Garage Repair",1040.0,Repairs
+Invoice,2025-04-07 00:00:00.000,"Keenan, Bridget:Storage Shed",2473.43,New Construction
+Invoice,2025-08-13 00:00:00.000,"Memeo, Jeanette:2nd story addition",14538.54,New Construction
+Invoice,2025-12-01 00:00:00.000,"Robson, Darci:Robson Clinic",445.0,Remodel
+Invoice,2025-01-30 00:00:00.000,"Rice, Linda:Repairs",1868.36,Repairs
+Invoice,2025-06-17 00:00:00.000,"Rahn, Jennifer:Remodel",20300.0,Remodel
+Invoice,2025-06-09 00:00:00.000,"Duncan, Dave:Utility Shed",2469.75,New Construction
+Invoice,2025-10-15 00:00:00.000,"Cook, Brian:Kitchen",3100.0,Repairs
+Invoice,2024-01-31 00:00:00.000,"Vasquez, Anabel:Basement Remodel",24609.56,Remodel
+Invoice,2025-11-20 00:00:00.000,Pretell Real Estate:155 Wilks Blvd.,15435.0,New Construction
+Invoice,2025-11-25 00:00:00.000,"Burch, Jason:Room Addition",1005.0,Remodel
+Invoice,2024-02-18 00:00:00.000,"Kanitz, Marion:Bay Window",6278.8,Remodel
+Invoice,2025-10-15 00:00:00.000,"Teichman, Tim:Kitchen",7764.78,Repairs
+Invoice,2025-06-23 00:00:00.000,"Baker, Chris:Family Room",6172.24,Remodel
+Sales Receipt,2025-10-25 00:00:00.000,"Abercrombie, Kristy:Family Room",1067.88,Remodel
+Invoice,2023-11-28 00:00:00.000,"Prentice, Adelaide:Bay Window",431.95,Remodel
+Invoice,2025-01-04 00:00:00.000,"Bristol, Sonya:Repairs",95.69,Repairs
+Invoice,2025-04-15 00:00:00.000,"Fisher, Jennifer:Garage Roof",350.0,Repairs
+Invoice,2025-09-12 00:00:00.000,"Allard, Robert:Remodel",14510.0,Remodel
+Invoice,2025-12-14 00:00:00.000,"Natiello, Ernesto:Kitchen",2080.11,Remodel
+Invoice,2024-12-20 00:00:00.000,"Freeman, Kirby:Remodel Bathroom",1867.89,Remodel
+Invoice,2025-04-14 00:00:00.000,Babcock's Music Shop:Remodel,12530.0,Remodel
+Sales Receipt,2025-10-30 00:00:00.000,"Abercrombie, Kristy:Family Room",743.75,Remodel
+Invoice,2025-11-25 00:00:00.000,"Cook, Brian:2nd story addition",5418.0,Remodel
+Invoice,2025-03-14 00:00:00.000,"Castillo, Eloisa:Utility Room",4589.81,Remodel
+Invoice,2025-11-20 00:00:00.000,"Melton, Johnny:Dental office",12754.14,Repairs
+Invoice,2024-03-28 00:00:00.000,"Bauman, Mark:Home Remodel",16500.0,Remodel
+Invoice,2024-06-16 00:00:00.000,"Nelson, Wilma:Office Remodel",11605.0,Remodel
+Invoice,2025-10-01 00:00:00.000,"Nguyen, Tuan:Garage",35.65,Remodel
+Invoice,2024-11-26 00:00:00.000,"Bolinski, Rafal:2nd story addition",5079.48,New Construction
+Sales Receipt,2025-10-27 00:00:00.000,Ecker Designs:Office Repairs,437.5,Repairs
+Credit Memo,2025-12-01 00:00:00.000,"Abercrombie, Kristy:Remodel Bathroom",-711.15,Remodel
+Invoice,2025-10-31 00:00:00.000,"Smith, Lee:Patio",18.73,New Construction
+Invoice,2025-01-20 00:00:00.000,"Balak, Mike:Utility Shed",2092.0,New Construction
+Invoice,2025-10-20 00:00:00.000,Mackey's Nursery and Garden Supply:Greenhouse Addition,13900.0,New Construction
+Invoice,2025-09-04 00:00:00.000,"Nguyen, Tuan:Garage",6819.0,Remodel
+Invoice,2024-01-28 00:00:00.000,"Vasquez, Anabel:Basement Remodel",862.0,Remodel
+Invoice,2025-02-16 00:00:00.000,"Davies, Aaron:Remodel",14560.0,Remodel
+Invoice,2024-12-27 00:00:00.000,"Freeman, Kirby:Remodel Bathroom",1924.4,Remodel
+Invoice,2025-09-26 00:00:00.000,"Johnson, Gordon:Utility Shed",2469.75,New Construction
+Invoice,2025-01-16 00:00:00.000,Larsen's Pet Shop:Remodel,13900.0,Remodel
+Refund,2025-12-01 00:00:00.000,"Abercrombie, Kristy:Remodel Bathroom",-711.15,Remodel
+Invoice,2025-12-01 00:00:00.000,"Roche, Diarmuid:Garage repairs",440.0,Repairs
+Invoice,2023-12-15 00:00:00.000,Ecker Designs:Office Expansion,1468.3,Remodel
+Invoice,2025-08-27 00:00:00.000,"Smith, Lee:Patio",8361.67,New Construction
+Invoice,2025-09-25 00:00:00.000,"Morgenthaler, Jenny:Room Addition",271.53,Remodel
+Invoice,2025-03-28 00:00:00.000,"Violette, Mike:Utility Room",1099.95,Remodel
+Invoice,2025-05-22 00:00:00.000,"Jimenez, Cristina:Utility Shed",2092.0,New Construction
+Invoice,2025-03-13 00:00:00.000,"Overfield, David:Utility Shed",2092.0,New Construction
+Invoice,2024-07-20 00:00:00.000,"Ruff, Bryan:Sun Room",5516.05,Remodel
+Invoice,2025-09-15 00:00:00.000,"Morgenthaler, Jenny:Room Addition",6134.17,Remodel
+Invoice,2025-02-17 00:00:00.000,"Wilks, Daniel:Remodel Bathroom",4597.28,Remodel
+Invoice,2025-10-26 00:00:00.000,Pretell Real Estate:155 Wilks Blvd.,2320.0,New Construction
+Invoice,2023-12-15 00:00:00.000,Pretell Real Estate:75 Sunset Rd.,13026.27,New Construction
+Invoice,2025-04-14 00:00:00.000,"Ruff, Bryan:Utility Shed",1895.55,New Construction
+Invoice,2025-12-14 00:00:00.000,"Natiello, Ernesto:Kitchen",8656.25,Remodel
+Invoice,2025-09-22 00:00:00.000,"Dunn, Eric C.W.:Utility Shed",2469.75,New Construction
+Invoice,2025-10-30 00:00:00.000,"Cook, Brian:2nd story addition",14085.3,Remodel
+Invoice,2025-01-07 00:00:00.000,"Yoo, Young-Kyu:Repairs",3915.0,Repairs
+Invoice,2024-10-01 00:00:00.000,"Lamb, Brad:Room Addition",11172.6,Remodel
+Invoice,2025-11-30 00:00:00.000,Ecker Designs:Office Repairs,1468.3,Repairs
+Invoice,2025-12-12 00:00:00.000,Lew Plumbing - C:Storage Expansion,220.0,Remodel
+Invoice,2023-12-23 00:00:00.000,"Castillo, Eloisa:Bay Window",361.08,Remodel
+Invoice,2024-04-16 00:00:00.000,"Jacobsen, Doug:Poolhouse",7991.52,New Construction
+Invoice,2025-12-15 00:00:00.000,"Robson, Darci:Robson Clinic",12420.98,Remodel
+Invoice,2023-12-09 00:00:00.000,"Smallson, Fran:Office remodeling",1665.0,Remodel
+Invoice,2024-08-20 00:00:00.000,"Prentice, Adelaide:Guest Villa",36575.0,New Construction
+Invoice,2025-03-28 00:00:00.000,"Fisher, Jennifer:Garage Roof",3165.0,Repairs
+Invoice,2025-09-30 00:00:00.000,"Smith, Lee:Patio",5.0,New Construction
+Invoice,2025-11-25 00:00:00.000,"Cook, Brian:Kitchen",1636.69,Repairs
+Invoice,2023-12-15 00:00:00.000,Ecker Designs:Office Expansion,4757.81,Remodel
+Invoice,2025-11-03 00:00:00.000,"Nguyen, Tuan:Garage",43.89,Remodel
+Invoice,2025-12-10 00:00:00.000,Pretell Real Estate:155 Wilks Blvd.,1715.0,New Construction
+Invoice,2025-11-28 00:00:00.000,"Teschner, Anton:Sun Room",8305.95,Remodel
+Invoice,2025-06-09 00:00:00.000,"Memeo, Jeanette:Utility Shed",2092.0,New Construction
+Invoice,2025-06-04 00:00:00.000,"Fomin, Slava:Utility Shed",2588.13,New Construction
+Sales Receipt,2025-05-21 00:00:00.000,Reyes Properties - C:Repairs,840.0,Repairs
+Invoice,2025-05-08 00:00:00.000,"Sage, Robert:Remodel",17270.0,Remodel
+Invoice,2025-10-30 00:00:00.000,Pretell Real Estate:155 Wilks Blvd.,4948.0,New Construction
+Invoice,2025-07-20 00:00:00.000,Samuels Art Supplies:Remodel,13900.0,Remodel
+Sales Receipt,2025-11-29 00:00:00.000,Ecker Designs:Office Repairs,3150.0,Repairs
+Invoice,2025-10-23 00:00:00.000,"Jacobsen, Doug:Kitchen",3207.75,Remodel
+Invoice,2025-11-25 00:00:00.000,"Jacobsen, Doug:Kitchen",4725.0,Remodel
+Invoice,2025-04-11 00:00:00.000,"Fisher, Jennifer:Garage Roof",2095.6,Repairs
+Invoice,2025-06-30 00:00:00.000,"Craven, Pam:Duct Work",321.8,Repairs
+Invoice,2025-05-16 00:00:00.000,"Bristol, Sonya:Utility Shed",2092.0,New Construction
+Invoice,2025-11-15 00:00:00.000,"Vitton, David:Remodel Kitchen",700.0,Remodel
+Invoice,2025-12-10 00:00:00.000,"Campbell, Heather:Remodel",13900.0,Remodel
+Invoice,2025-06-23 00:00:00.000,"Craven, Pam:Duct Work",625.0,Repairs
+Invoice,2025-10-10 00:00:00.000,Pretell Real Estate:155 Wilks Blvd.,3439.0,New Construction
+Invoice,2025-02-01 00:00:00.000,"Abercrombie, Kristy:Kitchen",5019.08,Repairs
+Sales Receipt,2025-10-15 00:00:00.000,"Natiello, Ernesto:Kitchen",717.5,Remodel
+Invoice,2025-07-14 00:00:00.000,"Luke, Noelani:Kitchen",11481.8,Remodel
+Invoice,2025-08-20 00:00:00.000,Tony's Barber Shop:Remodel,15870.0,Remodel
+Sales Receipt,2025-09-11 00:00:00.000,"Freeman, Kirby:Repairs",770.0,Repairs
+Invoice,2025-03-15 00:00:00.000,Carr's Pie Shop:Remodel,14900.0,Remodel

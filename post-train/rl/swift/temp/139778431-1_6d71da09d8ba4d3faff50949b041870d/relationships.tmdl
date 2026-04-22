@@ -1,0 +1,20 @@
+﻿relationship 1ed7d660-ccac-42d2-bfa0-f9c190349d93
+	crossFilteringBehavior: bothDirections
+	fromColumn: TableA.ID
+	toColumn: Table.ID
+
+relationship bb5cd690-ef53-4ece-9d83-00dfaeff3601
+	crossFilteringBehavior: bothDirections
+	fromColumn: TableB.ID
+	toColumn: Table.ID
+
+relationship 5db48343-dde4-45ec-b67a-b4c31e01a683
+	crossFilteringBehavior: bothDirections
+	fromColumn: TableC.ID
+	toColumn: Table.ID
+
+relationship 5dae329b-d3a6-4c81-8906-d1ed52d9dd3b
+	crossFilteringBehavior: bothDirections
+	fromColumn: TableD.ID
+	toColumn: Table.ID
+

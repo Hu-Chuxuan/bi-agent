@@ -1,0 +1,9 @@
+﻿relationship e9789af0-a4e7-425d-bf43-7626211fcd68
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Stocks.'Entry Date'
+	toColumn: LocalDateTable_5fa859a3-ec46-4212-a4e8-2c22ee05c641.Date
+
+relationship 2bc3c3d5-be66-4754-9c16-6470b35a7516
+	fromColumn: Stocks.'Supplier ID'
+	toColumn: Supplier.'Supplier ID'
+

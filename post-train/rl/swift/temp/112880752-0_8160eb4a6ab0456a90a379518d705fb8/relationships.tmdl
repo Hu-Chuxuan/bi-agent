@@ -1,0 +1,13 @@
+﻿relationship 45d69653-8063-4c15-815c-589d6c86b41d
+	fromColumn: 'Item Ledger'.Item
+	toColumn: Items.Item
+
+relationship 1abf032b-a49c-43c2-ae62-ee56ad474d4d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: calendar.Date
+	toColumn: LocalDateTable_27028add-c6b9-44c4-a3ea-8c9b16299d68.Date
+
+relationship 06b18c83-91df-409e-ab60-535ee0a0a4e9
+	fromColumn: 'Item Ledger'.'Posting Date'
+	toColumn: calendar.Date
+

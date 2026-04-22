@@ -1,0 +1,13 @@
+﻿relationship 15c428ac-06c6-427c-8241-b419f9780d66
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'CALENDAR TABLE'.Date
+	toColumn: LocalDateTable_d8a496cd-f5a8-4ddd-ae0e-8bef7ee9073d.Date
+
+relationship 23679b90-e6bd-4533-bebd-3a0eb2c07f1e
+	fromColumn: Full_Dataset.EndofMonth
+	toColumn: 'CALENDAR TABLE'.Date
+
+relationship 8c0e8ea7-5004-46dc-9fe7-ce1f0b4571be
+	fromColumn: Full_Dataset.Category
+	toColumn: Category.type
+

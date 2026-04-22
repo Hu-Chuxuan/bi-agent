@@ -1,0 +1,5 @@
+CustomerCode,CustomerName,CustomerAddress1,CustomerAddress2,CustomerAddress3,CustomerAddress4,CustomerCountry,UKCustomerPostCode
+"A0001","ABC Tunnels plc","123 Any Street","Any District","Any Town","","UK","CV35 8EN"
+"MID01","Midlands Customer","1 Jury Street","Warwickshire","","","UK","CV35 8EN"
+"EDIN001","Edinburgh Customer","Princes Street","Ednburgh","","","",""
+"PEN099","Penzance Customer","","","","","",""

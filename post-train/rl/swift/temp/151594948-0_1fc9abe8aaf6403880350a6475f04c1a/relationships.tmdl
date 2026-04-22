@@ -1,0 +1,33 @@
+﻿relationship 286b47ca-13a7-4ebc-b87c-f23be16fe050
+	fromColumn: Dialogue.'Chapter ID'
+	toColumn: Chapters.'Chapter ID'
+
+relationship eb1dc7d8-8cd4-44a4-adeb-606e4fd3acf2
+	fromColumn: Chapters.'Movie ID'
+	toColumn: Movies.'Movie ID'
+
+relationship 6354163c-4acd-4eaa-822f-4494e97731af
+	fromColumn: Dialogue.'Character ID'
+	toColumn: Characters.'Character ID'
+
+relationship 814cc174-309f-404f-8d23-b342ec8f9c23
+	fromColumn: Dialogue.'Place ID'
+	toColumn: Places.'Place ID'
+
+relationship 4f311d1d-a9bc-4a4b-ba79-79161112595e
+	fromColumn: Spells.'Dialogue.Character ID'
+	toColumn: Characters.'Character ID'
+
+relationship f63043ce-90d7-4723-a8cf-46dd020d291c
+	isActive: false
+	fromColumn: Spells.'Dialogue.Dialogue ID'
+	toColumn: Dialogue.'Dialogue ID'
+
+relationship 1c4eea5c-1a25-4df8-878d-c88248035107
+	fromColumn: Spells.'Dialogue.Place ID'
+	toColumn: Places.'Place ID'
+
+relationship 9d47d97c-50bc-4143-a654-a4facf1fea2d
+	fromColumn: Spells.'Dialogue.Chapter ID'
+	toColumn: Chapters.'Chapter ID'
+

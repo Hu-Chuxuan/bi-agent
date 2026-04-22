@@ -1,0 +1,11 @@
+﻿relationship d9cb261f-efe3-4f14-98bf-d592b77de20d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Verisetti_[data police uk]'.Month
+	toColumn: LocalDateTable_911b7a34-7447-44eb-b7d0-24450a5ddab2.Date
+
+relationship 57b134bc-68a9-435a-89b8-438c8663a678
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: England.type
+	toColumn: Turkiye.type
+

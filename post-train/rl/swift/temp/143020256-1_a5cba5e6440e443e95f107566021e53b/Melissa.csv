@@ -1,0 +1,4 @@
+EMP_TYPE,Employee,COMPANY,Work Date,Rate Type,Hours,Dollar Cost
+"Wage","785","Cadbury","09/07/2020","OT @ 1.2",5,300.33
+"Wage","785","Cadbury","09/07/2020","OT @ 1.33",3,400.44
+"Wage","785","Cadbury","09/07/2020","OT @ 1.5",1,600.66

@@ -1,0 +1,6 @@
+CostGroupId,CGResourceId,ResourceId,ResourceType
+1,1,"0b99ca5c-439a-4841-9e1b-bc078bc5d07a","Subscription"
+1,6,"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/cloud-shell-storage-southeastasia","ResourceGroup"
+1,7,"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/EPIC58-MGMT","ResourceGroup"
+1,8,"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/NetworkWatcherRG","ResourceGroup"
+1,9,"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/AzureBlockchain002","ResourceGroup"

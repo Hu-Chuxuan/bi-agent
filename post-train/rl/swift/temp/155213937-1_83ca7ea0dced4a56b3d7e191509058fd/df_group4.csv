@@ -1,0 +1,41 @@
+Disease,cfr,outbreak_cluster
+"Acute haemorrhagic fever syndrome","inf",3
+"Acute neurological syndrome","32.14285714",1
+"Acute respiratory syndrome","12.5",1
+"Anthrax","21.73913043",0
+"Avian","inf",50
+"COVID-19","33.33333333",0
+"Cholera","inf",10
+"Crimean-Congo haemorrhagic fever","100.0",5
+"Dengue","49.1862955",2
+"Diphtheria","0.07486631",0
+"Ebola","inf",9
+"Elizabethkingia","0.31578947399999996",0
+"Encephalitis","90.28340081",1
+"Enterovirus","20.29520295",1
+"Haemorrhagic fever syndrome","0.255863539",0
+"Haemorrhagic fever with renal syndrome","0.013623978",0
+"Hantavirus pulmonary syndrome","25.0",0
+"Hepatitis","0.577200577",0
+"Influenza","83.04455446",4
+"Lassa fever","56.73076923",5
+"Legionellosis","15.78947368",1
+"Listeriosis","0.078947368",0
+"MERS-CoV","66.0",17
+"Malaria","0.45333333299999995",0
+"Marburg haemorrhagic fever","inf",1
+"Measles","0.609375",0
+"Meningococcal disease","76.14991482",6
+"Microcephaly","1.1972274729999999",0
+"Monkeypox","8.860759494",1
+"Myocarditis","23.00884956",0
+"Nipah virus","42.5",1
+"Plague","41.93548387",3
+"Polio","6.202723147",3
+"Rift Valley fever","100.0",4
+"SARS","100.0",2
+"Seoul virus","0.181818182",0
+"Typhoid fever","19.25287356",0
+"Viral haemorrhagic fever","inf",4
+"West Nile","21.91069574",0
+"Yellow fever","inf",9

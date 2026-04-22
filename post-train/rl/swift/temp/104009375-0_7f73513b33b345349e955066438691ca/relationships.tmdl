@@ -1,0 +1,19 @@
+﻿relationship c37c807d-0489-4e76-9b4b-1b46df097217
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Event Schedule'.'UK Date Time'
+	toColumn: LocalDateTable_5a386500-4c91-4b6b-b948-ff1fb5828168.Date
+
+relationship dec0d733-2af1-4730-a213-923761938e5a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_7b37242d-b535-4240-9809-60b235729560.Date
+
+relationship fcb2ccaf-cf8a-4647-a4e6-a64106134eaf
+	fromColumn: 'Event Schedule'.'US Date Time - Date'
+	toColumn: Calendar.Date
+
+relationship 9b6fe8e4-d5a0-41f2-8e5a-ab181ffc6087
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Event Schedule'.'US Date Time'
+	toColumn: LocalDateTable_5ffca985-674f-4774-a038-c91342f38b04.Date
+

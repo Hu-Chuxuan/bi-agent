@@ -1,0 +1,17 @@
+﻿relationship 6329c914-d57e-49b3-baf1-4a5d6dbb61e3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimCalendar.Date
+	toColumn: LocalDateTable_9e3769d6-3bae-448e-b0cd-201aacad257e.Date
+
+relationship c1072890-4fa7-4019-b778-976e0c436f8e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Table.Date
+	toColumn: DimCalendar.Date
+
+relationship 996bd36c-ca2f-4a1b-b5d4-72899eb74a47
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: fx.date
+	toColumn: DimCalendar.Date
+

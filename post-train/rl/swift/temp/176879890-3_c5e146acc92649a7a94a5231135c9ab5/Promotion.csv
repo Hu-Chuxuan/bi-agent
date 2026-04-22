@@ -1,0 +1,17 @@
+PromotionKey,Discount Percentage,Promotion,Promotion Type,Start Date,End Date,Max Quantity,Min Quantity
+1,0,"No Discount","No Discount",2010-11-29 00:00:00.000,2014-06-30 00:00:00.000,,0
+2,0.02,"Volume Discount 11 to 14","Volume Discount",2010-12-29 00:00:00.000,2013-12-28 00:00:00.000,14,11
+3,0.05,"Volume Discount 15 to 24","Volume Discount",2010-12-29 00:00:00.000,2013-12-28 00:00:00.000,24,15
+4,0.1,"Volume Discount 25 to 40","Volume Discount",2010-12-29 00:00:00.000,2013-12-28 00:00:00.000,40,25
+5,0.15,"Volume Discount 41 to 60","Volume Discount",2010-12-29 00:00:00.000,2013-12-28 00:00:00.000,60,41
+6,0.2,"Volume Discount over 60","Volume Discount",2010-12-29 00:00:00.000,2013-12-28 00:00:00.000,,61
+7,0.35,"Mountain-100 Clearance Sale","Discontinued Product",2011-11-12 00:00:00.000,2011-12-28 00:00:00.000,,0
+8,0.1,"Sport Helmet Discount-2002","Seasonal Discount",2011-12-29 00:00:00.000,2012-01-28 00:00:00.000,,0
+9,0.3,"Road-650 Overstock","Excess Inventory",2011-12-29 00:00:00.000,2012-02-28 00:00:00.000,,0
+10,0.5,"Mountain Tire Sale","Excess Inventory",2012-12-12 00:00:00.000,2013-02-26 00:00:00.000,,0
+11,0.15,"Sport Helmet Discount-2003","Seasonal Discount",2012-12-28 00:00:00.000,2013-01-27 00:00:00.000,,0
+12,0.35,"LL Road Frame Sale","Excess Inventory",2012-12-28 00:00:00.000,2013-02-11 00:00:00.000,,0
+13,0.15,"Touring-3000 Promotion","New Product",2012-12-28 00:00:00.000,2013-03-29 00:00:00.000,,0
+14,0.2,"Touring-1000 Promotion","New Product",2012-12-28 00:00:00.000,2013-03-29 00:00:00.000,,0
+15,0.5,"Half-Price Pedal Sale","Seasonal Discount",2013-02-11 00:00:00.000,2013-03-14 00:00:00.000,,0
+16,0.4,"Mountain-500 Silver Clearance Sale","Discontinued Product",2013-10-29 00:00:00.000,2013-12-28 00:00:00.000,,0

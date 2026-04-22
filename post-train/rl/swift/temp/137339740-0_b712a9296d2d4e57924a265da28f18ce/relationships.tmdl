@@ -1,0 +1,12 @@
+﻿relationship 56d961ff-7f75-4ece-80e3-da9cb08a85f9
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Inspection.ID
+	toColumn: InspImages.ID
+
+relationship 17b6e3a2-a807-45c5-b384-c81f0bd5ef1e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: InspImages.ID
+	toColumn: Order.ID
+

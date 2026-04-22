@@ -1,0 +1,80 @@
+﻿relationship 69696fca-8c65-407c-915d-e6ef5271c309
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: rep-2016.Country
+	toColumn: rep-2015.Country
+
+relationship c049afa9-42c1-4387-9489-13f49bd1e59c
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: rep-2017.Country
+	toColumn: rep-2015.Country
+
+relationship 85a375d4-455f-4f32-aa84-43c6cd47bd03
+	isActive: false
+	fromColumn: rep-2016.'Happiness Rank'
+	toColumn: rep-2017.'Happiness Rank'
+
+relationship ed43eedf-1a4b-4621-aa83-81aaf7be43bc
+	fromColumn: rep-2018.Generosity
+	toColumn: rep-2015.Generosity
+
+relationship b4d31b74-e05a-4009-a870-93f1c69d9015
+	isActive: false
+	fromColumn: rep-2018.Generosity
+	toColumn: rep-2016.Generosity
+
+relationship 7fe48bd3-c6eb-4d74-8ca5-ad17055754da
+	isActive: false
+	fromColumn: rep-2018.Generosity
+	toColumn: rep-2017.Generosity
+
+relationship 22297d47-5936-48d2-9350-d3e239fd9593
+	fromColumn: rep-2019.Generosity
+	toColumn: rep-2015.Generosity
+
+relationship dcba4a5f-8025-4bed-bac5-14b1a136a1bb
+	isActive: false
+	fromColumn: rep-2019.Generosity
+	toColumn: rep-2016.Generosity
+
+relationship 01b7107b-8e8d-4965-af23-800da878bc48
+	isActive: false
+	fromColumn: rep-2019.Generosity
+	toColumn: rep-2017.Generosity
+
+relationship 983a55d3-762b-452c-bd47-8a716907103d
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: rep-2019.'Happiness Rank'
+	toColumn: rep-2018.'Happiness Rank'
+
+relationship 45cb1f56-0bd0-4bcc-ace7-d2d06cde86aa
+	fromColumn: 'Happiness Data'.Country
+	toColumn: rep-2015.Country
+
+relationship a85bd052-3be5-415a-8bb3-c5d535dac0d7
+	isActive: false
+	fromColumn: 'Happiness Data'.Country
+	toColumn: rep-2018.Country
+
+relationship 601d5c80-4ec3-433d-92a5-ae04d951a19a
+	isActive: false
+	fromColumn: 'Happiness Data'.Country
+	toColumn: rep-2019.Country
+
+relationship 2a840796-2738-490f-8a67-22bb1e3fefcc
+	fromColumn: 'Happiness Data'.Country
+	toColumn: rep-2020.Country
+
+relationship 4027f9be-6fc7-4989-8f68-f4d398649595
+	isActive: false
+	fromColumn: 'Happiness Data'.'Happiness Rank'
+	toColumn: rep-2017.'Happiness Rank'
+
+relationship 1d531e76-1d49-4e6f-9bdc-41035d8d278b
+	isActive: false
+	fromColumn: 'Happiness Data'.GPD
+	toColumn: rep-2016.'Economy (GDP per Capita)'
+

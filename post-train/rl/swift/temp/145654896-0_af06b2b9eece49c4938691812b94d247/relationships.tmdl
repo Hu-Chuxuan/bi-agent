@@ -1,0 +1,44 @@
+﻿relationship b4e1c870-94fa-4d17-9482-087a2f97717e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Data Refresh'.LastRefresh
+	toColumn: LocalDateTable_136682c4-9d7f-43fe-94ba-7a24b13bf27e.Date
+
+relationship 6cb1097c-7c46-4f7d-b96c-0fd3d505e1cb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: glpi_tickets_tickets.date_creation
+	toColumn: LocalDateTable_b46c564c-0f35-4be2-821c-800c54672cc1.Date
+
+relationship 38f5f615-45a3-448c-84db-3a85486998a6
+	fromColumn: glpi_tickets_tickets.entities_id
+	toColumn: glpi_entities.id
+
+relationship c7685577-6e91-4712-b41f-1bba2308df93
+	fromColumn: glpi_tickets_tickets.users_id_recipient
+	toColumn: glpi_users.id
+
+relationship d9c49d0d-bdc7-4af3-b173-1ae53dcc7e56
+	fromColumn: glpi_tickets_tickets.itilcategories_id
+	toColumn: glpi_itilcategories.id
+
+relationship c0e6f912-7794-4697-bc61-837942b710ce
+	fromColumn: glpi_tickets_tickets.status
+	toColumn: glpi_status.id_status
+
+relationship 31d73d8a-1ea5-413d-86b5-4135abd50b31
+	fromColumn: glpi_tickets_users.tickets_id
+	toColumn: glpi_tickets_tickets.id
+
+relationship ec538c2f-141f-4b0b-90ce-b4f0570dc4b3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: glpi_tickets_tickets.solvedate
+	toColumn: LocalDateTable_543ae27d-eec2-487f-a290-5a13c4874a8d.Date
+
+relationship e86f7d3a-93f8-4397-8341-f6b195e4b41e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendario.Data
+	toColumn: LocalDateTable_6c89a13a-bf23-4551-8ed3-3aee366b4b06.Date
+
+relationship 74d41c18-0902-4fc8-9fd2-9e954cba9690
+	fromColumn: glpi_tickets_tickets.Data
+	toColumn: Calendario.Data
+

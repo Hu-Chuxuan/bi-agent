@@ -1,0 +1,16 @@
+Order,Account,AccountType
+1,"Product revenue",1
+2,"Service and other revenue",1
+3,"Revenue",1
+4,"Product cost",2
+5,"Service and other costs",2
+6,"Gross margin",1
+7,"Research and development",2
+8,"Sales and marketing",2
+9,"General and administrative",2
+10,"Restructuring",2
+11,"Operating income",1
+12,"Other income, net",1
+13,"Income before income taxes",1
+14,"Provision for income taxes",2
+15,"Net income",1

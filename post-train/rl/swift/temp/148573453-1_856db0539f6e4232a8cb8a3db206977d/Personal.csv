@@ -1,0 +1,61 @@
+personal_ID,variable,value
+1,Nombre,Fabiola
+2,Nombre,Mireya
+3,Nombre,Genna
+4,Nombre,Virgie
+5,Nombre,Jannette
+6,Nombre,Marcelene
+7,Nombre,Venita
+8,Nombre,Kali
+9,Nombre,Layla
+10,Nombre,Bernardine
+1,Apellido,Jackson
+2,Apellido,Copeland
+3,Apellido,Serrano
+4,Apellido,Wiggins
+5,Apellido,David
+6,Apellido,Boyer
+7,Apellido,Daniel
+8,Apellido,Vargas
+9,Apellido,Terrell
+10,Apellido,Houston
+1,eMail,fabiola.jackson@bikes.shop
+2,eMail,mireya.copeland@bikes.shop
+3,eMail,genna.serrano@bikes.shop
+4,eMail,virgie.wiggins@bikes.shop
+5,eMail,jannette.david@bikes.shop
+6,eMail,marcelene.boyer@bikes.shop
+7,eMail,venita.daniel@bikes.shop
+8,eMail,kali.vargas@bikes.shop
+9,eMail,layla.terrell@bikes.shop
+10,eMail,bernardine.houston@bikes.shop
+1,Telefono,(831) 555-5554
+2,Telefono,(831) 555-5555
+3,Telefono,(831) 555-5556
+4,Telefono,(831) 555-5557
+5,Telefono,(516) 379-4444
+6,Telefono,(516) 379-4445
+7,Telefono,(516) 379-4446
+8,Telefono,(972) 530-5555
+9,Telefono,(972) 530-5556
+10,Telefono,(972) 530-5557
+1,Personal Apellido Nombre,"Jackson, Fabiola"
+2,Personal Apellido Nombre,"Copeland, Mireya"
+3,Personal Apellido Nombre,"Serrano, Genna"
+4,Personal Apellido Nombre,"Wiggins, Virgie"
+5,Personal Apellido Nombre,"David, Jannette"
+6,Personal Apellido Nombre,"Boyer, Marcelene"
+7,Personal Apellido Nombre,"Daniel, Venita"
+8,Personal Apellido Nombre,"Vargas, Kali"
+9,Personal Apellido Nombre,"Terrell, Layla"
+10,Personal Apellido Nombre,"Houston, Bernardine"
+1,Personal Nombre Apellido,Fabiola Jackson
+2,Personal Nombre Apellido,Mireya Copeland
+3,Personal Nombre Apellido,Genna Serrano
+4,Personal Nombre Apellido,Virgie Wiggins
+5,Personal Nombre Apellido,Jannette David
+6,Personal Nombre Apellido,Marcelene Boyer
+7,Personal Nombre Apellido,Venita Daniel
+8,Personal Nombre Apellido,Kali Vargas
+9,Personal Nombre Apellido,Layla Terrell
+10,Personal Nombre Apellido,Bernardine Houston

@@ -1,0 +1,143 @@
+﻿relationship fd2d434f-e5f9-4de7-a86e-64256c7dd7a4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: SALDOBANCARIO.DT_E_S
+	toColumn: LocalDateTable_5e978343-bed0-4122-884f-df3e1d71b02c.Date
+
+relationship 67b0b20a-9908-4f07-a030-8b0150fba8b9
+	joinOnDateBehavior: datePartOnly
+	fromColumn: PARCEIRO.DT_CAD_PART
+	toColumn: LocalDateTable_14ca73ba-10dd-4830-b393-aa0995eb6d8f.Date
+
+relationship f9659fc0-a25b-4c83-984b-c4b802581da8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: MOVI.DT_E_S
+	toColumn: LocalDateTable_ff4333e5-a082-40cc-a2e8-b118232e4574.Date
+
+relationship 27e8ac56-eb1e-4716-bc26-ea43ead32d68
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CONTROLADORIA.DT_E_S
+	toColumn: LocalDateTable_b611cc3a-38fb-497b-9cdf-6c259bfaa45f.Date
+
+relationship 1c5e1eb3-731d-44ac-ad86-0d990a6fc216
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FINANCEIRO.DT_COMPETENCIA
+	toColumn: LocalDateTable_d6223d34-dcd8-40c9-8f2f-85494dec20c4.Date
+
+relationship 0bc79fdd-9647-4c15-a6d1-27015e66af9e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FINANCEIRO.DT_EMISSAO
+	toColumn: LocalDateTable_a232366f-4355-4b98-a814-4042a82f2274.Date
+
+relationship a2f9887b-f011-4806-97c2-8ee3809aebda
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FINANCEIRO.DT_VENCIMENTO
+	toColumn: LocalDateTable_e2b8b1de-0889-40cc-b0aa-5db8df8971f7.Date
+
+relationship 9da3fa38-ad75-4451-96da-1c4b390b1902
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FINANCEIRO.DT_E_S
+	toColumn: LocalDateTable_03544d1d-6629-49fd-bcb4-4be71984d4f2.Date
+
+relationship 7a3e4716-6ff2-45ef-a784-9e0cbe728d5d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ESTOQUE.DT_E_S
+	toColumn: LocalDateTable_34600bdf-39de-439e-aa33-1d6ff688bc20.Date
+
+relationship 26537b9b-1782-46a9-8d58-cfc51f8f97b4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: META.DT_E_S
+	toColumn: LocalDateTable_02becc94-181a-479c-a9ca-eac0994a6170.Date
+
+relationship 1fbe2106-1d11-402d-81dc-9564f416fd78
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ORCAMENTO.DT_E_S
+	toColumn: LocalDateTable_ebd03525-db55-466c-abc6-d665731c8b0c.Date
+
+relationship 6084d344-d47a-4510-95d3-a9d8c1eeb9dc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: LINK.DT_COMPETENCIA
+	toColumn: LocalDateTable_9e6a05c0-5238-4592-93dd-0c5585a15303.Date
+
+relationship 38de76b6-a3bc-4858-b383-72b714f8a88e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: LINK.DT_EMISSAO
+	toColumn: LocalDateTable_6f90fd66-5fae-4776-9364-29f2cac45901.Date
+
+relationship f36efec1-e5fe-4950-bc1e-2aaf8b064b63
+	fromColumn: LINK.COD_FILIAL
+	toColumn: EMPRESA.COD_FILIAL
+
+relationship 821755b6-4a89-4b96-8136-e17e24256555
+	fromColumn: LINK.COD_ITEM
+	toColumn: PRODUTO.COD_ITEM
+
+relationship 563acdc5-6fad-4ca2-bfd1-003c30400ab7
+	fromColumn: LINK.COD_PART
+	toColumn: PARCEIRO.COD_PART
+
+relationship 814ac7b8-220b-4485-8322-26879ac0454d
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_MOVI
+	toColumn: MOVI.CHAVE_MOVI
+
+relationship 70c15271-84ac-46f8-864b-2f4ffdc3409e
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_CONTROLADORIA
+	toColumn: CONTROLADORIA.CHAVE_CONTROLADORIA
+
+relationship ce246c68-02ce-483d-8e66-209dc5015554
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.GRUPO_ATI
+	toColumn: PLANOCONTA.GRUPO_ATI
+
+relationship 395f11a1-212c-4d61-bb1b-54f664cb3427
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_FINANCEIRO
+	toColumn: FINANCEIRO.CHAVE_FINANCEIRO
+
+relationship 217a29f2-2716-4934-b7b3-1f1ae15e91b8
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_ESTOQUE
+	toColumn: ESTOQUE.CHAVE_ESTOQUE
+
+relationship edfeca64-e243-4b87-87ef-2e9d7672fe98
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_META
+	toColumn: META.CHAVE_META
+
+relationship 5fbd2c40-3b85-46d6-bdeb-75d372608901
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_ORCAMENTO
+	toColumn: ORCAMENTO.CHAVE_ORCAMENTO
+
+relationship 3fdbec07-c300-41f1-9441-034959c7fa65
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.CHAVE_SALDOBANCARIO
+	toColumn: SALDOBANCARIO.CHAVE_SALDOBANCARIO
+
+relationship 10ee773c-3498-40b4-93d5-ef22a4a03298
+	fromColumn: PARCEIRO.COD_MUN
+	toColumn: CIDADES.CODIBGE
+
+relationship a23dda7b-bf81-4bb4-8ef9-63e511cbab71
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CALENDARIO.DT_E_S
+	toColumn: LocalDateTable_e9bb591f-c56c-40e2-8d99-dede64cb7936.Date
+
+relationship 759bb1fe-0638-491f-9df0-f212aa2d2ed6
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.DT_E_S
+	toColumn: CALENDARIO.DT_E_S
+
+relationship 992634fc-6b37-48cc-86a2-141cc1ab5bbe
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromColumn: LINK.DT_VENCIMENTO
+	toColumn: CALENDARIO.DT_E_S
+
+relationship f2a73ba5-171d-4b4a-9142-9445db9d85f0
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: dFERIADO.DT_FERIADO
+	toColumn: CALENDARIO.DT_E_S
+

@@ -1,0 +1,21 @@
+﻿relationship f099e529-663b-4323-a9fb-f4cb82afad0a
+	fromColumn: Sales.CustID
+	toColumn: Customer.PKCustomerID
+
+relationship ce163e03-33c0-492e-82be-f1e76181062a
+	fromColumn: Sales.Date
+	toColumn: Date.Date
+
+relationship 226d2418-82c8-462b-bcd0-b004a522fb8a
+	fromColumn: Sales.ProdID
+	toColumn: Products.PKProductID
+
+relationship bb44ffab-0caa-4740-938e-a61cfb3cf4f4
+	fromColumn: Sales.Date
+	toColumn: 'USD-CAD Exchange Rates'.Date
+
+relationship d4ba2a54-5ad5-43ab-bb4a-d1b3bd1af966
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'USD-CAD Exchange Rates'.Date
+	toColumn: LocalDateTable_5b41c85c-2381-45b0-bce5-1051eb772c97.Date
+

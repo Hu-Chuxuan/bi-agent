@@ -1,0 +1,6 @@
+﻿relationship 2c309daf-be5e-4ade-bd32-69c206fc8f7d
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Dates.Date
+	toColumn: 'Calendar Holidays'.'Holiday Date'
+

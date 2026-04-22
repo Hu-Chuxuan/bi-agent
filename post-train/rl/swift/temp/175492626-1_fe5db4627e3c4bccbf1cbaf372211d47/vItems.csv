@@ -1,0 +1,6 @@
+ItemId,ItemValue,AllowedUser,user_name
+1,"row for peterperov","peterperov@chipsandfish.net","peterperov@chipsandfish.net"
+2,"row for user","user@chipsandfish.net","peterperov@chipsandfish.net"
+3,"row for test","test@chipsandfish.net","peterperov@chipsandfish.net"
+4,"row for powerbi","powerbi@chipsandfish.net","peterperov@chipsandfish.net"
+5,"row for reader","reader@chipsandfish.net","peterperov@chipsandfish.net"

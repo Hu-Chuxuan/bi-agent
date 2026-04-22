@@ -1,0 +1,92 @@
+﻿relationship 0bb0c9ea-9bc3-44d2-bb55-7758264bf9dc
+	fromColumn: fat_Tasks.FK_dim_Usuarios
+	toColumn: dim_Usuarios.PK_dim_Usuarios
+
+relationship 532af126-1493-4dc0-97dd-3e586f669785
+	fromColumn: fat_Tasks.FK_dim_GruposUsuarios
+	toColumn: dim_GruposUsuarios.PK_dim_GruposUsuarios
+
+relationship daadf90b-bf06-4cb3-90ff-f9d11710c6a5
+	fromColumn: fat_Tasks.FK_dim_Acoes
+	toColumn: dim_Acoes.PK_dim_Acoes
+
+relationship fa23ffae-7781-4476-a0d4-206addd31d8f
+	fromColumn: fat_Tasks.FK_dim_MotivosCanc
+	toColumn: dim_MotivosCanc.PK_dim_MotivosCanc
+
+relationship 88de4a48-da5d-4470-be25-7104d9c98765
+	fromColumn: fat_Tasks.FK_dim_Encaminhamento
+	toColumn: dim_Encaminhamento.Index
+
+relationship e0e9b1c2-f6c4-4259-8958-369475a62059
+	fromColumn: fat_Tasks.FK_dim_Situacao
+	toColumn: dim_Situacao.PK_dim_Situacao
+
+relationship cf824fce-2b29-475a-9787-738971c99d83
+	fromColumn: fat_Tasks.'Nota Avaliação'
+	toColumn: dim_Estrelas.PK_dim_Estrelas
+
+relationship dbee8363-8695-44e9-bed3-219d5189420a
+	fromColumn: fat_Tasks.FK_dim_StatusExt
+	toColumn: dim_StatusExt.PK_dim_StatusExt
+
+relationship 216e0eda-335d-41eb-aebd-ef7c89ad4e0c
+	isActive: false
+	fromColumn: fat_Tasks.'Data Avaliação'
+	toColumn: dim_Data.PK_dim_Data
+
+relationship 7c21ec2c-ace7-4258-8c16-2d9f875878f8
+	isActive: false
+	fromColumn: fat_Tasks.'Hora Avaliação'
+	toColumn: dim_Hora.PK_Hora
+
+relationship 08400a49-628b-4ae9-ba2c-1e3087469828
+	isActive: false
+	fromColumn: fat_Tasks.'Hora Conclusao'
+	toColumn: dim_Hora.PK_Hora
+
+relationship 7828336b-eddc-40c4-a9d7-d8aebf4a915b
+	fromColumn: fat_Tasks.'Hora Criacao'
+	toColumn: dim_Hora.PK_Hora
+
+relationship 52a5f03d-f716-4663-8c1a-5a02b64bff8e
+	fromColumn: fat_Tasks.FK_dim_SLA
+	toColumn: dim_SLA.PK_dim_SLA
+
+relationship f078d8c1-c8a1-48c9-94c7-9f0a271a36ed
+	fromColumn: fat_Tasks.FK_dim_Solicitacoes
+	toColumn: dim_Endereco.PK_dim_Endereco
+
+relationship 5821c0f5-a787-487c-8c00-f9a82075e333
+	fromColumn: Z_fat_Beta.FK_Z_dim_MET
+	toColumn: Z_dim_MET.PK_Z_dim_MET
+
+relationship 743607c4-e5d6-482c-8f0f-46a0b53b34e7
+	fromColumn: Z_fat_Beta.FK_Z_dim_SERVICO
+	toColumn: Z_dim_SERVICO.PK_Z_dim_SERVICO
+
+relationship dd7debb3-1ca8-41be-9df1-17075ef5f8cb
+	fromColumn: Z_fat_Beta.FK_dim_DECISAO
+	toColumn: Z_dim_DECISAO.PK_Z_dim_DECISAO
+
+relationship be89f261-fb1e-4cc7-b827-1bbcfe08e6ab
+	crossFilteringBehavior: bothDirections
+	fromColumn: Z_pto_decisao_operacao.FK_dim_DECISAO
+	toColumn: Z_dim_DECISAO.PK_Z_dim_DECISAO
+
+relationship 50aae68a-ea17-481a-b373-a3fddf32508f
+	fromColumn: Z_pto_decisao_operacao.PK_Z_dim_OPERACAO
+	toColumn: Z_dim_OPERACAO.PK_Z_dim_OPERACAO
+
+relationship 0d96b45a-7650-4885-97fc-89fa7c0c5a74
+	fromColumn: Z_fat_Beta.FK_Z_dim_DIM
+	toColumn: Z_dim_DIM.PK_Z_dim_DIM
+
+relationship 1150553b-00b5-4a62-8ee1-1511a46daf07
+	fromColumn: fat_Tasks.FK_dim_Servicos
+	toColumn: dim_Servicos.PK_dim_Servicos
+
+relationship e0625a76-8e54-4394-baad-88f96d34129c
+	fromColumn: fat_Tasks.FK_dim_Entidades
+	toColumn: dim_Entidades.PK_dim_Entidades
+

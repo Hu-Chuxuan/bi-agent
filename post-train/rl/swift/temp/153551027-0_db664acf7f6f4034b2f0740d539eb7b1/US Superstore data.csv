@@ -1,0 +1,2001 @@
+Row ID,variable,value
+5368,Order ID,CA-2017-158071
+2004,Order ID,CA-2017-163510
+351,Order ID,CA-2016-129714
+5942,Order ID,CA-2017-112431
+260,Order ID,CA-2017-163139
+3483,Order ID,CA-2014-124688
+9552,Order ID,CA-2015-147690
+8113,Order ID,CA-2016-130393
+2399,Order ID,CA-2017-169264
+6536,Order ID,CA-2014-128209
+5954,Order ID,US-2014-105151
+1344,Order ID,CA-2015-131758
+5943,Order ID,CA-2016-151092
+9821,Order ID,CA-2015-162201
+2505,Order ID,CA-2014-143917
+6843,Order ID,CA-2016-123946
+1735,Order ID,CA-2017-101483
+1063,Order ID,CA-2015-161263
+9883,Order ID,CA-2014-153927
+7402,Order ID,CA-2016-110009
+4741,Order ID,CA-2017-164364
+9340,Order ID,CA-2014-155264
+7390,Order ID,CA-2017-108035
+1998,Order ID,CA-2014-131905
+4261,Order ID,CA-2017-164819
+1229,Order ID,CA-2017-100013
+1087,Order ID,CA-2016-167584
+7111,Order ID,CA-2016-109666
+3800,Order ID,CA-2017-147760
+8309,Order ID,CA-2016-149335
+3308,Order ID,CA-2014-104738
+3692,Order ID,US-2015-131359
+6712,Order ID,CA-2017-163069
+8887,Order ID,CA-2014-107398
+5294,Order ID,CA-2015-111073
+2326,Order ID,CA-2015-105102
+5328,Order ID,CA-2014-130813
+584,Order ID,CA-2017-145233
+3500,Order ID,CA-2016-108616
+8632,Order ID,CA-2016-107783
+3274,Order ID,CA-2017-133865
+6756,Order ID,CA-2017-124205
+2078,Order ID,CA-2017-140676
+8768,Order ID,CA-2015-107083
+2446,Order ID,CA-2016-146934
+1201,Order ID,CA-2016-114727
+4297,Order ID,CA-2017-117261
+713,Order ID,US-2017-100048
+5089,Order ID,CA-2015-109001
+3738,Order ID,CA-2016-115476
+4889,Order ID,CA-2016-163167
+1837,Order ID,CA-2017-122693
+9671,Order ID,CA-2015-133396
+5583,Order ID,CA-2016-161158
+3126,Order ID,CA-2015-121720
+9701,Order ID,CA-2017-154116
+8239,Order ID,CA-2017-103065
+5939,Order ID,CA-2017-122077
+2504,Order ID,CA-2016-149482
+8602,Order ID,CA-2014-141110
+6462,Order ID,US-2017-133361
+9148,Order ID,US-2016-165505
+9499,Order ID,CA-2017-118213
+5245,Order ID,CA-2016-156265
+5957,Order ID,CA-2016-127138
+285,Order ID,CA-2015-130883
+8413,Order ID,CA-2017-132290
+5933,Order ID,US-2017-169551
+6860,Order ID,CA-2017-128965
+1368,Order ID,US-2017-155425
+4932,Order ID,CA-2017-143651
+2563,Order ID,CA-2015-144288
+9719,Order ID,CA-2016-108210
+4229,Order ID,CA-2016-113803
+7824,Order ID,US-2014-115413
+6909,Order ID,US-2017-135503
+3474,Order ID,CA-2017-111815
+1432,Order ID,CA-2014-120768
+4425,Order ID,CA-2017-159464
+4211,Order ID,CA-2017-109715
+3927,Order ID,CA-2014-103940
+1424,Order ID,CA-2015-124800
+2610,Order ID,CA-2014-127446
+9695,Order ID,CA-2017-130148
+531,Order ID,US-2015-138303
+1429,Order ID,US-2015-164448
+3505,Order ID,CA-2016-150945
+8485,Order ID,CA-2017-142391
+3804,Order ID,CA-2016-156503
+368,Order ID,CA-2016-155516
+8132,Order ID,CA-2014-127866
+2640,Order ID,CA-2017-108441
+3895,Order ID,US-2014-112200
+2805,Order ID,CA-2015-159380
+5084,Order ID,CA-2016-155138
+691,Order ID,US-2014-117135
+63,Order ID,CA-2015-135545
+6304,Order ID,CA-2017-162712
+135,Order ID,CA-2016-145583
+1531,Order ID,CA-2015-103793
+5368,Order Date,2017-06-10 00:00:00.000
+2004,Order Date,2017-12-25 00:00:00.000
+351,Order Date,2016-09-01 00:00:00.000
+5942,Order Date,2017-10-12 00:00:00.000
+260,Order Date,2017-12-01 00:00:00.000
+3483,Order Date,2014-08-27 00:00:00.000
+9552,Order Date,2015-11-10 00:00:00.000
+8113,Order Date,2016-12-01 00:00:00.000
+2399,Order Date,2017-08-14 00:00:00.000
+6536,Order Date,2014-11-17 00:00:00.000
+5954,Order Date,2014-03-30 00:00:00.000
+1344,Order Date,2015-05-28 00:00:00.000
+5943,Order Date,2016-08-06 00:00:00.000
+9821,Order Date,2015-06-08 00:00:00.000
+2505,Order Date,2014-07-25 00:00:00.000
+6843,Order Date,2016-09-12 00:00:00.000
+1735,Order Date,2017-07-29 00:00:00.000
+1063,Order Date,2015-04-16 00:00:00.000
+9883,Order Date,2014-08-12 00:00:00.000
+7402,Order Date,2016-09-08 00:00:00.000
+4741,Order Date,2017-11-12 00:00:00.000
+9340,Order Date,2014-10-19 00:00:00.000
+7390,Order Date,2017-11-29 00:00:00.000
+1998,Order Date,2014-02-06 00:00:00.000
+4261,Order Date,2017-10-15 00:00:00.000
+1229,Order Date,2017-11-06 00:00:00.000
+1087,Order Date,2016-08-12 00:00:00.000
+7111,Order Date,2016-04-19 00:00:00.000
+3800,Order Date,2017-11-04 00:00:00.000
+8309,Order Date,2016-07-25 00:00:00.000
+3308,Order Date,2014-12-30 00:00:00.000
+3692,Order Date,2015-10-30 00:00:00.000
+6712,Order Date,2017-08-18 00:00:00.000
+8887,Order Date,2014-08-25 00:00:00.000
+5294,Order Date,2015-12-26 00:00:00.000
+2326,Order Date,2015-09-15 00:00:00.000
+5328,Order Date,2014-01-06 00:00:00.000
+584,Order Date,2017-12-01 00:00:00.000
+3500,Order Date,2016-09-29 00:00:00.000
+8632,Order Date,2016-07-28 00:00:00.000
+3274,Order Date,2017-05-08 00:00:00.000
+6756,Order Date,2017-09-15 00:00:00.000
+2078,Order Date,2017-09-12 00:00:00.000
+8768,Order Date,2015-11-21 00:00:00.000
+2446,Order Date,2016-05-22 00:00:00.000
+1201,Order Date,2016-07-18 00:00:00.000
+4297,Order Date,2017-09-04 00:00:00.000
+713,Order Date,2017-05-19 00:00:00.000
+5089,Order Date,2015-03-05 00:00:00.000
+3738,Order Date,2016-03-17 00:00:00.000
+4889,Order Date,2016-11-28 00:00:00.000
+1837,Order Date,2017-02-19 00:00:00.000
+9671,Order Date,2015-08-13 00:00:00.000
+5583,Order Date,2016-05-09 00:00:00.000
+3126,Order Date,2015-06-11 00:00:00.000
+9701,Order Date,2017-12-15 00:00:00.000
+8239,Order Date,2017-10-20 00:00:00.000
+5939,Order Date,2017-05-19 00:00:00.000
+2504,Order Date,2016-11-14 00:00:00.000
+8602,Order Date,2014-11-26 00:00:00.000
+6462,Order Date,2017-05-14 00:00:00.000
+9148,Order Date,2016-01-23 00:00:00.000
+9499,Order Date,2017-11-05 00:00:00.000
+5245,Order Date,2016-08-02 00:00:00.000
+5957,Order Date,2016-03-12 00:00:00.000
+285,Order Date,2015-09-26 00:00:00.000
+8413,Order Date,2017-03-10 00:00:00.000
+5933,Order Date,2017-07-07 00:00:00.000
+6860,Order Date,2017-04-17 00:00:00.000
+1368,Order Date,2017-11-10 00:00:00.000
+4932,Order Date,2017-03-25 00:00:00.000
+2563,Order Date,2015-12-25 00:00:00.000
+9719,Order Date,2016-05-30 00:00:00.000
+4229,Order Date,2016-03-24 00:00:00.000
+7824,Order Date,2014-08-26 00:00:00.000
+6909,Order Date,2017-12-10 00:00:00.000
+3474,Order Date,2017-03-03 00:00:00.000
+1432,Order Date,2014-12-19 00:00:00.000
+4425,Order Date,2017-05-18 00:00:00.000
+4211,Order Date,2017-12-09 00:00:00.000
+3927,Order Date,2014-09-17 00:00:00.000
+1424,Order Date,2015-09-26 00:00:00.000
+2610,Order Date,2014-11-25 00:00:00.000
+9695,Order Date,2017-09-24 00:00:00.000
+531,Order Date,2015-09-03 00:00:00.000
+1429,Order Date,2015-10-31 00:00:00.000
+3505,Order Date,2016-12-18 00:00:00.000
+8485,Order Date,2017-09-24 00:00:00.000
+3804,Order Date,2016-10-14 00:00:00.000
+368,Order Date,2016-10-21 00:00:00.000
+8132,Order Date,2014-07-20 00:00:00.000
+2640,Order Date,2017-06-12 00:00:00.000
+3895,Order Date,2014-11-22 00:00:00.000
+2805,Order Date,2015-05-12 00:00:00.000
+5084,Order Date,2016-09-08 00:00:00.000
+691,Order Date,2014-06-21 00:00:00.000
+63,Order Date,2015-11-24 00:00:00.000
+6304,Order Date,2017-06-18 00:00:00.000
+135,Order Date,2016-10-13 00:00:00.000
+1531,Order Date,2015-03-26 00:00:00.000
+5368,Ship Date,2017-06-15 00:00:00.000
+2004,Ship Date,2017-12-28 00:00:00.000
+351,Ship Date,2016-09-03 00:00:00.000
+5942,Ship Date,2017-10-14 00:00:00.000
+260,Ship Date,2017-12-03 00:00:00.000
+3483,Ship Date,2014-08-29 00:00:00.000
+9552,Ship Date,2015-11-14 00:00:00.000
+8113,Ship Date,2016-12-03 00:00:00.000
+2399,Ship Date,2017-08-16 00:00:00.000
+6536,Ship Date,2014-11-22 00:00:00.000
+5954,Ship Date,2014-03-31 00:00:00.000
+1344,Ship Date,2015-06-01 00:00:00.000
+5943,Ship Date,2016-08-13 00:00:00.000
+9821,Ship Date,2015-06-12 00:00:00.000
+2505,Ship Date,2014-07-27 00:00:00.000
+6843,Ship Date,2016-09-17 00:00:00.000
+1735,Ship Date,2017-08-01 00:00:00.000
+1063,Ship Date,2015-04-21 00:00:00.000
+9883,Ship Date,2014-08-13 00:00:00.000
+7402,Ship Date,2016-09-13 00:00:00.000
+4741,Ship Date,2017-11-16 00:00:00.000
+9340,Ship Date,2014-10-22 00:00:00.000
+7390,Ship Date,2017-12-03 00:00:00.000
+1998,Ship Date,2014-02-09 00:00:00.000
+4261,Ship Date,2017-10-19 00:00:00.000
+1229,Ship Date,2017-11-11 00:00:00.000
+1087,Ship Date,2016-08-12 00:00:00.000
+7111,Ship Date,2016-04-26 00:00:00.000
+3800,Ship Date,2017-11-05 00:00:00.000
+8309,Ship Date,2016-07-25 00:00:00.000
+3308,Ship Date,2015-01-01 00:00:00.000
+3692,Ship Date,2015-11-02 00:00:00.000
+6712,Ship Date,2017-08-21 00:00:00.000
+8887,Ship Date,2014-08-30 00:00:00.000
+5294,Ship Date,2015-12-30 00:00:00.000
+2326,Ship Date,2015-09-19 00:00:00.000
+5328,Ship Date,2014-01-08 00:00:00.000
+584,Ship Date,2017-12-05 00:00:00.000
+3500,Ship Date,2016-10-03 00:00:00.000
+8632,Ship Date,2016-07-29 00:00:00.000
+3274,Ship Date,2017-05-12 00:00:00.000
+6756,Ship Date,2017-09-19 00:00:00.000
+2078,Ship Date,2017-09-15 00:00:00.000
+8768,Ship Date,2015-11-27 00:00:00.000
+2446,Ship Date,2016-05-27 00:00:00.000
+1201,Ship Date,2016-07-24 00:00:00.000
+4297,Ship Date,2017-09-10 00:00:00.000
+713,Ship Date,2017-05-24 00:00:00.000
+5089,Ship Date,2015-03-09 00:00:00.000
+3738,Ship Date,2016-03-17 00:00:00.000
+4889,Ship Date,2016-12-01 00:00:00.000
+1837,Ship Date,2017-02-21 00:00:00.000
+9671,Ship Date,2015-08-15 00:00:00.000
+5583,Ship Date,2016-05-13 00:00:00.000
+3126,Ship Date,2015-06-12 00:00:00.000
+9701,Ship Date,2017-12-19 00:00:00.000
+8239,Ship Date,2017-10-20 00:00:00.000
+5939,Ship Date,2017-05-25 00:00:00.000
+2504,Ship Date,2016-11-19 00:00:00.000
+8602,Ship Date,2014-12-01 00:00:00.000
+6462,Ship Date,2017-05-17 00:00:00.000
+9148,Ship Date,2016-01-27 00:00:00.000
+9499,Ship Date,2017-11-07 00:00:00.000
+5245,Ship Date,2016-08-04 00:00:00.000
+5957,Ship Date,2016-03-15 00:00:00.000
+285,Ship Date,2015-10-02 00:00:00.000
+8413,Ship Date,2017-03-14 00:00:00.000
+5933,Ship Date,2017-07-09 00:00:00.000
+6860,Ship Date,2017-04-22 00:00:00.000
+1368,Ship Date,2017-11-11 00:00:00.000
+4932,Ship Date,2017-03-30 00:00:00.000
+2563,Ship Date,2015-12-31 00:00:00.000
+9719,Ship Date,2016-05-31 00:00:00.000
+4229,Ship Date,2016-03-26 00:00:00.000
+7824,Ship Date,2014-09-01 00:00:00.000
+6909,Ship Date,2017-12-15 00:00:00.000
+3474,Ship Date,2017-03-10 00:00:00.000
+1432,Ship Date,2014-12-21 00:00:00.000
+4425,Ship Date,2017-05-19 00:00:00.000
+4211,Ship Date,2017-12-14 00:00:00.000
+3927,Ship Date,2014-09-21 00:00:00.000
+1424,Ship Date,2015-09-30 00:00:00.000
+2610,Ship Date,2014-11-30 00:00:00.000
+9695,Ship Date,2017-09-28 00:00:00.000
+531,Ship Date,2015-09-07 00:00:00.000
+1429,Ship Date,2015-11-04 00:00:00.000
+3505,Ship Date,2016-12-20 00:00:00.000
+8485,Ship Date,2017-09-24 00:00:00.000
+3804,Ship Date,2016-10-20 00:00:00.000
+368,Ship Date,2016-10-21 00:00:00.000
+8132,Ship Date,2014-07-23 00:00:00.000
+2640,Ship Date,2017-06-18 00:00:00.000
+3895,Ship Date,2014-11-28 00:00:00.000
+2805,Ship Date,2015-05-16 00:00:00.000
+5084,Ship Date,2016-09-12 00:00:00.000
+691,Ship Date,2014-06-23 00:00:00.000
+63,Ship Date,2015-11-30 00:00:00.000
+6304,Ship Date,2017-06-20 00:00:00.000
+135,Ship Date,2016-10-19 00:00:00.000
+1531,Ship Date,2015-03-31 00:00:00.000
+5368,Ship Mode,Standard Class
+2004,Ship Mode,Second Class
+351,Ship Mode,First Class
+5942,Ship Mode,Second Class
+260,Ship Mode,Second Class
+3483,Ship Mode,First Class
+9552,Ship Mode,Standard Class
+8113,Ship Mode,Second Class
+2399,Ship Mode,Second Class
+6536,Ship Mode,Standard Class
+5954,Ship Mode,First Class
+1344,Ship Mode,Standard Class
+5943,Ship Mode,Standard Class
+9821,Ship Mode,Standard Class
+2505,Ship Mode,Second Class
+6843,Ship Mode,Standard Class
+1735,Ship Mode,Second Class
+1063,Ship Mode,Standard Class
+9883,Ship Mode,First Class
+7402,Ship Mode,Standard Class
+4741,Ship Mode,Standard Class
+9340,Ship Mode,Second Class
+7390,Ship Mode,Standard Class
+1998,Ship Mode,First Class
+4261,Ship Mode,Second Class
+1229,Ship Mode,Standard Class
+1087,Ship Mode,Same Day
+7111,Ship Mode,Standard Class
+3800,Ship Mode,First Class
+8309,Ship Mode,Same Day
+3308,Ship Mode,Second Class
+3692,Ship Mode,Second Class
+6712,Ship Mode,Second Class
+8887,Ship Mode,Standard Class
+5294,Ship Mode,Standard Class
+2326,Ship Mode,Second Class
+5328,Ship Mode,Second Class
+584,Ship Mode,Standard Class
+3500,Ship Mode,Standard Class
+8632,Ship Mode,First Class
+3274,Ship Mode,Standard Class
+6756,Ship Mode,Standard Class
+2078,Ship Mode,First Class
+8768,Ship Mode,Standard Class
+2446,Ship Mode,Standard Class
+1201,Ship Mode,Standard Class
+4297,Ship Mode,Standard Class
+713,Ship Mode,Standard Class
+5089,Ship Mode,Standard Class
+3738,Ship Mode,Same Day
+4889,Ship Mode,Second Class
+1837,Ship Mode,Second Class
+9671,Ship Mode,First Class
+5583,Ship Mode,Standard Class
+3126,Ship Mode,First Class
+9701,Ship Mode,Standard Class
+8239,Ship Mode,Same Day
+5939,Ship Mode,Standard Class
+2504,Ship Mode,Standard Class
+8602,Ship Mode,Standard Class
+6462,Ship Mode,First Class
+9148,Ship Mode,Standard Class
+9499,Ship Mode,First Class
+5245,Ship Mode,Second Class
+5957,Ship Mode,Second Class
+285,Ship Mode,Standard Class
+8413,Ship Mode,Standard Class
+5933,Ship Mode,First Class
+6860,Ship Mode,Standard Class
+1368,Ship Mode,First Class
+4932,Ship Mode,Standard Class
+2563,Ship Mode,Standard Class
+9719,Ship Mode,Same Day
+4229,Ship Mode,First Class
+7824,Ship Mode,Standard Class
+6909,Ship Mode,Standard Class
+3474,Ship Mode,Standard Class
+1432,Ship Mode,Second Class
+4425,Ship Mode,First Class
+4211,Ship Mode,Standard Class
+3927,Ship Mode,Standard Class
+1424,Ship Mode,Standard Class
+2610,Ship Mode,Standard Class
+9695,Ship Mode,Second Class
+531,Ship Mode,Standard Class
+1429,Ship Mode,Second Class
+3505,Ship Mode,Second Class
+8485,Ship Mode,Same Day
+3804,Ship Mode,Standard Class
+368,Ship Mode,Same Day
+8132,Ship Mode,First Class
+2640,Ship Mode,Standard Class
+3895,Ship Mode,Standard Class
+2805,Ship Mode,Standard Class
+5084,Ship Mode,Standard Class
+691,Ship Mode,Second Class
+63,Ship Mode,Standard Class
+6304,Ship Mode,Second Class
+135,Ship Mode,Standard Class
+1531,Ship Mode,Standard Class
+5368,Customer ID,BD-11320
+2004,Customer ID,JW-15955
+351,Customer ID,AB-10060
+5942,Customer ID,RW-19690
+260,Customer ID,CC-12670
+3483,Customer ID,CC-12610
+9552,Customer ID,SC-20020
+8113,Customer ID,JM-15865
+2399,Customer ID,NP-18700
+6536,Customer ID,GT-14710
+5954,Customer ID,SG-20890
+1344,Customer ID,KB-16315
+5943,Customer ID,VG-21790
+9821,Customer ID,AG-10495
+2505,Customer ID,KL-16645
+6843,Customer ID,AJ-10795
+1735,Customer ID,AG-10675
+1063,Customer ID,TS-21160
+9883,Customer ID,LL-16840
+7402,Customer ID,TR-21325
+4741,Customer ID,CS-12355
+9340,Customer ID,RP-19270
+7390,Customer ID,TT-21070
+1998,Customer ID,ND-18460
+4261,Customer ID,RS-19420
+1229,Customer ID,ZC-21910
+1087,Customer ID,LC-16870
+7111,Customer ID,KM-16720
+3800,Customer ID,KL-16555
+8309,Customer ID,BC-11125
+3308,Customer ID,SP-20620
+3692,Customer ID,FA-14230
+6712,Customer ID,PJ-19015
+8887,Customer ID,BS-11590
+5294,Customer ID,MC-18100
+2326,Customer ID,BM-11575
+5328,Customer ID,LS-17230
+584,Customer ID,DV-13465
+3500,Customer ID,JK-15730
+8632,Customer ID,OT-18730
+3274,Customer ID,PS-19045
+6756,Customer ID,TC-21145
+2078,Customer ID,BF-11080
+8768,Customer ID,BB-11545
+2446,Customer ID,AF-10870
+1201,Customer ID,LS-16945
+4297,Customer ID,TH-21235
+713,Customer ID,RS-19765
+5089,Customer ID,KN-16390
+3738,Customer ID,VM-21835
+4889,Customer ID,RF-19345
+1837,Customer ID,NH-18610
+9671,Customer ID,GK-14620
+5583,Customer ID,PS-18970
+3126,Customer ID,JE-15610
+9701,Customer ID,KM-16660
+8239,Customer ID,PT-19090
+5939,Customer ID,JF-15295
+2504,Customer ID,RR-19315
+8602,Customer ID,LS-17200
+6462,Customer ID,AJ-10780
+9148,Customer ID,CB-12535
+9499,Customer ID,AB-10060
+5245,Customer ID,BF-11020
+5957,Customer ID,DK-13225
+285,Customer ID,TB-21520
+8413,Customer ID,MD-17350
+5933,Customer ID,RL-19615
+6860,Customer ID,PS-18760
+1368,Customer ID,AB-10600
+4932,Customer ID,FM-14215
+2563,Customer ID,MB-17305
+9719,Customer ID,AT-10735
+4229,Customer ID,VG-21805
+7824,Customer ID,PP-18955
+6909,Customer ID,JE-16165
+3474,Customer ID,EP-13915
+1432,Customer ID,IM-15070
+4425,Customer ID,TB-21355
+4211,Customer ID,AH-10585
+3927,Customer ID,BN-11515
+1424,Customer ID,RW-19540
+2610,Customer ID,MC-17590
+9695,Customer ID,NK-18490
+531,Customer ID,MG-18145
+1429,Customer ID,DK-12835
+3505,Customer ID,JK-16120
+8485,Customer ID,PB-19150
+3804,Customer ID,NC-18415
+368,Customer ID,MK-17905
+8132,Customer ID,JD-15895
+2640,Customer ID,SB-20170
+3895,Customer ID,TC-21475
+2805,Customer ID,CS-12505
+5084,Customer ID,JM-15580
+691,Customer ID,NP-18325
+63,Customer ID,KM-16720
+6304,Customer ID,NK-18490
+135,Customer ID,LC-16885
+1531,Customer ID,BV-11245
+5368,Customer Name,Bill Donatelli
+2004,Customer Name,Joni Wasserman
+351,Customer Name,Adam Bellavance
+5942,Customer Name,Robert Waldorf
+260,Customer Name,Craig Carreira
+3483,Customer Name,Corey Catlett
+9552,Customer Name,Sam Craven
+8113,Customer Name,John Murray
+2399,Customer Name,Nora Preis
+6536,Customer Name,Greg Tran
+5954,Customer Name,Susan Gilcrest
+1344,Customer Name,Karl Braun
+5943,Customer Name,Vivek Gonzalez
+9821,Customer Name,Andrew Gjertsen
+2505,Customer Name,Ken Lonsdale
+6843,Customer Name,Anthony Johnson
+1735,Customer Name,Anna Gayman
+1063,Customer Name,Theresa Swint
+9883,Customer Name,Lauren Leatherbury
+7402,Customer Name,Toby Ritter
+4741,Customer Name,Christine Sundaresam
+9340,Customer Name,Rachel Payne
+7390,Customer Name,Ted Trevino
+1998,Customer Name,Neil Ducich
+4261,Customer Name,Ricardo Sperren
+1229,Customer Name,Zuschuss Carroll
+1087,Customer Name,Lena Cacioppo
+7111,Customer Name,Kunst Miller
+3800,Customer Name,Kelly Lampkin
+8309,Customer Name,Becky Castell
+3308,Customer Name,Stefania Perrino
+3692,Customer Name,Frank Atkinson
+6712,Customer Name,Pauline Johnson
+8887,Customer Name,Brendan Sweed
+5294,Customer Name,Mick Crebagga
+2326,Customer Name,Brendan Murry
+5328,Customer Name,Lycoris Saunders
+584,Customer Name,Dianna Vittorini
+3500,Customer Name,Joe Kamberova
+8632,Customer Name,Olvera Toch
+3274,Customer Name,Penelope Sewall
+6756,Customer Name,Theresa Coyne
+2078,Customer Name,Bart Folk
+8768,Customer Name,Brenda Bowman
+2446,Customer Name,Art Ferguson
+1201,Customer Name,Linda Southworth
+4297,Customer Name,Tiffany House
+713,Customer Name,Roland Schwarz
+5089,Customer Name,Katherine Nockton
+3738,Customer Name,Vivian Mathis
+4889,Customer Name,Randy Ferguson
+1837,Customer Name,Nicole Hansen
+9671,Customer Name,Grace Kelly
+5583,Customer Name,Paul Stevenson
+3126,Customer Name,Jim Epp
+9701,Customer Name,Khloe Miller
+8239,Customer Name,Pete Takahito
+5939,Customer Name,Jason Fortune-
+2504,Customer Name,Ralph Ritter
+8602,Customer Name,Luke Schmidt
+6462,Customer Name,Anthony Jacobs
+9148,Customer Name,Claudia Bergmann
+9499,Customer Name,Adam Bellavance
+5245,Customer Name,Barry Französisch
+5957,Customer Name,Dean Katz
+285,Customer Name,Tracy Blumstein
+8413,Customer Name,Maribeth Dona
+5933,Customer Name,Rob Lucas
+6860,Customer Name,Pamela Stobb
+1368,Customer Name,Ann Blume
+4932,Customer Name,Filia McAdams
+2563,Customer Name,Maria Bertelson
+9719,Customer Name,Annie Thurman
+4229,Customer Name,Vivek Grady
+7824,Customer Name,Paul Prost
+6909,Customer Name,Justin Ellison
+3474,Customer Name,Emily Phan
+1432,Customer Name,Irene Maddox
+4425,Customer Name,Todd Boyes
+4211,Customer Name,Angele Hood
+3927,Customer Name,Bradley Nguyen
+1424,Customer Name,Rick Wilson
+2610,Customer Name,Matt Collister
+9695,Customer Name,Neil Knudson
+531,Customer Name,Mike Gockenbach
+1429,Customer Name,Damala Kotsonis
+3505,Customer Name,Julie Kriz
+8485,Customer Name,Philip Brown
+3804,Customer Name,Nathan Cano
+368,Customer Name,Michael Kennedy
+8132,Customer Name,Jonathan Doherty
+2640,Customer Name,Sarah Bern
+3895,Customer Name,Tony Chapman
+2805,Customer Name,Cindy Stewart
+5084,Customer Name,Jill Matthias
+691,Customer Name,Naresj Patel
+63,Customer Name,Kunst Miller
+6304,Customer Name,Neil Knudson
+135,Customer Name,Lena Creighton
+1531,Customer Name,Benjamin Venier
+5368,Segment,Consumer
+2004,Segment,Consumer
+351,Segment,Home Office
+5942,Segment,Consumer
+260,Segment,Consumer
+3483,Segment,Corporate
+9552,Segment,Consumer
+8113,Segment,Consumer
+2399,Segment,Consumer
+6536,Segment,Consumer
+5954,Segment,Corporate
+1344,Segment,Consumer
+5943,Segment,Consumer
+9821,Segment,Corporate
+2505,Segment,Consumer
+6843,Segment,Corporate
+1735,Segment,Consumer
+1063,Segment,Corporate
+9883,Segment,Consumer
+7402,Segment,Consumer
+4741,Segment,Consumer
+9340,Segment,Corporate
+7390,Segment,Consumer
+1998,Segment,Corporate
+4261,Segment,Corporate
+1229,Segment,Consumer
+1087,Segment,Consumer
+7111,Segment,Consumer
+3800,Segment,Corporate
+8309,Segment,Home Office
+3308,Segment,Corporate
+3692,Segment,Corporate
+6712,Segment,Consumer
+8887,Segment,Corporate
+5294,Segment,Consumer
+2326,Segment,Corporate
+5328,Segment,Consumer
+584,Segment,Consumer
+3500,Segment,Consumer
+8632,Segment,Consumer
+3274,Segment,Home Office
+6756,Segment,Corporate
+2078,Segment,Consumer
+8768,Segment,Corporate
+2446,Segment,Consumer
+1201,Segment,Corporate
+4297,Segment,Corporate
+713,Segment,Corporate
+5089,Segment,Corporate
+3738,Segment,Consumer
+4889,Segment,Corporate
+1837,Segment,Corporate
+9671,Segment,Corporate
+5583,Segment,Home Office
+3126,Segment,Corporate
+9701,Segment,Consumer
+8239,Segment,Consumer
+5939,Segment,Consumer
+2504,Segment,Consumer
+8602,Segment,Corporate
+6462,Segment,Corporate
+9148,Segment,Corporate
+9499,Segment,Home Office
+5245,Segment,Corporate
+5957,Segment,Corporate
+285,Segment,Consumer
+8413,Segment,Consumer
+5933,Segment,Consumer
+6860,Segment,Consumer
+1368,Segment,Corporate
+4932,Segment,Corporate
+2563,Segment,Consumer
+9719,Segment,Consumer
+4229,Segment,Corporate
+7824,Segment,Home Office
+6909,Segment,Corporate
+3474,Segment,Consumer
+1432,Segment,Consumer
+4425,Segment,Corporate
+4211,Segment,Consumer
+3927,Segment,Consumer
+1424,Segment,Corporate
+2610,Segment,Corporate
+9695,Segment,Home Office
+531,Segment,Consumer
+1429,Segment,Corporate
+3505,Segment,Home Office
+8485,Segment,Consumer
+3804,Segment,Consumer
+368,Segment,Corporate
+8132,Segment,Corporate
+2640,Segment,Consumer
+3895,Segment,Home Office
+2805,Segment,Consumer
+5084,Segment,Consumer
+691,Segment,Consumer
+63,Segment,Consumer
+6304,Segment,Home Office
+135,Segment,Consumer
+1531,Segment,Corporate
+5368,Country,United States
+2004,Country,United States
+351,Country,United States
+5942,Country,United States
+260,Country,United States
+3483,Country,United States
+9552,Country,United States
+8113,Country,United States
+2399,Country,United States
+6536,Country,United States
+5954,Country,United States
+1344,Country,United States
+5943,Country,United States
+9821,Country,United States
+2505,Country,United States
+6843,Country,United States
+1735,Country,United States
+1063,Country,United States
+9883,Country,United States
+7402,Country,United States
+4741,Country,United States
+9340,Country,United States
+7390,Country,United States
+1998,Country,United States
+4261,Country,United States
+1229,Country,United States
+1087,Country,United States
+7111,Country,United States
+3800,Country,United States
+8309,Country,United States
+3308,Country,United States
+3692,Country,United States
+6712,Country,United States
+8887,Country,United States
+5294,Country,United States
+2326,Country,United States
+5328,Country,United States
+584,Country,United States
+3500,Country,United States
+8632,Country,United States
+3274,Country,United States
+6756,Country,United States
+2078,Country,United States
+8768,Country,United States
+2446,Country,United States
+1201,Country,United States
+4297,Country,United States
+713,Country,United States
+5089,Country,United States
+3738,Country,United States
+4889,Country,United States
+1837,Country,United States
+9671,Country,United States
+5583,Country,United States
+3126,Country,United States
+9701,Country,United States
+8239,Country,United States
+5939,Country,United States
+2504,Country,United States
+8602,Country,United States
+6462,Country,United States
+9148,Country,United States
+9499,Country,United States
+5245,Country,United States
+5957,Country,United States
+285,Country,United States
+8413,Country,United States
+5933,Country,United States
+6860,Country,United States
+1368,Country,United States
+4932,Country,United States
+2563,Country,United States
+9719,Country,United States
+4229,Country,United States
+7824,Country,United States
+6909,Country,United States
+3474,Country,United States
+1432,Country,United States
+4425,Country,United States
+4211,Country,United States
+3927,Country,United States
+1424,Country,United States
+2610,Country,United States
+9695,Country,United States
+531,Country,United States
+1429,Country,United States
+3505,Country,United States
+8485,Country,United States
+3804,Country,United States
+368,Country,United States
+8132,Country,United States
+2640,Country,United States
+3895,Country,United States
+2805,Country,United States
+5084,Country,United States
+691,Country,United States
+63,Country,United States
+6304,Country,United States
+135,Country,United States
+1531,Country,United States
+5368,City,Seattle
+2004,City,Louisville
+351,City,New York City
+5942,City,Los Angeles
+260,City,New York City
+3483,City,Springfield
+9552,City,Philadelphia
+8113,City,San Angelo
+2399,City,San Francisco
+6536,City,Buffalo
+5954,City,New York City
+1344,City,Freeport
+5943,City,Los Angeles
+9821,City,Saint Petersburg
+2505,City,San Francisco
+6843,City,Springfield
+1735,City,Jacksonville
+1063,City,Toledo
+9883,City,Woodstock
+7402,City,Seattle
+4741,City,Seattle
+9340,City,San Francisco
+7390,City,Chattanooga
+1998,City,Chesapeake
+4261,City,Fairfield
+1229,City,Los Angeles
+1087,City,Des Moines
+7111,City,New York City
+3800,City,Greensboro
+8309,City,San Francisco
+3308,City,Laredo
+3692,City,Denver
+6712,City,Columbus
+8887,City,Columbus
+5294,City,Medina
+2326,City,New York City
+5328,City,Los Angeles
+584,City,Denver
+3500,City,Mobile
+8632,City,Bethlehem
+3274,City,Los Angeles
+6756,City,Lakewood
+2078,City,Baltimore
+8768,City,Fort Worth
+2446,City,Passaic
+1201,City,Denver
+4297,City,Los Angeles
+713,City,Mount Vernon
+5089,City,Philadelphia
+3738,City,Newark
+4889,City,Marietta
+1837,City,Roswell
+9671,City,Greensboro
+5583,City,New York City
+3126,City,Lakeland
+9701,City,Inglewood
+8239,City,Jacksonville
+5939,City,Plano
+2504,City,San Francisco
+8602,City,Fresno
+6462,City,Baltimore
+9148,City,Burlington
+9499,City,Greenwood
+5245,City,Los Angeles
+5957,City,San Francisco
+285,City,Portland
+8413,City,Dallas
+5933,City,Philadelphia
+6860,City,Los Angeles
+1368,City,Tucson
+4932,City,Seattle
+2563,City,Nashville
+9719,City,Houston
+4229,City,Richmond
+7824,City,Newark
+6909,City,North Charleston
+3474,City,Dearborn Heights
+1432,City,Florence
+4425,City,Sandy Springs
+4211,City,Chicago
+3927,City,Seattle
+1424,City,Mesa
+2610,City,Arlington
+9695,City,San Francisco
+531,City,Philadelphia
+1429,City,Salinas
+3505,City,New York City
+8485,City,Seattle
+3804,City,Jacksonville
+368,City,Manchester
+8132,City,Riverside
+2640,City,New York City
+3895,City,Bolingbrook
+2805,City,San Francisco
+5084,City,Monroe
+691,City,Waynesboro
+63,City,Los Angeles
+6304,City,Corpus Christi
+135,City,Roseville
+1531,City,Miami
+5368,State,Washington
+2004,State,Kentucky
+351,State,New York
+5942,State,California
+260,State,New York
+3483,State,Virginia
+9552,State,Pennsylvania
+8113,State,Texas
+2399,State,California
+6536,State,New York
+5954,State,New York
+1344,State,New York
+5943,State,California
+9821,State,Florida
+2505,State,California
+6843,State,Virginia
+1735,State,North Carolina
+1063,State,Ohio
+9883,State,Georgia
+7402,State,Washington
+4741,State,Washington
+9340,State,California
+7390,State,Tennessee
+1998,State,Virginia
+4261,State,Connecticut
+1229,State,California
+1087,State,Iowa
+7111,State,New York
+3800,State,North Carolina
+8309,State,California
+3308,State,Texas
+3692,State,Colorado
+6712,State,Ohio
+8887,State,Ohio
+5294,State,Ohio
+2326,State,New York
+5328,State,California
+584,State,Colorado
+3500,State,Alabama
+8632,State,Pennsylvania
+3274,State,California
+6756,State,New Jersey
+2078,State,Maryland
+8768,State,Texas
+2446,State,New Jersey
+1201,State,Colorado
+4297,State,California
+713,State,New York
+5089,State,Pennsylvania
+3738,State,Delaware
+4889,State,Georgia
+1837,State,Georgia
+9671,State,North Carolina
+5583,State,New York
+3126,State,Florida
+9701,State,California
+8239,State,Florida
+5939,State,Texas
+2504,State,California
+8602,State,California
+6462,State,Maryland
+9148,State,Vermont
+9499,State,Indiana
+5245,State,California
+5957,State,California
+285,State,Oregon
+8413,State,Texas
+5933,State,Pennsylvania
+6860,State,California
+1368,State,Arizona
+4932,State,Washington
+2563,State,Tennessee
+9719,State,Texas
+4229,State,Indiana
+7824,State,Delaware
+6909,State,South Carolina
+3474,State,Michigan
+1432,State,Alabama
+4425,State,Georgia
+4211,State,Illinois
+3927,State,Washington
+1424,State,Arizona
+2610,State,Texas
+9695,State,California
+531,State,Pennsylvania
+1429,State,California
+3505,State,New York
+8485,State,Washington
+3804,State,North Carolina
+368,State,Connecticut
+8132,State,California
+2640,State,New York
+3895,State,Illinois
+2805,State,California
+5084,State,North Carolina
+691,State,Virginia
+63,State,California
+6304,State,Texas
+135,State,California
+1531,State,Florida
+5368,Postal Code,98103
+2004,Postal Code,40214
+351,Postal Code,10009
+5942,Postal Code,90049
+260,Postal Code,10009
+3483,Postal Code,22153
+9552,Postal Code,19140
+8113,Postal Code,76903
+2399,Postal Code,94109
+6536,Postal Code,14215
+5954,Postal Code,10009
+1344,Postal Code,11520
+5943,Postal Code,90032
+9821,Postal Code,33710
+2505,Postal Code,94122
+6843,Postal Code,22153
+1735,Postal Code,28540
+1063,Postal Code,43615
+9883,Postal Code,30188
+7402,Postal Code,98103
+4741,Postal Code,98115
+9340,Postal Code,94110
+7390,Postal Code,37421
+1998,Postal Code,23320
+4261,Postal Code,6824
+1229,Postal Code,90045
+1087,Postal Code,50315
+7111,Postal Code,10035
+3800,Postal Code,27405
+8309,Postal Code,94122
+3308,Postal Code,78041
+3692,Postal Code,80219
+6712,Postal Code,43229
+8887,Postal Code,43229
+5294,Postal Code,44256
+2326,Postal Code,10035
+5328,Postal Code,90049
+584,Postal Code,80219
+3500,Postal Code,36608
+8632,Postal Code,18018
+3274,Postal Code,90032
+6756,Postal Code,8701
+2078,Postal Code,21215
+8768,Postal Code,76106
+2446,Postal Code,7055
+1201,Postal Code,80219
+4297,Postal Code,90032
+713,Postal Code,10550
+5089,Postal Code,19120
+3738,Postal Code,19711
+4889,Postal Code,30062
+1837,Postal Code,30076
+9671,Postal Code,27405
+5583,Postal Code,10024
+3126,Postal Code,33801
+9701,Postal Code,90301
+8239,Postal Code,32216
+5939,Postal Code,75023
+2504,Postal Code,94110
+8602,Postal Code,93727
+6462,Postal Code,21215
+9148,Postal Code,5408
+9499,Postal Code,46142
+5245,Postal Code,90032
+5957,Postal Code,94109
+285,Postal Code,97206
+8413,Postal Code,75217
+5933,Postal Code,19120
+6860,Postal Code,90008
+1368,Postal Code,85705
+4932,Postal Code,98103
+2563,Postal Code,37211
+9719,Postal Code,77041
+4229,Postal Code,47374
+7824,Postal Code,19711
+6909,Postal Code,29406
+3474,Postal Code,48127
+1432,Postal Code,35630
+4425,Postal Code,30328
+4211,Postal Code,60623
+3927,Postal Code,98103
+1424,Postal Code,85204
+2610,Postal Code,76017
+9695,Postal Code,94110
+531,Postal Code,19134
+1429,Postal Code,93905
+3505,Postal Code,10009
+8485,Postal Code,98115
+3804,Postal Code,28540
+368,Postal Code,6040
+8132,Postal Code,92503
+2640,Postal Code,10035
+3895,Postal Code,60440
+2805,Postal Code,94122
+5084,Postal Code,28110
+691,Postal Code,22980
+63,Postal Code,90004
+6304,Postal Code,78415
+135,Postal Code,95661
+1531,Postal Code,33142
+5368,Region,West
+2004,Region,South
+351,Region,East
+5942,Region,West
+260,Region,East
+3483,Region,South
+9552,Region,East
+8113,Region,Central
+2399,Region,West
+6536,Region,East
+5954,Region,East
+1344,Region,East
+5943,Region,West
+9821,Region,South
+2505,Region,West
+6843,Region,South
+1735,Region,South
+1063,Region,East
+9883,Region,South
+7402,Region,West
+4741,Region,West
+9340,Region,West
+7390,Region,South
+1998,Region,South
+4261,Region,East
+1229,Region,West
+1087,Region,Central
+7111,Region,East
+3800,Region,South
+8309,Region,West
+3308,Region,Central
+3692,Region,West
+6712,Region,East
+8887,Region,East
+5294,Region,East
+2326,Region,East
+5328,Region,West
+584,Region,West
+3500,Region,South
+8632,Region,East
+3274,Region,West
+6756,Region,East
+2078,Region,East
+8768,Region,Central
+2446,Region,East
+1201,Region,West
+4297,Region,West
+713,Region,East
+5089,Region,East
+3738,Region,East
+4889,Region,South
+1837,Region,South
+9671,Region,South
+5583,Region,East
+3126,Region,South
+9701,Region,West
+8239,Region,South
+5939,Region,Central
+2504,Region,West
+8602,Region,West
+6462,Region,East
+9148,Region,East
+9499,Region,Central
+5245,Region,West
+5957,Region,West
+285,Region,West
+8413,Region,Central
+5933,Region,East
+6860,Region,West
+1368,Region,West
+4932,Region,West
+2563,Region,South
+9719,Region,Central
+4229,Region,Central
+7824,Region,East
+6909,Region,South
+3474,Region,Central
+1432,Region,South
+4425,Region,South
+4211,Region,Central
+3927,Region,West
+1424,Region,West
+2610,Region,Central
+9695,Region,West
+531,Region,East
+1429,Region,West
+3505,Region,East
+8485,Region,West
+3804,Region,South
+368,Region,East
+8132,Region,West
+2640,Region,East
+3895,Region,Central
+2805,Region,West
+5084,Region,South
+691,Region,South
+63,Region,West
+6304,Region,Central
+135,Region,West
+1531,Region,South
+5368,Product ID,OFF-LA-10004689
+2004,Product ID,FUR-CH-10001146
+351,Product ID,OFF-PA-10001970
+5942,Product ID,OFF-AR-10000940
+260,Product ID,OFF-ST-10002790
+3483,Product ID,TEC-PH-10000455
+9552,Product ID,OFF-ST-10001526
+8113,Product ID,OFF-AP-10004859
+2399,Product ID,OFF-AR-10000246
+6536,Product ID,FUR-BO-10002213
+5954,Product ID,OFF-AR-10001231
+1344,Product ID,OFF-AR-10000411
+5943,Product ID,TEC-PH-10001700
+9821,Product ID,OFF-PA-10001215
+2505,Product ID,OFF-ST-10001228
+6843,Product ID,OFF-FA-10002975
+1735,Product ID,OFF-AP-10002082
+1063,Product ID,OFF-FA-10004838
+9883,Product ID,TEC-AC-10000023
+7402,Product ID,OFF-PA-10002615
+4741,Product ID,OFF-LA-10004853
+9340,Product ID,OFF-PA-10003228
+7390,Product ID,FUR-CH-10000454
+1998,Product ID,OFF-LA-10002787
+4261,Product ID,OFF-LA-10001045
+1229,Product ID,OFF-EN-10001219
+1087,Product ID,OFF-PA-10000029
+7111,Product ID,OFF-SU-10002522
+3800,Product ID,TEC-PH-10002483
+8309,Product ID,OFF-AR-10001419
+3308,Product ID,OFF-BI-10002160
+3692,Product ID,TEC-CO-10001571
+6712,Product ID,OFF-AR-10001419
+8887,Product ID,OFF-BI-10002103
+5294,Product ID,FUR-TA-10004086
+2326,Product ID,OFF-BI-10002082
+5328,Product ID,OFF-PA-10002005
+584,Product ID,OFF-AP-10000358
+3500,Product ID,TEC-AC-10000420
+8632,Product ID,FUR-BO-10004409
+3274,Product ID,TEC-CO-10001046
+6756,Product ID,FUR-FU-10002445
+2078,Product ID,OFF-AP-10000358
+8768,Product ID,OFF-BI-10002194
+2446,Product ID,TEC-PH-10001336
+1201,Product ID,FUR-CH-10002335
+4297,Product ID,OFF-ST-10000419
+713,Product ID,OFF-AP-10001154
+5089,Product ID,OFF-BI-10003529
+3738,Product ID,OFF-BI-10000962
+4889,Product ID,OFF-ST-10004459
+1837,Product ID,OFF-AP-10002518
+9671,Product ID,OFF-AR-10001446
+5583,Product ID,OFF-AR-10000462
+3126,Product ID,OFF-ST-10003816
+9701,Product ID,TEC-PH-10000675
+8239,Product ID,OFF-PA-10000380
+5939,Product ID,TEC-PH-10003811
+2504,Product ID,OFF-LA-10000248
+8602,Product ID,OFF-BI-10001553
+6462,Product ID,TEC-AC-10003280
+9148,Product ID,OFF-AR-10003477
+9499,Product ID,OFF-PA-10000565
+5245,Product ID,FUR-TA-10001691
+5957,Product ID,OFF-ST-10002756
+285,Product ID,TEC-AC-10001956
+8413,Product ID,FUR-TA-10002228
+5933,Product ID,OFF-ST-10004835
+6860,Product ID,OFF-FA-10001561
+1368,Product ID,FUR-CH-10003312
+4932,Product ID,OFF-AR-10001446
+2563,Product ID,OFF-PA-10002787
+9719,Product ID,TEC-AC-10000109
+4229,Product ID,OFF-PA-10001994
+7824,Product ID,TEC-AC-10002800
+6909,Product ID,FUR-FU-10002364
+3474,Product ID,FUR-CH-10000785
+1432,Product ID,OFF-BI-10001191
+4425,Product ID,TEC-PH-10002185
+4211,Product ID,OFF-PA-10004965
+3927,Product ID,FUR-FU-10004671
+1424,Product ID,OFF-ST-10000798
+2610,Product ID,FUR-TA-10000577
+9695,Product ID,OFF-SU-10001574
+531,Product ID,OFF-EN-10001335
+1429,Product ID,OFF-BI-10003708
+3505,Product ID,OFF-ST-10003716
+8485,Product ID,FUR-FU-10002759
+3804,Product ID,OFF-SU-10000946
+368,Product ID,OFF-SU-10001225
+8132,Product ID,OFF-AR-10003481
+2640,Product ID,OFF-AR-10004691
+3895,Product ID,OFF-BI-10002571
+2805,Product ID,OFF-PA-10004239
+5084,Product ID,OFF-PA-10000501
+691,Product ID,TEC-PH-10002033
+63,Product ID,TEC-AC-10004633
+6304,Product ID,OFF-PA-10000167
+135,Product ID,OFF-PA-10001736
+1531,Product ID,OFF-PA-10001125
+5368,Category,Office Supplies
+2004,Category,Furniture
+351,Category,Office Supplies
+5942,Category,Office Supplies
+260,Category,Office Supplies
+3483,Category,Technology
+9552,Category,Office Supplies
+8113,Category,Office Supplies
+2399,Category,Office Supplies
+6536,Category,Furniture
+5954,Category,Office Supplies
+1344,Category,Office Supplies
+5943,Category,Technology
+9821,Category,Office Supplies
+2505,Category,Office Supplies
+6843,Category,Office Supplies
+1735,Category,Office Supplies
+1063,Category,Office Supplies
+9883,Category,Technology
+7402,Category,Office Supplies
+4741,Category,Office Supplies
+9340,Category,Office Supplies
+7390,Category,Furniture
+1998,Category,Office Supplies
+4261,Category,Office Supplies
+1229,Category,Office Supplies
+1087,Category,Office Supplies
+7111,Category,Office Supplies
+3800,Category,Technology
+8309,Category,Office Supplies
+3308,Category,Office Supplies
+3692,Category,Technology
+6712,Category,Office Supplies
+8887,Category,Office Supplies
+5294,Category,Furniture
+2326,Category,Office Supplies
+5328,Category,Office Supplies
+584,Category,Office Supplies
+3500,Category,Technology
+8632,Category,Furniture
+3274,Category,Technology
+6756,Category,Furniture
+2078,Category,Office Supplies
+8768,Category,Office Supplies
+2446,Category,Technology
+1201,Category,Furniture
+4297,Category,Office Supplies
+713,Category,Office Supplies
+5089,Category,Office Supplies
+3738,Category,Office Supplies
+4889,Category,Office Supplies
+1837,Category,Office Supplies
+9671,Category,Office Supplies
+5583,Category,Office Supplies
+3126,Category,Office Supplies
+9701,Category,Technology
+8239,Category,Office Supplies
+5939,Category,Technology
+2504,Category,Office Supplies
+8602,Category,Office Supplies
+6462,Category,Technology
+9148,Category,Office Supplies
+9499,Category,Office Supplies
+5245,Category,Furniture
+5957,Category,Office Supplies
+285,Category,Technology
+8413,Category,Furniture
+5933,Category,Office Supplies
+6860,Category,Office Supplies
+1368,Category,Furniture
+4932,Category,Office Supplies
+2563,Category,Office Supplies
+9719,Category,Technology
+4229,Category,Office Supplies
+7824,Category,Technology
+6909,Category,Furniture
+3474,Category,Furniture
+1432,Category,Office Supplies
+4425,Category,Technology
+4211,Category,Office Supplies
+3927,Category,Furniture
+1424,Category,Office Supplies
+2610,Category,Furniture
+9695,Category,Office Supplies
+531,Category,Office Supplies
+1429,Category,Office Supplies
+3505,Category,Office Supplies
+8485,Category,Furniture
+3804,Category,Office Supplies
+368,Category,Office Supplies
+8132,Category,Office Supplies
+2640,Category,Office Supplies
+3895,Category,Office Supplies
+2805,Category,Office Supplies
+5084,Category,Office Supplies
+691,Category,Technology
+63,Category,Technology
+6304,Category,Office Supplies
+135,Category,Office Supplies
+1531,Category,Office Supplies
+5368,Sub-Category,Labels
+2004,Sub-Category,Chairs
+351,Sub-Category,Paper
+5942,Sub-Category,Art
+260,Sub-Category,Storage
+3483,Sub-Category,Phones
+9552,Sub-Category,Storage
+8113,Sub-Category,Appliances
+2399,Sub-Category,Art
+6536,Sub-Category,Bookcases
+5954,Sub-Category,Art
+1344,Sub-Category,Art
+5943,Sub-Category,Phones
+9821,Sub-Category,Paper
+2505,Sub-Category,Storage
+6843,Sub-Category,Fasteners
+1735,Sub-Category,Appliances
+1063,Sub-Category,Fasteners
+9883,Sub-Category,Accessories
+7402,Sub-Category,Paper
+4741,Sub-Category,Labels
+9340,Sub-Category,Paper
+7390,Sub-Category,Chairs
+1998,Sub-Category,Labels
+4261,Sub-Category,Labels
+1229,Sub-Category,Envelopes
+1087,Sub-Category,Paper
+7111,Sub-Category,Supplies
+3800,Sub-Category,Phones
+8309,Sub-Category,Art
+3308,Sub-Category,Binders
+3692,Sub-Category,Copiers
+6712,Sub-Category,Art
+8887,Sub-Category,Binders
+5294,Sub-Category,Tables
+2326,Sub-Category,Binders
+5328,Sub-Category,Paper
+584,Sub-Category,Appliances
+3500,Sub-Category,Accessories
+8632,Sub-Category,Bookcases
+3274,Sub-Category,Copiers
+6756,Sub-Category,Furnishings
+2078,Sub-Category,Appliances
+8768,Sub-Category,Binders
+2446,Sub-Category,Phones
+1201,Sub-Category,Chairs
+4297,Sub-Category,Storage
+713,Sub-Category,Appliances
+5089,Sub-Category,Binders
+3738,Sub-Category,Binders
+4889,Sub-Category,Storage
+1837,Sub-Category,Appliances
+9671,Sub-Category,Art
+5583,Sub-Category,Art
+3126,Sub-Category,Storage
+9701,Sub-Category,Phones
+8239,Sub-Category,Paper
+5939,Sub-Category,Phones
+2504,Sub-Category,Labels
+8602,Sub-Category,Binders
+6462,Sub-Category,Accessories
+9148,Sub-Category,Art
+9499,Sub-Category,Paper
+5245,Sub-Category,Tables
+5957,Sub-Category,Storage
+285,Sub-Category,Accessories
+8413,Sub-Category,Tables
+5933,Sub-Category,Storage
+6860,Sub-Category,Fasteners
+1368,Sub-Category,Chairs
+4932,Sub-Category,Art
+2563,Sub-Category,Paper
+9719,Sub-Category,Accessories
+4229,Sub-Category,Paper
+7824,Sub-Category,Accessories
+6909,Sub-Category,Furnishings
+3474,Sub-Category,Chairs
+1432,Sub-Category,Binders
+4425,Sub-Category,Phones
+4211,Sub-Category,Paper
+3927,Sub-Category,Furnishings
+1424,Sub-Category,Storage
+2610,Sub-Category,Tables
+9695,Sub-Category,Supplies
+531,Sub-Category,Envelopes
+1429,Sub-Category,Binders
+3505,Sub-Category,Storage
+8485,Sub-Category,Furnishings
+3804,Sub-Category,Supplies
+368,Sub-Category,Supplies
+8132,Sub-Category,Art
+2640,Sub-Category,Art
+3895,Sub-Category,Binders
+2805,Sub-Category,Paper
+5084,Sub-Category,Paper
+691,Sub-Category,Phones
+63,Sub-Category,Accessories
+6304,Sub-Category,Paper
+135,Sub-Category,Paper
+1531,Sub-Category,Paper
+5368,Product Name,Avery 512
+2004,Product Name,"Global Value Mid-Back Manager's Chair, Gray"
+351,Product Name,Xerox 1881
+5942,Product Name,Newell 343
+260,Product Name,Safco Industrial Shelving
+3483,Product Name,GE 30522EE2
+9552,Product Name,Iceberg Mobile Mega Data/Printer Cart
+8113,Product Name,Acco 6 Outlet Guardian Premium Surge Suppressor
+2399,Product Name,Newell 318
+6536,Product Name,DMI Eclipse Executive Suite Bookcases
+5954,Product Name,"Sanford EarthWrite Recycled Pencils, Medium Soft, #2"
+1344,Product Name,Boston 16701 Slimline Battery Pencil Sharpener
+5943,Product Name,Panasonic KX-TG6844B Expandable Digital Cordless Telephone
+9821,Product Name,Xerox 1963
+2505,Product Name,"Fellowes Personal Hanging Folder Files, Navy"
+6843,Product Name,Staples
+1735,Product Name,Holmes HEPA Air Purifier
+1063,Product Name,"Super Bands, 12/Pack"
+9883,Product Name,"Maxell 74 Minute CD-R Spindle, 50/Pack"
+7402,Product Name,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled"
+4741,Product Name,Avery 483
+9340,Product Name,Xerox 1917
+7390,Product Name,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back"
+1998,Product Name,Avery 480
+4261,Product Name,Permanent Self-Adhesive File Folder Labels for Typewriters by Universal
+1229,Product Name,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes"
+1087,Product Name,Xerox 224
+7111,Product Name,Acme Kleen Earth Office Shears
+3800,Product Name,Motorola Moto X
+8309,Product Name,Newell 325
+3308,Product Name,Acco Hanging Data Binders
+3692,Product Name,Sharp 1540cs Digital Laser Copier
+6712,Product Name,Newell 325
+8887,Product Name,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl"
+5294,Product Name,KI Adjustable-Height Table
+2326,Product Name,GBC Twin Loop Wire Binding Elements
+5328,Product Name,Xerox 225
+584,Product Name,Fellowes Basic Home/Office Series Surge Protectors
+3500,Product Name,Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning
+8632,Product Name,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray"
+3274,Product Name,Canon Imageclass D680 Copier / Fax
+6756,Product Name,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7"
+2078,Product Name,Fellowes Basic Home/Office Series Surge Protectors
+8768,Product Name,Cardinal Hold-It CD Pocket
+2446,Product Name,Digium D40 VoIP phone
+1201,Product Name,Hon GuestStacker Chair
+4297,Product Name,"Rogers Jumbo File, Granite"
+713,Product Name,Bionaire Personal Warm Mist Humidifier/Vaporizer
+5089,Product Name,Avery Round Ring Poly Binders
+3738,Product Name,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8"""
+4889,Product Name,Tennsco Single-Tier Lockers
+1837,Product Name,Kensington 7 Outlet MasterPiece Power Center
+9671,Product Name,Newell 309
+5583,Product Name,Sanford Pocket Accent Highlighters
+3126,Product Name,Fellowes High-Stak Drawer Files
+9701,Product Name,Panasonic KX TS3282B Corded phone
+8239,Product Name,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages"
+5939,Product Name,Jabra Supreme Plus Driver Edition Headset
+2504,Product Name,Avery 52
+8602,Product Name,SpineVue Locking Slant-D Ring Binders by Cardinal
+6462,Product Name,Belkin F8E887 USB Wired Ergonomic Keyboard
+9148,Product Name,4009 Highlighters
+9499,Product Name,Easy-staple paper
+5245,Product Name,"Barricks Non-Folding Utility Table with Steel Legs, Laminate Tops"
+5957,Product Name,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand"
+285,Product Name,Microsoft Arc Touch Mouse
+8413,Product Name,"Bevis Traditional Conference Table Top, Plinth Base"
+5933,Product Name,Plastic Stacking Crates & Casters
+6860,Product Name,Stockwell Push Pins
+1368,Product Name,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs
+4932,Product Name,Newell 309
+2563,Product Name,Xerox 227
+9719,Product Name,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive
+4229,Product Name,"Ink Jet Note and Greeting Cards, 8-1/2"" x 5-1/2"" Card Size"
+7824,Product Name,Plantronics Audio 478 Stereo USB Headset
+6909,Product Name,"Eldon Expressions Wood Desk Accessories, Oak"
+3474,Product Name,Global Ergonomic Managers Chair
+1432,Product Name,Canvas Sectional Post Binders
+4425,Product Name,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3
+4211,Product Name,Xerox 1921
+3927,Product Name,"Executive Impressions 12"" Wall Clock"
+1424,Product Name,2300 Heavy-Duty Transfer File Systems by Perma
+2610,Product Name,Bretford CR4500 Series Slim Rectangular Table
+9695,Product Name,Acme Value Line Scissors
+531,Product Name,"White Business Envelopes with Contemporary Seam, Recycled White Business Envelopes"
+1429,Product Name,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1"""
+3505,Product Name,Tennsco Double-Tier Lockers
+8485,Product Name,12-1/2 Diameter Round Wall Clock
+3804,Product Name,Staple remover
+368,Product Name,Staple remover
+8132,Product Name,Newell 348
+2640,Product Name,Boston 1730 StandUp Electric Pencil Sharpener
+3895,Product Name,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2"""
+2805,Product Name,Xerox 1953
+5084,Product Name,Petty Cash Envelope
+691,Product Name,Konftel 250 Conference phone - Charcoal black
+63,Product Name,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack"
+6304,Product Name,Xerox 1925
+135,Product Name,Xerox 1880
+1531,Product Name,Xerox 1988
+5368,Sales,11.56
+2004,Sales,304.45
+351,Sales,24.56
+5942,Sales,5.88
+260,Sales,221.55
+3483,Sales,579.95
+9552,Sales,577.584
+8113,Sales,11.648
+2399,Sales,16.68
+6536,Sales,4007.84
+5954,Sales,10.5
+1344,Sales,47.82
+5943,Sales,211.168
+9821,Sales,42.24
+2505,Sales,53.72
+6843,Sales,11.34
+1735,Sales,34.848
+1063,Sales,10.416
+9883,Sales,272.61
+7402,Sales,30.87
+4741,Sales,9.96
+9340,Sales,146.73
+7390,Sales,390.368
+1998,Sales,15.0
+4261,Sales,13.05
+1229,Sales,15.28
+1087,Sales,6.48
+7111,Sales,7.76
+3800,Sales,1359.96
+8309,Sales,37.17
+3308,Sales,2.286
+3692,Sales,439.992
+6712,Sales,9.912
+8887,Sales,20.856
+5294,Sales,51.588
+2326,Sales,79.872
+5328,Sales,19.44
+584,Sales,31.152
+3500,Sales,209.97
+8632,Sales,177.45
+3274,Sales,3359.952
+6756,Sales,47.4
+2078,Sales,90.86
+8768,Sales,7.98
+2446,Sales,257.98
+1201,Sales,544.008
+4297,Sales,54.32
+713,Sales,281.34
+5089,Sales,2.556
+3738,Sales,32.54
+4889,Sales,1126.02
+1837,Sales,1245.86
+9671,Sales,64.68
+5583,Sales,8.0
+3126,Sales,563.808
+9701,Sales,196.776
+8239,Sales,6.672
+5939,Sales,95.992
+2504,Sales,7.38
+8602,Sales,7.312
+6462,Sales,89.97
+9148,Sales,8.04
+9499,Sales,167.94
+5245,Sales,136.464
+5957,Sales,676.55
+285,Sales,239.8
+8413,Sales,933.408
+5933,Sales,13.392
+6860,Sales,10.9
+1368,Sales,899.136
+4932,Sales,23.1
+2563,Sales,10.368
+9719,Sales,223.96
+4229,Sales,22.48
+7824,Sales,149.97
+6909,Sales,14.76
+3474,Sales,180.98
+1432,Sales,152.76
+4425,Sales,34.75
+4211,Sales,15.984
+3927,Sales,35.34
+1424,Sales,119.904
+2610,Sales,1218.735
+9695,Sales,7.3
+531,Sales,52.512
+1429,Sales,29.8
+3505,Sales,900.08
+8485,Sales,199.8
+3804,Sales,12.768
+368,Sales,7.36
+8132,Sales,13.12
+2640,Sales,64.14
+3895,Sales,9.98
+2805,Sales,25.68
+5084,Sales,64.704
+691,Sales,284.82
+63,Sales,13.98
+6304,Sales,74.352
+135,Sales,35.44
+1531,Sales,74.352
+5368,Quantity,4
+2004,Quantity,5
+351,Quantity,2
+5942,Quantity,2
+260,Quantity,3
+3483,Quantity,5
+9552,Quantity,6
+8113,Quantity,4
+2399,Quantity,6
+6536,Quantity,10
+5954,Quantity,5
+1344,Quantity,3
+5943,Quantity,4
+9821,Quantity,10
+2505,Quantity,4
+6843,Quantity,3
+1735,Quantity,2
+1063,Quantity,7
+9883,Quantity,13
+7402,Quantity,7
+4741,Quantity,2
+9340,Quantity,3
+7390,Quantity,2
+1998,Quantity,4
+4261,Quantity,5
+1229,Quantity,2
+1087,Quantity,1
+7111,Quantity,2
+3800,Quantity,5
+8309,Quantity,9
+3308,Quantity,3
+3692,Quantity,1
+6712,Quantity,3
+8887,Quantity,8
+5294,Quantity,1
+2326,Quantity,3
+5328,Quantity,3
+584,Quantity,3
+3500,Quantity,3
+8632,Quantity,5
+3274,Quantity,6
+6756,Quantity,5
+2078,Quantity,7
+8768,Quantity,5
+2446,Quantity,2
+1201,Quantity,3
+4297,Quantity,4
+713,Quantity,6
+5089,Quantity,3
+3738,Quantity,2
+4889,Quantity,3
+1837,Quantity,7
+9671,Quantity,7
+5583,Quantity,5
+3126,Quantity,4
+9701,Quantity,3
+8239,Quantity,1
+5939,Quantity,1
+2504,Quantity,2
+8602,Quantity,1
+6462,Quantity,3
+9148,Quantity,6
+9499,Quantity,3
+5245,Quantity,2
+5957,Quantity,5
+285,Quantity,5
+8413,Quantity,4
+5933,Quantity,3
+6860,Quantity,5
+1368,Quantity,4
+4932,Quantity,2
+2563,Quantity,2
+9719,Quantity,5
+4229,Quantity,1
+7824,Quantity,3
+6909,Quantity,2
+3474,Quantity,1
+1432,Quantity,6
+4425,Quantity,5
+4211,Quantity,2
+3927,Quantity,2
+1424,Quantity,6
+2610,Quantity,5
+9695,Quantity,2
+531,Quantity,6
+1429,Quantity,5
+3505,Quantity,4
+8485,Quantity,10
+3804,Quantity,2
+368,Quantity,2
+8132,Quantity,4
+2640,Quantity,3
+3895,Quantity,5
+2805,Quantity,6
+5084,Quantity,3
+691,Quantity,1
+63,Quantity,2
+6304,Quantity,3
+135,Quantity,1
+1531,Quantity,3
+5368,Discount,0.0
+2004,Discount,0.0
+351,Discount,0.0
+5942,Discount,0.0
+260,Discount,0.0
+3483,Discount,0.0
+9552,Discount,0.2
+8113,Discount,0.8
+2399,Discount,0.0
+6536,Discount,0.2
+5954,Discount,0.0
+1344,Discount,0.0
+5943,Discount,0.2
+9821,Discount,0.2
+2505,Discount,0.0
+6843,Discount,0.0
+1735,Discount,0.2
+1063,Discount,0.2
+9883,Discount,0.0
+7402,Discount,0.0
+4741,Discount,0.0
+9340,Discount,0.0
+7390,Discount,0.2
+1998,Discount,0.0
+4261,Discount,0.0
+1229,Discount,0.0
+1087,Discount,0.0
+7111,Discount,0.0
+3800,Discount,0.2
+8309,Discount,0.0
+3308,Discount,0.8
+3692,Discount,0.2
+6712,Discount,0.2
+8887,Discount,0.7
+5294,Discount,0.4
+2326,Discount,0.2
+5328,Discount,0.0
+584,Discount,0.2
+3500,Discount,0.0
+8632,Discount,0.5
+3274,Discount,0.2
+6756,Discount,0.0
+2078,Discount,0.0
+8768,Discount,0.8
+2446,Discount,0.0
+1201,Discount,0.2
+4297,Discount,0.0
+713,Discount,0.0
+5089,Discount,0.7
+3738,Discount,0.0
+4889,Discount,0.0
+1837,Discount,0.0
+9671,Discount,0.2
+5583,Discount,0.0
+3126,Discount,0.2
+9701,Discount,0.2
+8239,Discount,0.2
+5939,Discount,0.2
+2504,Discount,0.0
+8602,Discount,0.2
+6462,Discount,0.0
+9148,Discount,0.0
+9499,Discount,0.0
+5245,Discount,0.2
+5957,Discount,0.0
+285,Discount,0.2
+8413,Discount,0.3
+5933,Discount,0.2
+6860,Discount,0.0
+1368,Discount,0.2
+4932,Discount,0.0
+2563,Discount,0.2
+9719,Discount,0.2
+4229,Discount,0.0
+7824,Discount,0.0
+6909,Discount,0.0
+3474,Discount,0.0
+1432,Discount,0.0
+4425,Discount,0.0
+4211,Discount,0.2
+3927,Discount,0.0
+1424,Discount,0.2
+2610,Discount,0.3
+9695,Discount,0.0
+531,Discount,0.2
+1429,Discount,0.2
+3505,Discount,0.0
+8485,Discount,0.0
+3804,Discount,0.2
+368,Discount,0.0
+8132,Discount,0.0
+2640,Discount,0.0
+3895,Discount,0.8
+2805,Discount,0.0
+5084,Discount,0.2
+691,Discount,0.0
+63,Discount,0.0
+6304,Discount,0.2
+135,Discount,0.0
+1531,Discount,0.2
+5368,Profit and Loss,5.4332
+2004,Profit and Loss,76.1125
+351,Profit and Loss,11.5432
+5942,Profit and Loss,1.5876
+260,Profit and Loss,6.6465
+3483,Profit and Loss,168.1855
+9552,Profit and Loss,43.3188
+8113,Profit and Loss,-30.8672
+2399,Profit and Loss,4.3368
+6536,Profit and Loss,-50.098
+5954,Profit and Loss,2.94
+1344,Profit and Loss,14.346
+5943,Profit and Loss,18.4772
+9821,Profit and Loss,13.2
+2505,Profit and Loss,15.0416
+6843,Profit and Loss,5.2164
+1735,Profit and Loss,6.534
+1063,Profit and Loss,-2.2134
+9883,Profit and Loss,98.1396
+7402,Profit and Loss,14.2002
+4741,Profit and Loss,4.5816
+9340,Profit and Loss,68.9631
+7390,Profit and Loss,48.796
+1998,Profit and Loss,7.2
+4261,Profit and Loss,6.003
+1229,Profit and Loss,7.4872
+1087,Profit and Loss,3.1104
+7111,Profit and Loss,2.2504
+3800,Profit and Loss,118.9965
+8309,Profit and Loss,11.151
+3308,Profit and Loss,-3.6576
+3692,Profit and Loss,164.997
+6712,Profit and Loss,1.239
+8887,Profit and Loss,-16.6848
+5294,Profit and Loss,-15.4764
+2326,Profit and Loss,29.952
+5328,Profit and Loss,9.3312
+584,Profit and Loss,3.5046
+3500,Profit and Loss,71.3898
+8632,Profit and Loss,-78.078
+3274,Profit and Loss,1049.985
+6756,Profit and Loss,18.96
+2078,Profit and Loss,26.3494
+8768,Profit and Loss,-13.167
+2446,Profit and Loss,74.8142
+1201,Profit and Loss,40.8006
+4297,Profit and Loss,0.5432
+713,Profit and Loss,109.7226
+5089,Profit and Loss,-1.7892
+3738,Profit and Loss,15.9446
+4889,Profit and Loss,56.301
+1837,Profit and Loss,361.2994
+9671,Profit and Loss,8.085
+5583,Profit and Loss,3.44
+3126,Profit and Loss,21.1428
+9701,Profit and Loss,14.7582
+8239,Profit and Loss,2.502
+5939,Profit and Loss,9.5992
+2504,Profit and Loss,3.4686
+8602,Profit and Loss,2.5592
+6462,Profit and Loss,18.8937
+9148,Profit and Loss,2.7336
+9499,Profit and Loss,82.2906
+5245,Profit and Loss,15.3522
+5957,Profit and Loss,6.7655
+285,Profit and Loss,47.96
+8413,Profit and Loss,-173.3472
+5933,Profit and Loss,1.0044
+6860,Profit and Loss,3.597
+1368,Profit and Loss,-146.1096
+4932,Profit and Loss,6.93
+2563,Profit and Loss,3.6288
+9719,Profit and Loss,11.198
+4229,Profit and Loss,10.3408
+7824,Profit and Loss,52.4895
+6909,Profit and Loss,4.2804
+3474,Profit and Loss,47.0548
+1432,Profit and Loss,74.8524
+4425,Profit and Loss,15.6375
+4211,Profit and Loss,4.995
+3927,Profit and Loss,13.4292
+1424,Profit and Loss,-1.4988
+2610,Profit and Loss,-121.8735
+9695,Profit and Loss,2.19
+531,Profit and Loss,19.692
+1429,Profit and Loss,9.3125
+3505,Profit and Loss,117.0104
+8485,Profit and Loss,71.928
+3804,Profit and Loss,1.4364
+368,Profit and Loss,0.1472
+8132,Profit and Loss,3.8048
+2640,Profit and Loss,16.6764
+3895,Profit and Loss,-16.467
+2805,Profit and Loss,11.556
+5084,Profit and Loss,23.4552
+691,Profit and Loss,74.0532
+63,Profit and Loss,6.1512
+6304,Profit and Loss,23.235
+135,Profit and Loss,16.6568
+1531,Profit and Loss,23.235

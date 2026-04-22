@@ -1,0 +1,20 @@
+﻿relationship 6bd2bbf2-88db-40d9-98b5-a798094aed09
+	fromColumn: Orders.'Customer Code'
+	toColumn: Customers.'Customer Code'
+
+relationship b032e3a9-af36-4410-a6a4-e13bd9aee820
+	fromColumn: Orders.'Sales Representative Code'
+	toColumn: 'Sales Hierarchy'.'Sales Representative Code'
+
+relationship 94f2d392-16cd-45a9-acad-e0da4ad45a3e
+	fromColumn: Orders.'Product Code'
+	toColumn: Products.'Product Code'
+
+relationship 2872b3af-579f-46c7-8336-a0a773c2a87b
+	fromColumn: Orders.'Order Date'
+	toColumn: Dates.Date
+
+relationship c6c1dc61-e929-4183-9c3c-1f5a904b5574
+	fromColumn: Customers.'Customer Area'
+	toColumn: Area.'Customer Area'
+

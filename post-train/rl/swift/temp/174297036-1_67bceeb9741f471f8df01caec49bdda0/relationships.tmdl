@@ -1,0 +1,12 @@
+﻿relationship d139411b-dceb-4cfc-968a-16a8aa90d3e6
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: IPL-2019.Player
+	toColumn: IPL-2020.Player
+
+relationship 66da5ec3-0a05-4cb8-8132-45a511c75fbb
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: IPL-2018.Player
+	toColumn: IPL-2020.Player
+

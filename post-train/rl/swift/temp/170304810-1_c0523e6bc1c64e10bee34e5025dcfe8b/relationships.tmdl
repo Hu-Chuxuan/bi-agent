@@ -1,0 +1,13 @@
+﻿relationship 90d40d4c-7aa0-4ea0-8c94-75806d96c7d7
+	fromColumn: FACT_Expenses.Name
+	toColumn: DIM_Goblins.Name
+
+relationship 19ae5e78-991d-4ddf-ad3a-ea79285e3227
+	crossFilteringBehavior: bothDirections
+	fromColumn: DIM_Goblins_Pivot.Index
+	toColumn: DIM_Goblins.Index
+
+relationship e254bbfd-826b-4aca-99d7-104c83c2e553
+	fromColumn: FACT_Expenses.Expense
+	toColumn: DIM_ExpenseCategory.Expense
+

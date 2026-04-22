@@ -1,0 +1,86 @@
+PKCustomerID,variable,value
+BC100,Customer Name,Saanich Pub
+BC101,Customer Name,Toques and Blokes
+BC102,Customer Name,Queens Arms
+BC103,Customer Name,McDougal's
+BC105,Customer Name,The Black Bear
+BC109,Customer Name,Ale's What Cures You
+BC110,Customer Name,Barrel's Best
+BC111,Customer Name,Tequila Mockinbird
+WA001,Customer Name,Cash Purchase
+WA003,Customer Name,Beergatory
+WA004,Customer Name,Moe's
+WA005,Customer Name,The Killer Well
+WA006,Customer Name,Bacchus' Best
+WA007,Customer Name,Bike n' Brew
+WA012,Customer Name,Puget's Finest
+WA014,Customer Name,Brew Ha Ha
+WA055,Customer Name,Rainier & Co.
+BC100,Customer Type,Bar
+BC101,Customer Type,Bar
+BC102,Customer Type,Bar
+BC103,Customer Type,Distributor
+BC105,Customer Type,Bar
+BC109,Customer Type,Distributor
+BC110,Customer Type,Distributor
+BC111,Customer Type,Bar
+WA001,Customer Type,SSBC Tasting Room
+WA003,Customer Type,Bar
+WA004,Customer Type,Bar
+WA005,Customer Type,Bar
+WA006,Customer Type,Distributor
+WA007,Customer Type,Bar
+WA012,Customer Type,Bar
+WA014,Customer Type,Distributor
+WA055,Customer Type,Distributor
+BC100,City,Victoria
+BC101,City,Vancouver
+BC102,City,Victoria
+BC103,City,Vancouver
+BC105,City,Victoria
+BC109,City,Victoria
+BC110,City,Victoria
+BC111,City,Surry
+WA001,City,Redmond
+WA003,City,Tacoma
+WA004,City,Tacoma
+WA005,City,Seattle
+WA006,City,Everett
+WA007,City,Everett
+WA012,City,Seattle
+WA014,City,Tacoma
+WA055,City,Seattle
+BC100,State/Province,British Columbia
+BC101,State/Province,British Columbia
+BC102,State/Province,British Columbia
+BC103,State/Province,British Columbia
+BC105,State/Province,British Columbia
+BC109,State/Province,British Columbia
+BC110,State/Province,British Columbia
+BC111,State/Province,British Columbia
+WA001,State/Province,Washington
+WA003,State/Province,Washington
+WA004,State/Province,Washington
+WA005,State/Province,Washington
+WA006,State/Province,Washington
+WA007,State/Province,Washington
+WA012,State/Province,Washington
+WA014,State/Province,Washington
+WA055,State/Province,Washington
+BC100,Country,Canada
+BC101,Country,Canada
+BC102,Country,Canada
+BC103,Country,Canada
+BC105,Country,Canarda
+BC109,Country,Canada
+BC110,Country,Canada
+BC111,Country,Canada
+WA001,Country,United States
+WA003,Country,United States
+WA004,Country,United States
+WA005,Country,United States
+WA006,Country,United States
+WA007,Country,United States
+WA012,Country,United States
+WA014,Country,United States
+WA055,Country,United States

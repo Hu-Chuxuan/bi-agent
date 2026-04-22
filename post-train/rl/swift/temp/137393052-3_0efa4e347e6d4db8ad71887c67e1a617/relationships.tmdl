@@ -1,0 +1,22 @@
+﻿relationship b55d9447-60a6-4e68-96cb-cfb84e073727
+	fromColumn: MOE_Programmes.ID
+	toColumn: General_Schools_Info.ID
+
+relationship 3ef83188-5362-4822-966c-acb585a925e7
+	fromColumn: Subjects_Offered.ID
+	toColumn: General_Schools_Info.ID
+
+relationship 83b97cf9-5a65-46cd-9243-2840b1a1f3f5
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Distinctive_Programmes.ID
+	toColumn: General_Schools_Info.ID
+
+relationship a34f9b90-e462-4b64-8a00-37c2ab6385f3
+	fromColumn: School_CCA.ID
+	toColumn: General_Schools_Info.ID
+
+relationship 65dcd61a-658b-4bf4-8cd9-dfe821c452f6
+	fromColumn: General_Schools_Info.Region
+	toColumn: Regions_Table.Location
+

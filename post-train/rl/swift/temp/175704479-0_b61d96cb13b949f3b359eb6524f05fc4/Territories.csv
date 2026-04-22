@@ -1,0 +1,12 @@
+SalesTerritoryKey,Region,Country,Group,RegionImage
+1,"Northwest","United States","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/1.jpg"
+2,"Northeast","United States","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/2.jpg"
+3,"Central","United States","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/3.jpg"
+4,"Southwest","United States","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/4.jpg"
+5,"Southeast","United States","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/5.jpg"
+6,"Canada","Canada","North America","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/6.jpg"
+7,"France","France","Europe","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/7.jpg"
+8,"Germany","Germany","Europe","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/8.jpg"
+9,"Australia","Australia","Pacific","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/9.jpg"
+10,"United Kingdom","United Kingdom","Europe","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/10.jpg"
+11,"NA","NA","NA","http://www.avising.com/me/LearnPBI/DataSources/SalesTerritoryImages/11.jpg"

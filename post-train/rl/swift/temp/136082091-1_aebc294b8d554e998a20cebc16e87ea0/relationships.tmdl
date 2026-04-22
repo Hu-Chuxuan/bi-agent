@@ -1,0 +1,45 @@
+﻿relationship 3fd0455d-0551-4ac2-9d32-cb7bdf1560fa
+	crossFilteringBehavior: bothDirections
+	fromColumn: LabsBlowout.eid
+	toColumn: ScordData.eid
+
+relationship ce03f798-602f-4418-9622-9d0c6cfb5d69
+	crossFilteringBehavior: bothDirections
+	fromColumn: comorsBlowout.eid
+	toColumn: ScordData.eid
+
+relationship 9e90593b-51dc-4b02-9286-c954553223f8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.admitdt
+	toColumn: LocalDateTable_df2473e1-167a-4041-99e9-bd22b6ca97e2.Date
+
+relationship 8d53956d-7dea-4987-8e41-09e83ec88ab7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.dischargedt
+	toColumn: LocalDateTable_93eb80ac-0669-4b82-87e0-38305de10494.Date
+
+relationship 91984e0d-4579-414f-80f1-e2075da44f84
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.Today
+	toColumn: LocalDateTable_3156d4c1-2735-46a7-8a55-cd3cd8508adc.Date
+
+relationship 6cfb1d6b-f68f-4810-8fd2-f8b81974a634
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.PredDisDate
+	toColumn: LocalDateTable_3a5ba740-dbdd-4bec-8a58-9f5a1958ada4.Date
+
+relationship 0c381114-a06a-4a2b-b928-2e4ce0f6883a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.vdate
+	toColumn: LocalDateTable_d4486a71-61d7-4ab9-b712-54f2a0d9b4e6.Date
+
+relationship 0d8e53d2-8a76-4ffc-be4d-1c5afa6d38f8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ScordData.discharged
+	toColumn: LocalDateTable_e199aa03-9435-4f02-80b1-9f467fc010dd.Date
+
+relationship ec65a2d3-1e9e-4cbc-9cca-5a3a0e35f15d
+	crossFilteringBehavior: bothDirections
+	fromColumn: ScordData.facid
+	toColumn: MetaData_Facilities.Id
+

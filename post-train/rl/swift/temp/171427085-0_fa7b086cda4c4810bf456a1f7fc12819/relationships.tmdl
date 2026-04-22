@@ -1,0 +1,127 @@
+﻿relationship 68f27657-59ee-48b0-a204-b8c3988c592d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.Date
+	toColumn: LocalDateTable_b8e973f1-197c-4074-9be5-983943203b7f.Date
+
+relationship 00b26381-49ff-4012-ac3f-ca198191c579
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.WeekEnding
+	toColumn: LocalDateTable_5aeb2576-3bb2-441d-b9d2-829dc4cbc312.Date
+
+relationship 07627e3e-96e5-4e40-9a5c-18b2afa24794
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.StartOfWeek
+	toColumn: LocalDateTable_0586db96-825f-4fcf-8968-d97adeec019b.Date
+
+relationship 6a75a955-f2a3-4410-a396-1343968449d7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.'Start of Month'
+	toColumn: LocalDateTable_cdf7ab76-c2cd-4f29-b3d1-6e8f6dfe4ad9.Date
+
+relationship 2e1b3675-e989-4ea4-a64f-812abe2049e6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.'Start of Wk Display'
+	toColumn: LocalDateTable_6070700c-634f-4b21-bf93-15bae2f27a5e.Date
+
+relationship bce7d01e-6148-4d8f-9a23-f32b1c746969
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Users.'Added Time'
+	toColumn: LocalDateTable_e3786a89-4405-4760-a972-8ee3c1f11371.Date
+
+relationship ab10bade-1b87-4c70-b6ba-5dc5dee67130
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Users.'Modified Time'
+	toColumn: LocalDateTable_9e20ad54-9214-4fe7-a132-a769ac757808.Date
+
+relationship 69d12377-553c-4bd6-b40b-c278f970fb07
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Created Time'
+	toColumn: LocalDateTable_e6ae629f-4cc0-485b-9eed-4a201f10c94f.Date
+
+relationship 19d0957e-753b-47cc-93f7-5984bf680da8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Modified Time'
+	toColumn: LocalDateTable_e84595c5-2633-44f1-9de0-6e3018bf544f.Date
+
+relationship 9b4dcc3c-5c5f-4f02-b8c9-4623d2518c6b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Initial Contact Date'
+	toColumn: LocalDateTable_6794d5b2-1e67-46ff-b570-907698d889b6.Date
+
+relationship 11ac9b01-ee80-46df-a91d-55e448bd07a5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.ContractStartDate
+	toColumn: LocalDateTable_c3e87ce4-983a-45df-847c-63c6e0c9f271.Date
+
+relationship 46d811d9-4043-40ec-a645-18cd130692e3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Contract End Date'
+	toColumn: LocalDateTable_646a8ca2-12dd-421c-bdfe-a9d1061533a4.Date
+
+relationship f1c62215-159b-4d03-b436-48516b865739
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Next Scheduled Increase Date'
+	toColumn: LocalDateTable_f2e0e57a-3c82-4def-9c91-81ffb4ea6061.Date
+
+relationship 70954b9e-6250-496b-ad69-b7317028b532
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Initital Date of Busines'
+	toColumn: LocalDateTable_2055e9ee-2107-4c75-8829-72adb285474e.Date
+
+relationship 5177ff96-2042-4990-a86a-b5b06a23cc44
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Original Contract Date'
+	toColumn: LocalDateTable_1f7174c4-c3c3-46bd-b4da-078ecca3c7b9.Date
+
+relationship 7f0e18d8-c207-4ce1-bdff-aa77f923809c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Contract2 Start Date'
+	toColumn: LocalDateTable_12be8673-ca50-4265-b66d-04bec6a7262d.Date
+
+relationship 748ae7ea-204e-4435-a8fa-5333434e6587
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Contract2 End Date'
+	toColumn: LocalDateTable_6450fd90-cc8b-456a-ad3a-c5a389f5635b.Date
+
+relationship 99519dff-a5d8-4450-8f59-c640b68fcfc1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Last Activity Time'
+	toColumn: LocalDateTable_af4bfb50-e077-46ef-8c0e-6c3a4e91be4b.Date
+
+relationship 7c453a61-e592-4c4d-a8fd-afaab7949432
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Next Renewal Date'
+	toColumn: LocalDateTable_737b602d-2f7f-4e36-9339-abcf07f37c8c.Date
+
+relationship 2cbc8fc8-0716-4b1a-9e15-3e615b782114
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'Previous Renewal Date'
+	toColumn: LocalDateTable_78d399ad-490e-4ef5-8057-6f10af476717.Date
+
+relationship 59eac4e0-3dca-4b72-8254-623c073bba8a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'User Modified Time'
+	toColumn: LocalDateTable_310e7e47-32ac-4495-ba31-b19510d854cb.Date
+
+relationship 58c407db-d6a7-4de9-9d79-3bb3ca08dc66
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'System Related Activity Time'
+	toColumn: LocalDateTable_d31af5c2-b016-46f2-ae86-82bb9ca13b97.Date
+
+relationship 4e5f42a5-b9bb-47d4-86b5-d65da0d280da
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Accounts.'User Related Activity Time'
+	toColumn: LocalDateTable_ebda24b4-3053-4e06-9053-4c60ebcd90c6.Date
+
+relationship c40f2610-3ffd-4c04-825b-c6f8f6ee49b7
+	fromColumn: Deals.ClientCommitmentDate
+	toColumn: Dates.Date
+
+relationship df92c461-60c6-49f3-8398-d79b8569d794
+	fromColumn: Deals.PotentialOpportunitiesOwner_Id
+	toColumn: Users.Id
+
+relationship 05f0c855-f1bf-42ab-a712-21624de2668a
+	fromColumn: Deals.'College ID'
+	toColumn: Accounts.Id
+

@@ -1,0 +1,141 @@
+Product_ID,variable,value
+1,Product_Name,Action Figure
+2,Product_Name,Animal Figures
+3,Product_Name,Barrel O' Slime
+4,Product_Name,Chutes & Ladders
+5,Product_Name,Classic Dominoes
+6,Product_Name,Colorbuds
+7,Product_Name,Dart Gun
+8,Product_Name,Deck Of Cards
+9,Product_Name,Dino Egg
+10,Product_Name,Dinosaur Figures
+11,Product_Name,Etch A Sketch
+12,Product_Name,Foam Disk Launcher
+13,Product_Name,Gamer Headphones
+14,Product_Name,Glass Marbles
+15,Product_Name,Hot Wheels 5-Pack
+16,Product_Name,Jenga
+17,Product_Name,Kids Makeup Kit
+18,Product_Name,Lego Bricks
+19,Product_Name,Magic Sand
+20,Product_Name,Mini Basketball Hoop
+21,Product_Name,Mini Ping Pong Set
+22,Product_Name,Monopoly
+23,Product_Name,Mr. Potatohead
+24,Product_Name,Nerf Gun
+25,Product_Name,PlayDoh Can
+26,Product_Name,PlayDoh Playset
+27,Product_Name,PlayDoh Toolkit
+28,Product_Name,Playfoam
+29,Product_Name,Plush Pony
+30,Product_Name,Rubik's Cube
+31,Product_Name,Splash Balls
+32,Product_Name,Supersoaker Water Gun
+33,Product_Name,Teddy Bear
+34,Product_Name,Toy Robot
+35,Product_Name,Uno Card Game
+1,Product_Category,Toys
+2,Product_Category,Toys
+3,Product_Category,Art & Crafts
+4,Product_Category,Games
+5,Product_Category,Games
+6,Product_Category,Electronics
+7,Product_Category,Sports & Outdoors
+8,Product_Category,Games
+9,Product_Category,Toys
+10,Product_Category,Toys
+11,Product_Category,Art & Crafts
+12,Product_Category,Sports & Outdoors
+13,Product_Category,Electronics
+14,Product_Category,Games
+15,Product_Category,Toys
+16,Product_Category,Games
+17,Product_Category,Art & Crafts
+18,Product_Category,Toys
+19,Product_Category,Art & Crafts
+20,Product_Category,Sports & Outdoors
+21,Product_Category,Sports & Outdoors
+22,Product_Category,Games
+23,Product_Category,Toys
+24,Product_Category,Sports & Outdoors
+25,Product_Category,Art & Crafts
+26,Product_Category,Art & Crafts
+27,Product_Category,Art & Crafts
+28,Product_Category,Art & Crafts
+29,Product_Category,Toys
+30,Product_Category,Games
+31,Product_Category,Sports & Outdoors
+32,Product_Category,Sports & Outdoors
+33,Product_Category,Toys
+34,Product_Category,Electronics
+35,Product_Category,Games
+1,Product_Cost,9.99
+2,Product_Cost,9.99
+3,Product_Cost,1.99
+4,Product_Cost,9.99
+5,Product_Cost,7.99
+6,Product_Cost,6.99
+7,Product_Cost,11.99
+8,Product_Cost,3.99
+9,Product_Cost,9.99
+10,Product_Cost,10.99
+11,Product_Cost,10.99
+12,Product_Cost,8.99
+13,Product_Cost,14.99
+14,Product_Cost,5.99
+15,Product_Cost,3.99
+16,Product_Cost,2.99
+17,Product_Cost,13.99
+18,Product_Cost,34.99
+19,Product_Cost,13.99
+20,Product_Cost,8.99
+21,Product_Cost,6.99
+22,Product_Cost,13.99
+23,Product_Cost,4.99
+24,Product_Cost,14.99
+25,Product_Cost,1.99
+26,Product_Cost,20.99
+27,Product_Cost,3.99
+28,Product_Cost,3.99
+29,Product_Cost,8.99
+30,Product_Cost,17.99
+31,Product_Cost,7.99
+32,Product_Cost,11.99
+33,Product_Cost,10.99
+34,Product_Cost,20.99
+35,Product_Cost,3.99
+1,Product_Price,15.99
+2,Product_Price,12.99
+3,Product_Price,3.99
+4,Product_Price,12.99
+5,Product_Price,9.99
+6,Product_Price,14.99
+7,Product_Price,15.99
+8,Product_Price,6.99
+9,Product_Price,10.99
+10,Product_Price,14.99
+11,Product_Price,20.99
+12,Product_Price,11.99
+13,Product_Price,20.99
+14,Product_Price,10.99
+15,Product_Price,5.99
+16,Product_Price,9.99
+17,Product_Price,19.99
+18,Product_Price,39.99
+19,Product_Price,15.99
+20,Product_Price,24.99
+21,Product_Price,9.99
+22,Product_Price,19.99
+23,Product_Price,9.99
+24,Product_Price,19.99
+25,Product_Price,2.99
+26,Product_Price,24.99
+27,Product_Price,4.99
+28,Product_Price,10.99
+29,Product_Price,19.99
+30,Product_Price,19.99
+31,Product_Price,8.99
+32,Product_Price,14.99
+33,Product_Price,12.99
+34,Product_Price,25.99
+35,Product_Price,7.99

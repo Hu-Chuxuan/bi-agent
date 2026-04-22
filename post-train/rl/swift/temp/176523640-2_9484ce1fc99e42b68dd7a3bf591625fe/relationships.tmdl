@@ -1,0 +1,105 @@
+﻿relationship cef16374-f16c-44e7-a33c-0c3d81df09af
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar-Lookup.date
+	toColumn: LocalDateTable_c4e51c95-96a0-4d89-ac97-acc3ee1051c6.Date
+
+relationship 728aba7a-94b7-440a-a3cf-1de0af510a85
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer-Lookup.birthdate
+	toColumn: LocalDateTable_ade35f0a-3afa-4bab-9c04-c7bf0e450784.Date
+
+relationship 4a0b8935-2774-4e4c-ba9b-7f145eb02860
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer-Lookup.acct_open_date
+	toColumn: LocalDateTable_256f8c6c-d2de-43da-8cf0-93b4c3a3f7c2.Date
+
+relationship dd930190-49ac-44f1-9c80-6e630fc50ec9
+	fromColumn: FoodMart-Returns-1997-1998.product_id
+	toColumn: Product-Lookup.product_id
+
+relationship 79c14e79-58f1-4ba3-bad1-bda5f4a0e550
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FoodMart-Transactions-1997.stock_date
+	toColumn: LocalDateTable_39c2848f-a3a9-4957-a50e-836809a6992f.Date
+
+relationship 0ca441ed-907e-4bf3-8c06-5547dfd307e9
+	fromColumn: FoodMart-Transactions-1997.customer_id
+	toColumn: Customer-Lookup.customer_id
+
+relationship 7f14e081-6e26-4028-b492-3a395f7141ab
+	fromColumn: FoodMart-Transactions-1997.product_id
+	toColumn: Product-Lookup.product_id
+
+relationship b96ae108-48d2-4ac3-bbc6-019deb76b93d
+	fromColumn: FoodMart-Transactions-1998.customer_id
+	toColumn: Customer-Lookup.customer_id
+
+relationship 1af7afff-79af-4f88-9054-b68ec9810c9d
+	fromColumn: FoodMart-Transactions-1998.product_id
+	toColumn: Product-Lookup.product_id
+
+relationship e5cfe847-0d12-4830-b812-c924ba18b7a2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Store-Lookup.first_opened_date
+	toColumn: LocalDateTable_9adad121-66e3-46e3-bc5c-aa9362a679fd.Date
+
+relationship ab9bd27d-fa51-4387-bef1-f06b8008491e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Store-Lookup.last_remodel_date
+	toColumn: LocalDateTable_13fb216e-ba52-4c6e-ac94-7c3b9f1d11e5.Date
+
+relationship cfd104de-a2e1-45f1-91b5-f2a427d3a1b8
+	fromColumn: FoodMart-Returns-1997-1998.store_id
+	toColumn: Store-Lookup.store_id
+
+relationship 07ef56f6-e624-4224-9807-27fd85e0116f
+	fromColumn: FoodMart-Transactions-1997.store_id
+	toColumn: Store-Lookup.store_id
+
+relationship ceebc491-b067-4b6a-93bb-9b03aabb43dd
+	fromColumn: FoodMart-Transactions-1998.store_id
+	toColumn: Store-Lookup.store_id
+
+relationship b2ab4fe0-2273-4b62-bd22-2b98387c801b
+	fromColumn: Store-Lookup.region_id
+	toColumn: Region-Lookup.region_id
+
+relationship ae1b013b-6d85-4d41-be4b-cf204b146683
+	fromColumn: FoodMart-Returns-1997-1998.return_date
+	toColumn: Calendar-Lookup.date
+
+relationship 31c0b9b3-b91b-4cbf-90bf-003117a0d71b
+	fromColumn: FoodMart-Transactions-1997.transaction_date
+	toColumn: Calendar-Lookup.date
+
+relationship 66b4c4d4-20df-4569-a2a9-a6aba320bd82
+	fromColumn: FoodMart-Transactions-1998.transaction_date
+	toColumn: Calendar-Lookup.date
+
+relationship c200d17a-132c-4c3a-9f45-93a8cbdc06bb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FoodMart-Transactions-1998.stock_date
+	toColumn: LocalDateTable_63090a0f-687e-4977-9145-36270edaa047.Date
+
+relationship bd55efc4-5af9-4c64-9c2f-79ba398244e6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FoodMart-Transactions-All.transaction_date
+	toColumn: LocalDateTable_0f24fd90-6db1-47c9-af73-bc98b9486324.Date
+
+relationship 4da23353-4b70-4a2b-abf0-cde0d117f590
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FoodMart-Transactions-All.stock_date
+	toColumn: LocalDateTable_ae6d2c20-6875-4f94-a71b-184d8fadeed9.Date
+
+relationship 0c8123b7-7e06-48cd-8eca-bfe5c714b0d8
+	fromColumn: FoodMart-Transactions-All.customer_id
+	toColumn: Customer-Lookup.customer_id
+
+relationship a0b8f4be-c600-4c73-a7cb-f0f1531c22b2
+	fromColumn: FoodMart-Transactions-All.product_id
+	toColumn: Product-Lookup.product_id
+
+relationship 31537569-757e-4097-b3fd-ca722d8d6280
+	fromColumn: FoodMart-Transactions-All.store_id
+	toColumn: Store-Lookup.store_id
+

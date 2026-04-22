@@ -1,0 +1,17 @@
+﻿relationship f5803e5c-40bc-4761-ac01-cf8ad35dad85
+	fromColumn: Data2.Country
+	toColumn: Data1.Country
+
+relationship a90beba0-3de8-415f-ab89-2e16dc0f116e
+	fromColumn: financials.Country
+	toColumn: Data1.Country
+
+relationship bf77a8d5-4533-4146-a65c-911773481a26
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_24b9f60c-4a7f-4d56-a60b-6687808541e9.Date
+
+relationship b6cde864-4749-46af-87d0-dfd44ebccdf0
+	fromColumn: financials.Date
+	toColumn: Date.Date
+

@@ -1,0 +1,8 @@
+﻿relationship 380b2a82-4096-4cd2-b36c-742e0823c767
+	fromColumn: Refferrers.Share
+	toColumn: Shares.Shares
+
+relationship bf75be20-d4e4-4371-9a6b-a87d0c429b3c
+	fromColumn: Locations.Share
+	toColumn: Shares.Shares
+

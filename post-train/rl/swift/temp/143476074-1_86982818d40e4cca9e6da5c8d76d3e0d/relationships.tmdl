@@ -1,0 +1,59 @@
+﻿relationship e2223b71-1da3-463a-b477-1e2af6496251
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_df4879af-aa8d-43be-a11f-a6928052428c.Date
+
+relationship bea2a889-44b8-410b-b413-22895b6a75ee
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.MonthYear
+	toColumn: LocalDateTable_e9d5cece-4eda-47ac-a2d9-551e41a712b6.Date
+
+relationship 08c66fba-6875-4cc7-b446-21f35dc93e8d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.MonthYearLong
+	toColumn: LocalDateTable_12bdebe5-aefb-4800-8a60-5971a87a049b.Date
+
+relationship 6da13cba-5e10-4d82-b609-d20f96e0c741
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.BirthDate
+	toColumn: LocalDateTable_9dc17714-d9e8-471e-b8d0-dfc6e33bf9ef.Date
+
+relationship c7eb19f0-2caf-4a89-bddf-8997f7a39533
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.DateFirstPurchase
+	toColumn: LocalDateTable_cb42cf26-8733-4677-9521-1a57b036565c.Date
+
+relationship 646170ec-d8ed-4e58-97a1-967a14065d2f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Product.StartDate
+	toColumn: LocalDateTable_74a954b9-2626-4910-8dce-26400c9e412f.Date
+
+relationship 85419784-96a1-49be-a002-5b7387780fdc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.ShipDate
+	toColumn: LocalDateTable_b10bd385-038e-460c-ba98-3972a85b9b85.Date
+
+relationship 1424f64e-675a-4e98-b1f9-dda9ec58a916
+	fromColumn: Budget.ProductKey
+	toColumn: Product.ProductKey
+
+relationship 32f9e401-2b68-46c7-a76e-a81d9b6a2d7b
+	fromColumn: Budget.DateStamp
+	toColumn: Calendar.Date
+
+relationship bac60913-915f-44b2-ab2a-af491536f958
+	fromColumn: Sales.CustomerKey
+	toColumn: Customer.CustomerKey
+
+relationship e9aea772-606e-4b83-9209-84b74912aee5
+	fromColumn: Sales.SalesTerritoryKey
+	toColumn: Territories.SalesTerritoryKey
+
+relationship 4c2d6625-990e-4648-b88e-447d68c4b69b
+	fromColumn: Sales.OrderDate
+	toColumn: Calendar.Date
+
+relationship fd15d94b-ee58-4ae3-a9f3-11c895d3667c
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ProductKey
+

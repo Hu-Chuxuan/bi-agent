@@ -1,0 +1,117 @@
+﻿relationship c95c4e3e-4918-4b74-be7a-b8963da9ca04
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FactInternetSales.OrderDate
+	toColumn: LocalDateTable_e59132d6-5cd1-4b0a-8b22-3b45249445ab.Date
+
+relationship 06455a2a-59e7-4fb0-9bb4-05217fd862f7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FactInternetSales.DueDate
+	toColumn: LocalDateTable_0ff162e0-17ab-4dd6-af62-3d18f4f94d0c.Date
+
+relationship c3770ad7-6f03-4d28-a142-9b3294f6d33f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FactInternetSales.ShipDate
+	toColumn: LocalDateTable_03aa2563-47ba-4732-95ca-7c8ab3b66ff3.Date
+
+relationship 85747c08-d163-4240-97e0-81d068c59812
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimCustomer.BirthDate
+	toColumn: LocalDateTable_8cfbe75f-19d8-48b6-b6fa-6d8ab475bf19.Date
+
+relationship 42d0cc5e-d20e-4492-864e-bdb8bfd602e3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimCustomer.DateFirstPurchase
+	toColumn: LocalDateTable_11df74c1-d0fb-4640-a57c-257a14061ba0.Date
+
+relationship a1d956ac-74c8-4d9d-9b10-895278b381da
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimDate.FullDateAlternateKey
+	toColumn: LocalDateTable_2f80869b-579b-417a-9f66-0b42efdbcc2e.Date
+
+relationship f53e4c8a-2d76-4064-a721-7ab3e6a2394b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimProduct.StartDate
+	toColumn: LocalDateTable_b1053836-e062-4c93-aac8-a9ab053d0ae6.Date
+
+relationship e58a8975-e56d-4e47-9bce-3de662f6915a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimProduct.EndDate
+	toColumn: LocalDateTable_74b72039-c6b4-4b79-bae1-d3785521b207.Date
+
+relationship 9ce893f7-4b4b-4771-b719-950667c1b349
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimPromotion.StartDate
+	toColumn: LocalDateTable_00af7c45-eb23-4696-8322-e98baffaac5a.Date
+
+relationship b66c8c3e-898e-4af5-a06b-481d18a4078d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimPromotion.EndDate
+	toColumn: LocalDateTable_28346f67-bff6-4359-8085-b9d1b31913a2.Date
+
+relationship ae1a1bff-125e-4519-acdf-fba5665a0261
+	fromColumn: FactInternetSales.CurrencyKey
+	toColumn: DimCurrency.CurrencyKey
+
+relationship 5e1bc2d9-4400-4cde-8333-9a151baa5654
+	fromColumn: FactInternetSales.CustomerKey
+	toColumn: DimCustomer.CustomerKey
+
+relationship 5c3488b2-efe2-4e67-aa0b-7cc63a694791
+	fromColumn: FactInternetSales.DueDateKey
+	toColumn: DimDate.DateKey
+
+relationship 95fdc260-ee5c-42e6-9d89-3761efbca913
+	isActive: false
+	fromColumn: FactInternetSales.OrderDateKey
+	toColumn: DimDate.DateKey
+
+relationship 87677cea-543b-4804-909e-3b0ae970e54c
+	isActive: false
+	fromColumn: FactInternetSales.ShipDateKey
+	toColumn: DimDate.DateKey
+
+relationship 54ad33dd-8c87-4bb3-b707-1affad9b823b
+	fromColumn: FactInternetSales.ProductKey
+	toColumn: DimProduct.ProductKey
+
+relationship 590cef39-6759-4243-b753-98be4205119e
+	fromColumn: FactInternetSales.PromotionKey
+	toColumn: DimPromotion.PromotionKey
+
+relationship c8c29293-b2c3-41e7-8dd5-2e70a307d4a0
+	fromColumn: FactInternetSales.SalesTerritoryKey
+	toColumn: DimSalesTerritory.SalesTerritoryKey
+
+relationship a4c89aca-8fe7-4455-a615-f63759b1b412
+	fromColumn: DimProductSubcategory.ProductCategoryKey
+	toColumn: DimProductCategory.ProductCategoryKey
+
+relationship f198b351-e2cb-4294-9a4d-c541040dec1b
+	fromColumn: DimProduct.ProductSubcategoryKey
+	toColumn: DimProductSubcategory.ProductSubcategoryKey
+
+relationship b46e9445-72c1-4b39-b68d-54966652a575
+	fromColumn: Sales.ProductKey
+	toColumn: DimProduct.ProductKey
+
+relationship cf173890-cdfb-4f2c-b8e8-93b42f2e6a9a
+	fromColumn: Sales.CustomerKey
+	toColumn: DimCustomer.CustomerKey
+
+relationship 587f7edb-0df0-48c1-a413-adff9036705f
+	fromColumn: Sales.PromotionKey
+	toColumn: DimPromotion.PromotionKey
+
+relationship 7fd2cf4b-4c80-457f-bda0-919b8a1f6371
+	fromColumn: Sales.CurrencyKey
+	toColumn: DimCurrency.CurrencyKey
+
+relationship 78f13af1-ef7c-46e8-a0cb-315350f59a32
+	fromColumn: Sales.SalesTerritoryKey
+	toColumn: DimSalesTerritory.SalesTerritoryKey
+
+relationship 1e485776-2ea3-4306-93db-aef133a2c258
+	isActive: false
+	fromColumn: Sales.EnglishProductCategoryName
+	toColumn: DimProductCategory.EnglishProductCategoryName
+

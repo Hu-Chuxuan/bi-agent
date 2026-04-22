@@ -1,0 +1,9 @@
+﻿relationship 64a3205a-f6ed-4d9e-84fb-07ae4ff035f3
+	fromColumn: Fixing.Date
+	toColumn: Calendar.Date
+
+relationship 0f3395cf-f468-4138-bf1b-c8e05136fa88
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_5aa10250-0078-4ed7-badb-60420c26720b.Date
+

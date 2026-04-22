@@ -1,0 +1,31 @@
+﻿relationship a3a95885-65bc-4d8a-9b6d-df080212495f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Transactions.transaction_date
+	toColumn: LocalDateTable_a7f9ac4a-c3ed-4d5d-9c7b-665da8c89f15.Date
+
+relationship cf6b9ae2-413c-4e2c-8a86-9322c35aefd5
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: RFM.customer_id
+	toColumn: CustomerAddress.customer_id
+
+relationship 72b45890-b102-4c72-b595-cb71d4f0ed57
+	crossFilteringBehavior: bothDirections
+	fromColumn: CustomerDemographic.customer_id
+	toColumn: CustomerAddress.customer_id
+
+relationship 9ef7b19f-6a28-4ac5-80f8-02dc8c47b24b
+	crossFilteringBehavior: bothDirections
+	fromColumn: Transactions.customer_id
+	toColumn: CustomerAddress.customer_id
+
+relationship 5f108803-013d-4895-b0ae-6300115ea66b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CustomerDemographic.DOB
+	toColumn: LocalDateTable_a84f043b-c23a-4e19-b61d-a55055a74c29.Date
+
+relationship 23faf12b-67b0-44fb-aa7d-d414b6ecb966
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Transactions.product_first_sold_date
+	toColumn: LocalDateTable_4034a5c5-8ede-44c8-8acc-7dde1429cdb2.Date
+

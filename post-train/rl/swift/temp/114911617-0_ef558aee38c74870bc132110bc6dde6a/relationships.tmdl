@@ -1,0 +1,29 @@
+﻿relationship 05382216-233f-417f-a558-c9a4205cb5a3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Project Tasks'.Start
+	toColumn: LocalDateTable_685a3b09-85b5-4804-b9cf-78165244af26.Date
+
+relationship cd3904b2-e90f-493a-90d3-1def3898a57e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Project Tasks'.End
+	toColumn: LocalDateTable_253b1ebc-2844-4221-b1d9-79d5eca791b4.Date
+
+relationship 56746258-16ed-4869-bc98-822c7f1a7083
+	fromColumn: 'Project Tasks'.Project
+	toColumn: Projects.Project
+
+relationship 81c05878-143e-423a-8502-4ad2795940f7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_1658329f-97e4-4dbd-ba69-e82a75886d68.Date
+
+relationship 4ef778e9-0e47-4f58-b1dd-40739501becf
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Project Milestones'.Start
+	toColumn: LocalDateTable_9568dd0f-4d83-4cda-a569-abc3c19cf89e.Date
+
+relationship 4a29c024-4e6f-4ca6-960a-b12964432a7c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Project Milestones'.End
+	toColumn: LocalDateTable_a6afb383-b28d-4d5f-bda2-b0a54707f98b.Date
+

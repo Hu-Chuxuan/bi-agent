@@ -1,0 +1,17 @@
+segment,xmin,xmax,region,value
+"A",0,40,"East",60
+"B",40,70,"East",40
+"C",70,90,"East",30
+"D",90,100,"East",25
+"A",0,40,"North",25
+"B",40,70,"North",30
+"C",70,90,"North",30
+"D",90,100,"North",25
+"A",0,40,"South",10
+"B",40,70,"South",20
+"C",70,90,"South",20
+"D",90,100,"South",25
+"A",0,40,"West",5
+"B",40,70,"West",10
+"C",70,90,"West",20
+"D",90,100,"West",25

@@ -1,0 +1,174 @@
+﻿relationship c424fb1e-b7b5-4806-82a2-addcacc57a0d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Table.Date
+	toColumn: LocalDateTable_1ef6a30f-fc08-4d7e-aa71-0548e8d6904e.Date
+
+relationship 47b1d496-5543-43c6-b82c-f71696bd0c02
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (2)'.Date
+	toColumn: LocalDateTable_96f2c29d-a9ee-48bc-b69c-9ac23e4d3561.Date
+
+relationship 533ce428-5282-4701-a1cc-f3c1469a619a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (3)'.Start
+	toColumn: LocalDateTable_2568bd2e-45d4-422a-abe1-eebec17e08e3.Date
+
+relationship 851dbf02-a10f-465d-8964-872f57f4a213
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (3)'.End
+	toColumn: LocalDateTable_b8f956a0-0ef6-4d05-a370-eefda4cbc8cd.Date
+
+relationship 981246a4-6b1c-4803-a4f0-0b174a181f0e
+	fromColumn: Append1.Description
+	toColumn: 'Table (7)'.Description
+
+relationship bbe9aa8c-423b-4995-af0b-d02f763386ae
+	fromColumn: 'Table (8)'.Description
+	toColumn: 'Table (7)'.Description
+
+relationship 0e69d554-203d-4f0f-ac7c-db20a3d32455
+	fromColumn: Append1.Description
+	toColumn: 'Table (5)'.Description2
+
+relationship 7fb23c8d-3657-4001-9e81-fca6d0cf26f4
+	fromColumn: 'Table (8)'.Description
+	toColumn: 'Table (5)'.Description2
+
+relationship a0318689-6b3a-4d21-9ea5-651f3a59b5fb
+	fromColumn: Query1.Description
+	toColumn: 'Table (7)'.Description
+
+relationship 0fb492b3-4d4f-4e6f-a97e-64ad709e9783
+	fromColumn: Query1.Description
+	toColumn: 'Table (5)'.Description2
+
+relationship a5b7e384-c556-43bd-af08-10fa7c933b6a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (11)'.Column1
+	toColumn: LocalDateTable_1593b742-8788-4322-ac02-7efbeb1f8c00.Date
+
+relationship f039aa29-1c85-48d0-b05f-3bde577f35b4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table 3'.date
+	toColumn: LocalDateTable_2ae232ac-9744-4c7a-a858-2e9d9a166a2c.Date
+
+relationship e4d5f4b6-4c60-440b-909a-4ea87393e95b
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Table 3'.key
+	toColumn: 'Table 4'.key
+
+relationship 9f8c1fe8-8284-46a5-b1a2-f13f6553d60d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (13)'.Time
+	toColumn: LocalDateTable_0e7726da-c6b2-4eb7-9192-8e675c795820.Date
+
+relationship 8cb2d54a-87ae-4733-9edf-529d1e523d1b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (15)'.'Weekending Date'
+	toColumn: LocalDateTable_1ab24b0b-8e54-4c9c-9486-5e93b13c0cc9.Date
+
+relationship 598f6e9b-e81b-4d77-a08b-ae4c80991d76
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (15)'.'Test Date'
+	toColumn: LocalDateTable_cce18dbf-e40a-4d85-8228-6b8993e5b095.Date
+
+relationship e2bf8eb5-3125-41df-bfce-abd05e60b266
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (16)'.'Submitted Date'
+	toColumn: LocalDateTable_d9d01cdd-a1bf-424b-a472-d95e03475dd0.Date
+
+relationship 9a297a2c-a46a-4930-97c3-baae8312f431
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (16)'.'Date Resolved'
+	toColumn: LocalDateTable_6149c7f4-08ca-47b5-871e-a1a5b0a542ae.Date
+
+relationship e1632d39-1ecc-410f-84f7-b2a3f8520524
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_e7730fe5-0ba5-4087-a5dc-56d6ca14956a.Date
+
+relationship 93a01537-7720-469d-8d17-c234efb04d21
+	fromColumn: 'Table (18)'.ID
+	toColumn: 'Table (16)'.ID
+
+relationship 4bdce583-5be4-48d5-add9-1ba2a70292d6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (19)'.Date
+	toColumn: LocalDateTable_cf5b349a-f712-478d-bf18-9404a89f321a.Date
+
+relationship 8a31b1a9-db24-4bf9-ad1e-2881fa75a7a6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (21)'.StartDate
+	toColumn: LocalDateTable_5882ea60-e3ab-4699-ae97-f73b5c440bea.Date
+
+relationship 34be27e8-66ea-400e-8356-393d0e98a22b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (21)'.'StartDate (FreeWare)'
+	toColumn: LocalDateTable_8abf1c0a-bd3e-4dc5-9067-9740893e6ed9.Date
+
+relationship d5a72f41-a294-4d9e-896c-1d38df7c3a35
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (21)'.'StartDate (Sub)'
+	toColumn: LocalDateTable_0ed8986b-5a8f-4045-8294-a61b0ce0bc0f.Date
+
+relationship 068061b4-24d8-4bae-a46a-f15615559fd1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: wagons.'Date Loaded'
+	toColumn: LocalDateTable_56465bb8-84ec-4a3d-935d-9d49533d581e.Date
+
+relationship d56d8279-07d4-482f-b93a-590bb085389a
+	fromColumn: 'Table (22)'.id
+	toColumn: 'Table (16)'.ID
+
+relationship 5c1d7c70-8472-4fb2-9847-40d9762078d3
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Table (23b)'.CustomerUID
+	toColumn: 'Table (23a)'.CustomerUID
+
+relationship 727d0f8f-1172-4d69-9fb5-ca2005f50727
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Table (23)'.CustomerUID
+	toColumn: 'Table (23b)'.CustomerUID
+
+relationship 61aa0357-dd2c-42bc-8c36-c981d829bbb4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (25)'.Date
+	toColumn: LocalDateTable_a9df803d-1b5e-4598-a4bc-4548a4d156b9.Date
+
+relationship 5d0d2f8d-e074-44a7-9ead-2cd6026159d5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (27)'.'Date of Birth'
+	toColumn: LocalDateTable_fc2ec004-7ece-4324-913d-1bfefdcce1bf.Date
+
+relationship 5213f024-8634-493c-9f8a-6840fd9e60e6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (30)'.'Date (A)'
+	toColumn: LocalDateTable_f59bfb12-4d54-4e39-a4ed-93d7176886bd.Date
+
+relationship 7ab94f84-d5a0-48d1-84c0-f2b96ca587c1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: csvs.date
+	toColumn: LocalDateTable_025b63d0-e292-4315-bbdd-f0d1ecc2b467.Date
+
+relationship 6dd8b4d6-a717-4638-8a84-2cb43c26308c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'csvs (2)'.'Date accessed'
+	toColumn: LocalDateTable_97d63b25-1d3a-48c9-8d7a-5eca0a3d94c4.Date
+
+relationship 56ac5163-d8d5-4c84-975e-ace6c66c7e05
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'csvs (2)'.'Date modified'
+	toColumn: LocalDateTable_a3430ff1-39f1-485f-9570-0889f8709bf9.Date
+
+relationship d1e7d005-3662-4c9a-b68b-833bd4eccc82
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'csvs (2)'.'Date created'
+	toColumn: LocalDateTable_54ccb6ae-a5f2-481b-a125-4b634fb7804f.Date
+
+relationship b01b65fa-faf8-4380-89b9-be463de6c56c
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Table (24b)'.Index
+	toColumn: 'Table (34)'.Index
+

@@ -1,0 +1,11 @@
+AllergyID,AllergyName,AllergyCategory
+1000,"Grass and Tree pollen","Common Allergy"
+1001,"Dust Mites","Dust Allergy"
+1002,"Food","Food Allergy"
+1003,"Medicines","Drug Allergy"
+1004,"Latex","Latex Allergy"
+1005,"Mould","Mold Allergy"
+1006,"Household Chemicals","Chemical Allergy"
+1007,"Stinging Insect","Insect Allergy"
+1008,"Fungi","Mold Allergy"
+1009,"Animal Dander","Pet Allergy"

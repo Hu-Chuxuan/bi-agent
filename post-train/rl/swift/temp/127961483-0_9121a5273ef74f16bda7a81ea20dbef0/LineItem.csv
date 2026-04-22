@@ -1,0 +1,101 @@
+LineItemId,InvoiceId,Description,Amount
+144,29,"Rent, October 2020",800
+123,25,"Rent, October 2020",700
+140,28,Gas,40
+61,13,"Rent, September 2020",800
+103,21,"Rent, October 2020",900
+34,7,Internet/Cable,70
+167,33,Garage,60
+56,12,Gas,40
+109,22,Gas,40
+154,31,"Rent, October 2020",1300
+24,5,Internet/Cable,70
+93,19,"Rent, October 2020",700
+19,5,"Rent, September 2020",900
+73,15,Gas,40
+29,6,Internet/Cable,70
+35,8,"Rent, September 2020",500
+141,28,Electricity,50
+113,23,"Rent, October 2020",800
+162,32,Garage,60
+20,5,Gas,40
+82,17,"Rent, September 2020",700
+22,5,Garage,60
+15,4,Electricity,50
+12,3,Internet/Cable,70
+36,8,Gas,40
+165,33,Gas,40
+106,21,Garage,60
+62,13,Gas,40
+143,28,Internet/Cable,70
+170,34,Gas,40
+148,29,Internet/Cable,70
+85,17,Garage,60
+66,14,"Rent, September 2020",800
+91,18,Internet/Cable,70
+5,1,Electricity,50
+102,20,Internet/Cable,70
+50,11,"Rent, September 2020",500
+47,10,Electricity,50
+76,15,Internet/Cable,70
+163,32,Internet/Cable,70
+31,7,Gas,40
+150,30,Gas,40
+126,25,Electricity,50
+101,20,Garage,60
+142,28,Garage,60
+41,9,Gas,40
+89,18,Electricity,50
+27,6,Electricity,50
+135,27,Gas,40
+74,15,Electricity,50
+105,21,Electricity,50
+14,4,Gas,40
+72,15,"Rent, September",1300
+94,19,Gas,40
+9,3,Gas,40
+32,7,Electicity,50
+83,17,Gas,40
+151,30,Electricity,50
+43,9,Garage,60
+46,10,Gas,40
+7,1,Internet/Cable,70
+147,29,Garage,60
+37,8,Electricity,50
+153,30,Internet/Cable,70
+117,23,Internet/Cable,70
+75,15,Garage,60
+13,4,"Rent, September 2020",600
+104,21,Gas,40
+119,24,Gas,40
+1,1,"Rent, September 2020",550
+131,26,Electricity,50
+132,26,Garage,60
+71,14,Internet/Cable,70
+49,10,Internet/Cable,70
+155,31,Gas,40
+33,7,Garage,60
+45,10,"Rent, September 2020",500
+122,24,Internet/Cable,70
+30,7,"Rent, September 2020",800
+28,6,Grage,60
+128,25,Internet/Cable,70
+88,18,Gas,40
+86,17,Internet/Cable,70
+44,9,Internet/Cable,70
+98,20,"Rent, October 2020",600
+116,23,Garage,60
+169,34,"Rent, October 2020",900
+146,29,Electricty,50
+52,11,Electricity,50
+133,26,Internet/Cable,70
+67,14,Gas,40
+80,16,Garage,60
+38,8,Garage,60
+120,24,Electricity,50
+129,26,"Rent, October 2020",500
+137,27,Garage,60
+68,14,Electricity,50
+172,34,Garage,60
+108,22,"Rent, October 2020",700
+112,22,Internet/Cable,70

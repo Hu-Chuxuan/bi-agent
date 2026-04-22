@@ -1,0 +1,295 @@
+State,Suburb,variable,value
+ VIC,Altona,Postcode,3018
+ QLD,Maroochydore,Postcode,4558
+ WA,Joondalup,Postcode,6027
+ NSW,Nowra,Postcode,2541
+ VIC,Sunbury,Postcode,3429
+ VIC,Werribee,Postcode,3030
+ VIC,Bendigo,Postcode,3550
+ QLD,Noosaville,Postcode,4566
+ NSW,Chatswood,Postcode,2067
+ ACT,Belconnen,Postcode,2617
+ QLD,Burleigh Waters,Postcode,4220
+ VIC,Mildura,Postcode,3500
+ QLD,Toombul,Postcode,4012
+ NSW,Wagga Wagga,Postcode,2650
+ QLD,Rockhampton,Postcode,4700
+ NSW,Artarmon,Postcode,2064
+ NSW,Rydalmere,Postcode,2116
+ NSW,Dural,Postcode,2158
+ WA,Esperance,Postcode,6450
+ VIC,Hastings,Postcode,3915
+ QLD,Yeppoon,Postcode,4703
+ VIC,Epping,Postcode,3076
+ VIC,Croydon,Postcode,3136
+ NSW,Lithgow,Postcode,2790
+ QLD,Mackay,Postcode,4740
+ QLD,Caloundra,Postcode,4551
+ NSW,Castle Hill,Postcode,2154
+ VIC,Shepparton,Postcode,3630
+ NSW,Dubbo,Postcode,2830
+ VIC,Chadstone,Postcode,3148
+ WA,Inglewood,Postcode,6052
+ QLD,Atherton,Postcode,4883
+ NT,Darwin,Postcode,800
+ WA,Bussleton,Postcode,6280
+ NSW,Ashfield,Postcode,2131
+ QLD,Southport,Postcode,4215
+ VIC,Dandenong,Postcode,3175
+ QLD,Gympie,Postcode,4570
+ NSW,Mascot,Postcode,2020
+ VIC,Frankston,Postcode,3199
+ QLD,Gladstone,Postcode,4680
+ NSW,Bathurst,Postcode,2795
+ SA,Prospect,Postcode,5082
+ NT,Alice Springs,Postcode,870
+ NSW,Orange,Postcode,2800
+ VIC,Scoresby,Postcode,3179
+ NSW,Ulladulla,Postcode,2539
+ SA,Noarlunga,Postcode,5168
+ NSW,Lidcombe,Postcode,2141
+ NSW,Tweed Heads,Postcode,2485
+ NSW,Armidale,Postcode,2350
+ NSW,Narrabeen,Postcode,2101
+ QLD,Ipswich,Postcode,4305
+ NSW,Campbelltown,Postcode,2560
+ VIC,Mornington,Postcode,3931
+ NSW,Ballina,Postcode,2478
+ VIC,Ringwood,Postcode,3134
+ QLD,Hervey Bay,Postcode,4655
+ WA,Albany,Postcode,6330
+ SA,Seaford,Postcode,5169
+ WA,Canarvon,Postcode,6701
+ SA,Port Lincoln,Postcode,5607
+ QLD,North Lakes,Postcode,4509
+ SA,Berri,Postcode,5343
+ VIC,Collingwood,Postcode,3066
+ QLD,Stafford,Postcode,4053
+ VIC,Cranbourne,Postcode,3977
+ TAS,Rosny Park,Postcode,7018
+ WA,Maddington,Postcode,6109
+ VIC,Nunawading,Postcode,3131
+ QLD,Mt Isa,Postcode,4825
+ TAS,Burnie,Postcode,7320
+ QLD,Underwood,Postcode,4119
+ VIC,Wodonga,Postcode,3690
+ SA,Woodville,Postcode,5011
+ QLD,Cairns,Postcode,4870
+ WA,Mindarie,Postcode,6030
+ TAS,Glenorchy,Postcode,7010
+ VIC,Ballarat,Postcode,3353
+ WA,Geraldton,Postcode,6530
+ QLD,Indooroopilly,Postcode,4068
+ QLD,Airlie Beach,Postcode,4802
+ ACT,Fyshwick,Postcode,2609
+ SA,Mt Gambier,Postcode,5290
+ NSW,Randwick,Postcode,2031
+ NSW,Alexandria,Postcode,2015
+ NSW,Thornleigh,Postcode,2120
+ WA,Broome,Postcode,6725
+ WA,Claremont,Postcode,6010
+ VIC,Horsham,Postcode,3400
+ WA,Balcatta,Postcode,6021
+ VIC,Warrnambool,Postcode,3280
+ NSW,Penrith,Postcode,2750
+ TAS,Launceston,Postcode,7250
+ VIC,Epsom,Postcode,3551
+ NSW,Lismore,Postcode,2480
+ WA,Harrisdale,Postcode,6112
+ SA,Marion,Postcode,5043
+ VIC,Altona,"State, Country"," VIC,Australia"
+ QLD,Maroochydore,"State, Country"," QLD,Australia"
+ WA,Joondalup,"State, Country"," WA,Australia"
+ NSW,Nowra,"State, Country"," NSW,Australia"
+ VIC,Sunbury,"State, Country"," VIC,Australia"
+ VIC,Werribee,"State, Country"," VIC,Australia"
+ VIC,Bendigo,"State, Country"," VIC,Australia"
+ QLD,Noosaville,"State, Country"," QLD,Australia"
+ NSW,Chatswood,"State, Country"," NSW,Australia"
+ ACT,Belconnen,"State, Country"," ACT,Australia"
+ QLD,Burleigh Waters,"State, Country"," QLD,Australia"
+ VIC,Mildura,"State, Country"," VIC,Australia"
+ QLD,Toombul,"State, Country"," QLD,Australia"
+ NSW,Wagga Wagga,"State, Country"," NSW,Australia"
+ QLD,Rockhampton,"State, Country"," QLD,Australia"
+ NSW,Artarmon,"State, Country"," NSW,Australia"
+ NSW,Rydalmere,"State, Country"," NSW,Australia"
+ NSW,Dural,"State, Country"," NSW,Australia"
+ WA,Esperance,"State, Country"," WA,Australia"
+ VIC,Hastings,"State, Country"," VIC,Australia"
+ QLD,Yeppoon,"State, Country"," QLD,Australia"
+ VIC,Epping,"State, Country"," VIC,Australia"
+ VIC,Croydon,"State, Country"," VIC,Australia"
+ NSW,Lithgow,"State, Country"," NSW,Australia"
+ QLD,Mackay,"State, Country"," QLD,Australia"
+ QLD,Caloundra,"State, Country"," QLD,Australia"
+ NSW,Castle Hill,"State, Country"," NSW,Australia"
+ VIC,Shepparton,"State, Country"," VIC,Australia"
+ NSW,Dubbo,"State, Country"," NSW,Australia"
+ VIC,Chadstone,"State, Country"," VIC,Australia"
+ WA,Inglewood,"State, Country"," WA,Australia"
+ QLD,Atherton,"State, Country"," QLD,Australia"
+ NT,Darwin,"State, Country"," NT,Australia"
+ WA,Bussleton,"State, Country"," WA,Australia"
+ NSW,Ashfield,"State, Country"," NSW,Australia"
+ QLD,Southport,"State, Country"," QLD,Australia"
+ VIC,Dandenong,"State, Country"," VIC,Australia"
+ QLD,Gympie,"State, Country"," QLD,Australia"
+ NSW,Mascot,"State, Country"," NSW,Australia"
+ VIC,Frankston,"State, Country"," VIC,Australia"
+ QLD,Gladstone,"State, Country"," QLD,Australia"
+ NSW,Bathurst,"State, Country"," NSW,Australia"
+ SA,Prospect,"State, Country"," SA,Australia"
+ NT,Alice Springs,"State, Country"," NT,Australia"
+ NSW,Orange,"State, Country"," NSW,Australia"
+ VIC,Scoresby,"State, Country"," VIC,Australia"
+ NSW,Ulladulla,"State, Country"," NSW,Australia"
+ SA,Noarlunga,"State, Country"," SA,Australia"
+ NSW,Lidcombe,"State, Country"," NSW,Australia"
+ NSW,Tweed Heads,"State, Country"," NSW,Australia"
+ NSW,Armidale,"State, Country"," NSW,Australia"
+ NSW,Narrabeen,"State, Country"," NSW,Australia"
+ QLD,Ipswich,"State, Country"," QLD,Australia"
+ NSW,Campbelltown,"State, Country"," NSW,Australia"
+ VIC,Mornington,"State, Country"," VIC,Australia"
+ NSW,Ballina,"State, Country"," NSW,Australia"
+ VIC,Ringwood,"State, Country"," VIC,Australia"
+ QLD,Hervey Bay,"State, Country"," QLD,Australia"
+ WA,Albany,"State, Country"," WA,Australia"
+ SA,Seaford,"State, Country"," SA,Australia"
+ WA,Canarvon,"State, Country"," WA,Australia"
+ SA,Port Lincoln,"State, Country"," SA,Australia"
+ QLD,North Lakes,"State, Country"," QLD,Australia"
+ SA,Berri,"State, Country"," SA,Australia"
+ VIC,Collingwood,"State, Country"," VIC,Australia"
+ QLD,Stafford,"State, Country"," QLD,Australia"
+ VIC,Cranbourne,"State, Country"," VIC,Australia"
+ TAS,Rosny Park,"State, Country"," TAS,Australia"
+ WA,Maddington,"State, Country"," WA,Australia"
+ VIC,Nunawading,"State, Country"," VIC,Australia"
+ QLD,Mt Isa,"State, Country"," QLD,Australia"
+ TAS,Burnie,"State, Country"," TAS,Australia"
+ QLD,Underwood,"State, Country"," QLD,Australia"
+ VIC,Wodonga,"State, Country"," VIC,Australia"
+ SA,Woodville,"State, Country"," SA,Australia"
+ QLD,Cairns,"State, Country"," QLD,Australia"
+ WA,Mindarie,"State, Country"," WA,Australia"
+ TAS,Glenorchy,"State, Country"," TAS,Australia"
+ VIC,Ballarat,"State, Country"," VIC,Australia"
+ WA,Geraldton,"State, Country"," WA,Australia"
+ QLD,Indooroopilly,"State, Country"," QLD,Australia"
+ QLD,Airlie Beach,"State, Country"," QLD,Australia"
+ ACT,Fyshwick,"State, Country"," ACT,Australia"
+ SA,Mt Gambier,"State, Country"," SA,Australia"
+ NSW,Randwick,"State, Country"," NSW,Australia"
+ NSW,Alexandria,"State, Country"," NSW,Australia"
+ NSW,Thornleigh,"State, Country"," NSW,Australia"
+ WA,Broome,"State, Country"," WA,Australia"
+ WA,Claremont,"State, Country"," WA,Australia"
+ VIC,Horsham,"State, Country"," VIC,Australia"
+ WA,Balcatta,"State, Country"," WA,Australia"
+ VIC,Warrnambool,"State, Country"," VIC,Australia"
+ NSW,Penrith,"State, Country"," NSW,Australia"
+ TAS,Launceston,"State, Country"," TAS,Australia"
+ VIC,Epsom,"State, Country"," VIC,Australia"
+ NSW,Lismore,"State, Country"," NSW,Australia"
+ WA,Harrisdale,"State, Country"," WA,Australia"
+ SA,Marion,"State, Country"," SA,Australia"
+ VIC,Altona,"PostCode,Suburb,Country","3018, Altona,Australia"
+ QLD,Maroochydore,"PostCode,Suburb,Country","4558, Maroochydore,Australia"
+ WA,Joondalup,"PostCode,Suburb,Country","6027, Joondalup,Australia"
+ NSW,Nowra,"PostCode,Suburb,Country","2541, Nowra,Australia"
+ VIC,Sunbury,"PostCode,Suburb,Country","3429, Sunbury,Australia"
+ VIC,Werribee,"PostCode,Suburb,Country","3030, Werribee,Australia"
+ VIC,Bendigo,"PostCode,Suburb,Country","3550, Bendigo,Australia"
+ QLD,Noosaville,"PostCode,Suburb,Country","4566, Noosaville,Australia"
+ NSW,Chatswood,"PostCode,Suburb,Country","2067, Chatswood,Australia"
+ ACT,Belconnen,"PostCode,Suburb,Country","2617, Belconnen,Australia"
+ QLD,Burleigh Waters,"PostCode,Suburb,Country","4220, Burleigh Waters,Australia"
+ VIC,Mildura,"PostCode,Suburb,Country","3500, Mildura,Australia"
+ QLD,Toombul,"PostCode,Suburb,Country","4012, Toombul,Australia"
+ NSW,Wagga Wagga,"PostCode,Suburb,Country","2650, Wagga Wagga,Australia"
+ QLD,Rockhampton,"PostCode,Suburb,Country","4700, Rockhampton,Australia"
+ NSW,Artarmon,"PostCode,Suburb,Country","2064, Artarmon,Australia"
+ NSW,Rydalmere,"PostCode,Suburb,Country","2116, Rydalmere,Australia"
+ NSW,Dural,"PostCode,Suburb,Country","2158, Dural,Australia"
+ WA,Esperance,"PostCode,Suburb,Country","6450, Esperance,Australia"
+ VIC,Hastings,"PostCode,Suburb,Country","3915, Hastings,Australia"
+ QLD,Yeppoon,"PostCode,Suburb,Country","4703, Yeppoon,Australia"
+ VIC,Epping,"PostCode,Suburb,Country","3076, Epping,Australia"
+ VIC,Croydon,"PostCode,Suburb,Country","3136, Croydon,Australia"
+ NSW,Lithgow,"PostCode,Suburb,Country","2790, Lithgow,Australia"
+ QLD,Mackay,"PostCode,Suburb,Country","4740, Mackay,Australia"
+ QLD,Caloundra,"PostCode,Suburb,Country","4551, Caloundra,Australia"
+ NSW,Castle Hill,"PostCode,Suburb,Country","2154, Castle Hill,Australia"
+ VIC,Shepparton,"PostCode,Suburb,Country","3630, Shepparton,Australia"
+ NSW,Dubbo,"PostCode,Suburb,Country","2830, Dubbo,Australia"
+ VIC,Chadstone,"PostCode,Suburb,Country","3148, Chadstone,Australia"
+ WA,Inglewood,"PostCode,Suburb,Country","6052, Inglewood,Australia"
+ QLD,Atherton,"PostCode,Suburb,Country","4883, Atherton,Australia"
+ NT,Darwin,"PostCode,Suburb,Country","800, Darwin,Australia"
+ WA,Bussleton,"PostCode,Suburb,Country","6280, Bussleton,Australia"
+ NSW,Ashfield,"PostCode,Suburb,Country","2131, Ashfield,Australia"
+ QLD,Southport,"PostCode,Suburb,Country","4215, Southport,Australia"
+ VIC,Dandenong,"PostCode,Suburb,Country","3175, Dandenong,Australia"
+ QLD,Gympie,"PostCode,Suburb,Country","4570, Gympie,Australia"
+ NSW,Mascot,"PostCode,Suburb,Country","2020, Mascot,Australia"
+ VIC,Frankston,"PostCode,Suburb,Country","3199, Frankston,Australia"
+ QLD,Gladstone,"PostCode,Suburb,Country","4680, Gladstone,Australia"
+ NSW,Bathurst,"PostCode,Suburb,Country","2795, Bathurst,Australia"
+ SA,Prospect,"PostCode,Suburb,Country","5082, Prospect,Australia"
+ NT,Alice Springs,"PostCode,Suburb,Country","870, Alice Springs,Australia"
+ NSW,Orange,"PostCode,Suburb,Country","2800, Orange,Australia"
+ VIC,Scoresby,"PostCode,Suburb,Country","3179, Scoresby,Australia"
+ NSW,Ulladulla,"PostCode,Suburb,Country","2539, Ulladulla,Australia"
+ SA,Noarlunga,"PostCode,Suburb,Country","5168, Noarlunga,Australia"
+ NSW,Lidcombe,"PostCode,Suburb,Country","2141, Lidcombe,Australia"
+ NSW,Tweed Heads,"PostCode,Suburb,Country","2485, Tweed Heads,Australia"
+ NSW,Armidale,"PostCode,Suburb,Country","2350, Armidale,Australia"
+ NSW,Narrabeen,"PostCode,Suburb,Country","2101, Narrabeen,Australia"
+ QLD,Ipswich,"PostCode,Suburb,Country","4305, Ipswich,Australia"
+ NSW,Campbelltown,"PostCode,Suburb,Country","2560, Campbelltown,Australia"
+ VIC,Mornington,"PostCode,Suburb,Country","3931, Mornington,Australia"
+ NSW,Ballina,"PostCode,Suburb,Country","2478, Ballina,Australia"
+ VIC,Ringwood,"PostCode,Suburb,Country","3134, Ringwood,Australia"
+ QLD,Hervey Bay,"PostCode,Suburb,Country","4655, Hervey Bay,Australia"
+ WA,Albany,"PostCode,Suburb,Country","6330, Albany,Australia"
+ SA,Seaford,"PostCode,Suburb,Country","5169, Seaford,Australia"
+ WA,Canarvon,"PostCode,Suburb,Country","6701, Canarvon,Australia"
+ SA,Port Lincoln,"PostCode,Suburb,Country","5607, Port Lincoln,Australia"
+ QLD,North Lakes,"PostCode,Suburb,Country","4509, North Lakes,Australia"
+ SA,Berri,"PostCode,Suburb,Country","5343, Berri,Australia"
+ VIC,Collingwood,"PostCode,Suburb,Country","3066, Collingwood,Australia"
+ QLD,Stafford,"PostCode,Suburb,Country","4053, Stafford,Australia"
+ VIC,Cranbourne,"PostCode,Suburb,Country","3977, Cranbourne,Australia"
+ TAS,Rosny Park,"PostCode,Suburb,Country","7018, Rosny Park,Australia"
+ WA,Maddington,"PostCode,Suburb,Country","6109, Maddington,Australia"
+ VIC,Nunawading,"PostCode,Suburb,Country","3131, Nunawading,Australia"
+ QLD,Mt Isa,"PostCode,Suburb,Country","4825, Mt Isa,Australia"
+ TAS,Burnie,"PostCode,Suburb,Country","7320, Burnie,Australia"
+ QLD,Underwood,"PostCode,Suburb,Country","4119, Underwood,Australia"
+ VIC,Wodonga,"PostCode,Suburb,Country","3690, Wodonga,Australia"
+ SA,Woodville,"PostCode,Suburb,Country","5011, Woodville,Australia"
+ QLD,Cairns,"PostCode,Suburb,Country","4870, Cairns,Australia"
+ WA,Mindarie,"PostCode,Suburb,Country","6030, Mindarie,Australia"
+ TAS,Glenorchy,"PostCode,Suburb,Country","7010, Glenorchy,Australia"
+ VIC,Ballarat,"PostCode,Suburb,Country","3353, Ballarat,Australia"
+ WA,Geraldton,"PostCode,Suburb,Country","6530, Geraldton,Australia"
+ QLD,Indooroopilly,"PostCode,Suburb,Country","4068, Indooroopilly,Australia"
+ QLD,Airlie Beach,"PostCode,Suburb,Country","4802, Airlie Beach,Australia"
+ ACT,Fyshwick,"PostCode,Suburb,Country","2609, Fyshwick,Australia"
+ SA,Mt Gambier,"PostCode,Suburb,Country","5290, Mt Gambier,Australia"
+ NSW,Randwick,"PostCode,Suburb,Country","2031, Randwick,Australia"
+ NSW,Alexandria,"PostCode,Suburb,Country","2015, Alexandria,Australia"
+ NSW,Thornleigh,"PostCode,Suburb,Country","2120, Thornleigh,Australia"
+ WA,Broome,"PostCode,Suburb,Country","6725, Broome,Australia"
+ WA,Claremont,"PostCode,Suburb,Country","6010, Claremont,Australia"
+ VIC,Horsham,"PostCode,Suburb,Country","3400, Horsham,Australia"
+ WA,Balcatta,"PostCode,Suburb,Country","6021, Balcatta,Australia"
+ VIC,Warrnambool,"PostCode,Suburb,Country","3280, Warrnambool,Australia"
+ NSW,Penrith,"PostCode,Suburb,Country","2750, Penrith,Australia"
+ TAS,Launceston,"PostCode,Suburb,Country","7250, Launceston,Australia"
+ VIC,Epsom,"PostCode,Suburb,Country","3551, Epsom,Australia"
+ NSW,Lismore,"PostCode,Suburb,Country","2480, Lismore,Australia"
+ WA,Harrisdale,"PostCode,Suburb,Country","6112, Harrisdale,Australia"
+ SA,Marion,"PostCode,Suburb,Country","5043, Marion,Australia"

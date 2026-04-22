@@ -1,0 +1,9 @@
+HospitalID,HospitalType,Zip,State,City,Street,ContactNumber,Name
+"H001","Small","02128","Massachusetts","Boston","49 Robinwood Ave",8976542345,"Arbour Hospital"
+"H003","Large","02119","Massachusetts","Boston","1 Boston Medical Center",7865435627,"Boston Medical Center"
+"H004","Small","02111","Massachusetts","Boston","800 Washington St",8764567999,"Tufts Medical Center"
+"H005","Medium","02149","Massachusetts","Boston","55 Fruit St",5678987098,"Massachusetts General Hospital"
+"H006","Large","02123","Massachusetts","Boston","2100 Dorchester Ave",9897654536,"Carney Hospital"
+"H007","Small","02135","Massachusetts","Boston","185 Pilgrim Road",5643254367,"Beth Israel Deaconess Medical Center"
+"H009","Large","02120","Massachusetts","Boston","125 Parker Hill Ave",6767898765,"New England Baptist Hospital"
+"H010","Small","02131","Massachusetts","Boston","170 Morton St",6758987899,"Lemuel Shattuck Hospital"

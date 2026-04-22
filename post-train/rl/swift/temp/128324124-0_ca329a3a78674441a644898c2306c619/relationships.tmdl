@@ -1,0 +1,4 @@
+﻿relationship 3be9e215-34c5-4f76-864e-454bf23841f5
+	fromColumn: Sales.SalesDate
+	toColumn: Date.Date
+

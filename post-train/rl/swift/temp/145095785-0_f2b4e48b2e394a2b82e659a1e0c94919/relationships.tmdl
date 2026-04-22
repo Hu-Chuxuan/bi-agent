@@ -1,0 +1,12 @@
+﻿relationship 45827bb7-cedf-4912-83b5-723ae6376823
+	fromColumn: Sales.ProductKey
+	toColumn: Products.ProductKey
+
+relationship 8fac31d2-8b15-4b17-9bb9-c26800bab5c5
+	fromColumn: Sales.OrderDateKey
+	toColumn: Date.DateKey
+
+relationship 8b0a3e21-8c1a-4989-a3da-225380198b87
+	fromColumn: Sales.SalesTerritoryKey
+	toColumn: SalesTerritory.SalesTerritoryKey
+

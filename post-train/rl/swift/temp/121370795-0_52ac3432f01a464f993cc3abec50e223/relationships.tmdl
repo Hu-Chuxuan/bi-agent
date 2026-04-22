@@ -1,0 +1,34 @@
+﻿relationship 94f3a6f2-21b7-488d-903f-bdfef73ecc3a
+	crossFilteringBehavior: bothDirections
+	fromColumn: DimProduct.CatID
+	toColumn: DimCategory.'Cat ID'
+
+relationship bc8dcaf3-7de2-4161-a745-e0df55ba0f59
+	crossFilteringBehavior: bothDirections
+	fromColumn: FactSales.Productid
+	toColumn: DimProduct.Productid
+
+relationship 658aa697-abe5-4c77-b571-17f1ed3de05d
+	fromColumn: FactSales.CustID
+	toColumn: DimCustomer.CustID
+
+relationship c7181e43-49cb-4a3d-b48a-6d8081b7923a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FactSales.OrderDate
+	toColumn: LocalDateTable_97ae1971-369c-4f30-9177-d7af9ae5cfc1.Date
+
+relationship 71a6ca94-5463-4c3f-b80f-3f8d5008b5f2
+	crossFilteringBehavior: bothDirections
+	fromColumn: FactSales.LocationKey
+	toColumn: DimLocation.LocationKey
+
+relationship 17b42879-5e86-4649-a1ba-3713eb854450
+	joinOnDateBehavior: datePartOnly
+	fromColumn: vTargetMail.BirthDate
+	toColumn: LocalDateTable_34b95de2-4202-48f1-bd80-af11333eaad2.Date
+
+relationship 42739282-70aa-42a7-afb7-9ead800b0272
+	joinOnDateBehavior: datePartOnly
+	fromColumn: vTargetMail.DateFirstPurchase
+	toColumn: LocalDateTable_a940a933-24e8-49b4-9a98-7c6197417537.Date
+

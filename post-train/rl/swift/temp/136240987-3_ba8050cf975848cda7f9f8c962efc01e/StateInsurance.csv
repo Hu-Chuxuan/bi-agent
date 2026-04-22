@@ -1,0 +1,209 @@
+Census_State,Attribute,Value
+"Alabama","Any Public Insurance",19.9918
+"Alabama","Medicare",6.0554
+"Alabama","Medicaid",13.6304
+"Alabama","VA",0.3059
+"Alaska","Any Public Insurance",19.5722
+"Alaska","Medicare",3.2723
+"Alaska","Medicaid",15.7231
+"Alaska","VA",0.5767
+"Arizona","Any Public Insurance",23.3667
+"Arizona","Medicare",6.7069
+"Arizona","Medicaid",16.3285
+"Arizona","VA",0.3312
+"Arkansas","Any Public Insurance",27.0567
+"Arkansas","Medicare",6.7463
+"Arkansas","Medicaid",19.9163
+"Arkansas","VA",0.394
+"California","Any Public Insurance",25.1676
+"California","Medicare",5.0844
+"California","Medicaid",19.8876
+"California","VA",0.1955
+"Colorado","Any Public Insurance",19.6417
+"Colorado","Medicare",5.3022
+"Colorado","Medicaid",14.008
+"Colorado","VA",0.3315
+"Connecticut","Any Public Insurance",21.0127
+"Connecticut","Medicare",5.4258
+"Connecticut","Medicaid",15.4362
+"Connecticut","VA",0.1506
+"Delaware","Any Public Insurance",20.2894
+"Delaware","Medicare",5.2707
+"Delaware","Medicaid",14.8032
+"Delaware","VA",0.2153
+"District of Columbia","Any Public Insurance",22.2665
+"District of Columbia","Medicare",2.5724
+"District of Columbia","Medicaid",19.552
+"District of Columbia","VA",0.142
+"Florida","Any Public Insurance",20.8987
+"Florida","Medicare",8.3227
+"Florida","Medicaid",12.2078
+"Florida","VA",0.3681
+"Georgia","Any Public Insurance",17.9338
+"Georgia","Medicare",5.2576
+"Georgia","Medicaid",12.3086
+"Georgia","VA",0.3675
+"Hawaii","Any Public Insurance",17.2859
+"Hawaii","Medicare",4.3206
+"Hawaii","Medicaid",12.7509
+"Hawaii","VA",0.2144
+"Idaho","Any Public Insurance",17.2381
+"Idaho","Medicare",5.1525
+"Idaho","Medicaid",11.7935
+"Idaho","VA",0.292
+"Illinois","Any Public Insurance",20.4615
+"Illinois","Medicare",5.3311
+"Illinois","Medicaid",14.9466
+"Illinois","VA",0.1837
+"Indiana","Any Public Insurance",19.015
+"Indiana","Medicare",5.4722
+"Indiana","Medicaid",13.2802
+"Indiana","VA",0.2625
+"Iowa","Any Public Insurance",18.4182
+"Iowa","Medicare",4.7224
+"Iowa","Medicaid",13.4605
+"Iowa","VA",0.2352
+"Kansas","Any Public Insurance",14.4035
+"Kansas","Medicare",4.9436
+"Kansas","Medicaid",9.1826
+"Kansas","VA",0.2771
+"Kentucky","Any Public Insurance",25.9809
+"Kentucky","Medicare",5.8399
+"Kentucky","Medicaid",19.8688
+"Kentucky","VA",0.2721
+"Louisiana","Any Public Insurance",27.729
+"Louisiana","Medicare",6.1517
+"Louisiana","Medicaid",21.2528
+"Louisiana","VA",0.3244
+"Maine","Any Public Insurance",17.1497
+"Maine","Medicare",5.9233
+"Maine","Medicaid",10.8401
+"Maine","VA",0.3862
+"Maryland","Any Public Insurance",17.6282
+"Maryland","Medicare",3.9454
+"Maryland","Medicaid",13.5018
+"Maryland","VA",0.1809
+"Massachusetts","Any Public Insurance",19.7344
+"Massachusetts","Medicare",4.053
+"Massachusetts","Medicaid",15.5777
+"Massachusetts","VA",0.1035
+"Michigan","Any Public Insurance",20.4397
+"Michigan","Medicare",4.2177
+"Michigan","Medicaid",16.0222
+"Michigan","VA",0.1998
+"Minnesota","Any Public Insurance",17.3391
+"Minnesota","Medicare",3.8556
+"Minnesota","Medicaid",13.2925
+"Minnesota","VA",0.1909
+"Mississippi","Any Public Insurance",23.0744
+"Mississippi","Medicare",6.0112
+"Mississippi","Medicaid",16.7548
+"Mississippi","VA",0.3083
+"Missouri","Any Public Insurance",17.3893
+"Missouri","Medicare",6.7214
+"Missouri","Medicaid",10.3047
+"Missouri","VA",0.363
+"Montana","Any Public Insurance",21.9477
+"Montana","Medicare",6.0397
+"Montana","Medicaid",15.4091
+"Montana","VA",0.4989
+"Nebraska","Any Public Insurance",14.1526
+"Nebraska","Medicare",4.9408
+"Nebraska","Medicaid",8.9239
+"Nebraska","VA",0.2878
+"Nevada","Any Public Insurance",21.1748
+"Nevada","Medicare",6.7164
+"Nevada","Medicaid",14.0523
+"Nevada","VA",0.406
+"New Hampshire","Any Public Insurance",15.5308
+"New Hampshire","Medicare",5.6698
+"New Hampshire","Medicaid",9.5989
+"New Hampshire","VA",0.2621
+"New Jersey","Any Public Insurance",17.8136
+"New Jersey","Medicare",5.3086
+"New Jersey","Medicaid",12.4251
+"New Jersey","VA",0.0798
+"New Mexico","Any Public Insurance",31.9
+"New Mexico","Medicare",6.3274
+"New Mexico","Medicaid",25.2404
+"New Mexico","VA",0.3321
+"New York","Any Public Insurance",23.5644
+"New York","Medicare",4.8378
+"New York","Medicaid",18.6015
+"New York","VA",0.125
+"North Carolina","Any Public Insurance",19.2897
+"North Carolina","Medicare",5.8047
+"North Carolina","Medicaid",13.0975
+"North Carolina","VA",0.3874
+"North Dakota","Any Public Insurance",11.3961
+"North Dakota","Medicare",3.6048
+"North Dakota","Medicaid",7.5767
+"North Dakota","VA",0.2145
+"Ohio","Any Public Insurance",22.1139
+"Ohio","Medicare",6.0861
+"Ohio","Medicaid",15.7653
+"Ohio","VA",0.2624
+"Oklahoma","Any Public Insurance",19.1626
+"Oklahoma","Medicare",5.6838
+"Oklahoma","Medicaid",13.0045
+"Oklahoma","VA",0.4742
+"Oregon","Any Public Insurance",22.2914
+"Oregon","Medicare",5.657
+"Oregon","Medicaid",16.2728
+"Oregon","VA",0.3616
+"Pennsylvania","Any Public Insurance",19.1177
+"Pennsylvania","Medicare",5.2216
+"Pennsylvania","Medicaid",13.7206
+"Pennsylvania","VA",0.1755
+"Puerto Rico","Any Public Insurance",44.115
+"Puerto Rico","Medicare",9.0805
+"Puerto Rico","Medicaid",34.8452
+"Puerto Rico","VA",0.1892
+"Rhode Island","Any Public Insurance",20.7166
+"Rhode Island","Medicare",5.5711
+"Rhode Island","Medicaid",14.9992
+"Rhode Island","VA",0.1462
+"South Carolina","Any Public Insurance",20.2256
+"South Carolina","Medicare",6.1334
+"South Carolina","Medicaid",13.7216
+"South Carolina","VA",0.3705
+"South Dakota","Any Public Insurance",15.5609
+"South Dakota","Medicare",5.5542
+"South Dakota","Medicaid",9.6687
+"South Dakota","VA",0.3379
+"Tennessee","Any Public Insurance",20.669
+"Tennessee","Medicare",6.1195
+"Tennessee","Medicaid",14.1677
+"Tennessee","VA",0.3817
+"Texas","Any Public Insurance",17.683
+"Texas","Medicare",4.8702
+"Texas","Medicaid",12.4768
+"Texas","VA",0.3359
+"Utah","Any Public Insurance",10.8526
+"Utah","Medicare",3.7397
+"Utah","Medicaid",6.9662
+"Utah","VA",0.1466
+"Vermont","Any Public Insurance",23.4884
+"Vermont","Medicare",5.7272
+"Vermont","Medicaid",17.5625
+"Vermont","VA",0.1986
+"Virginia","Any Public Insurance",14.254
+"Virginia","Medicare",4.7399
+"Virginia","Medicaid",9.0885
+"Virginia","VA",0.4254
+"Washington","Any Public Insurance",19.9085
+"Washington","Medicare",4.7372
+"Washington","Medicaid",14.9114
+"Washington","VA",0.2598
+"West Virginia","Any Public Insurance",26.542
+"West Virginia","Medicare",6.4337
+"West Virginia","Medicaid",19.6294
+"West Virginia","VA",0.4787
+"Wisconsin","Any Public Insurance",16.9602
+"Wisconsin","Medicare",5.2529
+"Wisconsin","Medicaid",11.4421
+"Wisconsin","VA",0.2651
+"Wyoming","Any Public Insurance",12.7582
+"Wyoming","Medicare",5.0938
+"Wyoming","Medicaid",7.3398
+"Wyoming","VA",0.3245

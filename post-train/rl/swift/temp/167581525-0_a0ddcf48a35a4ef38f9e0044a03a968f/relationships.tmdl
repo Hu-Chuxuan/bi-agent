@@ -1,0 +1,9 @@
+﻿relationship 3f895b7f-8090-425d-a9d0-ba8aa71fafb1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.LINK_Date
+	toColumn: LocalDateTable_bab52d5e-13a7-4b36-9795-0789a3053d8f.Date
+
+relationship bf46d9d5-f512-4076-8fc7-e9573baa4f5b
+	fromColumn: Sales.LINK_Date
+	toColumn: Calendar.LINK_Date
+

@@ -1,0 +1,15 @@
+PKCatalogName,PKSchemaName,PKTableName,FKCatalogName,FKSchemaName,FKTableName,AverageDuration,MaxDuration
+"","","","sample_mflix","","movies",4.2561342592592591E-08,4.320601851851852E-08
+"sample_mflix","","movies","","","",4.7831018518518517E-08,5.1618055555555556E-08
+"","","","sample_mflix","","movies_cast",4.1501157407407405E-08,4.1787037037037036E-08
+"sample_mflix","","movies_cast","","","",3.0091435185185183E-08,3.385185185185185E-08
+"","","","sample_mflix","","movies_countries",4.0762731481481482E-08,4.7505787037037035E-08
+"sample_mflix","","movies_countries","","","",3.197453703703704E-08,3.4384259259259261E-08
+"","","","sample_mflix","","movies_directors",3.1046296296296295E-08,3.8708333333333334E-08
+"sample_mflix","","movies_directors","","","",2.678587962962963E-08,2.7504629629629631E-08
+"","","","sample_mflix","","movies_genres",3.3568287037037034E-08,3.4978009259259259E-08
+"sample_mflix","","movies_genres","","","",2.4664351851851851E-08,2.7450231481481481E-08
+"","","","sample_mflix","","movies_languages",3.4599537037037039E-08,3.7057870370370369E-08
+"sample_mflix","","movies_languages","","","",2.38125E-08,2.6214120370370372E-08
+"","","","sample_mflix","","movies_writers",3.8087962962962963E-08,3.8168981481481479E-08
+"sample_mflix","","movies_writers","","","",2.6021990740740741E-08,2.7483796296296295E-08

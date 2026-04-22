@@ -1,0 +1,20 @@
+ProductId,ProductName,Animal,HabitatId,Legs,FamilyId,WeightGrams,ProductionCost
+1,"Sammy","Snake",1,0,1,950,7.19
+2,"Pokyo","Penguin",4,2,3,850,4.5
+3,"Fenella","Frog",3,4,4,400,10.79
+4,"Layla","Lemur",2,2,5,550,4.28
+5,"Dave","Dachsund",1,4,5,775,5.85
+6,"Kylie","Camel",5,4,5,1200,3.15
+7,"Jeremy","Jackdaw",7,2,3,295,7.65
+8,"Faye","Fox",6,4,5,420,4.95
+9,"Oliver","Owl",7,2,3,380,6.75
+10,"Cleopatra","Clownfish",4,0,2,290,2.69
+11,"Oscar","Otter",3,4,5,340,13.72
+12,"Bob","Butterfly",7,6,6,450,5.85
+13,"Englebert","Elephant",1,4,5,1450,3.15
+14,"Petronella","Parakeet",2,2,3,520,4.05
+15,"Rheinhardt","Rattlesnake",5,0,1,890,7.65
+16,"Nora","Natterjack toad",3,4,4,560,6.75
+17,"Yoko","Yak",1,4,5,1350,10.79
+18,"Malcolm","Meerkat",1,4,5,670,14.85
+19,"Imogen","Impala",1,4,5,990,3.59

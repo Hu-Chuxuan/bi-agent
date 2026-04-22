@@ -1,0 +1,29 @@
+﻿relationship 118c31f9-ac7b-4999-8f5c-4d25f312b472
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'public date_table'.document_date
+	toColumn: LocalDateTable_c1fb5574-4376-4b5e-abb8-b81df2d3e803.Date
+
+relationship b61f9c6e-6638-44d1-a161-80f38c39993a
+	fromColumn: 'public commune'.adm1code
+	toColumn: 'public department'.adm1code
+
+relationship 16bbbf4b-d2b6-4dcc-90f7-cbd2999e9722
+	fromColumn: 'public covid_cases'.adm1code
+	toColumn: 'public department'.adm1code
+
+relationship ad082090-07bd-4761-9044-c3b929c3d1ba
+	fromColumn: 'public covid_cases'.date_Id
+	toColumn: 'public date_table'.date_Id
+
+relationship 1ba94d9d-43d7-4c76-a58f-0a14a4fd5c0e
+	fromColumn: 'public spa'.commune_id
+	toColumn: 'public commune'.adm2code
+
+relationship 24bc7e7b-4e86-4091-b8d6-b25523138789
+	fromColumn: 'public spa'.facdesc_1
+	toColumn: 'public facdesc_table'.index
+
+relationship 474f26aa-c0d9-40b3-ac7a-54685a4db41e
+	fromColumn: 'public spa'.mga
+	toColumn: 'public mga_table'.index
+

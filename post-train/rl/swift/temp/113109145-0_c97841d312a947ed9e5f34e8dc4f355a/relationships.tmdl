@@ -1,0 +1,16 @@
+﻿relationship 2a307f66-ae39-425d-afe2-cf5400f59eab
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table 2'.Date
+	toColumn: LocalDateTable_cb4b0317-de7d-4a8b-8e3a-a3e00e3ad0ff.Date
+
+relationship 73c9a471-932f-4f4d-83b2-47cb9b066d71
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Table.Value
+	toColumn: 'Table (3)'.Value
+
+relationship 111761df-8c33-4d15-ab05-abef24f24902
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Table (8)'.Date
+	toColumn: LocalDateTable_e7bb6c05-5651-469e-b82d-66459948e2dc.Date
+

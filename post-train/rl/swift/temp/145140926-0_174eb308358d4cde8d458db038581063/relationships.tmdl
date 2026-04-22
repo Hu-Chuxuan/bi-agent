@@ -1,0 +1,9 @@
+﻿relationship f4d09f63-b472-4142-9918-fa402f050e7b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: payment.created
+	toColumn: LocalDateTable_acfbc1df-46d9-46a5-92bd-5bf8d32b4dea.Date
+
+relationship 440f8fbc-8cbb-443f-b12d-b1d91c6126af
+	fromColumn: payment.id
+	toColumn: customer.id
+

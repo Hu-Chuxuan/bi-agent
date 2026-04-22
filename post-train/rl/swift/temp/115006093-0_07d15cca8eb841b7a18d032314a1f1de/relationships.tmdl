@@ -1,0 +1,63 @@
+﻿relationship baf35e41-7208-4aa4-b8c3-04ce33144942
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Einsatz.'FACT_EINSATZ.Alarmdatumbezug'
+	toColumn: LocalDateTable_365e83d0-6d34-43f6-9f56-693367f40187.Date
+
+relationship b752b046-8e36-4c35-b064-6473617f304d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Einsatz.'FACT_EINSATZ.Alarmdatumzeit'
+	toColumn: LocalDateTable_9b58562a-c837-41d9-a742-243f7136061c.Date
+
+relationship ce0d4d1c-4452-4045-9cf5-9ceebe4174f8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Einsatz.'FACT_EINSATZ.dss_create_time'
+	toColumn: LocalDateTable_90371dfb-7bca-4a01-ad53-2b0e2b76cc2f.Date
+
+relationship 411ba91e-84d2-4cc0-a989-1b18740a83ce
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Einsatz.'FACT_EINSATZ.dss_update_time'
+	toColumn: LocalDateTable_9826cb5d-e10a-43b7-95be-f168f30bf3d2.Date
+
+relationship e5e144ae-47fd-4f4a-a3a2-809a89273628
+	crossFilteringBehavior: bothDirections
+	fromColumn: S2_BRIDGE_Flugbewegung_Position.'BRIDGE_FLUGBEWEGUNG_POSITION.FACT_FLUGBEWEGUNG_SK'
+	toColumn: S2_FACT_Flugbewegung.'FACT_FLUGBEWEGUNG.FACT_FLUGBEWEGUNG_SK'
+
+relationship deeacd7e-9fed-4c14-9cda-9a6fabf65014
+	fromColumn: S2_BRIDGE_Flugbewegung_Position.'BRIDGE_FLUGBEWEGUNG_POSITION.FACT_POSITION_SK'
+	toColumn: S2_FACT_Position.'FACT_POSITION.FACT_POSITION_SK'
+
+relationship 925f92c1-0f30-463e-a6cf-4076352e39b7
+	fromColumn: S2_FACT_Position.'FACT_POSITION.FACT_EINSATZ_SK'
+	toColumn: S2_FACT_Einsatz.'FACT_EINSATZ.FACT_EINSATZ_SK'
+
+relationship 037ec0af-430c-4a12-b0e1-96847eb4c9fb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Flugbewegung.'FACT_FLUGBEWEGUNG.LandungDatumzeit'
+	toColumn: LocalDateTable_7fb5dc76-841e-406c-bfc1-4ba3b1492a1b.Date
+
+relationship 28c59459-fa9c-4916-a5ac-44466f6c12d5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Flugbewegung.'FACT_FLUGBEWEGUNG.StartDatumzeit'
+	toColumn: LocalDateTable_bdb367b7-4778-4f05-8622-1e888635bccd.Date
+
+relationship 23b5e5e1-4608-4f64-a94f-439d9796e6f1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Flugbewegung.'FACT_FLUGBEWEGUNG.ldatum'
+	toColumn: LocalDateTable_523c9611-92e0-4a77-a97d-f159d5f534c8.Date
+
+relationship d903d5bc-477a-442a-ad7e-f7ac69ef3229
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_FACT_Flugbewegung.'FACT_FLUGBEWEGUNG.strtd'
+	toColumn: LocalDateTable_d43e990e-6b1e-411e-82cc-53a3c5c315ca.Date
+
+relationship 8e070ee2-cc1c-4511-98fe-0bbdca41dcef
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_BRIDGE_Flugbewegung_Position.'BRIDGE_FLUGBEWEGUNG_POSITION.dss_create_time'
+	toColumn: LocalDateTable_1cbaefba-57d1-47d3-9a0a-327e9b4110d6.Date
+
+relationship f1b432ab-5828-4798-823c-41313b960430
+	joinOnDateBehavior: datePartOnly
+	fromColumn: S2_BRIDGE_Flugbewegung_Position.'BRIDGE_FLUGBEWEGUNG_POSITION.dss_update_time'
+	toColumn: LocalDateTable_76161563-804b-4cf1-b6cc-00ed045c2886.Date
+

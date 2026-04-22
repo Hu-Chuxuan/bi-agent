@@ -1,0 +1,801 @@
+id,variable,value
+5408,season,2009/2010
+717,season,2010/2011
+7827,season,2008/2009
+1258,season,2014/2015
+6774,season,2013/2014
+19826,season,2008/2009
+9024,season,2011/2012
+20919,season,2013/2014
+19772,season,2008/2009
+5946,season,2011/2012
+336,season,2009/2010
+7365,season,2014/2015
+20198,season,2010/2011
+20320,season,2010/2011
+21482,season,2015/2016
+7766,season,2015/2016
+7676,season,2015/2016
+20276,season,2010/2011
+1495,season,2015/2016
+5835,season,2010/2011
+510,season,2009/2010
+8484,season,2010/2011
+8088,season,2008/2009
+8989,season,2011/2012
+4856,season,2008/2009
+156,season,2008/2009
+426,season,2009/2010
+9429,season,2013/2014
+637,season,2010/2011
+9564,season,2013/2014
+357,season,2009/2010
+9493,season,2013/2014
+749,season,2010/2011
+5725,season,2010/2011
+5814,season,2010/2011
+1393,season,2014/2015
+19838,season,2008/2009
+20570,season,2011/2012
+9232,season,2012/2013
+20721,season,2012/2013
+8259,season,2009/2010
+8016,season,2008/2009
+693,season,2010/2011
+10113,season,2015/2016
+21284,season,2014/2015
+21063,season,2014/2015
+853,season,2011/2012
+6843,season,2013/2014
+10095,season,2015/2016
+9519,season,2013/2014
+7165,season,2014/2015
+1434,season,2014/2015
+845,season,2011/2012
+5656,season,2010/2011
+20864,season,2013/2014
+20696,season,2012/2013
+541,season,2010/2011
+5304,season,2009/2010
+280,season,2008/2009
+21104,season,2014/2015
+6715,season,2013/2014
+9087,season,2012/2013
+20300,season,2010/2011
+377,season,2009/2010
+20828,season,2012/2013
+918,season,2011/2012
+597,season,2010/2011
+9457,season,2013/2014
+20900,season,2013/2014
+733,season,2010/2011
+8385,season,2009/2010
+7616,season,2015/2016
+7525,season,2015/2016
+813,season,2011/2012
+21350,season,2015/2016
+662,season,2010/2011
+20403,season,2011/2012
+20143,season,2009/2010
+199,season,2008/2009
+1649,season,2015/2016
+21075,season,2014/2015
+4956,season,2008/2009
+4886,season,2008/2009
+1053,season,2012/2013
+829,season,2011/2012
+8196,season,2009/2010
+7809,season,2008/2009
+4906,season,2008/2009
+37,season,2008/2009
+653,season,2010/2011
+21512,season,2015/2016
+6623,season,2012/2013
+7998,season,2008/2009
+9294,season,2012/2013
+1229,season,2012/2013
+5866,season,2010/2011
+6665,season,2012/2013
+6983,season,2013/2014
+1721,season,2015/2016
+7645,season,2015/2016
+5408,date,2010-04-10 00:00:00.000
+717,date,2010-08-28 00:00:00.000
+7827,date,2008-11-01 00:00:00.000
+1258,date,2014-10-05 00:00:00.000
+6774,date,2013-12-22 00:00:00.000
+19826,date,2008-08-23 00:00:00.000
+9024,date,2011-10-15 00:00:00.000
+20919,date,2014-01-29 00:00:00.000
+19772,date,2009-01-03 00:00:00.000
+5946,date,2011-10-29 00:00:00.000
+336,date,2009-10-31 00:00:00.000
+7365,date,2015-05-23 00:00:00.000
+20198,date,2010-12-21 00:00:00.000
+20320,date,2011-05-01 00:00:00.000
+21482,date,2015-08-15 00:00:00.000
+7766,date,2015-09-11 00:00:00.000
+7676,date,2016-03-20 00:00:00.000
+20276,date,2011-03-05 00:00:00.000
+1495,date,2015-07-26 00:00:00.000
+5835,date,2011-05-21 00:00:00.000
+510,date,2009-09-27 00:00:00.000
+8484,date,2010-12-11 00:00:00.000
+8088,date,2008-10-04 00:00:00.000
+8989,date,2011-09-10 00:00:00.000
+4856,date,2008-12-07 00:00:00.000
+156,date,2009-03-07 00:00:00.000
+426,date,2010-02-06 00:00:00.000
+9429,date,2014-02-02 00:00:00.000
+637,date,2011-01-23 00:00:00.000
+9564,date,2014-04-26 00:00:00.000
+357,date,2009-11-27 00:00:00.000
+9493,date,2014-03-15 00:00:00.000
+749,date,2010-09-26 00:00:00.000
+5725,date,2011-03-13 00:00:00.000
+5814,date,2011-05-10 00:00:00.000
+1393,date,2015-02-15 00:00:00.000
+19838,date,2009-04-04 00:00:00.000
+20570,date,2011-08-13 00:00:00.000
+9232,date,2012-09-15 00:00:00.000
+20721,date,2013-02-16 00:00:00.000
+8259,date,2010-02-28 00:00:00.000
+8016,date,2009-05-02 00:00:00.000
+693,date,2010-08-14 00:00:00.000
+10113,date,2016-03-12 00:00:00.000
+21284,date,2014-10-05 00:00:00.000
+21063,date,2014-12-03 00:00:00.000
+853,date,2012-01-15 00:00:00.000
+6843,date,2014-02-14 00:00:00.000
+10095,date,2016-03-02 00:00:00.000
+9519,date,2014-03-29 00:00:00.000
+7165,date,2014-08-16 00:00:00.000
+1434,date,2015-03-15 00:00:00.000
+845,date,2011-08-05 00:00:00.000
+5656,date,2011-01-15 00:00:00.000
+20864,date,2013-11-23 00:00:00.000
+20696,date,2013-01-19 00:00:00.000
+541,date,2010-10-24 00:00:00.000
+5304,date,2010-02-06 00:00:00.000
+280,date,2008-10-03 00:00:00.000
+21104,date,2014-12-14 00:00:00.000
+6715,date,2013-11-09 00:00:00.000
+9087,date,2012-12-01 00:00:00.000
+20300,date,2011-04-09 00:00:00.000
+377,date,2010-02-03 00:00:00.000
+20828,date,2012-10-07 00:00:00.000
+918,date,2012-03-04 00:00:00.000
+597,date,2010-12-12 00:00:00.000
+9457,date,2014-02-15 00:00:00.000
+20900,date,2014-02-02 00:00:00.000
+733,date,2010-09-19 00:00:00.000
+8385,date,2009-09-19 00:00:00.000
+7616,date,2016-02-13 00:00:00.000
+7525,date,2015-12-13 00:00:00.000
+813,date,2011-12-04 00:00:00.000
+21350,date,2015-12-19 00:00:00.000
+662,date,2011-02-12 00:00:00.000
+20403,date,2011-10-29 00:00:00.000
+20143,date,2009-10-17 00:00:00.000
+199,date,2008-08-30 00:00:00.000
+1649,date,2016-02-28 00:00:00.000
+21075,date,2014-10-26 00:00:00.000
+4956,date,2009-03-01 00:00:00.000
+4886,date,2008-08-16 00:00:00.000
+1053,date,2012-11-18 00:00:00.000
+829,date,2011-12-18 00:00:00.000
+8196,date,2010-01-15 00:00:00.000
+7809,date,2008-08-15 00:00:00.000
+4906,date,2009-01-18 00:00:00.000
+37,date,2008-11-22 00:00:00.000
+653,date,2011-02-05 00:00:00.000
+21512,date,2015-09-26 00:00:00.000
+6623,date,2012-09-14 00:00:00.000
+7998,date,2009-04-25 00:00:00.000
+9294,date,2012-09-25 00:00:00.000
+1229,date,2012-09-29 00:00:00.000
+5866,date,2010-09-11 00:00:00.000
+6665,date,2012-10-20 00:00:00.000
+6983,date,2014-05-17 00:00:00.000
+1721,date,2015-09-27 00:00:00.000
+7645,date,2016-03-05 00:00:00.000
+5408,match_api_id,654548
+717,match_api_id,838517
+7827,match_api_id,499407
+1258,match_api_id,1717890
+6774,match_api_id,1468314
+19826,match_api_id,489993
+9024,match_api_id,1029932
+20919,match_api_id,1474385
+19772,match_api_id,490101
+5946,match_api_id,1019558
+336,match_api_id,665536
+7365,match_api_id,1710073
+20198,match_api_id,840325
+20320,match_api_id,1005021
+21482,match_api_id,1990861
+7766,match_api_id,1989825
+7676,match_api_id,1990037
+20276,match_api_id,840397
+1495,match_api_id,1979838
+5835,match_api_id,830534
+510,match_api_id,665396
+8484,match_api_id,857045
+8088,match_api_id,499371
+8989,match_api_id,1029835
+4856,match_api_id,483296
+156,match_api_id,493027
+426,match_api_id,665698
+9429,match_api_id,1479154
+637,match_api_id,838759
+9564,match_api_id,1479276
+357,match_api_id,665586
+9493,match_api_id,1479212
+749,match_api_id,838567
+5725,match_api_id,830313
+5814,match_api_id,830498
+1393,match_api_id,1718017
+19838,match_api_id,490161
+20570,match_api_id,1024200
+9232,match_api_id,1239495
+20721,match_api_id,1230373
+8259,match_api_id,674479
+8016,match_api_id,499578
+693,match_api_id,838491
+10113,match_api_id,2002318
+21284,match_api_id,1726067
+21063,match_api_id,1726020
+853,match_api_id,1032844
+6843,match_api_id,1468442
+10095,match_api_id,2002300
+9519,match_api_id,1479238
+7165,match_api_id,1709713
+1434,match_api_id,1718050
+845,match_api_id,1032700
+5656,match_api_id,830143
+20864,match_api_id,1474276
+20696,match_api_id,1230088
+541,match_api_id,838599
+5304,match_api_id,654363
+280,match_api_id,492536
+21104,match_api_id,1726109
+6715,match_api_id,1468285
+9087,match_api_id,1239594
+20300,match_api_id,840415
+377,match_api_id,665626
+20828,match_api_id,1229028
+918,match_api_id,1032910
+597,match_api_id,838707
+9457,match_api_id,1479175
+20900,match_api_id,1474129
+733,match_api_id,838540
+8385,match_api_id,674308
+7616,match_api_id,1990137
+7525,match_api_id,1989954
+813,match_api_id,1032812
+21350,match_api_id,1990951
+662,match_api_id,838804
+20403,match_api_id,1024370
+20143,match_api_id,658778
+199,match_api_id,492491
+1649,match_api_id,1980040
+21075,match_api_id,1726080
+4956,match_api_id,483386
+4886,match_api_id,483146
+1053,match_api_id,1224103
+829,match_api_id,1032828
+8196,match_api_id,674422
+7809,match_api_id,499317
+4906,match_api_id,483336
+37,match_api_id,492591
+653,match_api_id,838789
+21512,match_api_id,1990891
+6623,match_api_id,1216855
+7998,match_api_id,499569
+9294,match_api_id,1239476
+1229,match_api_id,1224047
+5866,match_api_id,829918
+6665,match_api_id,1216897
+6983,match_api_id,1468574
+1721,match_api_id,1979888
+7645,match_api_id,1990016
+5408,home_team_api_id,9847
+717,home_team_api_id,8635
+7827,home_team_api_id,9823
+1258,home_team_api_id,8635
+6774,home_team_api_id,9847
+19826,home_team_api_id,9925
+9024,home_team_api_id,9823
+20919,home_team_api_id,9925
+19772,home_team_api_id,9925
+5946,home_team_api_id,9847
+336,home_team_api_id,8635
+7365,home_team_api_id,9847
+20198,home_team_api_id,9925
+20320,home_team_api_id,9925
+21482,home_team_api_id,9925
+7766,home_team_api_id,9847
+7676,home_team_api_id,9847
+20276,home_team_api_id,9925
+1495,home_team_api_id,8635
+5835,home_team_api_id,9847
+510,home_team_api_id,8635
+8484,home_team_api_id,9823
+8088,home_team_api_id,9823
+8989,home_team_api_id,9823
+4856,home_team_api_id,9847
+156,home_team_api_id,8635
+426,home_team_api_id,8635
+9429,home_team_api_id,9823
+637,home_team_api_id,8635
+9564,home_team_api_id,9823
+357,home_team_api_id,8635
+9493,home_team_api_id,9823
+749,home_team_api_id,8635
+5725,home_team_api_id,9847
+5814,home_team_api_id,9847
+1393,home_team_api_id,8635
+19838,home_team_api_id,9925
+20570,home_team_api_id,9925
+9232,home_team_api_id,9823
+20721,home_team_api_id,9925
+8259,home_team_api_id,9823
+8016,home_team_api_id,9823
+693,home_team_api_id,8635
+10113,home_team_api_id,9823
+21284,home_team_api_id,9925
+21063,home_team_api_id,9925
+853,home_team_api_id,8635
+6843,home_team_api_id,9847
+10095,home_team_api_id,9823
+9519,home_team_api_id,9823
+7165,home_team_api_id,9847
+1434,home_team_api_id,8635
+845,home_team_api_id,8635
+5656,home_team_api_id,9847
+20864,home_team_api_id,9925
+20696,home_team_api_id,9925
+541,home_team_api_id,8635
+5304,home_team_api_id,9847
+280,home_team_api_id,8635
+21104,home_team_api_id,9925
+6715,home_team_api_id,9847
+9087,home_team_api_id,9823
+20300,home_team_api_id,9925
+377,home_team_api_id,8635
+20828,home_team_api_id,9925
+918,home_team_api_id,8635
+597,home_team_api_id,8635
+9457,home_team_api_id,9823
+20900,home_team_api_id,9925
+733,home_team_api_id,8635
+8385,home_team_api_id,9823
+7616,home_team_api_id,9847
+7525,home_team_api_id,9847
+813,home_team_api_id,8635
+21350,home_team_api_id,9925
+662,home_team_api_id,8635
+20403,home_team_api_id,9925
+20143,home_team_api_id,9925
+199,home_team_api_id,8635
+1649,home_team_api_id,8635
+21075,home_team_api_id,9925
+4956,home_team_api_id,9847
+4886,home_team_api_id,9847
+1053,home_team_api_id,8635
+829,home_team_api_id,8635
+8196,home_team_api_id,9823
+7809,home_team_api_id,9823
+4906,home_team_api_id,9847
+37,home_team_api_id,8635
+653,home_team_api_id,8635
+21512,home_team_api_id,9925
+6623,home_team_api_id,9847
+7998,home_team_api_id,9823
+9294,home_team_api_id,9823
+1229,home_team_api_id,8635
+5866,home_team_api_id,9847
+6665,home_team_api_id,9847
+6983,home_team_api_id,9847
+1721,home_team_api_id,8635
+7645,home_team_api_id,9847
+5408,away_team_api_id,9827
+717,away_team_api_id,10000
+7827,away_team_api_id,9912
+1258,away_team_api_id,9987
+6774,away_team_api_id,8639
+19826,away_team_api_id,8596
+9024,away_team_api_id,8177
+20919,away_team_api_id,8597
+19772,away_team_api_id,9938
+5946,away_team_api_id,7819
+336,away_team_api_id,9994
+7365,away_team_api_id,9837
+20198,away_team_api_id,8597
+20320,away_team_api_id,9938
+21482,away_team_api_id,8066
+7766,away_team_api_id,9827
+7676,away_team_api_id,9829
+20276,away_team_api_id,8429
+1495,away_team_api_id,8475
+5835,away_team_api_id,8639
+510,away_team_api_id,9993
+8484,away_team_api_id,8152
+8088,away_team_api_id,9911
+8989,away_team_api_id,8358
+4856,away_team_api_id,8682
+156,away_team_api_id,10000
+426,away_team_api_id,9997
+9429,away_team_api_id,9810
+637,away_team_api_id,9985
+9564,away_team_api_id,8697
+357,away_team_api_id,8571
+9493,away_team_api_id,8178
+749,away_team_api_id,8203
+5725,away_team_api_id,10249
+5814,away_team_api_id,8481
+1393,away_team_api_id,8203
+19838,away_team_api_id,8429
+20570,away_team_api_id,9938
+9232,away_team_api_id,9905
+20721,away_team_api_id,9938
+8259,away_team_api_id,9790
+8016,away_team_api_id,9788
+693,away_team_api_id,9993
+10113,away_team_api_id,8697
+21284,away_team_api_id,8429
+21063,away_team_api_id,8426
+853,away_team_api_id,8342
+6843,away_team_api_id,9873
+10095,away_team_api_id,9905
+9519,away_team_api_id,8226
+7165,away_team_api_id,7794
+1434,away_team_api_id,9991
+845,away_team_api_id,8203
+5656,away_team_api_id,9874
+20864,away_team_api_id,8485
+20696,away_team_api_id,9860
+541,away_team_api_id,10001
+5304,away_team_api_id,8689
+280,away_team_api_id,9996
+21104,away_team_api_id,9800
+6715,away_team_api_id,9831
+9087,away_team_api_id,9789
+20300,away_team_api_id,9800
+377,away_team_api_id,8342
+20828,away_team_api_id,9860
+918,away_team_api_id,9984
+597,away_team_api_id,9994
+9457,away_team_api_id,8358
+20900,away_team_api_id,9800
+733,away_team_api_id,8571
+8385,away_team_api_id,8165
+7616,away_team_api_id,8639
+7525,away_team_api_id,9748
+813,away_team_api_id,1773
+21350,away_team_api_id,9927
+662,away_team_api_id,9984
+20403,away_team_api_id,10251
+20143,away_team_api_id,9927
+199,away_team_api_id,8571
+1649,away_team_api_id,9985
+21075,away_team_api_id,8597
+4956,away_team_api_id,8481
+4886,away_team_api_id,9827
+1053,away_team_api_id,8571
+829,away_team_api_id,9994
+8196,away_team_api_id,8226
+7809,away_team_api_id,9790
+4906,away_team_api_id,9874
+37,away_team_api_id,10001
+653,away_team_api_id,9997
+21512,away_team_api_id,9860
+6623,away_team_api_id,9941
+7998,away_team_api_id,10189
+9294,away_team_api_id,8721
+1229,away_team_api_id,9994
+5866,away_team_api_id,108893
+6665,away_team_api_id,9837
+6983,away_team_api_id,10249
+1721,away_team_api_id,9997
+7645,away_team_api_id,10249
+5408,home_team_goal,3
+717,home_team_goal,0
+7827,home_team_goal,3
+1258,home_team_goal,0
+6774,home_team_goal,2
+19826,home_team_goal,3
+9024,home_team_goal,4
+20919,home_team_goal,4
+19772,home_team_goal,2
+5946,home_team_goal,4
+336,home_team_goal,2
+7365,home_team_goal,3
+20198,home_team_goal,1
+20320,home_team_goal,4
+21482,home_team_goal,4
+7766,home_team_goal,2
+7676,home_team_goal,0
+20276,home_team_goal,2
+1495,home_team_goal,3
+5835,home_team_goal,2
+510,home_team_goal,1
+8484,home_team_goal,3
+8088,home_team_goal,3
+8989,home_team_goal,7
+4856,home_team_goal,3
+156,home_team_goal,2
+426,home_team_goal,1
+9429,home_team_goal,5
+637,home_team_goal,2
+9564,home_team_goal,5
+357,home_team_goal,1
+9493,home_team_goal,2
+749,home_team_goal,5
+5725,home_team_goal,2
+5814,home_team_goal,2
+1393,home_team_goal,1
+19838,home_team_goal,4
+20570,home_team_goal,5
+9232,home_team_goal,3
+20721,home_team_goal,6
+8259,home_team_goal,1
+8016,home_team_goal,2
+693,home_team_goal,4
+10113,home_team_goal,5
+21284,home_team_goal,0
+21063,home_team_goal,1
+853,home_team_goal,3
+6843,home_team_goal,3
+10095,home_team_goal,1
+9519,home_team_goal,3
+7165,home_team_goal,2
+1434,home_team_goal,1
+845,home_team_goal,3
+5656,home_team_goal,2
+20864,home_team_goal,3
+20696,home_team_goal,4
+541,home_team_goal,2
+5304,home_team_goal,0
+280,home_team_goal,2
+21104,home_team_goal,4
+6715,home_team_goal,3
+9087,home_team_goal,1
+20300,home_team_goal,1
+377,home_team_goal,3
+20828,home_team_goal,1
+918,home_team_goal,4
+597,home_team_goal,0
+9457,home_team_goal,4
+20900,home_team_goal,1
+733,home_team_goal,3
+8385,home_team_goal,2
+7616,home_team_goal,0
+7525,home_team_goal,5
+813,home_team_goal,0
+21350,home_team_goal,1
+662,home_team_goal,1
+20403,home_team_goal,0
+20143,home_team_goal,0
+199,home_team_goal,4
+1649,home_team_goal,3
+21075,home_team_goal,2
+4956,home_team_goal,4
+4886,home_team_goal,1
+1053,home_team_goal,1
+829,home_team_goal,3
+8196,home_team_goal,2
+7809,home_team_goal,2
+4906,home_team_goal,2
+37,home_team_goal,2
+653,home_team_goal,2
+21512,home_team_goal,0
+6623,home_team_goal,2
+7998,home_team_goal,0
+9294,home_team_goal,3
+1229,home_team_goal,3
+5866,home_team_goal,4
+6665,home_team_goal,1
+6983,home_team_goal,4
+1721,home_team_goal,1
+7645,home_team_goal,0
+5408,away_team_goal,1
+717,away_team_goal,0
+7827,away_team_goal,1
+1258,away_team_goal,0
+6774,away_team_goal,2
+19826,away_team_goal,0
+9024,away_team_goal,0
+20919,away_team_goal,0
+19772,away_team_goal,2
+5946,away_team_goal,2
+336,away_team_goal,0
+7365,away_team_goal,2
+20198,away_team_goal,1
+20320,away_team_goal,1
+21482,away_team_goal,2
+7766,away_team_goal,2
+7676,away_team_goal,2
+20276,away_team_goal,0
+1495,away_team_goal,2
+5835,away_team_goal,2
+510,away_team_goal,0
+8484,away_team_goal,0
+8088,away_team_goal,3
+8989,away_team_goal,0
+4856,away_team_goal,1
+156,away_team_goal,0
+426,away_team_goal,2
+9429,away_team_goal,0
+637,away_team_goal,0
+9564,away_team_goal,2
+357,away_team_goal,0
+9493,away_team_goal,1
+749,away_team_goal,0
+5725,away_team_goal,2
+5814,away_team_goal,2
+1393,away_team_goal,1
+19838,away_team_goal,0
+20570,away_team_goal,1
+9232,away_team_goal,1
+20721,away_team_goal,2
+8259,away_team_goal,0
+8016,away_team_goal,1
+693,away_team_goal,0
+10113,away_team_goal,0
+21284,away_team_goal,1
+21063,away_team_goal,0
+853,away_team_goal,0
+6843,away_team_goal,0
+10095,away_team_goal,2
+9519,away_team_goal,3
+7165,away_team_goal,0
+1434,away_team_goal,2
+845,away_team_goal,1
+5656,away_team_goal,1
+20864,away_team_goal,1
+20696,away_team_goal,1
+541,away_team_goal,0
+5304,away_team_goal,3
+280,away_team_goal,1
+21104,away_team_goal,1
+6715,away_team_goal,1
+9087,away_team_goal,1
+20300,away_team_goal,0
+377,away_team_goal,2
+20828,away_team_goal,0
+918,away_team_goal,0
+597,away_team_goal,0
+9457,away_team_goal,0
+20900,away_team_goal,0
+733,away_team_goal,0
+8385,away_team_goal,1
+7616,away_team_goal,0
+7525,away_team_goal,1
+813,away_team_goal,0
+21350,away_team_goal,2
+662,away_team_goal,0
+20403,away_team_goal,0
+20143,away_team_goal,0
+199,away_team_goal,0
+1649,away_team_goal,3
+21075,away_team_goal,0
+4956,away_team_goal,1
+4886,away_team_goal,0
+1053,away_team_goal,0
+829,away_team_goal,2
+8196,away_team_goal,0
+7809,away_team_goal,2
+4906,away_team_goal,1
+37,away_team_goal,0
+653,away_team_goal,0
+21512,away_team_goal,0
+6623,away_team_goal,0
+7998,away_team_goal,1
+9294,away_team_goal,0
+1229,away_team_goal,0
+5866,away_team_goal,0
+6665,away_team_goal,0
+6983,away_team_goal,0
+1721,away_team_goal,0
+7645,away_team_goal,0
+5408,Result,Winn
+717,Result,Draw
+7827,Result,Winn
+1258,Result,Draw
+6774,Result,Draw
+19826,Result,Winn
+9024,Result,Winn
+20919,Result,Winn
+19772,Result,Draw
+5946,Result,Winn
+336,Result,Winn
+7365,Result,Winn
+20198,Result,Draw
+20320,Result,Winn
+21482,Result,Winn
+7766,Result,Draw
+7676,Result,Loss
+20276,Result,Winn
+1495,Result,Winn
+5835,Result,Draw
+510,Result,Winn
+8484,Result,Winn
+8088,Result,Draw
+8989,Result,Winn
+4856,Result,Winn
+156,Result,Winn
+426,Result,Loss
+9429,Result,Winn
+637,Result,Winn
+9564,Result,Winn
+357,Result,Winn
+9493,Result,Winn
+749,Result,Winn
+5725,Result,Draw
+5814,Result,Draw
+1393,Result,Draw
+19838,Result,Winn
+20570,Result,Winn
+9232,Result,Winn
+20721,Result,Winn
+8259,Result,Winn
+8016,Result,Winn
+693,Result,Winn
+10113,Result,Winn
+21284,Result,Loss
+21063,Result,Winn
+853,Result,Winn
+6843,Result,Winn
+10095,Result,Loss
+9519,Result,Draw
+7165,Result,Winn
+1434,Result,Loss
+845,Result,Winn
+5656,Result,Winn
+20864,Result,Winn
+20696,Result,Winn
+541,Result,Winn
+5304,Result,Loss
+280,Result,Winn
+21104,Result,Winn
+6715,Result,Winn
+9087,Result,Draw
+20300,Result,Winn
+377,Result,Winn
+20828,Result,Winn
+918,Result,Winn
+597,Result,Draw
+9457,Result,Winn
+20900,Result,Winn
+733,Result,Winn
+8385,Result,Winn
+7616,Result,Draw
+7525,Result,Winn
+813,Result,Draw
+21350,Result,Loss
+662,Result,Winn
+20403,Result,Draw
+20143,Result,Draw
+199,Result,Winn
+1649,Result,Draw
+21075,Result,Winn
+4956,Result,Winn
+4886,Result,Winn
+1053,Result,Winn
+829,Result,Winn
+8196,Result,Winn
+7809,Result,Draw
+4906,Result,Winn
+37,Result,Winn
+653,Result,Winn
+21512,Result,Draw
+6623,Result,Winn
+7998,Result,Loss
+9294,Result,Winn
+1229,Result,Winn
+5866,Result,Winn
+6665,Result,Winn
+6983,Result,Winn
+1721,Result,Winn
+7645,Result,Draw

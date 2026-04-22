@@ -1,0 +1,4 @@
+﻿relationship 2d8463fa-461b-47ab-a48e-cdb59e01a615
+	fromColumn: BI_CIAT_Result_dashboard_innova.link
+	toColumn: reducidas.link
+

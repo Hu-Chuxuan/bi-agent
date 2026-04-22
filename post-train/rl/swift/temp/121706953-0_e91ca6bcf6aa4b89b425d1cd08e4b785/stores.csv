@@ -1,0 +1,51 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date,Age of store as on 2022 in years
+1,"Maven Toys Guadalajara 1","Guadalajara","Residential",1992-09-18 00:00:00.000,30
+2,"Maven Toys Monterrey 1","Monterrey","Residential",1995-04-27 00:00:00.000,27
+3,"Maven Toys Guadalajara 2","Guadalajara","Commercial",1999-12-27 00:00:00.000,23
+4,"Maven Toys Saltillo 1","Saltillo","Downtown",2000-01-01 00:00:00.000,23
+5,"Maven Toys La Paz 1","La Paz","Downtown",2001-05-31 00:00:00.000,21
+6,"Maven Toys Mexicali 1","Mexicali","Commercial",2003-12-13 00:00:00.000,19
+7,"Maven Toys Monterrey 2","Monterrey","Downtown",2003-12-25 00:00:00.000,19
+8,"Maven Toys Pachuca 1","Pachuca","Downtown",2004-10-14 00:00:00.000,18
+9,"Maven Toys Ciudad de Mexico 1","Cuidad de Mexico","Downtown",2004-10-15 00:00:00.000,18
+10,"Maven Toys Campeche 1","Campeche","Downtown",2005-01-14 00:00:00.000,18
+11,"Maven Toys Cuernavaca 1","Cuernavaca","Downtown",2005-04-19 00:00:00.000,17
+12,"Maven Toys Chetumal 1","Chetumal","Downtown",2006-05-05 00:00:00.000,16
+13,"Maven Toys Mexicali 2","Mexicali","Downtown",2006-08-30 00:00:00.000,16
+14,"Maven Toys Guanajuato 1","Guanajuato","Downtown",2007-01-31 00:00:00.000,16
+15,"Maven Toys Tuxtla Gutierrez 1","Tuxtla Gutierrez","Downtown",2007-03-05 00:00:00.000,16
+16,"Maven Toys San Luis Potosi 1","San Luis Potosi","Downtown",2007-05-19 00:00:00.000,15
+17,"Maven Toys Toluca 1","Toluca","Downtown",2007-12-09 00:00:00.000,15
+18,"Maven Toys Merida 1","Merida","Downtown",2008-08-22 00:00:00.000,14
+19,"Maven Toys Puebla 1","Puebla","Commercial",2008-12-16 00:00:00.000,14
+20,"Maven Toys Zacatecas 1","Zacatecas","Downtown",2009-05-29 00:00:00.000,13
+21,"Maven Toys Santiago 1","Santiago","Downtown",2009-11-23 00:00:00.000,13
+22,"Maven Toys Guanajuato 2","Guanajuato","Commercial",2010-03-29 00:00:00.000,12
+23,"Maven Toys Chihuahua 1","Chihuahua","Commercial",2010-06-12 00:00:00.000,12
+24,"Maven Toys Aguascalientes 1","Aguascalientes","Downtown",2010-07-31 00:00:00.000,12
+25,"Maven Toys Ciudad Victoria 1","Ciudad Victoria","Downtown",2010-09-08 00:00:00.000,12
+26,"Maven Toys Campeche 2","Campeche","Commercial",2010-09-15 00:00:00.000,12
+27,"Maven Toys Oaxaca 1","Oaxaca","Downtown",2010-10-02 00:00:00.000,12
+28,"Maven Toys Puebla 2","Puebla","Downtown",2011-04-01 00:00:00.000,11
+29,"Maven Toys Xalapa 1","Xalapa","Commercial",2011-06-21 00:00:00.000,11
+30,"Maven Toys Guadalajara 3","Guadalajara","Airport",2011-10-20 00:00:00.000,11
+31,"Maven Toys Ciudad de Mexico 2","Cuidad de Mexico","Airport",2012-05-04 00:00:00.000,10
+32,"Maven Toys Hermosillo 1","Hermosillo","Residential",2012-08-31 00:00:00.000,10
+33,"Maven Toys Monterrey 3","Monterrey","Airport",2013-03-17 00:00:00.000,10
+34,"Maven Toys Villahermosa 1","Villahermosa","Downtown",2013-06-07 00:00:00.000,9
+35,"Maven Toys Chilpancingo 1","Chilpancingo","Downtown",2013-06-11 00:00:00.000,9
+36,"Maven Toys Morelia 1","Morelia","Downtown",2013-07-01 00:00:00.000,9
+37,"Maven Toys Ciudad de Mexico 3","Cuidad de Mexico","Residential",2013-11-28 00:00:00.000,9
+38,"Maven Toys Chihuahua 2","Chihuahua","Downtown",2014-03-18 00:00:00.000,9
+39,"Maven Toys Xalapa 2","Xalapa","Downtown",2014-04-21 00:00:00.000,8
+40,"Maven Toys Toluca 2","Toluca","Commercial",2014-05-27 00:00:00.000,8
+41,"Maven Toys Hermosillo 2","Hermosillo","Downtown",2014-06-01 00:00:00.000,8
+42,"Maven Toys Hermosillo 3","Hermosillo","Commercial",2014-06-27 00:00:00.000,8
+43,"Maven Toys Durango 1","Durango","Downtown",2014-06-30 00:00:00.000,8
+44,"Maven Toys Puebla 3","Puebla","Residential",2014-12-27 00:00:00.000,8
+45,"Maven Toys Ciudad de Mexico 4","Cuidad de Mexico","Commercial",2015-06-21 00:00:00.000,7
+46,"Maven Toys Guadalajara 4","Guadalajara","Downtown",2015-10-31 00:00:00.000,7
+47,"Maven Toys Monterrey 4","Monterrey","Commercial",2015-11-21 00:00:00.000,7
+48,"Maven Toys Saltillo 2","Saltillo","Commercial",2016-03-23 00:00:00.000,6
+49,"Maven Toys Culiacan 1","Culiacan","Downtown",2016-05-10 00:00:00.000,6
+50,"Maven Toys Guanajuato 3","Guanajuato","Residential",2016-05-18 00:00:00.000,6

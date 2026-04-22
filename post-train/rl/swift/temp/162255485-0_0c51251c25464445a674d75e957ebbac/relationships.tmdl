@@ -1,0 +1,12 @@
+﻿relationship 79ae0df0-9942-4360-a690-30a18b3714b9
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: FireRisks.TasksID
+	toColumn: MechanicalRisks.TasksID
+
+relationship 11393223-b49c-43ca-855d-b1b243a553f8
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: MechanicalRisks.TasksID
+	toColumn: Tasks.TaskID
+

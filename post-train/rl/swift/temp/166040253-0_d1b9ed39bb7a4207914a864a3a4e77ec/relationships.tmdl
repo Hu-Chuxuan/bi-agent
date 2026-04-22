@@ -1,0 +1,54 @@
+﻿relationship 771614bc-2da6-4497-b43b-7f3f9fefab04
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Cost.billingPeriodStartDate
+	toColumn: LocalDateTable_ce013190-0637-4188-9c3d-0326ce4c5f58.Date
+
+relationship f86af70d-0164-4724-97e3-bdad0919cc92
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Cost.billingPeriodEndDate
+	toColumn: LocalDateTable_2e58d967-5533-458c-a856-f26d9a3e8a33.Date
+
+relationship 555dd3bd-d2ff-46f8-8850-7697b299795d
+	fromColumn: Cost.resourceId
+	toColumn: Resource.ResourceId
+
+relationship 86736e08-22fc-4045-a751-1319a180bea6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CostGroupResource.DateCreated
+	toColumn: LocalDateTable_b4e054bf-3005-4b78-a966-103b8912011f.Date
+
+relationship aad88868-6a80-4a17-9723-dae25be19ff7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CostGroupResource.DateUpdated
+	toColumn: LocalDateTable_746d125b-6c02-4578-bc4c-0375889c03e5.Date
+
+relationship 781468e1-d472-4366-b9ba-a0532b7af646
+	fromColumn: CostGroupResource.ResourceGroupId
+	toColumn: ResourceGroup.ResourceGroupId
+
+relationship ddb69fa7-ffd5-4b8d-891a-c4f207c73b50
+	fromColumn: CostGroupResource.SubscriptionId
+	toColumn: Subscription.SubscriptionId
+
+relationship 5158ba75-34e5-41c9-808d-beb2e39d2e26
+	fromColumn: Resource.ResourceGroupId
+	toColumn: ResourceGroup.ResourceGroupId
+
+relationship 0b2d0ee0-427c-47d7-93c9-db1b7455eabb
+	fromColumn: Cost.subscriptionId
+	toColumn: Subscription.SubscriptionId
+
+relationship 2e1ef198-6524-447d-8d1d-9c9c3982ee73
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.date
+	toColumn: LocalDateTable_378665b3-57a6-499a-a1f0-c795218a970a.Date
+
+relationship 84dc1213-444e-4e09-9664-af8e7b96cfae
+	fromColumn: Cost.date
+	toColumn: Date.date
+
+relationship 6ed8bd33-1e5c-4708-8271-15fc2e32ec2c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.endofmonth
+	toColumn: LocalDateTable_96e11e97-9e4e-4280-b6c1-6eddfce2bb42.Date
+

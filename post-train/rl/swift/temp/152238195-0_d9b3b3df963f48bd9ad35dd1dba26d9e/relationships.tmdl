@@ -1,0 +1,6 @@
+﻿relationship 550db618-0636-4e03-821c-f681e5ce98e5
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Table.'Transaction ID'
+	toColumn: 'Table (2)'.'Transaction ID'
+

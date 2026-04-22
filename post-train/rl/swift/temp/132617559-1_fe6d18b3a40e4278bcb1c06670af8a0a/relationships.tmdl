@@ -1,0 +1,21 @@
+﻿relationship 8b6e8581-15d1-4699-a4a2-463c34c0fbf8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_db2ea125-dbc9-4d8f-8c6a-4b608fce0d03.Date
+
+relationship d09da8c0-8957-470c-9ce1-b3238ba02aa5
+	fromColumn: 'Bank Holidays Flat File'.Date
+	toColumn: Calendar.Date
+
+relationship 95e12ab1-c7f9-4a62-9abf-e734c92b9632
+	fromColumn: 'Bank Holidays Flat File'.Division
+	toColumn: Division_ORDER.Division
+
+relationship 372ced20-1b01-4dec-800f-012fecd0c250
+	fromColumn: Region_Table_3.Date
+	toColumn: Calendar.Date
+
+relationship 6d83a25d-3529-4d90-9dcf-85df4f4b0cee
+	fromColumn: 'Bank Holidays Flat File'.Division
+	toColumn: Region_Table.Division
+

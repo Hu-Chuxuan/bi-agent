@@ -1,0 +1,5 @@
+BikeType,BikeOwner,NumberOfBikes,TotalSales,DemandStatus
+"Geared","Company",5,323,"HIGH"
+"Geared","Renter",2,165,"HIGH"
+"Non-Geared","Company",1,28,"LOW"
+"Non-Geared","Renter",2,121,"NEUTRAL"

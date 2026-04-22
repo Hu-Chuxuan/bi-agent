@@ -1,0 +1,288 @@
+Year,Category,Group,Count
+2011,"Age at Death","0-11",0
+2011,"Age at Death","12-14",0
+2011,"Age at Death","15-17",0
+2011,"Age at Death","18-19",0
+2011,"Age at Death","20-24",19
+2011,"Age at Death","25-29",33
+2011,"Age at Death","30-34",60
+2011,"Age at Death","35-39",107
+2011,"Age at Death","40-44",167
+2011,"Age at Death","45-49",324
+2011,"Age at Death","50-54",326
+2011,"Age at Death","55-59",290
+2011,"Age at Death","60-64",163
+2011,"Age at Death","65-74",181
+2011,"Age at Death",">= 75",49
+2012,"Age at Death","0-11",0
+2012,"Age at Death","12-14",1
+2012,"Age at Death","15-17",0
+2012,"Age at Death","18-19",1
+2012,"Age at Death","20-24",12
+2012,"Age at Death","25-29",28
+2012,"Age at Death","30-34",61
+2012,"Age at Death","35-39",98
+2012,"Age at Death","40-44",158
+2012,"Age at Death","45-49",256
+2012,"Age at Death","50-54",346
+2012,"Age at Death","55-59",271
+2012,"Age at Death","60-64",213
+2012,"Age at Death","65-74",197
+2012,"Age at Death",">= 75",60
+2013,"Age at Death","0-11",0
+2013,"Age at Death","12-14",0
+2013,"Age at Death","15-17",0
+2013,"Age at Death","18-19",0
+2013,"Age at Death","20-24",8
+2013,"Age at Death","25-29",48
+2013,"Age at Death","30-34",59
+2013,"Age at Death","35-39",83
+2013,"Age at Death","40-44",141
+2013,"Age at Death","45-49",277
+2013,"Age at Death","50-54",298
+2013,"Age at Death","55-59",301
+2013,"Age at Death","60-64",223
+2013,"Age at Death","65-74",215
+2013,"Age at Death",">= 75",82
+2014,"Age at Death","0-11",0
+2014,"Age at Death","12-14",1
+2014,"Age at Death","15-17",0
+2014,"Age at Death","18-19",0
+2014,"Age at Death","20-24",10
+2014,"Age at Death","25-29",27
+2014,"Age at Death","30-34",50
+2014,"Age at Death","35-39",79
+2014,"Age at Death","40-44",130
+2014,"Age at Death","45-49",255
+2014,"Age at Death","50-54",334
+2014,"Age at Death","55-59",308
+2014,"Age at Death","60-64",260
+2014,"Age at Death","65-74",240
+2014,"Age at Death",">= 75",69
+2015,"Age at Death","0-11",0
+2015,"Age at Death","12-14",0
+2015,"Age at Death","15-17",0
+2015,"Age at Death","18-19",0
+2015,"Age at Death","20-24",11
+2015,"Age at Death","25-29",26
+2015,"Age at Death","30-34",71
+2015,"Age at Death","35-39",92
+2015,"Age at Death","40-44",138
+2015,"Age at Death","45-49",205
+2015,"Age at Death","50-54",321
+2015,"Age at Death","55-59",349
+2015,"Age at Death","60-64",240
+2015,"Age at Death","65-74",263
+2015,"Age at Death",">= 75",87
+2016,"Age at Death","0-11",0
+2016,"Age at Death","12-14",0
+2016,"Age at Death","15-17",0
+2016,"Age at Death","18-19",0
+2016,"Age at Death","20-24",10
+2016,"Age at Death","25-29",50
+2016,"Age at Death","30-34",65
+2016,"Age at Death","35-39",110
+2016,"Age at Death","40-44",99
+2016,"Age at Death","45-49",213
+2016,"Age at Death","50-54",321
+2016,"Age at Death","55-59",341
+2016,"Age at Death","60-64",280
+2016,"Age at Death","65-74",280
+2016,"Age at Death",">= 75",99
+2017,"Age at Death","0-11",0
+2017,"Age at Death","12-14",0
+2017,"Age at Death","15-17",1
+2017,"Age at Death","18-19",1
+2017,"Age at Death","20-24",9
+2017,"Age at Death","25-29",48
+2017,"Age at Death","30-34",68
+2017,"Age at Death","35-39",101
+2017,"Age at Death","40-44",95
+2017,"Age at Death","45-49",180
+2017,"Age at Death","50-54",294
+2017,"Age at Death","55-59",361
+2017,"Age at Death","60-64",280
+2017,"Age at Death","65-74",292
+2017,"Age at Death",">= 75",144
+2011,"Current Gender","Cisgender men",1467
+2011,"Current Gender","Cisgender women",233
+2011,"Current Gender","Transgender women",19
+2011,"Current Gender","Transgender men",0
+2011,"Current Gender","Alternative gender",0
+2012,"Current Gender","Cisgender men",1434
+2012,"Current Gender","Cisgender women",245
+2012,"Current Gender","Transgender women",23
+2012,"Current Gender","Transgender men",0
+2012,"Current Gender","Alternative gender",0
+2013,"Current Gender","Cisgender men",1481
+2013,"Current Gender","Cisgender women",229
+2013,"Current Gender","Transgender women",24
+2013,"Current Gender","Transgender men",1
+2013,"Current Gender","Alternative gender",0
+2014,"Current Gender","Cisgender men",1514
+2014,"Current Gender","Cisgender women",225
+2014,"Current Gender","Transgender women",24
+2014,"Current Gender","Transgender men",0
+2014,"Current Gender","Alternative gender",0
+2015,"Current Gender","Cisgender men",1560
+2015,"Current Gender","Cisgender women",219
+2015,"Current Gender","Transgender women",22
+2015,"Current Gender","Transgender men",1
+2015,"Current Gender","Alternative gender",1
+2016,"Current Gender","Cisgender men",1595
+2016,"Current Gender","Cisgender women",240
+2016,"Current Gender","Transgender women",33
+2016,"Current Gender","Transgender men",0
+2016,"Current Gender","Alternative gender",0
+2017,"Current Gender","Cisgender men",1641
+2017,"Current Gender","Cisgender women",211
+2017,"Current Gender","Transgender women",22
+2017,"Current Gender","Transgender men",0
+2017,"Current Gender","Alternative gender",0
+2011,"Race/Ethnicity","American Indian/Alaska Native",4
+2011,"Race/Ethnicity","Asian*",29
+2011,"Race/Ethnicity","Black/African American",399
+2011,"Race/Ethnicity","Latinx",420
+2011,"Race/Ethnicity","Native Hawaiian/Pacific Islander",1
+2011,"Race/Ethnicity","White",788
+2011,"Race/Ethnicity","Multiple races",78
+2012,"Race/Ethnicity","American Indian/Alaska Native",3
+2012,"Race/Ethnicity","Asian*",26
+2012,"Race/Ethnicity","Black/African American",355
+2012,"Race/Ethnicity","Latinx",426
+2012,"Race/Ethnicity","Native Hawaiian/Pacific Islander",1
+2012,"Race/Ethnicity","White",809
+2012,"Race/Ethnicity","Multiple races",82
+2013,"Race/Ethnicity","American Indian/Alaska Native",9
+2013,"Race/Ethnicity","Asian*",22
+2013,"Race/Ethnicity","Black/African American",361
+2013,"Race/Ethnicity","Latinx",451
+2013,"Race/Ethnicity","Native Hawaiian/Pacific Islander",4
+2013,"Race/Ethnicity","White",794
+2013,"Race/Ethnicity","Multiple races",94
+2014,"Race/Ethnicity","American Indian/Alaska Native",3
+2014,"Race/Ethnicity","Asian*",26
+2014,"Race/Ethnicity","Black/African American",371
+2014,"Race/Ethnicity","Latinx",467
+2014,"Race/Ethnicity","Native Hawaiian/Pacific Islander",1
+2014,"Race/Ethnicity","White",800
+2014,"Race/Ethnicity","Multiple races",95
+2015,"Race/Ethnicity","American Indian/Alaska Native",5
+2015,"Race/Ethnicity","Asian*",37
+2015,"Race/Ethnicity","Black/African American",401
+2015,"Race/Ethnicity","Latinx",459
+2015,"Race/Ethnicity","Native Hawaiian/Pacific Islander",3
+2015,"Race/Ethnicity","White",799
+2015,"Race/Ethnicity","Multiple races",99
+2016,"Race/Ethnicity","American Indian/Alaska Native",4
+2016,"Race/Ethnicity","Asian*",31
+2016,"Race/Ethnicity","Black/African American",433
+2016,"Race/Ethnicity","Latinx",460
+2016,"Race/Ethnicity","Native Hawaiian/Pacific Islander",2
+2016,"Race/Ethnicity","White",825
+2016,"Race/Ethnicity","Multiple races",113
+2017,"Race/Ethnicity","American Indian/Alaska Native",5
+2017,"Race/Ethnicity","Asian*",29
+2017,"Race/Ethnicity","Black/African American",377
+2017,"Race/Ethnicity","Latinx",518
+2017,"Race/Ethnicity","Native Hawaiian/Pacific Islander",0
+2017,"Race/Ethnicity","White",828
+2017,"Race/Ethnicity","Multiple races",117
+2011,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",883
+2011,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",165
+2011,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",238
+2011,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",47
+2011,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",58
+2011,"Transmission Category: Male Adult or Adolescent","Perinatal",2
+2011,"Transmission Category: Male Adult or Adolescent","Unknown risk",86
+2011,"Transmission Category: Male Adult or Adolescent","Other***",7
+2011,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",103
+2011,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",90
+2011,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",23
+2011,"Transmission Category: Female Adult or Adolescent","Perinatal",2
+2011,"Transmission Category: Female Adult or Adolescent","Unknown risk",14
+2011,"Transmission Category: Female Adult or Adolescent","Other****",1
+2012,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",913
+2012,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",165
+2012,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",212
+2012,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",47
+2012,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",40
+2012,"Transmission Category: Male Adult or Adolescent","Perinatal",5
+2012,"Transmission Category: Male Adult or Adolescent","Unknown risk",67
+2012,"Transmission Category: Male Adult or Adolescent","Other***",8
+2012,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",93
+2012,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",90
+2012,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",37
+2012,"Transmission Category: Female Adult or Adolescent","Perinatal",4
+2012,"Transmission Category: Female Adult or Adolescent","Unknown risk",19
+2012,"Transmission Category: Female Adult or Adolescent","Other****",2
+2013,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",972
+2013,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",169
+2013,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",206
+2013,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",52
+2013,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",50
+2013,"Transmission Category: Male Adult or Adolescent","Perinatal",2
+2013,"Transmission Category: Male Adult or Adolescent","Unknown risk",48
+2012,"Transmission Category: Male Adult or Adolescent","Other***",6
+2013,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",108
+2013,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",82
+2013,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",27
+2013,"Transmission Category: Female Adult or Adolescent","Perinatal",0
+2013,"Transmission Category: Female Adult or Adolescent","Unknown risk",13
+2013,"Transmission Category: Female Adult or Adolescent","Other****",0
+2014,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",999
+2014,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",144
+2014,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",240
+2014,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",47
+2014,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",42
+2014,"Transmission Category: Male Adult or Adolescent","Perinatal",2
+2014,"Transmission Category: Male Adult or Adolescent","Unknown risk",60
+2014,"Transmission Category: Male Adult or Adolescent","Other***",4
+2014,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",97
+2014,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",86
+2014,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",26
+2014,"Transmission Category: Female Adult or Adolescent","Perinatal",0
+2014,"Transmission Category: Female Adult or Adolescent","Unknown risk",15
+2014,"Transmission Category: Female Adult or Adolescent","Other****",1
+2015,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",990
+2015,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",164
+2015,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",249
+2015,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",62
+2015,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",44
+2015,"Transmission Category: Male Adult or Adolescent","Perinatal",2
+2015,"Transmission Category: Male Adult or Adolescent","Unknown risk",63
+2015,"Transmission Category: Male Adult or Adolescent","Other***",9
+2015,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",98
+2015,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",76
+2015,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",31
+2015,"Transmission Category: Female Adult or Adolescent","Perinatal",2
+2015,"Transmission Category: Female Adult or Adolescent","Unknown risk",10
+2015,"Transmission Category: Female Adult or Adolescent","Other****",3
+2016,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",1026
+2016,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",161
+2016,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",232
+2016,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",58
+2016,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",59
+2016,"Transmission Category: Male Adult or Adolescent","Perinatal",5
+2016,"Transmission Category: Male Adult or Adolescent","Unknown risk",82
+2016,"Transmission Category: Male Adult or Adolescent","Other***",5
+2016,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",81
+2016,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",103
+2016,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",35
+2016,"Transmission Category: Female Adult or Adolescent","Perinatal",2
+2016,"Transmission Category: Female Adult or Adolescent","Unknown risk",17
+2016,"Transmission Category: Female Adult or Adolescent","Other****",2
+2017,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",1050
+2017,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",147
+2017,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",244
+2017,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",66
+2017,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",62
+2017,"Transmission Category: Male Adult or Adolescent","Perinatal",5
+2017,"Transmission Category: Male Adult or Adolescent","Unknown risk",83
+2017,"Transmission Category: Male Adult or Adolescent","Other***",6
+2017,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",81
+2017,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",72
+2017,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",41
+2017,"Transmission Category: Female Adult or Adolescent","Perinatal",1
+2017,"Transmission Category: Female Adult or Adolescent","Unknown risk",14
+2017,"Transmission Category: Female Adult or Adolescent","Other****",2

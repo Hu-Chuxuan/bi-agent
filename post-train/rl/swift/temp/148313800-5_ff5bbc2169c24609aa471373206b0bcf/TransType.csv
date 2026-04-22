@@ -1,0 +1,20 @@
+ExternalImpactPortfolioSignCalc,TransType,IgnoreQtyFlag,TransFeeSign,CashAmntSign,BookValueSign,QtySign,DistribReturnOfCapitalFlag,DistribCapGainReinvstdFlag,DividendFlag,DepositTransSign,CashImpactSign,SellFlag,WithholdingTaxFlag,FeeFlag,ExternalImpactSymbolSign,ExternalImpactPortfolioSign,ExternalImpactPortfolioSign2,ShowForSalesReport,TransTypeGroup,TransDescription,CashFlag,ExchRateFlag
+-1,"BankFee",1,-1,-1,0,0,0,0,0,0,-1,0,0,1,0,-1,-1,"Yes","Fee","Bank fee - account administration/transfer etc fees",1,0
+0,"Buy",0,1,-1,1,1,0,0,0,0,-1,0,0,0,1,0,1,"Yes","Buy","Buying shares by specifying number of shares and price per share",0,1
+0,"BuyTA",1,1,-1,1,1,0,0,0,0,-1,0,0,0,1,0,1,"Yes","Buy","Buying shares by specifying quantity and total amount (not price per share)",0,1
+1,"Deposit",1,-1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,"Yes","Deposit","Deposit cash into portfolio",1,0
+0,"DIV",0,-1,1,0,0,0,0,1,0,1,0,0,0,0,0,-1,"No","Dividend","Dividends received by specifying number of shares and dividend per share. Money are added to portfolio cash amount",0,0
+0,"DivTA",1,-1,1,0,0,0,0,1,0,1,0,0,0,0,0,-1,"No","Dividend","Dividends received by specifying number of shares and total dividend amount. TransQty is ignored",0,0
+0,"DRIP",0,-1,0,1,1,0,0,1,0,1,0,0,0,1,0,0,"Yes","Dividend","Dividends received and invested back into the same equity",0,0
+0,"INT",1,-1,1,0,0,0,0,1,0,1,0,0,0,0,0,-1,"No","Interest","Interest received. Amount is added to portfolio cash value",1,0
+0,"NotionalDistrib",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Yes","Div Reinv","Dividends - Notional Distribution - Capital Gains Increases Book value!",0,0
+0,"ReturnOfCapital",1,-1,1,-1,0,1,0,1,0,1,0,0,0,0,0,-1,"Yes","Dividend","Dividends - Return of Capital - Decreases book value!",0,0
+0,"Sell",0,-1,1,-1,-1,0,0,0,0,1,1,0,0,-1,0,-1,"Yes","Sell","Selling shares by specifying number of shares and price per share",0,1
+0,"SellTA",1,-1,1,-1,-1,0,0,0,0,1,1,0,0,-1,0,-1,"Yes","Sell","Selling shares by specifying number of shares and total amount received (not price per share)",0,1
+0,"Split",0,-1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"Yes","Split","Splitting shares. Need to enter actual share quantity - positive for Split-up and negative for split down",0,0
+1,"SymbolTransferIn",0,1,0,1,1,0,0,0,1,-1,0,0,0,1,1,1,"Yes","Transfer","Transfer symbol into portfolio from another portfolio.",0,1
+-1,"SymbolTransferOut",0,-1,0,-1,-1,0,0,0,-1,1,0,0,0,-1,-1,-1,"Yes","Transfer","Transfer symbol out of portfolio into another portfolio.",0,1
+-1,"SymbolTransferOutAsSale",0,-1,0,-1,-1,0,0,0,-1,1,1,0,0,-1,-1,-1,"Yes","Transfer","Transfer symbol out of portfolio into another portfolio.",0,1
+0,"WHTX",1,-1,-1,0,0,0,0,0,0,-1,0,1,0,0,0,0,"No","Dividend","Withholding tax on dividends received",0,0
+-1,"Withdraw",1,-1,-1,0,0,0,0,0,-1,-1,0,0,0,0,-1,-1,"Yes","Withdrawal","Withdrawal cash from portfolio",1,0
+0,"DripTA",0,-1,0,1,1,0,0,1,0,1,0,0,0,1,0,0,"Yes","Dividend","Dividends received and invested back into the same equity",0,0

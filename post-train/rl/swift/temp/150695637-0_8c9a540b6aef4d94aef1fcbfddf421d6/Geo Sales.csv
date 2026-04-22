@@ -1,0 +1,286 @@
+Country,State,City,SalesAmount
+"United States","Alabama","Birmingham",37.29
+"United States","Arizona","Chandler",2104.0196
+"United States","California","Barstow",3578.27
+"United States","California","Bell Gardens",5920.24
+"United States","California","Bellflower",302278.8057
+"United States","California","Berkeley",258138.4605
+"United States","California","Beverly Hills",202696.9645
+"United States","California","Burbank",276458.952
+"United States","California","Burlingame",225663.6362
+"United States","California","Camarillo",1286.43
+"United States","California","Canoga Park",4803.32
+"United States","California","Carson",119.98
+"United States","California","Cerritos",1145.48
+"United States","California","Chula Vista",233416.3297
+"United States","California","Citrus Heights",2452.04
+"United States","California","City Of Commerce",2400.34
+"United States","California","Colma",233961.9866
+"United States","California","Concord",210445.8622
+"United States","California","Coronado",146836.9552
+"United States","California","Daly City",86249.8274
+"United States","California","Downey",125997.6645
+"United States","California","El Cajon",138841.8005
+"United States","California","Fremont",78157.8139
+"United States","California","Glendale",118357.3874
+"United States","California","Grossmont",111776.8227
+"United States","California","Imperial Beach",97583.5078
+"United States","California","La Jolla",105378.4995
+"United States","California","Lakewood",119741.8556
+"United States","California","Lemon Grove",184566.8141
+"United States","California","Lincoln Acres",126762.2102
+"United States","California","Long Beach",146801.6777
+"United States","California","Los Angeles",112983.7065
+"United States","California","Mill Valley",92187.6707
+"United States","California","National City",115171.8241
+"United States","California","Newport Beach",115767.2299
+"United States","California","Novato",115640.6855
+"United States","California","Oakland",125898.253
+"United States","California","Palo Alto",113856.106
+"United States","California","Redwood City",101144.7367
+"United States","California","San Carlos",114476.9442
+"United States","California","San Diego",99590.3935
+"United States","California","San Francisco",68659.1249
+"United States","California","San Gabriel",119804.6297
+"United States","California","Santa Cruz",137824.7753
+"United States","California","Santa Monica",160427.2862
+"United States","California","Spring Valley",134365.4635
+"United States","California","Torrance",148429.8141
+"United States","California","West Covina",115931.1902
+"United States","California","Woodland Hills",170277.9247
+"United States","Florida","Bradenton",38.98
+"United States","Florida","Clearwater",7721.9296
+"United States","Georgia","Byron",4.99
+"United States","Georgia","Clarkston",29.48
+"United States","Georgia","Columbus",1624.45
+"United States","Illinois","Carol Stream",7.28
+"United States","Illinois","Chicago",2820.8096
+"United States","Kentucky","Campbellsville",216.96
+"United States","Massachusetts","Braintree",2049.0982
+"United States","Minnesota","Branch",91.28
+"United States","Mississippi","Biloxi",82.59
+"United States","Missouri","Branson",81.46
+"United States","Montana","Billings",92.08
+"United States","New York","Central Valley",50.94
+"United States","New York","Cheektowaga",2337.27
+"United States","New York","Clay",1735.98
+"United States","North Carolina","Charlotte",7.28
+"United States","Ohio","Burbank",7.28
+"United States","Ohio","Cincinnati",281.93
+"United States","Ohio","Columbus",69.97
+"United States","Oregon","Beaverton",161959.427
+"United States","Oregon","Clackamas",4750.01
+"United States","Oregon","Corvallis",124758.541
+"United States","Oregon","Lake Oswego",123850.0777
+"United States","Oregon","Lebanon",133558.9124
+"United States","Oregon","Milwaukie",132017.9684
+"United States","Oregon","Oregon City",91490.4678
+"United States","Oregon","Portland",110649.536
+"United States","Oregon","Salem",98670.4374
+"United States","Oregon","W. Linn",99233.1842
+"United States","Oregon","Woodburn",90052.9778
+"United States","South Carolina","Bluffton",2434.92
+"United States","Texas","Baytown",25.48
+"United States","Texas","Carrollton",71.95
+"United States","Texas","Cedar Park",93.97
+"United States","Texas","College Station",1597.7
+"United States","Utah","Bountiful",4355.61
+"United States","Utah","Cedar City",63.97
+"United States","Virginia","Chantilly",39.98
+"United States","Washington","Ballard",45308.9957
+"United States","Washington","Bellevue",2049.0982
+"United States","Washington","Bellingham",207613.2532
+"United States","Washington","Bothell",1667.45
+"United States","Washington","Bremerton",227081.648
+"United States","Washington","Burien",230359.4962
+"United States","Washington","Chehalis",4.99
+"United States","Washington","Edmonds",104809.7038
+"United States","Washington","Everett",91471.1745
+"United States","Washington","Issaquah",128693.9269
+"United States","Washington","Kirkland",100168.3538
+"United States","Washington","Lynnwood",101892.1707
+"United States","Washington","Marysville",118732.8813
+"United States","Washington","Olympia",116289.406
+"United States","Washington","Port Orchard",106961.6563
+"United States","Washington","Puyallup",112490.1756
+"United States","Washington","Redmond",78824.3681
+"United States","Washington","Renton",97355.2609
+"United States","Washington","Seattle",75164.8614
+"United States","Washington","Sedro Woolley",116147.121
+"United States","Washington","Spokane",69105.7288
+"United States","Washington","Tacoma",101862.2696
+"United States","Washington","Walla Walla",138734.2819
+"United States","Washington","Yakima",94460.0696
+"United States","Wyoming","Casper",1214.46
+"United States","Wyoming","Cheyenne",5900.55
+"Australia","New South Wales","Coffs Harbour",235454.9685
+"Australia","New South Wales","Darlinghurst",155010.3774
+"Australia","New South Wales","Goulburn",310875.8978
+"Australia","New South Wales","Lane Cove",220083.5784
+"Australia","New South Wales","Lavender Bay",195122.9001
+"Australia","New South Wales","Malabar",176905.6105
+"Australia","New South Wales","Matraville",216564.4405
+"Australia","New South Wales","Milsons Point",187075.6008
+"Australia","New South Wales","Newcastle",245936.5243
+"Australia","New South Wales","North Ryde",208082.6244
+"Australia","New South Wales","North Sydney",159227.1119
+"Australia","New South Wales","Port Macquarie",278084.4993
+"Australia","New South Wales","Rhodes",200418.56
+"Australia","New South Wales","Silverwater",175222.5111
+"Australia","New South Wales","Springwood",165100.6608
+"Australia","New South Wales","St. Leonards",185423.0829
+"Australia","New South Wales","Sydney",280983.3113
+"Australia","New South Wales","Wollongong",338913.4665
+"Australia","Queensland","Brisbane",295353.5779
+"Australia","Queensland","Caloundra",281986.3402
+"Australia","Queensland","East Brisbane",178919.8666
+"Australia","Queensland","Gold Coast",248767.984
+"Australia","Queensland","Hawthorne",226706.4414
+"Australia","Queensland","Hervey Bay",259256.509
+"Australia","Queensland","Rockhampton",211937.3994
+"Australia","Queensland","Townsville",285486.9112
+"Australia","South Australia","Cloverdale",218966.9548
+"Australia","South Australia","Findon",183388.5186
+"Australia","South Australia","Perth",215900.3882
+"Australia","Tasmania","Hobart",239937.9033
+"Australia","Victoria","Bendigo",314568.7193
+"Australia","Victoria","Cranbourne",184525.0555
+"Australia","Victoria","Geelong",283802.175
+"Australia","Victoria","Melbourne",246557.5296
+"Australia","Victoria","Melton",262606.4258
+"Australia","Victoria","Seaford",188063.4255
+"Australia","Victoria","South Melbourne",205796.8297
+"Australia","Victoria","Sunbury",266949.5347
+"Australia","Victoria","Warrnambool",327036.3682
+"Canada","Alberta","Calgary",22467.8025
+"Canada","British Columbia","Burnaby",29567.5357
+"Canada","British Columbia","Cliffside",211608.9046
+"Canada","British Columbia","Haney",115526.8817
+"Canada","British Columbia","Langford",148632.3588
+"Canada","British Columbia","Langley",109110.8141
+"Canada","British Columbia","Metchosin",103566.1007
+"Canada","British Columbia","N. Vancouver",114779.7255
+"Canada","British Columbia","Newton",126086.6603
+"Canada","British Columbia","Oak Bay",144920.3202
+"Canada","British Columbia","Port Hammond",124619.8417
+"Canada","British Columbia","Royal Oak",137203.971
+"Canada","British Columbia","Shawnee",128835.0563
+"Canada","British Columbia","Sooke",124314.791
+"Canada","British Columbia","Vancouver",124415.6281
+"Canada","British Columbia","Victoria",104065.4114
+"Canada","British Columbia","Westminster",108086.0985
+"Canada","Ontario","Chalk Riber",36.96
+"France","Charente-Maritime","Saint Ouen",34441.7349
+"France","Essonne","Les Ulis",181244.7285
+"France","Essonne","Morangis",56432.8421
+"France","Essonne","Verrieres Le Buisson",41619.6132
+"France","Garonne (Haute)","Colomiers",54641.7232
+"France","Hauts de Seine","Boulogne-Billancourt",14289.2439
+"France","Hauts de Seine","Colombes",90268.5149
+"France","Hauts de Seine","Courbevoie",38809.6307
+"France","Hauts de Seine","Paris La Defense",45350.8599
+"France","Hauts de Seine","Sèvres",39598.2035
+"France","Hauts de Seine","Suresnes",35099.7325
+"France","Loir et Cher","Saint Ouen",21473.7396
+"France","Loiret","Orleans",91562.9056
+"France","Moselle","Metz",94046.2295
+"France","Nord","Croix",36781.9349
+"France","Nord","Dunkerque",75474.3824
+"France","Nord","Lille",65419.9325
+"France","Nord","Roncq",38304.8721
+"France","Nord","Roubaix",86282.6274
+"France","Nord","Villeneuve-d'Ascq",89136.4521
+"France","Pas de Calais","Boulogne-sur-Mer",11342.9225
+"France","Seine (Paris)","Paris",539725.8
+"France","Seine et Marne","Lieusaint",57094.801
+"France","Seine et Marne","Roissy en Brie",52640.4374
+"France","Seine Saint Denis","Bobigny",90204.4535
+"France","Seine Saint Denis","Drancy",56031.3778
+"France","Seine Saint Denis","Pantin",77603.756
+"France","Seine Saint Denis","Saint-Denis",63782.5914
+"France","Seine Saint Denis","Tremblay-en-France",91857.5692
+"France","Somme","Saint Ouen",29555.2814
+"France","Val de Marne","Orly",28478.1246
+"France","Val d'Oise","Cergy",46755.9003
+"France","Yveline","Chatou",89830.1988
+"France","Yveline","Saint Germain en Laye",76177.3442
+"France","Yveline","Versailles",102657.2528
+"Germany","Bayern","Erlangen",77585.5228
+"Germany","Bayern","Frankfurt",67852.6292
+"Germany","Bayern","Grevenbroich",53576.0778
+"Germany","Bayern","Hof",91915.1432
+"Germany","Bayern","Ingolstadt",109037.4092
+"Germany","Brandenburg","Eilenburg",57919.2085
+"Germany","Hamburg","Berlin",32596.4921
+"Germany","Hamburg","Bonn",20637.0475
+"Germany","Hamburg","Essen",55349.6174
+"Germany","Hamburg","Frankfurt am Main",67207.1764
+"Germany","Hamburg","Hamburg",148555.7842
+"Germany","Hamburg","Mühlheim",52821.2213
+"Germany","Hamburg","München",62085.0371
+"Germany","Hamburg","Paderborn",39873.4953
+"Germany","Hessen","Berlin",102668.5029
+"Germany","Hessen","Darmstadt",76433.2457
+"Germany","Hessen","Dresden",57590.0057
+"Germany","Hessen","Duesseldorf",59787.4925
+"Germany","Hessen","Frankfurt",116439.9559
+"Germany","Hessen","Hamburg",47116.4889
+"Germany","Hessen","Kassel",84798.3249
+"Germany","Hessen","München",59916.0382
+"Germany","Hessen","Salzgitter",57353.2421
+"Germany","Nordrhein-Westfalen","Berlin",49670.2089
+"Germany","Nordrhein-Westfalen","Bonn",22068.18
+"Germany","Nordrhein-Westfalen","Bottrop",72895.5528
+"Germany","Nordrhein-Westfalen","Braunschweig",28704.9964
+"Germany","Nordrhein-Westfalen","Hannover",28792.22
+"Germany","Nordrhein-Westfalen","Leipzig",60193.2592
+"Germany","Nordrhein-Westfalen","München",38080.3478
+"Germany","Nordrhein-Westfalen","Paderborn",98366.7166
+"Germany","Nordrhein-Westfalen","Solingen",100217.2366
+"Germany","Nordrhein-Westfalen","Werne",67125.5539
+"Germany","Saarland","Berlin",75995.4232
+"Germany","Saarland","Frankfurt am Main",42914.3521
+"Germany","Saarland","Kiel",67554.6171
+"Germany","Saarland","München",162.99
+"Germany","Saarland","Münster",49718.8557
+"Germany","Saarland","Neunkirchen",93896.6749
+"Germany","Saarland","Offenbach",84521.1341
+"Germany","Saarland","Poing",40132.9003
+"Germany","Saarland","Saarbrücken",50324.3374
+"Germany","Saarland","Saarlouis",76614.39
+"Germany","Saarland","Stuttgart",80507.4578
+"Germany","Saarland","Sulzbach Taunus",66739.7746
+"United Kingdom","England","Basingstoke Hants",3271.6782
+"United Kingdom","England","Berks",46935.107
+"United Kingdom","England","Berkshire",58119.8632
+"United Kingdom","England","Billericay",84337.0892
+"United Kingdom","England","Birmingham",53558.8789
+"United Kingdom","England","Bracknell",34116.3885
+"United Kingdom","England","Bury",80337.1828
+"United Kingdom","England","Cambridge",35009.0657
+"United Kingdom","England","Cheltenham",70312.3149
+"United Kingdom","England","Esher-Molesey",99359.3399
+"United Kingdom","England","Gateshead",98159.4496
+"United Kingdom","England","Gloucestershire",34956.7407
+"United Kingdom","England","High Wycombe",24501.9725
+"United Kingdom","England","Kirkby",96390.791
+"United Kingdom","England","Lancaster",52707.2156
+"United Kingdom","England","Leeds",99748.8802
+"United Kingdom","England","Liverpool",60505.1471
+"United Kingdom","England","London",802810.2969
+"United Kingdom","England","Maidenhead",49773.0546
+"United Kingdom","England","Milton Keynes",132212.8566
+"United Kingdom","England","Newcastle upon Tyne",114667.2889
+"United Kingdom","England","Oxford",166447.7945
+"United Kingdom","England","Oxon",50663.0471
+"United Kingdom","England","Peterborough",86742.8889
+"United Kingdom","England","Reading",32275.6157
+"United Kingdom","England","Runcorn",104152.1164
+"United Kingdom","England","Stoke-on-Trent",92437.836
+"United Kingdom","England","W. York",44931.09
+"United Kingdom","England","Warrington",155546.3235
+"United Kingdom","England","Watford",118505.2457
+"United Kingdom","England","West Sussex",48576.6028
+"United Kingdom","England","Wokingham",66489.4796
+"United Kingdom","England","Woolston",66757.5232
+"United Kingdom","England","York",226396.0455

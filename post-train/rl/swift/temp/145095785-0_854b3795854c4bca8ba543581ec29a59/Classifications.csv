@@ -1,0 +1,4 @@
+Class,LowerBoundary,UpperBoundary
+"A",0,0.7
+"B",0.7,0.9
+"C",0.9,1

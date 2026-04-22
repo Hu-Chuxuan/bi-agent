@@ -1,0 +1,9 @@
+﻿relationship eb61a1e0-0907-4037-bfbc-20828c56b506
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Posts.Date
+	toColumn: LocalDateTable_61416d5b-7f06-4fd4-8122-c9b3b5f87c2e.Date
+
+relationship 020269ee-baa3-41b1-b2c6-b069d0c6ac32
+	fromColumn: Comments.ID
+	toColumn: Posts.ID
+

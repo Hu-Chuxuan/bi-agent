@@ -1,0 +1,2001 @@
+Sale Key,variable,value
+56192,City Key,77088
+227784,City Key,72610
+87978,City Key,47134
+16428,City Key,44316
+219559,City Key,72610
+6658,City Key,62292
+27492,City Key,41398
+73926,City Key,91372
+1005,City Key,47741
+50910,City Key,72782
+95305,City Key,87673
+167719,City Key,108919
+41573,City Key,72803
+14043,City Key,40959
+14405,City Key,44316
+135223,City Key,66011
+33043,City Key,66094
+178497,City Key,108758
+31366,City Key,87481
+11450,City Key,49253
+60471,City Key,47692
+37360,City Key,44439
+155288,City Key,76970
+3871,City Key,40861
+61336,City Key,72803
+57329,City Key,87633
+157954,City Key,48937
+63257,City Key,40659
+43209,City Key,47692
+161680,City Key,91452
+209632,City Key,110549
+5399,City Key,48851
+209334,City Key,110541
+177347,City Key,112291
+64581,City Key,41568
+132235,City Key,72761
+149976,City Key,91354
+83333,City Key,48778
+78971,City Key,91372
+26170,City Key,63578
+162063,City Key,72803
+54181,City Key,87556
+52444,City Key,91271
+116564,City Key,47673
+130622,City Key,90082
+50101,City Key,91464
+8408,City Key,48762
+71889,City Key,48762
+145986,City Key,87543
+202305,City Key,107558
+90949,City Key,66011
+210862,City Key,110541
+62079,City Key,41358
+191994,City Key,107539
+66367,City Key,76970
+130802,City Key,41500
+68882,City Key,44439
+158482,City Key,44316
+169629,City Key,107510
+80920,City Key,41432
+127141,City Key,90082
+211173,City Key,107510
+9675,City Key,40608
+29065,City Key,44439
+146157,City Key,47757
+5267,City Key,40944
+194110,City Key,107558
+166041,City Key,107510
+117570,City Key,72646
+36097,City Key,41500
+107986,City Key,87556
+47202,City Key,72610
+101779,City Key,41358
+199501,City Key,66127
+92957,City Key,40659
+147665,City Key,44316
+3175,City Key,44316
+205622,City Key,66011
+38843,City Key,76970
+165517,City Key,108660
+139602,City Key,77088
+83934,City Key,91271
+193626,City Key,108660
+109730,City Key,72894
+5181,City Key,45725
+125198,City Key,87673
+96242,City Key,41500
+64032,City Key,66127
+204301,City Key,72709
+217875,City Key,110541
+191973,City Key,72761
+80926,City Key,47016
+89209,City Key,76970
+15801,City Key,41358
+76169,City Key,91464
+172551,City Key,110549
+103073,City Key,41568
+82766,City Key,44439
+24812,City Key,72743
+225548,City Key,72761
+56192,Customer Key,281
+227784,Customer Key,0
+87978,Customer Key,0
+16428,Customer Key,297
+219559,Customer Key,0
+6658,Customer Key,281
+27492,Customer Key,52
+73926,Customer Key,201
+1005,Customer Key,0
+50910,Customer Key,142
+95305,Customer Key,223
+167719,Customer Key,272
+41573,Customer Key,131
+14043,Customer Key,43
+14405,Customer Key,297
+135223,Customer Key,180
+33043,Customer Key,136
+178497,Customer Key,43
+31366,Customer Key,0
+11450,Customer Key,0
+60471,Customer Key,0
+37360,Customer Key,273
+155288,Customer Key,186
+3871,Customer Key,78
+61336,Customer Key,131
+57329,Customer Key,0
+157954,Customer Key,0
+63257,Customer Key,107
+43209,Customer Key,0
+161680,Customer Key,43
+209632,Customer Key,274
+5399,Customer Key,0
+209334,Customer Key,102
+177347,Customer Key,30
+64581,Customer Key,0
+132235,Customer Key,0
+149976,Customer Key,78
+83333,Customer Key,25
+78971,Customer Key,201
+26170,Customer Key,0
+162063,Customer Key,131
+54181,Customer Key,31
+52444,Customer Key,127
+116564,Customer Key,256
+130622,Customer Key,37
+50101,Customer Key,0
+8408,Customer Key,0
+71889,Customer Key,0
+145986,Customer Key,30
+202305,Customer Key,0
+90949,Customer Key,180
+210862,Customer Key,102
+62079,Customer Key,221
+191994,Customer Key,256
+66367,Customer Key,186
+130802,Customer Key,47
+68882,Customer Key,273
+158482,Customer Key,297
+169629,Customer Key,63
+80920,Customer Key,0
+127141,Customer Key,37
+211173,Customer Key,63
+9675,Customer Key,274
+29065,Customer Key,273
+146157,Customer Key,0
+5267,Customer Key,48
+194110,Customer Key,0
+166041,Customer Key,63
+117570,Customer Key,0
+36097,Customer Key,47
+107986,Customer Key,31
+47202,Customer Key,338
+101779,Customer Key,221
+199501,Customer Key,249
+92957,Customer Key,107
+147665,Customer Key,297
+3175,Customer Key,297
+205622,Customer Key,180
+38843,Customer Key,186
+165517,Customer Key,78
+139602,Customer Key,281
+83934,Customer Key,127
+193626,Customer Key,78
+109730,Customer Key,0
+5181,Customer Key,20
+125198,Customer Key,223
+96242,Customer Key,47
+64032,Customer Key,249
+204301,Customer Key,0
+217875,Customer Key,102
+191973,Customer Key,0
+80926,Customer Key,374
+89209,Customer Key,186
+15801,Customer Key,221
+76169,Customer Key,0
+172551,Customer Key,274
+103073,Customer Key,0
+82766,Customer Key,273
+24812,Customer Key,398
+225548,Customer Key,0
+56192,Bill To Customer Key,202
+227784,Bill To Customer Key,0
+87978,Bill To Customer Key,0
+16428,Bill To Customer Key,202
+219559,Bill To Customer Key,0
+6658,Bill To Customer Key,202
+27492,Bill To Customer Key,1
+73926,Bill To Customer Key,1
+1005,Bill To Customer Key,0
+50910,Bill To Customer Key,1
+95305,Bill To Customer Key,202
+167719,Bill To Customer Key,202
+41573,Bill To Customer Key,1
+14043,Bill To Customer Key,1
+14405,Bill To Customer Key,202
+135223,Bill To Customer Key,1
+33043,Bill To Customer Key,1
+178497,Bill To Customer Key,1
+31366,Bill To Customer Key,0
+11450,Bill To Customer Key,0
+60471,Bill To Customer Key,0
+37360,Bill To Customer Key,202
+155288,Bill To Customer Key,1
+3871,Bill To Customer Key,1
+61336,Bill To Customer Key,1
+57329,Bill To Customer Key,0
+157954,Bill To Customer Key,0
+63257,Bill To Customer Key,1
+43209,Bill To Customer Key,0
+161680,Bill To Customer Key,1
+209632,Bill To Customer Key,202
+5399,Bill To Customer Key,0
+209334,Bill To Customer Key,1
+177347,Bill To Customer Key,1
+64581,Bill To Customer Key,0
+132235,Bill To Customer Key,0
+149976,Bill To Customer Key,1
+83333,Bill To Customer Key,1
+78971,Bill To Customer Key,1
+26170,Bill To Customer Key,0
+162063,Bill To Customer Key,1
+54181,Bill To Customer Key,1
+52444,Bill To Customer Key,1
+116564,Bill To Customer Key,202
+130622,Bill To Customer Key,1
+50101,Bill To Customer Key,0
+8408,Bill To Customer Key,0
+71889,Bill To Customer Key,0
+145986,Bill To Customer Key,1
+202305,Bill To Customer Key,0
+90949,Bill To Customer Key,1
+210862,Bill To Customer Key,1
+62079,Bill To Customer Key,202
+191994,Bill To Customer Key,202
+66367,Bill To Customer Key,1
+130802,Bill To Customer Key,1
+68882,Bill To Customer Key,202
+158482,Bill To Customer Key,202
+169629,Bill To Customer Key,1
+80920,Bill To Customer Key,0
+127141,Bill To Customer Key,1
+211173,Bill To Customer Key,1
+9675,Bill To Customer Key,202
+29065,Bill To Customer Key,202
+146157,Bill To Customer Key,0
+5267,Bill To Customer Key,1
+194110,Bill To Customer Key,0
+166041,Bill To Customer Key,1
+117570,Bill To Customer Key,0
+36097,Bill To Customer Key,1
+107986,Bill To Customer Key,1
+47202,Bill To Customer Key,202
+101779,Bill To Customer Key,202
+199501,Bill To Customer Key,202
+92957,Bill To Customer Key,1
+147665,Bill To Customer Key,202
+3175,Bill To Customer Key,202
+205622,Bill To Customer Key,1
+38843,Bill To Customer Key,1
+165517,Bill To Customer Key,1
+139602,Bill To Customer Key,202
+83934,Bill To Customer Key,1
+193626,Bill To Customer Key,1
+109730,Bill To Customer Key,0
+5181,Bill To Customer Key,1
+125198,Bill To Customer Key,202
+96242,Bill To Customer Key,1
+64032,Bill To Customer Key,202
+204301,Bill To Customer Key,0
+217875,Bill To Customer Key,1
+191973,Bill To Customer Key,0
+80926,Bill To Customer Key,202
+89209,Bill To Customer Key,1
+15801,Bill To Customer Key,202
+76169,Bill To Customer Key,0
+172551,Bill To Customer Key,202
+103073,Bill To Customer Key,0
+82766,Bill To Customer Key,202
+24812,Bill To Customer Key,202
+225548,Bill To Customer Key,0
+56192,Stock Item Key,160
+227784,Stock Item Key,4
+87978,Stock Item Key,57
+16428,Stock Item Key,182
+219559,Stock Item Key,149
+6658,Stock Item Key,3
+27492,Stock Item Key,217
+73926,Stock Item Key,70
+1005,Stock Item Key,82
+50910,Stock Item Key,33
+95305,Stock Item Key,67
+167719,Stock Item Key,34
+41573,Stock Item Key,30
+14043,Stock Item Key,58
+14405,Stock Item Key,6
+135223,Stock Item Key,149
+33043,Stock Item Key,98
+178497,Stock Item Key,40
+31366,Stock Item Key,130
+11450,Stock Item Key,114
+60471,Stock Item Key,27
+37360,Stock Item Key,73
+155288,Stock Item Key,177
+3871,Stock Item Key,161
+61336,Stock Item Key,205
+57329,Stock Item Key,123
+157954,Stock Item Key,145
+63257,Stock Item Key,136
+43209,Stock Item Key,166
+161680,Stock Item Key,198
+209632,Stock Item Key,166
+5399,Stock Item Key,48
+209334,Stock Item Key,135
+177347,Stock Item Key,12
+64581,Stock Item Key,144
+132235,Stock Item Key,115
+149976,Stock Item Key,28
+83333,Stock Item Key,190
+78971,Stock Item Key,71
+26170,Stock Item Key,116
+162063,Stock Item Key,66
+54181,Stock Item Key,176
+52444,Stock Item Key,5
+116564,Stock Item Key,166
+130622,Stock Item Key,206
+50101,Stock Item Key,172
+8408,Stock Item Key,2
+71889,Stock Item Key,143
+145986,Stock Item Key,2
+202305,Stock Item Key,171
+90949,Stock Item Key,61
+210862,Stock Item Key,34
+62079,Stock Item Key,185
+191994,Stock Item Key,130
+66367,Stock Item Key,29
+130802,Stock Item Key,114
+68882,Stock Item Key,114
+158482,Stock Item Key,69
+169629,Stock Item Key,217
+80920,Stock Item Key,26
+127141,Stock Item Key,114
+211173,Stock Item Key,57
+9675,Stock Item Key,156
+29065,Stock Item Key,203
+146157,Stock Item Key,129
+5267,Stock Item Key,188
+194110,Stock Item Key,171
+166041,Stock Item Key,25
+117570,Stock Item Key,113
+36097,Stock Item Key,60
+107986,Stock Item Key,6
+47202,Stock Item Key,150
+101779,Stock Item Key,144
+199501,Stock Item Key,41
+92957,Stock Item Key,53
+147665,Stock Item Key,153
+3175,Stock Item Key,85
+205622,Stock Item Key,100
+38843,Stock Item Key,38
+165517,Stock Item Key,37
+139602,Stock Item Key,168
+83934,Stock Item Key,186
+193626,Stock Item Key,15
+109730,Stock Item Key,184
+5181,Stock Item Key,9
+125198,Stock Item Key,61
+96242,Stock Item Key,65
+64032,Stock Item Key,85
+204301,Stock Item Key,177
+217875,Stock Item Key,223
+191973,Stock Item Key,211
+80926,Stock Item Key,119
+89209,Stock Item Key,193
+15801,Stock Item Key,90
+76169,Stock Item Key,178
+172551,Stock Item Key,160
+103073,Stock Item Key,86
+82766,Stock Item Key,31
+24812,Stock Item Key,113
+225548,Stock Item Key,28
+56192,Invoice Date Key,2013-12-02 00:00:00.000
+227784,Invoice Date Key,2016-05-30 00:00:00.000
+87978,Invoice Date Key,2014-06-02 00:00:00.000
+16428,Invoice Date Key,2013-04-12 00:00:00.000
+219559,Invoice Date Key,2016-04-19 00:00:00.000
+6658,Invoice Date Key,2013-02-11 00:00:00.000
+27492,Invoice Date Key,2013-06-14 00:00:00.000
+73926,Invoice Date Key,2014-03-15 00:00:00.000
+1005,Invoice Date Key,2013-01-07 00:00:00.000
+50910,Invoice Date Key,2013-10-30 00:00:00.000
+95305,Invoice Date Key,2014-07-09 00:00:00.000
+167719,Invoice Date Key,2015-07-24 00:00:00.000
+41573,Invoice Date Key,2013-09-04 00:00:00.000
+14043,Invoice Date Key,2013-03-28 00:00:00.000
+14405,Invoice Date Key,2013-04-01 00:00:00.000
+135223,Invoice Date Key,2015-02-16 00:00:00.000
+33043,Invoice Date Key,2013-07-13 00:00:00.000
+178497,Invoice Date Key,2015-09-18 00:00:00.000
+31366,Invoice Date Key,2013-07-04 00:00:00.000
+11450,Invoice Date Key,2013-03-14 00:00:00.000
+60471,Invoice Date Key,2013-12-30 00:00:00.000
+37360,Invoice Date Key,2013-08-07 00:00:00.000
+155288,Invoice Date Key,2015-05-26 00:00:00.000
+3871,Invoice Date Key,2013-01-24 00:00:00.000
+61336,Invoice Date Key,2014-01-02 00:00:00.000
+57329,Invoice Date Key,2013-12-07 00:00:00.000
+157954,Invoice Date Key,2015-06-08 00:00:00.000
+63257,Invoice Date Key,2014-01-15 00:00:00.000
+43209,Invoice Date Key,2013-09-14 00:00:00.000
+161680,Invoice Date Key,2015-06-26 00:00:00.000
+209632,Invoice Date Key,2016-02-29 00:00:00.000
+5399,Invoice Date Key,2013-02-01 00:00:00.000
+209334,Invoice Date Key,2016-02-26 00:00:00.000
+177347,Invoice Date Key,2015-09-12 00:00:00.000
+64581,Invoice Date Key,2014-01-22 00:00:00.000
+132235,Invoice Date Key,2015-01-30 00:00:00.000
+149976,Invoice Date Key,2015-04-29 00:00:00.000
+83333,Invoice Date Key,2014-05-08 00:00:00.000
+78971,Invoice Date Key,2014-04-15 00:00:00.000
+26170,Invoice Date Key,2013-06-06 00:00:00.000
+162063,Invoice Date Key,2015-06-29 00:00:00.000
+54181,Invoice Date Key,2013-11-20 00:00:00.000
+52444,Invoice Date Key,2013-11-09 00:00:00.000
+116564,Invoice Date Key,2014-11-04 00:00:00.000
+130622,Invoice Date Key,2015-01-22 00:00:00.000
+50101,Invoice Date Key,2013-10-25 00:00:00.000
+8408,Invoice Date Key,2013-02-25 00:00:00.000
+71889,Invoice Date Key,2014-03-04 00:00:00.000
+145986,Invoice Date Key,2015-04-10 00:00:00.000
+202305,Invoice Date Key,2016-01-18 00:00:00.000
+90949,Invoice Date Key,2014-06-16 00:00:00.000
+210862,Invoice Date Key,2016-03-04 00:00:00.000
+62079,Invoice Date Key,2014-01-07 00:00:00.000
+191994,Invoice Date Key,2015-11-24 00:00:00.000
+66367,Invoice Date Key,2014-01-31 00:00:00.000
+130802,Invoice Date Key,2015-01-22 00:00:00.000
+68882,Invoice Date Key,2014-02-14 00:00:00.000
+158482,Invoice Date Key,2015-06-09 00:00:00.000
+169629,Invoice Date Key,2015-08-03 00:00:00.000
+80920,Invoice Date Key,2014-04-25 00:00:00.000
+127141,Invoice Date Key,2015-01-01 00:00:00.000
+211173,Invoice Date Key,2016-03-07 00:00:00.000
+9675,Invoice Date Key,2013-03-05 00:00:00.000
+29065,Invoice Date Key,2013-06-22 00:00:00.000
+146157,Invoice Date Key,2015-04-11 00:00:00.000
+5267,Invoice Date Key,2013-02-01 00:00:00.000
+194110,Invoice Date Key,2015-12-07 00:00:00.000
+166041,Invoice Date Key,2015-07-16 00:00:00.000
+117570,Invoice Date Key,2014-11-10 00:00:00.000
+36097,Invoice Date Key,2013-07-31 00:00:00.000
+107986,Invoice Date Key,2014-09-19 00:00:00.000
+47202,Invoice Date Key,2013-10-08 00:00:00.000
+101779,Invoice Date Key,2014-08-12 00:00:00.000
+199501,Invoice Date Key,2016-01-05 00:00:00.000
+92957,Invoice Date Key,2014-06-26 00:00:00.000
+147665,Invoice Date Key,2015-04-17 00:00:00.000
+3175,Invoice Date Key,2013-01-19 00:00:00.000
+205622,Invoice Date Key,2016-02-05 00:00:00.000
+38843,Invoice Date Key,2013-08-17 00:00:00.000
+165517,Invoice Date Key,2015-07-15 00:00:00.000
+139602,Invoice Date Key,2015-03-10 00:00:00.000
+83934,Invoice Date Key,2014-05-10 00:00:00.000
+193626,Invoice Date Key,2015-12-04 00:00:00.000
+109730,Invoice Date Key,2014-09-29 00:00:00.000
+5181,Invoice Date Key,2013-01-31 00:00:00.000
+125198,Invoice Date Key,2014-12-23 00:00:00.000
+96242,Invoice Date Key,2014-07-14 00:00:00.000
+64032,Invoice Date Key,2014-01-18 00:00:00.000
+204301,Invoice Date Key,2016-01-28 00:00:00.000
+217875,Invoice Date Key,2016-04-11 00:00:00.000
+191973,Invoice Date Key,2015-11-24 00:00:00.000
+80926,Invoice Date Key,2014-04-25 00:00:00.000
+89209,Invoice Date Key,2014-06-07 00:00:00.000
+15801,Invoice Date Key,2013-04-09 00:00:00.000
+76169,Invoice Date Key,2014-03-29 00:00:00.000
+172551,Invoice Date Key,2015-08-19 00:00:00.000
+103073,Invoice Date Key,2014-08-20 00:00:00.000
+82766,Invoice Date Key,2014-05-05 00:00:00.000
+24812,Invoice Date Key,2013-05-30 00:00:00.000
+225548,Invoice Date Key,2016-05-18 00:00:00.000
+56192,Delivery Date Key,2013-12-03 00:00:00.000
+227784,Delivery Date Key,2016-05-31 00:00:00.000
+87978,Delivery Date Key,2014-06-03 00:00:00.000
+16428,Delivery Date Key,2013-04-13 00:00:00.000
+219559,Delivery Date Key,2016-04-20 00:00:00.000
+6658,Delivery Date Key,2013-02-12 00:00:00.000
+27492,Delivery Date Key,2013-06-15 00:00:00.000
+73926,Delivery Date Key,2014-03-16 00:00:00.000
+1005,Delivery Date Key,2013-01-08 00:00:00.000
+50910,Delivery Date Key,2013-10-31 00:00:00.000
+95305,Delivery Date Key,2014-07-10 00:00:00.000
+167719,Delivery Date Key,2015-07-25 00:00:00.000
+41573,Delivery Date Key,2013-09-05 00:00:00.000
+14043,Delivery Date Key,2013-03-29 00:00:00.000
+14405,Delivery Date Key,2013-04-02 00:00:00.000
+135223,Delivery Date Key,2015-02-17 00:00:00.000
+33043,Delivery Date Key,2013-07-14 00:00:00.000
+178497,Delivery Date Key,2015-09-19 00:00:00.000
+31366,Delivery Date Key,2013-07-05 00:00:00.000
+11450,Delivery Date Key,2013-03-15 00:00:00.000
+60471,Delivery Date Key,2013-12-31 00:00:00.000
+37360,Delivery Date Key,2013-08-08 00:00:00.000
+155288,Delivery Date Key,2015-05-27 00:00:00.000
+3871,Delivery Date Key,2013-01-25 00:00:00.000
+61336,Delivery Date Key,2014-01-03 00:00:00.000
+57329,Delivery Date Key,2013-12-08 00:00:00.000
+157954,Delivery Date Key,2015-06-09 00:00:00.000
+63257,Delivery Date Key,2014-01-16 00:00:00.000
+43209,Delivery Date Key,2013-09-15 00:00:00.000
+161680,Delivery Date Key,2015-06-27 00:00:00.000
+209632,Delivery Date Key,2016-03-01 00:00:00.000
+5399,Delivery Date Key,2013-02-02 00:00:00.000
+209334,Delivery Date Key,2016-02-27 00:00:00.000
+177347,Delivery Date Key,2015-09-13 00:00:00.000
+64581,Delivery Date Key,2014-01-23 00:00:00.000
+132235,Delivery Date Key,2015-01-31 00:00:00.000
+149976,Delivery Date Key,2015-04-30 00:00:00.000
+83333,Delivery Date Key,2014-05-09 00:00:00.000
+78971,Delivery Date Key,2014-04-16 00:00:00.000
+26170,Delivery Date Key,2013-06-07 00:00:00.000
+162063,Delivery Date Key,2015-06-30 00:00:00.000
+54181,Delivery Date Key,2013-11-21 00:00:00.000
+52444,Delivery Date Key,2013-11-10 00:00:00.000
+116564,Delivery Date Key,2014-11-05 00:00:00.000
+130622,Delivery Date Key,2015-01-23 00:00:00.000
+50101,Delivery Date Key,2013-10-26 00:00:00.000
+8408,Delivery Date Key,2013-02-26 00:00:00.000
+71889,Delivery Date Key,2014-03-05 00:00:00.000
+145986,Delivery Date Key,2015-04-11 00:00:00.000
+202305,Delivery Date Key,2016-01-19 00:00:00.000
+90949,Delivery Date Key,2014-06-17 00:00:00.000
+210862,Delivery Date Key,2016-03-05 00:00:00.000
+62079,Delivery Date Key,2014-01-08 00:00:00.000
+191994,Delivery Date Key,2015-11-25 00:00:00.000
+66367,Delivery Date Key,2014-02-01 00:00:00.000
+130802,Delivery Date Key,2015-01-23 00:00:00.000
+68882,Delivery Date Key,2014-02-15 00:00:00.000
+158482,Delivery Date Key,2015-06-10 00:00:00.000
+169629,Delivery Date Key,2015-08-04 00:00:00.000
+80920,Delivery Date Key,2014-04-26 00:00:00.000
+127141,Delivery Date Key,2015-01-02 00:00:00.000
+211173,Delivery Date Key,2016-03-08 00:00:00.000
+9675,Delivery Date Key,2013-03-06 00:00:00.000
+29065,Delivery Date Key,2013-06-23 00:00:00.000
+146157,Delivery Date Key,2015-04-12 00:00:00.000
+5267,Delivery Date Key,2013-02-02 00:00:00.000
+194110,Delivery Date Key,2015-12-08 00:00:00.000
+166041,Delivery Date Key,2015-07-17 00:00:00.000
+117570,Delivery Date Key,2014-11-11 00:00:00.000
+36097,Delivery Date Key,2013-08-01 00:00:00.000
+107986,Delivery Date Key,2014-09-20 00:00:00.000
+47202,Delivery Date Key,2013-10-09 00:00:00.000
+101779,Delivery Date Key,2014-08-13 00:00:00.000
+199501,Delivery Date Key,2016-01-06 00:00:00.000
+92957,Delivery Date Key,2014-06-27 00:00:00.000
+147665,Delivery Date Key,2015-04-18 00:00:00.000
+3175,Delivery Date Key,2013-01-20 00:00:00.000
+205622,Delivery Date Key,2016-02-06 00:00:00.000
+38843,Delivery Date Key,2013-08-18 00:00:00.000
+165517,Delivery Date Key,2015-07-16 00:00:00.000
+139602,Delivery Date Key,2015-03-11 00:00:00.000
+83934,Delivery Date Key,2014-05-11 00:00:00.000
+193626,Delivery Date Key,2015-12-05 00:00:00.000
+109730,Delivery Date Key,2014-09-30 00:00:00.000
+5181,Delivery Date Key,2013-02-01 00:00:00.000
+125198,Delivery Date Key,2014-12-24 00:00:00.000
+96242,Delivery Date Key,2014-07-15 00:00:00.000
+64032,Delivery Date Key,2014-01-19 00:00:00.000
+204301,Delivery Date Key,2016-01-29 00:00:00.000
+217875,Delivery Date Key,2016-04-12 00:00:00.000
+191973,Delivery Date Key,2015-11-25 00:00:00.000
+80926,Delivery Date Key,2014-04-26 00:00:00.000
+89209,Delivery Date Key,2014-06-08 00:00:00.000
+15801,Delivery Date Key,2013-04-10 00:00:00.000
+76169,Delivery Date Key,2014-03-30 00:00:00.000
+172551,Delivery Date Key,2015-08-20 00:00:00.000
+103073,Delivery Date Key,2014-08-21 00:00:00.000
+82766,Delivery Date Key,2014-05-06 00:00:00.000
+24812,Delivery Date Key,2013-05-31 00:00:00.000
+225548,Delivery Date Key,2016-05-19 00:00:00.000
+56192,Salesperson Key,86
+227784,Salesperson Key,168
+87978,Salesperson Key,90
+16428,Salesperson Key,52
+219559,Salesperson Key,152
+6658,Salesperson Key,41
+27492,Salesperson Key,49
+73926,Salesperson Key,19
+1005,Salesperson Key,7
+50910,Salesperson Key,19
+95305,Salesperson Key,102
+167719,Salesperson Key,152
+41573,Salesperson Key,81
+14043,Salesperson Key,58
+14405,Salesperson Key,51
+135223,Salesperson Key,144
+33043,Salesperson Key,49
+178497,Salesperson Key,150
+31366,Salesperson Key,65
+11450,Salesperson Key,40
+60471,Salesperson Key,39
+37360,Salesperson Key,81
+155288,Salesperson Key,19
+3871,Salesperson Key,28
+61336,Salesperson Key,93
+57329,Salesperson Key,86
+157954,Salesperson Key,127
+63257,Salesperson Key,101
+43209,Salesperson Key,74
+161680,Salesperson Key,154
+209632,Salesperson Key,150
+5399,Salesperson Key,38
+209334,Salesperson Key,158
+177347,Salesperson Key,151
+64581,Salesperson Key,81
+132235,Salesperson Key,119
+149976,Salesperson Key,119
+83333,Salesperson Key,93
+78971,Salesperson Key,102
+26170,Salesperson Key,70
+162063,Salesperson Key,151
+54181,Salesperson Key,90
+52444,Salesperson Key,89
+116564,Salesperson Key,127
+130622,Salesperson Key,138
+50101,Salesperson Key,83
+8408,Salesperson Key,47
+71889,Salesperson Key,103
+145986,Salesperson Key,119
+202305,Salesperson Key,161
+90949,Salesperson Key,90
+210862,Salesperson Key,143
+62079,Salesperson Key,19
+191994,Salesperson Key,150
+66367,Salesperson Key,94
+130802,Salesperson Key,108
+68882,Salesperson Key,102
+158482,Salesperson Key,129
+169629,Salesperson Key,154
+80920,Salesperson Key,102
+127141,Salesperson Key,116
+211173,Salesperson Key,161
+9675,Salesperson Key,47
+29065,Salesperson Key,62
+146157,Salesperson Key,129
+5267,Salesperson Key,38
+194110,Salesperson Key,19
+166041,Salesperson Key,143
+117570,Salesperson Key,19
+36097,Salesperson Key,81
+107986,Salesperson Key,116
+47202,Salesperson Key,83
+101779,Salesperson Key,108
+199501,Salesperson Key,155
+92957,Salesperson Key,86
+147665,Salesperson Key,129
+3175,Salesperson Key,19
+205622,Salesperson Key,163
+38843,Salesperson Key,77
+165517,Salesperson Key,151
+139602,Salesperson Key,143
+83934,Salesperson Key,19
+193626,Salesperson Key,143
+109730,Salesperson Key,19
+5181,Salesperson Key,38
+125198,Salesperson Key,138
+96242,Salesperson Key,105
+64032,Salesperson Key,39
+204301,Salesperson Key,161
+217875,Salesperson Key,172
+191973,Salesperson Key,19
+80926,Salesperson Key,81
+89209,Salesperson Key,102
+15801,Salesperson Key,51
+76169,Salesperson Key,86
+172551,Salesperson Key,152
+103073,Salesperson Key,93
+82766,Salesperson Key,108
+24812,Salesperson Key,70
+225548,Salesperson Key,174
+56192,WWI Invoice ID,17301
+227784,WWI Invoice ID,70369
+87978,WWI Invoice ID,27044
+16428,WWI Invoice ID,5053
+219559,WWI Invoice ID,67828
+6658,WWI Invoice ID,2051
+27492,WWI Invoice ID,8475
+73926,WWI Invoice ID,22728
+1005,WWI Invoice ID,389
+50910,WWI Invoice ID,15692
+95305,WWI Invoice ID,29316
+167719,WWI Invoice ID,51699
+41573,WWI Invoice ID,12843
+14043,WWI Invoice ID,4305
+14405,WWI Invoice ID,4426
+135223,WWI Invoice ID,41647
+33043,WWI Invoice ID,10186
+178497,WWI Invoice ID,55046
+31366,WWI Invoice ID,9664
+11450,WWI Invoice ID,3515
+60471,WWI Invoice ID,18618
+37360,WWI Invoice ID,11522
+155288,WWI Invoice ID,47850
+3871,WWI Invoice ID,1240
+61336,WWI Invoice ID,18883
+57329,WWI Invoice ID,17651
+157954,WWI Invoice ID,48664
+63257,WWI Invoice ID,19475
+43209,WWI Invoice ID,13347
+161680,WWI Invoice ID,49821
+209632,WWI Invoice ID,64732
+5399,WWI Invoice ID,1686
+209334,WWI Invoice ID,64641
+177347,WWI Invoice ID,54681
+64581,WWI Invoice ID,19870
+132235,WWI Invoice ID,40724
+149976,WWI Invoice ID,46193
+83333,WWI Invoice ID,25617
+78971,WWI Invoice ID,24272
+26170,WWI Invoice ID,8052
+162063,WWI Invoice ID,49933
+54181,WWI Invoice ID,16682
+52444,WWI Invoice ID,16157
+116564,WWI Invoice ID,35889
+130622,WWI Invoice ID,40230
+50101,WWI Invoice ID,15437
+8408,WWI Invoice ID,2590
+71889,WWI Invoice ID,22129
+145986,WWI Invoice ID,44966
+202305,WWI Invoice ID,62405
+90949,WWI Invoice ID,27962
+210862,WWI Invoice ID,65118
+62079,WWI Invoice ID,19110
+191994,WWI Invoice ID,59191
+66367,WWI Invoice ID,20418
+130802,WWI Invoice ID,40285
+68882,WWI Invoice ID,21203
+158482,WWI Invoice ID,48822
+169629,WWI Invoice ID,52286
+80920,WWI Invoice ID,24888
+127141,WWI Invoice ID,39144
+211173,WWI Invoice ID,65215
+9675,WWI Invoice ID,2975
+29065,WWI Invoice ID,8944
+146157,WWI Invoice ID,45017
+5267,WWI Invoice ID,1646
+194110,WWI Invoice ID,59860
+166041,WWI Invoice ID,51165
+117570,WWI Invoice ID,36204
+36097,WWI Invoice ID,11140
+107986,WWI Invoice ID,33252
+47202,WWI Invoice ID,14564
+101779,WWI Invoice ID,31321
+199501,WWI Invoice ID,61535
+92957,WWI Invoice ID,28590
+147665,WWI Invoice ID,45477
+3175,WWI Invoice ID,1030
+205622,WWI Invoice ID,63453
+38843,WWI Invoice ID,11994
+165517,WWI Invoice ID,51011
+139602,WWI Invoice ID,42995
+83934,WWI Invoice ID,25797
+193626,WWI Invoice ID,59714
+109730,WWI Invoice ID,33793
+5181,WWI Invoice ID,1620
+125198,WWI Invoice ID,38547
+96242,WWI Invoice ID,29602
+64032,WWI Invoice ID,19704
+204301,WWI Invoice ID,63037
+217875,WWI Invoice ID,67297
+191973,WWI Invoice ID,59184
+80926,WWI Invoice ID,24890
+89209,WWI Invoice ID,27424
+15801,WWI Invoice ID,4858
+76169,WWI Invoice ID,23415
+172551,WWI Invoice ID,53188
+103073,WWI Invoice ID,31729
+82766,WWI Invoice ID,25442
+24812,WWI Invoice ID,7638
+225548,WWI Invoice ID,69674
+56192,Description,RC toy sedan car with remote control (Blue) 1/50 scale
+227784,Description,Void fill 100 L bag (White) 100L
+87978,Description,32 mm Double sided bubble wrap 20m
+16428,Description,Developer joke mug - inheritance is the OO way to become wealthy (White)
+219559,Description,Ride on toy sedan car (Yellow) 1/12 scale
+6658,Description,Void fill 200 L bag (White) 200L
+27492,Description,Office cube periscope (Black)
+73926,Description,Pack of 12 action figures (variety)
+1005,Description,Furry animal socks (Pink) S
+50910,Description,Express post box 5kg (White) 350x280x130mm
+95305,Description,Small sized bubblewrap roll 10m
+167719,Description,Shipping carton (Brown) 457x457x457mm
+41573,Description,Clear packaging tape 48mmx100m
+14043,Description,32 mm Double sided bubble wrap 10m
+14405,Description,Air cushion film 200mmx200mm 325m
+135223,Description,Ride on toy sedan car (Yellow) 1/12 scale
+33043,Description,Ogre battery-powered slippers (Green) S
+178497,Description,Shipping carton (Brown) 279x254x217mm
+31366,Description,The Gu red shirt XML tag t-shirt (Black) XXS
+11450,Description,Alien officer hoodie (Black) 5XL
+60471,Description,Black and orange glass with care despatch tape 48mmx75m
+37360,Description,Halloween skull mask (Gray) M
+155288,Description,Developer joke mug - understanding recursion requires understanding recursion (Black)
+3871,Description,RC toy sedan car with remote control (Red) 1/50 scale
+61336,Description,USB food flash drive - dessert 10 drive variety pack
+57329,Description,The Gu red shirt XML tag t-shirt (Black) 3XL
+157954,Description,Ride on big wheel monster truck (Black) 1/12 scale
+63257,Description,The Gu red shirt XML tag t-shirt (White) 3XL
+43209,Description,IT joke mug - that behavior is by design (White)
+161680,Description,DBA joke mug - it depends (White)
+209632,Description,IT joke mug - that behavior is by design (White)
+5399,Description,32 mm Anti static bubble wrap (Blue) 20m
+209334,Description,The Gu red shirt XML tag t-shirt (White) 4XL
+177347,Description,Permanent marker red 5mm nib (Red) 5mm
+64581,Description,The Gu red shirt XML tag t-shirt (White) 3XS
+132235,Description,Alien officer hoodie (Black) 4XL
+149976,Description,Black and orange fragile despatch tape 48mmx100m
+83333,Description,Developer joke mug - Oct 31 = Dec 25 (White)
+78971,Description,Halloween skull mask (Gray) XL
+26170,Description,Alien officer hoodie (Black) 3XL
+162063,Description,Medium sized bubblewrap roll 20m
+54181,Description,Developer joke mug - there are 10 types of people in the world (White)
+52444,Description,Air cushion machine (Blue)
+116564,Description,IT joke mug - that behavior is by design (White)
+130622,Description,USB food flash drive - fortune cookie
+50101,Description,Developer joke mug - this code was generated by a tool (White)
+8408,Description,Void fill 300 L bag (White) 300L
+71889,Description,The Gu red shirt XML tag t-shirt (White) XXS
+145986,Description,Void fill 300 L bag (White) 300L
+202305,Description,Developer joke mug - this code was generated by a tool (Black)
+90949,Description,20 mm Double sided bubble wrap 10m
+210862,Description,Shipping carton (Brown) 457x457x457mm
+62079,Description,Developer joke mug - fun was unexpected at this time (Black)
+191994,Description,The Gu red shirt XML tag t-shirt (Black) XXS
+66367,Description,Black and orange fragile despatch tape 48mmx75m
+130802,Description,Alien officer hoodie (Black) 5XL
+68882,Description,Alien officer hoodie (Black) 5XL
+158482,Description,Pack of 12 action figures (male)
+169629,Description,Office cube periscope (Black)
+80920,Description,Black and orange glass with care despatch tape  48mmx100m
+127141,Description,Alien officer hoodie (Black) 5XL
+211173,Description,32 mm Double sided bubble wrap 20m
+9675,Description,RC vintage American toy coupe with remote control (Red) 1/50 scale
+29065,Description,DBA joke mug - mind if I join you? (Black)
+146157,Description,The Gu red shirt XML tag t-shirt (Black) XS
+5267,Description,Developer joke mug - that's a hardware problem (White)
+194110,Description,Developer joke mug - this code was generated by a tool (Black)
+166041,Description,Black and orange handle with care despatch tape  48mmx75m
+117570,Description,Superhero action jacket (Blue) 3XS
+36097,Description,20 mm Double sided bubble wrap 20m
+107986,Description,Air cushion film 200mmx200mm 325m
+47202,Description,Ride on toy sedan car (Green) 1/12 scale
+101779,Description,The Gu red shirt XML tag t-shirt (White) 3XS
+199501,Description,Shipping carton (Brown) 229x229x229mm
+92957,Description,10 mm Anti static bubble wrap (Blue) 50m
+147665,Description,Ride on toy sedan car (Black) 1/12 scale
+3175,Description,Animal with big feet slippers (Brown) M
+205622,Description,Dinosaur battery-powered slippers (Green) L
+38843,Description,Shipping carton (Brown) 457x279x279mm
+165517,Description,Shipping carton (Brown) 480x270x320mm
+139602,Description,IT joke mug - keyboard not found … press F1 to continue (White)
+83934,Description,Developer joke mug - fun was unexpected at this time (White)
+193626,Description,Tape dispenser (Blue)
+109730,Description,Developer joke mug - when your hammer is C++ (White)
+5181,Description,Small 9mm replacement blades 9mm
+125198,Description,20 mm Double sided bubble wrap 10m
+96242,Description,Large sized bubblewrap roll 50m
+64032,Description,Animal with big feet slippers (Brown) M
+204301,Description,Developer joke mug - understanding recursion requires understanding recursion (Black)
+217875,Description,Chocolate beetles 250g
+191973,Description,USB food flash drive - banana
+80926,Description,The Gu red shirt XML tag t-shirt (Black) 7XL
+89209,Description,DBA joke mug - SELECT caffeine FROM mug (Black)
+15801,Description,Furry gorilla with big eyes slippers (Black) S
+76169,Description,Developer joke mug - understanding recursion requires understanding recursion (White)
+172551,Description,RC toy sedan car with remote control (Blue) 1/50 scale
+103073,Description,Animal with big feet slippers (Brown) S
+82766,Description,Clear packaging tape 48mmx75m
+24812,Description,Superhero action jacket (Blue) 3XS
+225548,Description,Black and orange fragile despatch tape 48mmx100m
+56192,Package,Each
+227784,Package,Each
+87978,Package,Each
+16428,Package,Each
+219559,Package,Each
+6658,Package,Each
+27492,Package,Each
+73926,Package,Packet
+1005,Package,Pair
+50910,Package,Each
+95305,Package,Each
+167719,Package,Each
+41573,Package,Each
+14043,Package,Each
+14405,Package,Each
+135223,Package,Each
+33043,Package,Each
+178497,Package,Each
+31366,Package,Each
+11450,Package,Each
+60471,Package,Each
+37360,Package,Each
+155288,Package,Each
+3871,Package,Each
+61336,Package,Packet
+57329,Package,Each
+157954,Package,Each
+63257,Package,Each
+43209,Package,Each
+161680,Package,Each
+209632,Package,Each
+5399,Package,Each
+209334,Package,Each
+177347,Package,Each
+64581,Package,Each
+132235,Package,Each
+149976,Package,Each
+83333,Package,Each
+78971,Package,Each
+26170,Package,Each
+162063,Package,Each
+54181,Package,Each
+52444,Package,Each
+116564,Package,Each
+130622,Package,Each
+50101,Package,Each
+8408,Package,Each
+71889,Package,Each
+145986,Package,Each
+202305,Package,Each
+90949,Package,Each
+210862,Package,Each
+62079,Package,Each
+191994,Package,Each
+66367,Package,Each
+130802,Package,Each
+68882,Package,Each
+158482,Package,Packet
+169629,Package,Each
+80920,Package,Each
+127141,Package,Each
+211173,Package,Each
+9675,Package,Each
+29065,Package,Each
+146157,Package,Each
+5267,Package,Each
+194110,Package,Each
+166041,Package,Each
+117570,Package,Each
+36097,Package,Each
+107986,Package,Each
+47202,Package,Each
+101779,Package,Each
+199501,Package,Each
+92957,Package,Each
+147665,Package,Each
+3175,Package,Each
+205622,Package,Each
+38843,Package,Each
+165517,Package,Each
+139602,Package,Each
+83934,Package,Each
+193626,Package,Each
+109730,Package,Each
+5181,Package,Each
+125198,Package,Each
+96242,Package,Each
+64032,Package,Each
+204301,Package,Each
+217875,Package,Bag
+191973,Package,Each
+80926,Package,Each
+89209,Package,Each
+15801,Package,Each
+76169,Package,Each
+172551,Package,Each
+103073,Package,Each
+82766,Package,Each
+24812,Package,Each
+225548,Package,Each
+56192,Quantity,10
+227784,Quantity,70
+87978,Quantity,60
+16428,Quantity,9
+219559,Quantity,4
+6658,Quantity,100
+27492,Quantity,80
+73926,Quantity,9
+1005,Quantity,96
+50910,Quantity,250
+95305,Quantity,10
+167719,Quantity,75
+41573,Quantity,20
+14043,Quantity,100
+14405,Quantity,5
+135223,Quantity,3
+33043,Quantity,8
+178497,Quantity,50
+31366,Quantity,60
+11450,Quantity,1
+60471,Quantity,120
+37360,Quantity,48
+155288,Quantity,4
+3871,Quantity,6
+61336,Quantity,6
+57329,Quantity,36
+157954,Quantity,8
+63257,Quantity,24
+43209,Quantity,10
+161680,Quantity,7
+209632,Quantity,10
+5399,Quantity,70
+209334,Quantity,12
+177347,Quantity,84
+64581,Quantity,96
+132235,Quantity,7
+149976,Quantity,144
+83333,Quantity,8
+78971,Quantity,108
+26170,Quantity,10
+162063,Quantity,10
+54181,Quantity,7
+52444,Quantity,8
+116564,Quantity,7
+130622,Quantity,3
+50101,Quantity,5
+8408,Quantity,90
+71889,Quantity,12
+145986,Quantity,80
+202305,Quantity,1
+90949,Quantity,60
+210862,Quantity,25
+62079,Quantity,7
+191994,Quantity,108
+66367,Quantity,72
+130802,Quantity,1
+68882,Quantity,5
+158482,Quantity,9
+169629,Quantity,90
+80920,Quantity,24
+127141,Quantity,2
+211173,Quantity,70
+9675,Quantity,10
+29065,Quantity,4
+146157,Quantity,72
+5267,Quantity,5
+194110,Quantity,8
+166041,Quantity,144
+117570,Quantity,3
+36097,Quantity,30
+107986,Quantity,5
+47202,Quantity,4
+101779,Quantity,120
+199501,Quantity,125
+92957,Quantity,90
+147665,Quantity,1
+3175,Quantity,4
+205622,Quantity,5
+38843,Quantity,150
+165517,Quantity,25
+139602,Quantity,6
+83934,Quantity,10
+193626,Quantity,20
+109730,Quantity,3
+5181,Quantity,70
+125198,Quantity,30
+96242,Quantity,100
+64032,Quantity,2
+204301,Quantity,2
+217875,Quantity,24
+191973,Quantity,8
+80926,Quantity,48
+89209,Quantity,10
+15801,Quantity,6
+76169,Quantity,1
+172551,Quantity,9
+103073,Quantity,3
+82766,Quantity,182
+24812,Quantity,1
+225548,Quantity,72
+56192,Unit Price,25
+227784,Unit Price,12
+87978,Unit Price,37
+16428,Unit Price,13
+219559,Unit Price,230
+6658,Unit Price,25
+27492,Unit Price,18
+73926,Unit Price,16
+1005,Unit Price,5
+50910,Unit Price,1
+95305,Unit Price,4
+167719,Unit Price,2
+41573,Unit Price,4
+14043,Unit Price,22
+14405,Unit Price,90
+135223,Unit Price,230
+33043,Unit Price,32
+178497,Unit Price,1
+31366,Unit Price,18
+11450,Unit Price,35
+60471,Unit Price,4
+37360,Unit Price,18
+155288,Unit Price,13
+3871,Unit Price,25
+61336,Unit Price,240
+57329,Unit Price,18
+157954,Unit Price,345
+63257,Unit Price,18
+43209,Unit Price,13
+161680,Unit Price,13
+209632,Unit Price,13
+5399,Unit Price,48
+209334,Unit Price,18
+177347,Unit Price,3
+64581,Unit Price,18
+132235,Unit Price,35
+149976,Unit Price,4
+83333,Unit Price,13
+78971,Unit Price,18
+26170,Unit Price,35
+162063,Unit Price,20
+54181,Unit Price,13
+52444,Unit Price,1899
+116564,Unit Price,13
+130622,Unit Price,32
+50101,Unit Price,13
+8408,Unit Price,38
+71889,Unit Price,18
+145986,Unit Price,38
+202305,Unit Price,13
+90949,Unit Price,18
+210862,Unit Price,2
+62079,Unit Price,13
+191994,Unit Price,18
+66367,Unit Price,4
+130802,Unit Price,35
+68882,Unit Price,35
+158482,Unit Price,16
+169629,Unit Price,18
+80920,Unit Price,4
+127141,Unit Price,35
+211173,Unit Price,37
+9675,Unit Price,30
+29065,Unit Price,13
+146157,Unit Price,18
+5267,Unit Price,13
+194110,Unit Price,13
+166041,Unit Price,4
+117570,Unit Price,25
+36097,Unit Price,33
+107986,Unit Price,90
+47202,Unit Price,230
+101779,Unit Price,18
+199501,Unit Price,1
+92957,Unit Price,99
+147665,Unit Price,230
+3175,Unit Price,32
+205622,Unit Price,32
+38843,Unit Price,1
+165517,Unit Price,3
+139602,Unit Price,13
+83934,Unit Price,13
+193626,Unit Price,32
+109730,Unit Price,13
+5181,Unit Price,4
+125198,Unit Price,18
+96242,Unit Price,24
+64032,Unit Price,32
+204301,Unit Price,13
+217875,Unit Price,9
+191973,Unit Price,32
+80926,Unit Price,18
+89209,Unit Price,13
+15801,Unit Price,32
+76169,Unit Price,13
+172551,Unit Price,25
+103073,Unit Price,32
+82766,Unit Price,3
+24812,Unit Price,25
+225548,Unit Price,4
+56192,Tax Rate,15
+227784,Tax Rate,15
+87978,Tax Rate,15
+16428,Tax Rate,15
+219559,Tax Rate,15
+6658,Tax Rate,15
+27492,Tax Rate,15
+73926,Tax Rate,15
+1005,Tax Rate,15
+50910,Tax Rate,15
+95305,Tax Rate,15
+167719,Tax Rate,15
+41573,Tax Rate,15
+14043,Tax Rate,15
+14405,Tax Rate,15
+135223,Tax Rate,15
+33043,Tax Rate,15
+178497,Tax Rate,15
+31366,Tax Rate,15
+11450,Tax Rate,15
+60471,Tax Rate,15
+37360,Tax Rate,15
+155288,Tax Rate,15
+3871,Tax Rate,15
+61336,Tax Rate,15
+57329,Tax Rate,15
+157954,Tax Rate,15
+63257,Tax Rate,15
+43209,Tax Rate,15
+161680,Tax Rate,15
+209632,Tax Rate,15
+5399,Tax Rate,15
+209334,Tax Rate,15
+177347,Tax Rate,15
+64581,Tax Rate,15
+132235,Tax Rate,15
+149976,Tax Rate,15
+83333,Tax Rate,15
+78971,Tax Rate,15
+26170,Tax Rate,15
+162063,Tax Rate,15
+54181,Tax Rate,15
+52444,Tax Rate,15
+116564,Tax Rate,15
+130622,Tax Rate,15
+50101,Tax Rate,15
+8408,Tax Rate,15
+71889,Tax Rate,15
+145986,Tax Rate,15
+202305,Tax Rate,15
+90949,Tax Rate,15
+210862,Tax Rate,15
+62079,Tax Rate,15
+191994,Tax Rate,15
+66367,Tax Rate,15
+130802,Tax Rate,15
+68882,Tax Rate,15
+158482,Tax Rate,15
+169629,Tax Rate,15
+80920,Tax Rate,15
+127141,Tax Rate,15
+211173,Tax Rate,15
+9675,Tax Rate,15
+29065,Tax Rate,15
+146157,Tax Rate,15
+5267,Tax Rate,15
+194110,Tax Rate,15
+166041,Tax Rate,15
+117570,Tax Rate,15
+36097,Tax Rate,15
+107986,Tax Rate,15
+47202,Tax Rate,15
+101779,Tax Rate,15
+199501,Tax Rate,15
+92957,Tax Rate,15
+147665,Tax Rate,15
+3175,Tax Rate,15
+205622,Tax Rate,15
+38843,Tax Rate,15
+165517,Tax Rate,15
+139602,Tax Rate,15
+83934,Tax Rate,15
+193626,Tax Rate,15
+109730,Tax Rate,15
+5181,Tax Rate,15
+125198,Tax Rate,15
+96242,Tax Rate,15
+64032,Tax Rate,15
+204301,Tax Rate,15
+217875,Tax Rate,10
+191973,Tax Rate,15
+80926,Tax Rate,15
+89209,Tax Rate,15
+15801,Tax Rate,15
+76169,Tax Rate,15
+172551,Tax Rate,15
+103073,Tax Rate,15
+82766,Tax Rate,15
+24812,Tax Rate,15
+225548,Tax Rate,15
+56192,Total Excluding Tax,250
+227784,Total Excluding Tax,875
+87978,Total Excluding Tax,2220
+16428,Total Excluding Tax,117
+219559,Total Excluding Tax,920
+6658,Total Excluding Tax,2500
+27492,Total Excluding Tax,1480
+73926,Total Excluding Tax,144
+1005,Total Excluding Tax,480
+50910,Total Excluding Tax,238
+95305,Total Excluding Tax,45
+167719,Total Excluding Tax,158
+41573,Total Excluding Tax,70
+14043,Total Excluding Tax,2200
+14405,Total Excluding Tax,450
+135223,Total Excluding Tax,690
+33043,Total Excluding Tax,256
+178497,Total Excluding Tax,56
+31366,Total Excluding Tax,1080
+11450,Total Excluding Tax,35
+60471,Total Excluding Tax,444
+37360,Total Excluding Tax,864
+155288,Total Excluding Tax,52
+3871,Total Excluding Tax,150
+61336,Total Excluding Tax,1440
+57329,Total Excluding Tax,648
+157954,Total Excluding Tax,2760
+63257,Total Excluding Tax,432
+43209,Total Excluding Tax,130
+161680,Total Excluding Tax,91
+209632,Total Excluding Tax,130
+5399,Total Excluding Tax,3360
+209334,Total Excluding Tax,216
+177347,Total Excluding Tax,227
+64581,Total Excluding Tax,1728
+132235,Total Excluding Tax,245
+149976,Total Excluding Tax,590
+83333,Total Excluding Tax,104
+78971,Total Excluding Tax,1944
+26170,Total Excluding Tax,350
+162063,Total Excluding Tax,200
+54181,Total Excluding Tax,91
+52444,Total Excluding Tax,15192
+116564,Total Excluding Tax,91
+130622,Total Excluding Tax,96
+50101,Total Excluding Tax,65
+8408,Total Excluding Tax,3375
+71889,Total Excluding Tax,216
+145986,Total Excluding Tax,3000
+202305,Total Excluding Tax,13
+90949,Total Excluding Tax,1080
+210862,Total Excluding Tax,52
+62079,Total Excluding Tax,91
+191994,Total Excluding Tax,1944
+66367,Total Excluding Tax,266
+130802,Total Excluding Tax,35
+68882,Total Excluding Tax,175
+158482,Total Excluding Tax,144
+169629,Total Excluding Tax,1665
+80920,Total Excluding Tax,98
+127141,Total Excluding Tax,70
+211173,Total Excluding Tax,2590
+9675,Total Excluding Tax,300
+29065,Total Excluding Tax,52
+146157,Total Excluding Tax,1296
+5267,Total Excluding Tax,65
+194110,Total Excluding Tax,104
+166041,Total Excluding Tax,533
+117570,Total Excluding Tax,75
+36097,Total Excluding Tax,990
+107986,Total Excluding Tax,450
+47202,Total Excluding Tax,920
+101779,Total Excluding Tax,2160
+199501,Total Excluding Tax,131
+92957,Total Excluding Tax,8910
+147665,Total Excluding Tax,230
+3175,Total Excluding Tax,128
+205622,Total Excluding Tax,160
+38843,Total Excluding Tax,192
+165517,Total Excluding Tax,68
+139602,Total Excluding Tax,78
+83934,Total Excluding Tax,130
+193626,Total Excluding Tax,640
+109730,Total Excluding Tax,39
+5181,Total Excluding Tax,287
+125198,Total Excluding Tax,540
+96242,Total Excluding Tax,2400
+64032,Total Excluding Tax,64
+204301,Total Excluding Tax,26
+217875,Total Excluding Tax,205
+191973,Total Excluding Tax,256
+80926,Total Excluding Tax,864
+89209,Total Excluding Tax,130
+15801,Total Excluding Tax,192
+76169,Total Excluding Tax,13
+172551,Total Excluding Tax,225
+103073,Total Excluding Tax,96
+82766,Total Excluding Tax,528
+24812,Total Excluding Tax,25
+225548,Total Excluding Tax,295
+56192,Tax Amount,37.5
+227784,Tax Amount,131.25
+87978,Tax Amount,333.0
+16428,Tax Amount,17.55
+219559,Tax Amount,138.0
+6658,Tax Amount,375.0
+27492,Tax Amount,222.0
+73926,Tax Amount,21.6
+1005,Tax Amount,72.0
+50910,Tax Amount,35.63
+95305,Tax Amount,6.75
+167719,Tax Amount,23.63
+41573,Tax Amount,10.5
+14043,Tax Amount,330.0
+14405,Tax Amount,67.5
+135223,Tax Amount,103.5
+33043,Tax Amount,38.4
+178497,Tax Amount,8.33
+31366,Tax Amount,162.0
+11450,Tax Amount,5.25
+60471,Tax Amount,66.6
+37360,Tax Amount,129.6
+155288,Tax Amount,7.8
+3871,Tax Amount,22.5
+61336,Tax Amount,216.0
+57329,Tax Amount,97.2
+157954,Tax Amount,414.0
+63257,Tax Amount,64.8
+43209,Tax Amount,19.5
+161680,Tax Amount,13.65
+209632,Tax Amount,19.5
+5399,Tax Amount,504.0
+209334,Tax Amount,32.4
+177347,Tax Amount,34.02
+64581,Tax Amount,259.2
+132235,Tax Amount,36.75
+149976,Tax Amount,88.56
+83333,Tax Amount,15.6
+78971,Tax Amount,291.6
+26170,Tax Amount,52.5
+162063,Tax Amount,30.0
+54181,Tax Amount,13.65
+52444,Tax Amount,2278.8
+116564,Tax Amount,13.65
+130622,Tax Amount,14.4
+50101,Tax Amount,9.75
+8408,Tax Amount,506.25
+71889,Tax Amount,32.4
+145986,Tax Amount,450.0
+202305,Tax Amount,1.95
+90949,Tax Amount,162.0
+210862,Tax Amount,7.88
+62079,Tax Amount,13.65
+191994,Tax Amount,291.6
+66367,Tax Amount,39.96
+130802,Tax Amount,5.25
+68882,Tax Amount,26.25
+158482,Tax Amount,21.6
+169629,Tax Amount,249.75
+80920,Tax Amount,14.76
+127141,Tax Amount,10.5
+211173,Tax Amount,388.5
+9675,Tax Amount,45.0
+29065,Tax Amount,7.8
+146157,Tax Amount,194.4
+5267,Tax Amount,9.75
+194110,Tax Amount,15.6
+166041,Tax Amount,79.92
+117570,Tax Amount,11.25
+36097,Tax Amount,148.5
+107986,Tax Amount,67.5
+47202,Tax Amount,138.0
+101779,Tax Amount,324.0
+199501,Tax Amount,19.69
+92957,Tax Amount,1336.5
+147665,Tax Amount,34.5
+3175,Tax Amount,19.2
+205622,Tax Amount,24.0
+38843,Tax Amount,28.8
+165517,Tax Amount,10.28
+139602,Tax Amount,11.7
+83934,Tax Amount,19.5
+193626,Tax Amount,96.0
+109730,Tax Amount,5.85
+5181,Tax Amount,43.05
+125198,Tax Amount,81.0
+96242,Tax Amount,360.0
+64032,Tax Amount,9.6
+204301,Tax Amount,3.9
+217875,Tax Amount,20.52
+191973,Tax Amount,38.4
+80926,Tax Amount,129.6
+89209,Tax Amount,19.5
+15801,Tax Amount,28.8
+76169,Tax Amount,1.95
+172551,Tax Amount,33.75
+103073,Tax Amount,14.4
+82766,Tax Amount,79.17
+24812,Tax Amount,3.75
+225548,Tax Amount,44.28
+56192,Profit,125.0
+227784,Profit,455.0
+87978,Profit,1380.0
+16428,Profit,76.5
+219559,Profit,340.0
+6658,Profit,900.0
+27492,Profit,580.0
+73926,Profit,94.5
+1005,Profit,336.0
+50910,Profit,125.0
+95305,Profit,23.0
+167719,Profit,75.0
+41573,Profit,34.0
+14043,Profit,1210.0
+14405,Profit,180.0
+135223,Profit,255.0
+33043,Profit,192.0
+178497,Profit,25.5
+31366,Profit,660.0
+11450,Profit,18.0
+60471,Profit,252.0
+37360,Profit,144.0
+155288,Profit,34.0
+3871,Profit,75.0
+61336,Profit,909.0
+57329,Profit,360.0
+157954,Profit,1120.0
+63257,Profit,240.0
+43209,Profit,85.0
+161680,Profit,59.5
+209632,Profit,85.0
+5399,Profit,1750.0
+209334,Profit,120.0
+177347,Profit,84.0
+64581,Profit,1056.0
+132235,Profit,126.0
+149976,Profit,259.2
+83333,Profit,68.0
+78971,Profit,324.0
+26170,Profit,180.0
+162063,Profit,100.0
+54181,Profit,59.5
+52444,Profit,6072.0
+116564,Profit,59.5
+130622,Profit,60.0
+50101,Profit,42.5
+8408,Profit,1755.0
+71889,Profit,132.0
+145986,Profit,1560.0
+202305,Profit,8.5
+90949,Profit,600.0
+210862,Profit,25.0
+62079,Profit,59.5
+191994,Profit,1188.0
+66367,Profit,136.8
+130802,Profit,18.0
+68882,Profit,90.0
+158482,Profit,94.5
+169629,Profit,652.5
+80920,Profit,50.4
+127141,Profit,36.0
+211173,Profit,1610.0
+9675,Profit,150.0
+29065,Profit,34.0
+146157,Profit,792.0
+5267,Profit,42.5
+194110,Profit,68.0
+166041,Profit,345.6
+117570,Profit,18.0
+36097,Profit,540.0
+107986,Profit,180.0
+47202,Profit,340.0
+101779,Profit,1320.0
+199501,Profit,62.5
+92957,Profit,4860.0
+147665,Profit,85.0
+3175,Profit,96.0
+205622,Profit,120.0
+38843,Profit,102.0
+165517,Profit,38.5
+139602,Profit,51.0
+83934,Profit,85.0
+193626,Profit,300.0
+109730,Profit,25.5
+5181,Profit,105.0
+125198,Profit,300.0
+96242,Profit,1100.0
+64032,Profit,48.0
+204301,Profit,17.0
+217875,Profit,91.2
+191973,Profit,160.0
+80926,Profit,456.0
+89209,Profit,85.0
+15801,Profit,144.0
+76169,Profit,8.5
+172551,Profit,112.5
+103073,Profit,72.0
+82766,Profit,218.4
+24812,Profit,6.0
+225548,Profit,129.6
+56192,Total Including Tax,287.5
+227784,Total Including Tax,1006.25
+87978,Total Including Tax,2553.0
+16428,Total Including Tax,134.55
+219559,Total Including Tax,1058.0
+6658,Total Including Tax,2875.0
+27492,Total Including Tax,1702.0
+73926,Total Including Tax,165.6
+1005,Total Including Tax,552.0
+50910,Total Including Tax,273.13
+95305,Total Including Tax,51.75
+167719,Total Including Tax,181.13
+41573,Total Including Tax,80.5
+14043,Total Including Tax,2530.0
+14405,Total Including Tax,517.5
+135223,Total Including Tax,793.5
+33043,Total Including Tax,294.4
+178497,Total Including Tax,63.83
+31366,Total Including Tax,1242.0
+11450,Total Including Tax,40.25
+60471,Total Including Tax,510.6
+37360,Total Including Tax,993.6
+155288,Total Including Tax,59.8
+3871,Total Including Tax,172.5
+61336,Total Including Tax,1656.0
+57329,Total Including Tax,745.2
+157954,Total Including Tax,3174.0
+63257,Total Including Tax,496.8
+43209,Total Including Tax,149.5
+161680,Total Including Tax,104.65
+209632,Total Including Tax,149.5
+5399,Total Including Tax,3864.0
+209334,Total Including Tax,248.4
+177347,Total Including Tax,260.82
+64581,Total Including Tax,1987.2
+132235,Total Including Tax,281.75
+149976,Total Including Tax,678.96
+83333,Total Including Tax,119.6
+78971,Total Including Tax,2235.6
+26170,Total Including Tax,402.5
+162063,Total Including Tax,230.0
+54181,Total Including Tax,104.65
+52444,Total Including Tax,17470.8
+116564,Total Including Tax,104.65
+130622,Total Including Tax,110.4
+50101,Total Including Tax,74.75
+8408,Total Including Tax,3881.25
+71889,Total Including Tax,248.4
+145986,Total Including Tax,3450.0
+202305,Total Including Tax,14.95
+90949,Total Including Tax,1242.0
+210862,Total Including Tax,60.38
+62079,Total Including Tax,104.65
+191994,Total Including Tax,2235.6
+66367,Total Including Tax,306.36
+130802,Total Including Tax,40.25
+68882,Total Including Tax,201.25
+158482,Total Including Tax,165.6
+169629,Total Including Tax,1914.75
+80920,Total Including Tax,113.16
+127141,Total Including Tax,80.5
+211173,Total Including Tax,2978.5
+9675,Total Including Tax,345.0
+29065,Total Including Tax,59.8
+146157,Total Including Tax,1490.4
+5267,Total Including Tax,74.75
+194110,Total Including Tax,119.6
+166041,Total Including Tax,612.72
+117570,Total Including Tax,86.25
+36097,Total Including Tax,1138.5
+107986,Total Including Tax,517.5
+47202,Total Including Tax,1058.0
+101779,Total Including Tax,2484.0
+199501,Total Including Tax,150.94
+92957,Total Including Tax,10246.5
+147665,Total Including Tax,264.5
+3175,Total Including Tax,147.2
+205622,Total Including Tax,184.0
+38843,Total Including Tax,220.8
+165517,Total Including Tax,78.78
+139602,Total Including Tax,89.7
+83934,Total Including Tax,149.5
+193626,Total Including Tax,736.0
+109730,Total Including Tax,44.85
+5181,Total Including Tax,330.05
+125198,Total Including Tax,621.0
+96242,Total Including Tax,2760.0
+64032,Total Including Tax,73.6
+204301,Total Including Tax,29.9
+217875,Total Including Tax,225.72
+191973,Total Including Tax,294.4
+80926,Total Including Tax,993.6
+89209,Total Including Tax,149.5
+15801,Total Including Tax,220.8
+76169,Total Including Tax,14.95
+172551,Total Including Tax,258.75
+103073,Total Including Tax,110.4
+82766,Total Including Tax,606.97
+24812,Total Including Tax,28.75
+225548,Total Including Tax,339.48
+56192,Total Dry Items,10
+227784,Total Dry Items,70
+87978,Total Dry Items,60
+16428,Total Dry Items,9
+219559,Total Dry Items,4
+6658,Total Dry Items,100
+27492,Total Dry Items,80
+73926,Total Dry Items,9
+1005,Total Dry Items,96
+50910,Total Dry Items,250
+95305,Total Dry Items,10
+167719,Total Dry Items,75
+41573,Total Dry Items,20
+14043,Total Dry Items,100
+14405,Total Dry Items,5
+135223,Total Dry Items,3
+33043,Total Dry Items,8
+178497,Total Dry Items,50
+31366,Total Dry Items,60
+11450,Total Dry Items,1
+60471,Total Dry Items,120
+37360,Total Dry Items,48
+155288,Total Dry Items,4
+3871,Total Dry Items,6
+61336,Total Dry Items,6
+57329,Total Dry Items,36
+157954,Total Dry Items,8
+63257,Total Dry Items,24
+43209,Total Dry Items,10
+161680,Total Dry Items,7
+209632,Total Dry Items,10
+5399,Total Dry Items,70
+209334,Total Dry Items,12
+177347,Total Dry Items,84
+64581,Total Dry Items,96
+132235,Total Dry Items,7
+149976,Total Dry Items,144
+83333,Total Dry Items,8
+78971,Total Dry Items,108
+26170,Total Dry Items,10
+162063,Total Dry Items,10
+54181,Total Dry Items,7
+52444,Total Dry Items,8
+116564,Total Dry Items,7
+130622,Total Dry Items,3
+50101,Total Dry Items,5
+8408,Total Dry Items,90
+71889,Total Dry Items,12
+145986,Total Dry Items,80
+202305,Total Dry Items,1
+90949,Total Dry Items,60
+210862,Total Dry Items,25
+62079,Total Dry Items,7
+191994,Total Dry Items,108
+66367,Total Dry Items,72
+130802,Total Dry Items,1
+68882,Total Dry Items,5
+158482,Total Dry Items,9
+169629,Total Dry Items,90
+80920,Total Dry Items,24
+127141,Total Dry Items,2
+211173,Total Dry Items,70
+9675,Total Dry Items,10
+29065,Total Dry Items,4
+146157,Total Dry Items,72
+5267,Total Dry Items,5
+194110,Total Dry Items,8
+166041,Total Dry Items,144
+117570,Total Dry Items,3
+36097,Total Dry Items,30
+107986,Total Dry Items,5
+47202,Total Dry Items,4
+101779,Total Dry Items,120
+199501,Total Dry Items,125
+92957,Total Dry Items,90
+147665,Total Dry Items,1
+3175,Total Dry Items,4
+205622,Total Dry Items,5
+38843,Total Dry Items,150
+165517,Total Dry Items,25
+139602,Total Dry Items,6
+83934,Total Dry Items,10
+193626,Total Dry Items,20
+109730,Total Dry Items,3
+5181,Total Dry Items,70
+125198,Total Dry Items,30
+96242,Total Dry Items,100
+64032,Total Dry Items,2
+204301,Total Dry Items,2
+217875,Total Dry Items,0
+191973,Total Dry Items,8
+80926,Total Dry Items,48
+89209,Total Dry Items,10
+15801,Total Dry Items,6
+76169,Total Dry Items,1
+172551,Total Dry Items,9
+103073,Total Dry Items,3
+82766,Total Dry Items,182
+24812,Total Dry Items,1
+225548,Total Dry Items,72
+56192,Total Chiller Items,0
+227784,Total Chiller Items,0
+87978,Total Chiller Items,0
+16428,Total Chiller Items,0
+219559,Total Chiller Items,0
+6658,Total Chiller Items,0
+27492,Total Chiller Items,0
+73926,Total Chiller Items,0
+1005,Total Chiller Items,0
+50910,Total Chiller Items,0
+95305,Total Chiller Items,0
+167719,Total Chiller Items,0
+41573,Total Chiller Items,0
+14043,Total Chiller Items,0
+14405,Total Chiller Items,0
+135223,Total Chiller Items,0
+33043,Total Chiller Items,0
+178497,Total Chiller Items,0
+31366,Total Chiller Items,0
+11450,Total Chiller Items,0
+60471,Total Chiller Items,0
+37360,Total Chiller Items,0
+155288,Total Chiller Items,0
+3871,Total Chiller Items,0
+61336,Total Chiller Items,0
+57329,Total Chiller Items,0
+157954,Total Chiller Items,0
+63257,Total Chiller Items,0
+43209,Total Chiller Items,0
+161680,Total Chiller Items,0
+209632,Total Chiller Items,0
+5399,Total Chiller Items,0
+209334,Total Chiller Items,0
+177347,Total Chiller Items,0
+64581,Total Chiller Items,0
+132235,Total Chiller Items,0
+149976,Total Chiller Items,0
+83333,Total Chiller Items,0
+78971,Total Chiller Items,0
+26170,Total Chiller Items,0
+162063,Total Chiller Items,0
+54181,Total Chiller Items,0
+52444,Total Chiller Items,0
+116564,Total Chiller Items,0
+130622,Total Chiller Items,0
+50101,Total Chiller Items,0
+8408,Total Chiller Items,0
+71889,Total Chiller Items,0
+145986,Total Chiller Items,0
+202305,Total Chiller Items,0
+90949,Total Chiller Items,0
+210862,Total Chiller Items,0
+62079,Total Chiller Items,0
+191994,Total Chiller Items,0
+66367,Total Chiller Items,0
+130802,Total Chiller Items,0
+68882,Total Chiller Items,0
+158482,Total Chiller Items,0
+169629,Total Chiller Items,0
+80920,Total Chiller Items,0
+127141,Total Chiller Items,0
+211173,Total Chiller Items,0
+9675,Total Chiller Items,0
+29065,Total Chiller Items,0
+146157,Total Chiller Items,0
+5267,Total Chiller Items,0
+194110,Total Chiller Items,0
+166041,Total Chiller Items,0
+117570,Total Chiller Items,0
+36097,Total Chiller Items,0
+107986,Total Chiller Items,0
+47202,Total Chiller Items,0
+101779,Total Chiller Items,0
+199501,Total Chiller Items,0
+92957,Total Chiller Items,0
+147665,Total Chiller Items,0
+3175,Total Chiller Items,0
+205622,Total Chiller Items,0
+38843,Total Chiller Items,0
+165517,Total Chiller Items,0
+139602,Total Chiller Items,0
+83934,Total Chiller Items,0
+193626,Total Chiller Items,0
+109730,Total Chiller Items,0
+5181,Total Chiller Items,0
+125198,Total Chiller Items,0
+96242,Total Chiller Items,0
+64032,Total Chiller Items,0
+204301,Total Chiller Items,0
+217875,Total Chiller Items,24
+191973,Total Chiller Items,0
+80926,Total Chiller Items,0
+89209,Total Chiller Items,0
+15801,Total Chiller Items,0
+76169,Total Chiller Items,0
+172551,Total Chiller Items,0
+103073,Total Chiller Items,0
+82766,Total Chiller Items,0
+24812,Total Chiller Items,0
+225548,Total Chiller Items,0
+56192,Lineage Key,11
+227784,Lineage Key,11
+87978,Lineage Key,11
+16428,Lineage Key,11
+219559,Lineage Key,11
+6658,Lineage Key,11
+27492,Lineage Key,11
+73926,Lineage Key,11
+1005,Lineage Key,11
+50910,Lineage Key,11
+95305,Lineage Key,11
+167719,Lineage Key,11
+41573,Lineage Key,11
+14043,Lineage Key,11
+14405,Lineage Key,11
+135223,Lineage Key,11
+33043,Lineage Key,11
+178497,Lineage Key,11
+31366,Lineage Key,11
+11450,Lineage Key,11
+60471,Lineage Key,11
+37360,Lineage Key,11
+155288,Lineage Key,11
+3871,Lineage Key,11
+61336,Lineage Key,11
+57329,Lineage Key,11
+157954,Lineage Key,11
+63257,Lineage Key,11
+43209,Lineage Key,11
+161680,Lineage Key,11
+209632,Lineage Key,11
+5399,Lineage Key,11
+209334,Lineage Key,11
+177347,Lineage Key,11
+64581,Lineage Key,11
+132235,Lineage Key,11
+149976,Lineage Key,11
+83333,Lineage Key,11
+78971,Lineage Key,11
+26170,Lineage Key,11
+162063,Lineage Key,11
+54181,Lineage Key,11
+52444,Lineage Key,11
+116564,Lineage Key,11
+130622,Lineage Key,11
+50101,Lineage Key,11
+8408,Lineage Key,11
+71889,Lineage Key,11
+145986,Lineage Key,11
+202305,Lineage Key,11
+90949,Lineage Key,11
+210862,Lineage Key,11
+62079,Lineage Key,11
+191994,Lineage Key,11
+66367,Lineage Key,11
+130802,Lineage Key,11
+68882,Lineage Key,11
+158482,Lineage Key,11
+169629,Lineage Key,11
+80920,Lineage Key,11
+127141,Lineage Key,11
+211173,Lineage Key,11
+9675,Lineage Key,11
+29065,Lineage Key,11
+146157,Lineage Key,11
+5267,Lineage Key,11
+194110,Lineage Key,11
+166041,Lineage Key,11
+117570,Lineage Key,11
+36097,Lineage Key,11
+107986,Lineage Key,11
+47202,Lineage Key,11
+101779,Lineage Key,11
+199501,Lineage Key,11
+92957,Lineage Key,11
+147665,Lineage Key,11
+3175,Lineage Key,11
+205622,Lineage Key,11
+38843,Lineage Key,11
+165517,Lineage Key,11
+139602,Lineage Key,11
+83934,Lineage Key,11
+193626,Lineage Key,11
+109730,Lineage Key,11
+5181,Lineage Key,11
+125198,Lineage Key,11
+96242,Lineage Key,11
+64032,Lineage Key,11
+204301,Lineage Key,11
+217875,Lineage Key,11
+191973,Lineage Key,11
+80926,Lineage Key,11
+89209,Lineage Key,11
+15801,Lineage Key,11
+76169,Lineage Key,11
+172551,Lineage Key,11
+103073,Lineage Key,11
+82766,Lineage Key,11
+24812,Lineage Key,11
+225548,Lineage Key,11

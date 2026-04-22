@@ -1,0 +1,4 @@
+Customer Group,Min,Max
+"Rank 1-20",1,20
+"Rank 21-50",21,50
+"Others",51,1000

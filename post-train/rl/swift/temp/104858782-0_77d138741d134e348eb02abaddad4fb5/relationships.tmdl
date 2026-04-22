@@ -1,0 +1,14 @@
+﻿relationship 559b51f2-a438-4b4e-a191-57c0b87c4375
+	joinOnDateBehavior: datePartOnly
+	fromColumn: GOOG.Date
+	toColumn: LocalDateTable_2d839d60-8985-4982-86ad-5f14c7a70822.Date
+
+relationship 983f9445-8390-4c41-9e2b-82ff2f2f5823
+	joinOnDateBehavior: datePartOnly
+	fromColumn: google_quarter.Quarter_Date
+	toColumn: LocalDateTable_d1fcc5c0-0eb4-44ea-b570-752d5c8e6e5f.Date
+
+relationship d380be7f-57cd-42a2-bbf3-5ebf24667bd3
+	fromColumn: google.Company
+	toColumn: 'Fang_Employees_goodcopy (2)'.Company
+

@@ -1,0 +1,4 @@
+tienda_ID,tienda_nombre,telefono_tienda,email_tienda,calle_tienda,ciudad_tienda,estado_tienda,codigopostal_tienda,Metros Superficie,Horario,Taller
+1,"Santa Cruz Bikes","(831) 476-4321","santacruz@bikes.shop","3700 Portola Drive","Santa Cruz","CA",95060,"550","08:00 a 21:00","No"
+2,"Baldwin Bikes","(516) 379-8888","baldwin@bikes.shop","4200 Chestnut Lane","Baldwin","NY",11432,"950","09:00 a 20:00","Sí"
+3,"Rowlett Bikes","(972) 530-5555","rowlett@bikes.shop","8000 Fairway Avenue","Rowlett","TX",75088,"390","08:30 a 19:30","No"

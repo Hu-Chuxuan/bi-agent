@@ -1,0 +1,401 @@
+attribute,name,value
+"Murder Rate","Wyoming",36
+"Murder Rate","Wisconsin",32
+"Murder Rate","West Virginia",28
+"Murder Rate","Washington",33
+"Murder Rate","Virginia",16
+"Murder Rate","Vermont",48
+"Murder Rate","Utah",40
+"Murder Rate","Texas",14
+"Murder Rate","Tennessee",9
+"Murder Rate","South Dakota",40
+"Murder Rate","South Carolina",6
+"Murder Rate","Rhode Island",34
+"Murder Rate","Pennsylvania",16
+"Murder Rate","Oregon",42
+"Murder Rate","Oklahoma",21
+"Murder Rate","Ohio",22
+"Murder Rate","North Dakota",50
+"Murder Rate","North Carolina",12
+"Murder Rate","New York",27
+"Murder Rate","New Mexico",6
+"Murder Rate","New Jersey",24
+"Murder Rate","New Hampshire",46
+"Murder Rate","Nevada",3
+"Murder Rate","Nebraska",38
+"Murder Rate","Montana",44
+"Murder Rate","Missouri",10
+"Murder Rate","Mississippi",8
+"Murder Rate","Minnesota",42
+"Murder Rate","Massachusetts",36
+"Murder Rate","Maryland",1
+"Murder Rate","Maine",46
+"Murder Rate","Louisiana",1
+"Murder Rate","Kentucky",26
+"Murder Rate","Kansas",30
+"Murder Rate","Iowa",48
+"Murder Rate","Indiana",20
+"Murder Rate","Illinois",19
+"Murder Rate","Idaho",39
+"Murder Rate","Hawaii",44
+"Murder Rate","Georgia",14
+"Murder Rate","Florida",23
+"Murder Rate","Delaware",28
+"Murder Rate","Connecticut",35
+"Murder Rate","Colorado",30
+"Murder Rate","California",10
+"Murder Rate","Arkansas",12
+"Murder Rate","Arizona",5
+"Murder Rate","Alaska",24
+"Murder Rate","Alabama",4
+"Murder Rate","Michigan",16
+"Murder Rate","Alabama",4
+"Murder Rate","Alaska",24
+"Murder Rate","Arizona",5
+"Murder Rate","Arkansas",12
+"Murder Rate","California",10
+"Murder Rate","Colorado",30
+"Murder Rate","Connecticut",35
+"Murder Rate","Delaware",28
+"Murder Rate","Florida",23
+"Murder Rate","Georgia",14
+"Murder Rate","Hawaii",44
+"Murder Rate","Idaho",39
+"Murder Rate","Illinois",19
+"Murder Rate","Indiana",20
+"Murder Rate","Iowa",48
+"Murder Rate","Kansas",30
+"Murder Rate","Kentucky",26
+"Murder Rate","Louisiana",1
+"Murder Rate","Maine",46
+"Murder Rate","Maryland",1
+"Murder Rate","Massachusetts",36
+"Murder Rate","Michigan",16
+"Murder Rate","Minnesota",42
+"Murder Rate","Mississippi",8
+"Murder Rate","Missouri",10
+"Murder Rate","Montana",44
+"Murder Rate","Nebraska",38
+"Murder Rate","Nevada",3
+"Murder Rate","New Hampshire",46
+"Murder Rate","New Jersey",24
+"Murder Rate","New Mexico",6
+"Murder Rate","New York",27
+"Murder Rate","North Carolina",12
+"Murder Rate","North Dakota",50
+"Murder Rate","Ohio",22
+"Murder Rate","Oklahoma",21
+"Murder Rate","Oregon",42
+"Murder Rate","Pennsylvania",16
+"Murder Rate","Rhode Island",34
+"Murder Rate","South Carolina",6
+"Murder Rate","South Dakota",40
+"Murder Rate","Tennessee",9
+"Murder Rate","Texas",14
+"Murder Rate","Utah",40
+"Murder Rate","Vermont",48
+"Murder Rate","Virginia",16
+"Murder Rate","Washington",33
+"Murder Rate","West Virginia",28
+"Murder Rate","Wisconsin",32
+"Murder Rate","Wyoming",36
+"Motor Vehicle Theft","Wyoming",46
+"Motor Vehicle Theft","Wisconsin",37
+"Motor Vehicle Theft","West Virginia",41
+"Motor Vehicle Theft","Washington",3
+"Motor Vehicle Theft","Virginia",38
+"Motor Vehicle Theft","Vermont",48
+"Motor Vehicle Theft","Utah",22
+"Motor Vehicle Theft","Texas",15
+"Motor Vehicle Theft","Tennessee",13
+"Motor Vehicle Theft","South Dakota",47
+"Motor Vehicle Theft","South Carolina",19
+"Motor Vehicle Theft","Rhode Island",15
+"Motor Vehicle Theft","Pennsylvania",36
+"Motor Vehicle Theft","Oregon",8
+"Motor Vehicle Theft","Oklahoma",17
+"Motor Vehicle Theft","Ohio",20
+"Motor Vehicle Theft","North Dakota",45
+"Motor Vehicle Theft","North Carolina",24
+"Motor Vehicle Theft","New York",43
+"Motor Vehicle Theft","New Mexico",14
+"Motor Vehicle Theft","New Jersey",26
+"Motor Vehicle Theft","New Hampshire",49
+"Motor Vehicle Theft","Nevada",1
+"Motor Vehicle Theft","Nebraska",27
+"Motor Vehicle Theft","Montana",40
+"Motor Vehicle Theft","Missouri",11
+"Motor Vehicle Theft","Mississippi",35
+"Motor Vehicle Theft","Minnesota",33
+"Motor Vehicle Theft","Massachusetts",30
+"Motor Vehicle Theft","Maryland",6
+"Motor Vehicle Theft","Maine",50
+"Motor Vehicle Theft","Louisiana",25
+"Motor Vehicle Theft","Kentucky",39
+"Motor Vehicle Theft","Kansas",23
+"Motor Vehicle Theft","Iowa",44
+"Motor Vehicle Theft","Indiana",21
+"Motor Vehicle Theft","Illinois",28
+"Motor Vehicle Theft","Idaho",42
+"Motor Vehicle Theft","Hawaii",4
+"Motor Vehicle Theft","Georgia",9
+"Motor Vehicle Theft","Florida",12
+"Motor Vehicle Theft","Delaware",32
+"Motor Vehicle Theft","Connecticut",29
+"Motor Vehicle Theft","Colorado",7
+"Motor Vehicle Theft","California",5
+"Motor Vehicle Theft","Arkansas",34
+"Motor Vehicle Theft","Arizona",2
+"Motor Vehicle Theft","Alaska",18
+"Motor Vehicle Theft","Alabama",31
+"Motor Vehicle Theft","Michigan",10
+"Motor Vehicle Theft","Alabama",31
+"Motor Vehicle Theft","Alaska",18
+"Motor Vehicle Theft","Arizona",2
+"Motor Vehicle Theft","Arkansas",34
+"Motor Vehicle Theft","California",5
+"Motor Vehicle Theft","Colorado",7
+"Motor Vehicle Theft","Connecticut",29
+"Motor Vehicle Theft","Delaware",32
+"Motor Vehicle Theft","Florida",12
+"Motor Vehicle Theft","Georgia",9
+"Motor Vehicle Theft","Hawaii",4
+"Motor Vehicle Theft","Idaho",42
+"Motor Vehicle Theft","Illinois",28
+"Motor Vehicle Theft","Indiana",21
+"Motor Vehicle Theft","Iowa",44
+"Motor Vehicle Theft","Kansas",23
+"Motor Vehicle Theft","Kentucky",39
+"Motor Vehicle Theft","Louisiana",25
+"Motor Vehicle Theft","Maine",50
+"Motor Vehicle Theft","Maryland",6
+"Motor Vehicle Theft","Massachusetts",30
+"Motor Vehicle Theft","Michigan",10
+"Motor Vehicle Theft","Minnesota",33
+"Motor Vehicle Theft","Mississippi",35
+"Motor Vehicle Theft","Missouri",11
+"Motor Vehicle Theft","Montana",40
+"Motor Vehicle Theft","Nebraska",27
+"Motor Vehicle Theft","Nevada",1
+"Motor Vehicle Theft","New Hampshire",49
+"Motor Vehicle Theft","New Jersey",26
+"Motor Vehicle Theft","New Mexico",14
+"Motor Vehicle Theft","New York",43
+"Motor Vehicle Theft","North Carolina",24
+"Motor Vehicle Theft","North Dakota",45
+"Motor Vehicle Theft","Ohio",20
+"Motor Vehicle Theft","Oklahoma",17
+"Motor Vehicle Theft","Oregon",8
+"Motor Vehicle Theft","Pennsylvania",36
+"Motor Vehicle Theft","Rhode Island",15
+"Motor Vehicle Theft","South Carolina",19
+"Motor Vehicle Theft","South Dakota",47
+"Motor Vehicle Theft","Tennessee",13
+"Motor Vehicle Theft","Texas",15
+"Motor Vehicle Theft","Utah",22
+"Motor Vehicle Theft","Vermont",48
+"Motor Vehicle Theft","Virginia",38
+"Motor Vehicle Theft","Washington",3
+"Motor Vehicle Theft","West Virginia",41
+"Motor Vehicle Theft","Wisconsin",37
+"Motor Vehicle Theft","Wyoming",46
+"Larceny Theft","Wyoming",22
+"Larceny Theft","Wisconsin",34
+"Larceny Theft","West Virginia",41
+"Larceny Theft","Washington",2
+"Larceny Theft","Virginia",33
+"Larceny Theft","Vermont",43
+"Larceny Theft","Utah",7
+"Larceny Theft","Texas",5
+"Larceny Theft","Tennessee",8
+"Larceny Theft","South Dakota",50
+"Larceny Theft","South Carolina",6
+"Larceny Theft","Rhode Island",40
+"Larceny Theft","Pennsylvania",42
+"Larceny Theft","Oregon",3
+"Larceny Theft","Oklahoma",16
+"Larceny Theft","Ohio",24
+"Larceny Theft","North Dakota",48
+"Larceny Theft","North Carolina",20
+"Larceny Theft","New York",45
+"Larceny Theft","New Mexico",17
+"Larceny Theft","New Jersey",46
+"Larceny Theft","New Hampshire",49
+"Larceny Theft","Nevada",29
+"Larceny Theft","Nebraska",19
+"Larceny Theft","Montana",21
+"Larceny Theft","Missouri",11
+"Larceny Theft","Mississippi",31
+"Larceny Theft","Minnesota",27
+"Larceny Theft","Massachusetts",47
+"Larceny Theft","Maryland",26
+"Larceny Theft","Maine",38
+"Larceny Theft","Louisiana",23
+"Larceny Theft","Kentucky",44
+"Larceny Theft","Kansas",9
+"Larceny Theft","Iowa",32
+"Larceny Theft","Indiana",25
+"Larceny Theft","Illinois",28
+"Larceny Theft","Idaho",35
+"Larceny Theft","Hawaii",1
+"Larceny Theft","Georgia",10
+"Larceny Theft","Florida",14
+"Larceny Theft","Delaware",30
+"Larceny Theft","Connecticut",39
+"Larceny Theft","Colorado",12
+"Larceny Theft","California",37
+"Larceny Theft","Arkansas",13
+"Larceny Theft","Arizona",4
+"Larceny Theft","Alaska",18
+"Larceny Theft","Alabama",15
+"Larceny Theft","Michigan",36
+"Larceny Theft","Alabama",15
+"Larceny Theft","Alaska",18
+"Larceny Theft","Arizona",4
+"Larceny Theft","Arkansas",13
+"Larceny Theft","California",37
+"Larceny Theft","Colorado",12
+"Larceny Theft","Connecticut",39
+"Larceny Theft","Delaware",30
+"Larceny Theft","Florida",14
+"Larceny Theft","Georgia",10
+"Larceny Theft","Hawaii",1
+"Larceny Theft","Idaho",35
+"Larceny Theft","Illinois",28
+"Larceny Theft","Indiana",25
+"Larceny Theft","Iowa",32
+"Larceny Theft","Kansas",9
+"Larceny Theft","Kentucky",44
+"Larceny Theft","Louisiana",23
+"Larceny Theft","Maine",38
+"Larceny Theft","Maryland",26
+"Larceny Theft","Massachusetts",47
+"Larceny Theft","Michigan",36
+"Larceny Theft","Minnesota",27
+"Larceny Theft","Mississippi",31
+"Larceny Theft","Missouri",11
+"Larceny Theft","Montana",21
+"Larceny Theft","Nebraska",19
+"Larceny Theft","Nevada",29
+"Larceny Theft","New Hampshire",49
+"Larceny Theft","New Jersey",46
+"Larceny Theft","New Mexico",17
+"Larceny Theft","New York",45
+"Larceny Theft","North Carolina",20
+"Larceny Theft","North Dakota",48
+"Larceny Theft","Ohio",24
+"Larceny Theft","Oklahoma",16
+"Larceny Theft","Oregon",3
+"Larceny Theft","Pennsylvania",42
+"Larceny Theft","Rhode Island",40
+"Larceny Theft","South Carolina",6
+"Larceny Theft","South Dakota",50
+"Larceny Theft","Tennessee",8
+"Larceny Theft","Texas",5
+"Larceny Theft","Utah",7
+"Larceny Theft","Vermont",43
+"Larceny Theft","Virginia",33
+"Larceny Theft","Washington",2
+"Larceny Theft","West Virginia",41
+"Larceny Theft","Wisconsin",34
+"Larceny Theft","Wyoming",22
+"Burlgary Rate","Wyoming",40
+"Burlgary Rate","Wisconsin",43
+"Burlgary Rate","West Virginia",29
+"Burlgary Rate","Washington",9
+"Burlgary Rate","Virginia",45
+"Burlgary Rate","Vermont",38
+"Burlgary Rate","Utah",32
+"Burlgary Rate","Texas",8
+"Burlgary Rate","Tennessee",4
+"Burlgary Rate","South Dakota",48
+"Burlgary Rate","South Carolina",6
+"Burlgary Rate","Rhode Island",37
+"Burlgary Rate","Pennsylvania",41
+"Burlgary Rate","Oregon",18
+"Burlgary Rate","Oklahoma",5
+"Burlgary Rate","Ohio",15
+"Burlgary Rate","North Dakota",50
+"Burlgary Rate","North Carolina",1
+"Burlgary Rate","New York",47
+"Burlgary Rate","New Mexico",2
+"Burlgary Rate","New Jersey",42
+"Burlgary Rate","New Hampshire",49
+"Burlgary Rate","Nevada",7
+"Burlgary Rate","Nebraska",36
+"Burlgary Rate","Montana",46
+"Burlgary Rate","Missouri",20
+"Burlgary Rate","Mississippi",14
+"Burlgary Rate","Minnesota",33
+"Burlgary Rate","Massachusetts",35
+"Burlgary Rate","Maryland",26
+"Burlgary Rate","Maine",39
+"Burlgary Rate","Louisiana",16
+"Burlgary Rate","Kentucky",27
+"Burlgary Rate","Kansas",24
+"Burlgary Rate","Iowa",31
+"Burlgary Rate","Indiana",21
+"Burlgary Rate","Illinois",30
+"Burlgary Rate","Idaho",34
+"Burlgary Rate","Hawaii",17
+"Burlgary Rate","Georgia",12
+"Burlgary Rate","Florida",13
+"Burlgary Rate","Delaware",25
+"Burlgary Rate","Connecticut",44
+"Burlgary Rate","Colorado",19
+"Burlgary Rate","California",23
+"Burlgary Rate","Arkansas",3
+"Burlgary Rate","Arizona",11
+"Burlgary Rate","Alaska",28
+"Burlgary Rate","Alabama",10
+"Burlgary Rate","Michigan",22
+"Burlgary Rate","Alabama",10
+"Burlgary Rate","Alaska",28
+"Burlgary Rate","Arizona",11
+"Burlgary Rate","Arkansas",3
+"Burlgary Rate","California",23
+"Burlgary Rate","Colorado",19
+"Burlgary Rate","Connecticut",44
+"Burlgary Rate","Delaware",25
+"Burlgary Rate","Florida",13
+"Burlgary Rate","Georgia",12
+"Burlgary Rate","Hawaii",17
+"Burlgary Rate","Idaho",34
+"Burlgary Rate","Illinois",30
+"Burlgary Rate","Indiana",21
+"Burlgary Rate","Iowa",31
+"Burlgary Rate","Kansas",24
+"Burlgary Rate","Kentucky",27
+"Burlgary Rate","Louisiana",16
+"Burlgary Rate","Maine",39
+"Burlgary Rate","Maryland",26
+"Burlgary Rate","Massachusetts",35
+"Burlgary Rate","Michigan",22
+"Burlgary Rate","Minnesota",33
+"Burlgary Rate","Mississippi",14
+"Burlgary Rate","Missouri",20
+"Burlgary Rate","Montana",46
+"Burlgary Rate","Nebraska",36
+"Burlgary Rate","Nevada",7
+"Burlgary Rate","New Hampshire",49
+"Burlgary Rate","New Jersey",42
+"Burlgary Rate","New Mexico",2
+"Burlgary Rate","New York",47
+"Burlgary Rate","North Carolina",1
+"Burlgary Rate","North Dakota",50
+"Burlgary Rate","Ohio",15
+"Burlgary Rate","Oklahoma",5
+"Burlgary Rate","Oregon",18
+"Burlgary Rate","Pennsylvania",41
+"Burlgary Rate","Rhode Island",37
+"Burlgary Rate","South Carolina",6
+"Burlgary Rate","South Dakota",48
+"Burlgary Rate","Tennessee",4
+"Burlgary Rate","Texas",8
+"Burlgary Rate","Utah",32
+"Burlgary Rate","Vermont",38
+"Burlgary Rate","Virginia",45
+"Burlgary Rate","Washington",9
+"Burlgary Rate","West Virginia",29
+"Burlgary Rate","Wisconsin",43
+"Burlgary Rate","Wyoming",40

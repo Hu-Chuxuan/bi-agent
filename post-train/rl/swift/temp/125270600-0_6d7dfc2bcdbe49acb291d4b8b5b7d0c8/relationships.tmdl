@@ -1,0 +1,41 @@
+﻿relationship 4fa46279-e2d9-438c-8cab-43a20f092aff
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: DimCountry.Country
+	toColumn: 'DimSkill VDN'.Country
+
+relationship 7791ee52-5d92-47a9-8750-5f20f6d0184e
+	fromColumn: 'Cases Open final'.'HR User Role ID'
+	toColumn: DimHRUserRole.'HR User Role ID'
+
+relationship 528245f4-1df2-496c-81c9-53ed3c2734c9
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Time Periods'.Date
+	toColumn: Dates.Date
+
+relationship c3a8dd2d-ff2c-4736-833e-607cebdf55ba
+	fromColumn: 'Cases Open final'.Date
+	toColumn: Dates.Date
+
+relationship 22e33bed-4b4a-4a1a-870a-5d2d83df0564
+	fromColumn: 'Cases Closed final'.'Closing period - Date'
+	toColumn: Dates.Date
+
+relationship 020471dc-9c96-4f7a-8311-9a116aeccfbc
+	fromColumn: 'Cases Closed final'.'HR User Role ID'
+	toColumn: DimHRUserRole.'HR User Role ID'
+
+relationship f92e7ff7-313a-4af3-ab38-c89c0afa5d74
+	fromColumn: 'Cases Closed final'.'Country ID'
+	toColumn: DimCountry.'Country ID'
+
+relationship 7911f245-9218-4fef-9cd3-b1aa09d01a9c
+	fromColumn: 'Cases Open final'.'Country ID'
+	toColumn: DimCountry.'Country ID'
+
+relationship b35dae0e-94eb-4cc8-84e3-c51ad774f4db
+	isActive: false
+	fromColumn: 'Cases Open final'.'Period of last update - Date'
+	toColumn: Dates.Date
+

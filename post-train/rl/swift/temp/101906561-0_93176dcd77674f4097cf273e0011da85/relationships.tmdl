@@ -1,0 +1,94 @@
+﻿relationship 0abf6ee2-43ae-4eb4-b5f7-0e67ac7fbf4b
+	crossFilteringBehavior: bothDirections
+	securityFilteringBehavior: bothDirections
+	fromColumn: itemcust_mst.item
+	toColumn: item_mst.item
+
+relationship 3c123afd-f1f9-4262-a465-183b16a43d15
+	fromColumn: itemwhse_mst.item
+	toColumn: item_mst.item
+
+relationship e33fd33e-4286-47bc-91f4-c7b91123ae12
+	fromColumn: matltrack_mst.item
+	toColumn: item_mst.item
+
+relationship 69a22b21-4eff-4f57-833d-8cbcda132e73
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_470c68f3-7d4e-4861-8563-b23c6e9ead8a.Date
+
+relationship 545584ad-7697-41c4-bed1-ed0f303b9f47
+	fromColumn: matltrack_mst.createdate
+	toColumn: Date.Date
+
+relationship 1a2fda26-645b-443c-bc72-4fa693af46d7
+	fromColumn: itemwhse_mst.whse
+	toColumn: whse_mst.whse
+
+relationship edb12f5e-e45a-4516-ad2a-78621b3be699
+	fromColumn: matltrack_mst.whse
+	toColumn: whse_mst.whse
+
+relationship 35f6f8d8-ac40-4b30-b3e5-cdeba3f9c509
+	joinOnDateBehavior: datePartOnly
+	fromColumn: D_Dates_MatlTrack.Date
+	toColumn: LocalDateTable_eb8f1df7-6809-4200-b449-f2c3f5f963a0.Date
+
+relationship b47e0a16-21bf-4a25-a3eb-2e4d50a6ffef
+	fromColumn: D_Dates_AgingBucket.'Aging Bucket'
+	toColumn: 'D_Aging Bucket List'.'Aging Bucket'
+
+relationship 2be1c90e-4d25-4121-8a0a-4f00873dd52d
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: D_Dates_AgingBucket.'Created Date'
+	toColumn: matltrack_mst.createdate
+
+relationship 2116dbda-1c5c-4e98-b21e-15d087f89de1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: D_Dates_UserRange.Date
+	toColumn: LocalDateTable_5d8c7d1d-7303-4673-8071-9c0c01015b9c.Date
+
+relationship 49605e25-a4e7-4937-ab88-67d3b9d95324
+	joinOnDateBehavior: datePartOnly
+	fromColumn: D_Dates_UserInput.Date
+	toColumn: LocalDateTable_4a9608e5-b60a-4041-b403-bee3bbb9f987.Date
+
+relationship 07cc1112-7fb0-42bc-ae67-f7e2ccee3517
+	fromColumn: D_Dates_AgingBucket.'End Date'
+	toColumn: D_Dates_UserInput.Date
+
+relationship bc8bec95-7f8f-4762-b018-e1fb06a71b4c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: D_Dates_StartOfMonth.Date
+	toColumn: LocalDateTable_e3a5c4b9-9724-4fc3-9154-719904c3844b.Date
+
+relationship 55aebf09-77e1-4352-9523-13eee19e0cf4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: D_Dates_StartOfMonth.'Month End'
+	toColumn: LocalDateTable_5b6a7e8c-6287-412d-9946-509672aa3ee4.Date
+
+relationship 84ef855d-cbdd-4b11-9c7a-9f2ed6d6bc42
+	fromColumn: D_Dates_AgingBucket.'End Date'
+	toColumn: D_Dates_StartOfMonth.'Month End'
+
+relationship ff5ae5d6-26be-4c85-b983-88a08ba34424
+	fromColumn: matltrack_mst_eom.Item
+	toColumn: item_mst.item
+
+relationship 96ecb1fa-184b-4db8-9831-fb31207440bc
+	fromColumn: matltrack_mst_eom.Whse
+	toColumn: whse_mst.whse
+
+relationship 630da64d-ed95-4678-be22-a99922ae5c2c
+	fromColumn: matltrack_mst_eom.Aging_bucket
+	toColumn: 'D_Aging Bucket List'.'Aging Bucket'
+
+relationship eabe8cb9-6136-4886-8ecb-d72bc43412f9
+	fromColumn: matltrack_mst_eom.RefDate
+	toColumn: Date.Date
+
+relationship 33b5158f-b9c5-4887-905f-4688d5def6e9
+	fromColumn: Date.MonthNameShort
+	toColumn: D_Months.Month
+

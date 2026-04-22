@@ -1,0 +1,1001 @@
+id,Order Number,Company Name,Product,Date,Extended Price
+49,"ORD00001","Kanoodle","Muffin - Mix - Mango Sour Cherry",2021-01-01 00:00:00.000,6.8
+91,"ORD00001","Kanoodle","Dr. Pepper - 355ml",2021-01-01 00:00:00.000,5.2
+564,"ORD00001","Kanoodle","Cranberries - Dry",2021-01-01 00:00:00.000,27
+967,"ORD00002","Rhybox","Southern Comfort",2021-01-01 00:00:00.000,15.4
+16,"ORD00003","Talane","Lychee",2021-01-02 00:00:00.000,18
+68,"ORD00004","Buzzdog","Potato - Sweet",2021-01-02 00:00:00.000,24
+449,"ORD00004","Buzzdog","Squeeze Bottle",2021-01-02 00:00:00.000,29.4
+491,"ORD00004","Buzzdog","Cookies - Fortune",2021-01-02 00:00:00.000,15.6
+497,"ORD00004","Buzzdog","Samosa - Veg",2021-01-02 00:00:00.000,51
+561,"ORD00005","Feedbug","Pork Salted Bellies",2021-01-02 00:00:00.000,24
+589,"ORD00006","Lazzy","Towel Multifold",2021-01-02 00:00:00.000,28.8
+713,"ORD00007","Eire","Orange - Canned, Mandarin",2021-01-02 00:00:00.000,34
+970,"ORD00008","Devbug","Longos - Cheese Tortellini",2021-01-02 00:00:00.000,17.6
+52,"ORD00009","Yotz","Bread Base - Goodhearth",2021-01-03 00:00:00.000,18.9
+97,"ORD000010","Yambee","Prunes - Pitted",2021-01-03 00:00:00.000,13.6
+351,"ORD000011","Zoozzy","Coffee Guatemala Dark",2021-01-03 00:00:00.000,10
+410,"ORD000012","Snaptags","Champagne - Brights, Dry",2021-01-03 00:00:00.000,13.2
+447,"ORD000013","Wordpedia","Snapple - Iced Tea Peach",2021-01-03 00:00:00.000,22
+655,"ORD000014","Gabcube","Crackers Cheez It",2021-01-03 00:00:00.000,31.2
+671,"ORD000015","Feedspan","Orange Roughy 6/8 Oz",2021-01-03 00:00:00.000,12
+117,"ORD000016","Fliptune","Wine - Manischewitz Concord",2021-01-04 00:00:00.000,1.8
+194,"ORD000017","Zoomzone","Flour - Semolina",2021-01-04 00:00:00.000,23.2
+520,"ORD000018","Flipbug","Soup - Campbells Mushroom",2021-01-04 00:00:00.000,37.7
+610,"ORD000019","Topicblab","Vaccum Bag - 14x20",2021-01-04 00:00:00.000,7.8
+768,"ORD000020","Rhynyx","Mushroom - Shitake, Dry",2021-01-04 00:00:00.000,16.5
+976,"ORD000021","Jabberbean","Mushroom - Lg - Cello",2021-01-04 00:00:00.000,25.2
+401,"ORD000022","Jetpulse","Wine - Tio Pepe Sherry Fino",2021-01-05 00:00:00.000,16.8
+453,"ORD000023","Mynte","Trueblue - Blueberry Cranberry",2021-01-05 00:00:00.000,4.4
+684,"ORD000024","Rhybox","Pop - Club Soda Can",2021-01-05 00:00:00.000,32.5
+241,"ORD000025","Edgetag","Cheese - Cheddar, Medium",2021-01-06 00:00:00.000,19.8
+837,"ORD000026","Livetube","Cake - Dulce De Leche",2021-01-06 00:00:00.000,10.8
+131,"ORD000027","Buzzshare","Chicken - Base",2021-01-07 00:00:00.000,2.9
+284,"ORD000028","Fivechat","Milk 2% 500 Ml",2021-01-07 00:00:00.000,4.2
+320,"ORD000029","Riffpath","Bread - Italian Sesame Poly",2021-01-07 00:00:00.000,16.8
+365,"ORD000030","JumpXS","Shrimp - 16 - 20 Cooked, Peeled",2021-01-07 00:00:00.000,42
+451,"ORD000031","Wikizz","Cheese - Cheddarsliced",2021-01-07 00:00:00.000,12
+636,"ORD000032","Shufflester","Dill Weed - Dry",2021-01-07 00:00:00.000,40.3
+709,"ORD000033","Eire","Lamb - Ground",2021-01-07 00:00:00.000,36
+968,"ORD000034","Trilith","Miso - Soy Bean Paste",2021-01-07 00:00:00.000,5.4
+35,"ORD000035","Skivee","Bread - Rolls, Rye",2021-01-08 00:00:00.000,32
+85,"ORD000036","Edgepulse","Plaintain",2021-01-08 00:00:00.000,22.4
+137,"ORD000037","Edgeify","Lettuce - Sea / Sea Asparagus",2021-01-08 00:00:00.000,41.6
+325,"ORD000038","Ntags","Sauce - Oyster",2021-01-08 00:00:00.000,28
+726,"ORD000039","Eazzy","Sole - Iqf",2021-01-08 00:00:00.000,10.5
+847,"ORD000040","Katz","Appetizer - Mushroom Tart",2021-01-08 00:00:00.000,14.4
+952,"ORD000041","Buzzdog","Cocoa Butter",2021-01-08 00:00:00.000,10.8
+975,"ORD000042","Wordify","Beer - Maudite",2021-01-08 00:00:00.000,27.2
+2,"ORD000043","Dabfeed","Wine - White, Concha Y Toro",2021-01-09 00:00:00.000,18.5
+362,"ORD000043","Dabfeed","Vodka - Lemon, Absolut",2021-01-09 00:00:00.000,15.6
+420,"ORD000043","Dabfeed","Sausage - Meat",2021-01-09 00:00:00.000,11.2
+689,"ORD000043","Dabfeed","Tarragon - Primerba, Paste",2021-01-09 00:00:00.000,34
+748,"ORD000044","Topicblab","Kohlrabi",2021-01-09 00:00:00.000,13.2
+759,"ORD000045","Camido","Alize Red Passion",2021-01-09 00:00:00.000,35
+997,"ORD000046","Fiveclub","Tea - Honey Green Tea",2021-01-09 00:00:00.000,8.1
+7,"ORD000047","Aimbo","Silicone Parch. 16.3x24.3",2021-01-10 00:00:00.000,28.6
+8,"ORD000048","Dabfeed","Lamb - Shoulder, Boneless",2021-01-10 00:00:00.000,7.2
+87,"ORD000049","Fivechat","Quail Eggs - Canned",2021-01-10 00:00:00.000,14.4
+129,"ORD000050","Eare","Beef - Bresaola",2021-01-10 00:00:00.000,11.9
+233,"ORD000051","Flashdog","Lamb Leg - Bone - In Nz",2021-01-10 00:00:00.000,3.4
+316,"ORD000052","Meevee","C - Plus, Orange",2021-01-10 00:00:00.000,17.1
+562,"ORD000053","Zoozzy","Straws - Cocktale",2021-01-10 00:00:00.000,36.3
+887,"ORD000054","Photobug","Soup - Campbells, Spinach Crm",2021-01-10 00:00:00.000,13.6
+940,"ORD000055","Skynoodle","Clam Nectar",2021-01-10 00:00:00.000,36.4
+67,"ORD000056","Eazzy","Appetizer - Asian Shrimp Roll",2021-01-11 00:00:00.000,15.6
+95,"ORD000057","Tavu","Wine - Red, Mouton Cadet",2021-01-11 00:00:00.000,13.3
+98,"ORD000058","Ainyx","Olives - Stuffed",2021-01-11 00:00:00.000,6.3
+109,"ORD000059","Katz","Shopper Bag - S - 4",2021-01-11 00:00:00.000,6
+275,"ORD000060","Zoonder","Waffle Stix",2021-01-11 00:00:00.000,25.9
+426,"ORD000061","Zoomlounge","Aspic - Clear",2021-01-11 00:00:00.000,17.6
+466,"ORD000062","Livepath","Isomalt",2021-01-11 00:00:00.000,21.6
+598,"ORD000063","Oodoo","Emulsifier",2021-01-11 00:00:00.000,36
+651,"ORD000064","Edgeify","Bread - Pain Au Liat X12",2021-01-11 00:00:00.000,34.2
+724,"ORD000065","Mybuzz","Soupcontfoam16oz 116con",2021-01-11 00:00:00.000,2.4
+791,"ORD000066","Avavee","Beef - Inside Round",2021-01-11 00:00:00.000,17.1
+881,"ORD000067","Meejo","Soup - French Onion, Dry",2021-01-11 00:00:00.000,1.8
+892,"ORD000068","Dabvine","Veal - Shank, Pieces",2021-01-11 00:00:00.000,14.5
+913,"ORD000069","Fivebridge","Oven Mitts - 15 Inch",2021-01-11 00:00:00.000,16.8
+156,"ORD000070","Gigazoom","Snapple - Iced Tea Peach",2021-01-12 00:00:00.000,15.4
+176,"ORD000071","Quinu","Juice - Pineapple, 341 Ml",2021-01-12 00:00:00.000,9
+319,"ORD000072","Voonyx","Icecream Bar - Del Monte",2021-01-12 00:00:00.000,14.4
+435,"ORD000073","Jabberbean","Dry Ice",2021-01-12 00:00:00.000,5.6
+489,"ORD000074","Youopia","Chickhen - Chicken Phyllo",2021-01-12 00:00:00.000,6.6
+533,"ORD000075","Trilia","Salmon - Canned",2021-01-12 00:00:00.000,22
+664,"ORD000076","Eayo","Wine - Lou Black Shiraz",2021-01-12 00:00:00.000,16.2
+859,"ORD000077","Realcube","Bread - French Stick",2021-01-12 00:00:00.000,22
+982,"ORD000078","Meedoo","Syrup - Kahlua Chocolate",2021-01-12 00:00:00.000,1.5
+195,"ORD000079","Wikibox","Clams - Littleneck, Whole",2021-01-13 00:00:00.000,22
+658,"ORD000080","Zoozzy","Oxtail - Cut",2021-01-13 00:00:00.000,3.9
+722,"ORD000081","Vinte","Horseradish Root",2021-01-13 00:00:00.000,51.8
+9,"ORD000082","Feedspan","Ketchup - Tomato",2021-01-14 00:00:00.000,11.2
+31,"ORD000083","Avamba","Wine - Periguita Fonseca",2021-01-14 00:00:00.000,12
+373,"ORD000084","Aibox","Wine - Ruffino Chianti",2021-01-14 00:00:00.000,24
+393,"ORD000085","Cogibox","Puree - Mango",2021-01-14 00:00:00.000,19.5
+441,"ORD000086","Trilith","Wine - Prem Select Charddonany",2021-01-14 00:00:00.000,6.8
+492,"ORD000087","Muxo","Soup - Campbells Beef Noodle",2021-01-14 00:00:00.000,16
+578,"ORD000088","Quimba","Beef - Ground Medium",2021-01-14 00:00:00.000,3.4
+584,"ORD000088","Quimba","Cheese - Valancey",2021-01-14 00:00:00.000,15.3
+772,"ORD000089","Mynte","Coconut - Shredded, Unsweet",2021-01-14 00:00:00.000,26.6
+65,"ORD000090","Photofeed","Veal - Inside Round / Top, Lean",2021-01-15 00:00:00.000,52
+79,"ORD000091","Tagopia","Coffee Beans - Chocolate",2021-01-15 00:00:00.000,16.8
+158,"ORD000092","Eazzy","Muffin Mix - Corn Harvest",2021-01-15 00:00:00.000,1.2
+371,"ORD000093","Livefish","Lemon Grass",2021-01-15 00:00:00.000,26.6
+663,"ORD000093","Livefish","Compound - Rum",2021-01-15 00:00:00.000,4
+972,"ORD000094","Edgeify","Bread - Wheat Baguette",2021-01-15 00:00:00.000,3.6
+198,"ORD000095","Pixoboo","Apple - Northern Spy",2021-01-16 00:00:00.000,6.2
+347,"ORD000096","Zoozzy","Thermometer Digital",2021-01-16 00:00:00.000,5.2
+416,"ORD000097","Skiba","Dragon Fruit",2021-01-16 00:00:00.000,30.4
+550,"ORD000098","Topicblab","Beans - Kidney White",2021-01-16 00:00:00.000,8.4
+717,"ORD000099","Muxo","Table Cloth 144x90 White",2021-01-16 00:00:00.000,18.9
+842,"ORD0000100","Skidoo","Stock - Beef, Brown",2021-01-16 00:00:00.000,4.5
+951,"ORD0000101","Yakitri","Glucose",2021-01-16 00:00:00.000,7.2
+988,"ORD0000102","Riffwire","Trout - Hot Smkd, Dbl Fillet",2021-01-16 00:00:00.000,33
+992,"ORD0000103","Yadel","Soup - Boston Clam Chowder",2021-01-16 00:00:00.000,8.4
+208,"ORD0000104","Gigaclub","Wine - Alicanca Vinho Verde",2021-01-17 00:00:00.000,24.2
+467,"ORD0000105","Jabberbean","Milk - Skim",2021-01-17 00:00:00.000,10.8
+545,"ORD0000106","Meejo","Appetizer - Asian Shrimp Roll",2021-01-17 00:00:00.000,15.2
+774,"ORD0000107","Janyx","Wine - Sherry Dry Sack, William",2021-01-17 00:00:00.000,7.5
+348,"ORD0000108","Zoozzy","Soup - Campbells Mac N Cheese",2021-01-18 00:00:00.000,2.3
+364,"ORD0000109","Kwinu","Crab - Imitation Flakes",2021-01-18 00:00:00.000,3.6
+723,"ORD0000110","Flipstorm","Vinegar - White Wine",2021-01-18 00:00:00.000,17.6
+922,"ORD0000111","Gevee","Lobster - Live",2021-01-18 00:00:00.000,19.8
+995,"ORD0000112","Twitterwire","Pepper - Chilli Seeds Mild",2021-01-18 00:00:00.000,11
+159,"ORD0000113","Jamia","Chocolate Bar - Coffee Crisp",2021-01-19 00:00:00.000,7.2
+432,"ORD0000114","Wikivu","Wine - Vouvray Cuvee Domaine",2021-01-19 00:00:00.000,19.2
+811,"ORD0000115","Tagpad","Coconut - Shredded, Sweet",2021-01-19 00:00:00.000,7.5
+23,"ORD0000116","Bubblebox","Sea Urchin",2021-01-20 00:00:00.000,38.5
+59,"ORD0000117","Devify","Wine - Acient Coast Caberne",2021-01-20 00:00:00.000,34
+115,"ORD0000118","Fliptune","Relish",2021-01-20 00:00:00.000,17.6
+128,"ORD0000118","Fliptune","Skewers - Bamboo",2021-01-20 00:00:00.000,30
+468,"ORD0000118","Fliptune","Wine - Dubouef Macon - Villages",2021-01-20 00:00:00.000,12.5
+63,"ORD0000118","Fliptune","Brandy Cherry - Mcguinness",2021-01-21 00:00:00.000,28.6
+248,"ORD0000118","Fliptune","Thyme - Fresh",2021-01-21 00:00:00.000,10.8
+254,"ORD0000118","Fliptune","Water - Spring Water 500ml",2021-01-21 00:00:00.000,52.5
+295,"ORD0000119","Mita","V8 Splash Strawberry Kiwi",2021-01-21 00:00:00.000,29.9
+369,"ORD0000120","Voolith","Crab - Blue, Frozen",2021-01-21 00:00:00.000,8
+384,"ORD0000121","Cogilith","Beer - Moosehead",2021-01-21 00:00:00.000,17.6
+731,"ORD0000122","Fliptune","Pear - Packum",2021-01-21 00:00:00.000,33
+804,"ORD0000123","Livepath","Sausage - Andouille",2021-01-21 00:00:00.000,44
+822,"ORD0000124","Centizu","Chicken Thigh - Bone Out",2021-01-21 00:00:00.000,24
+101,"ORD0000125","Wikizz","Milk - 2%",2021-01-22 00:00:00.000,21.6
+568,"ORD0000126","Dabtype","Orange - Tangerine",2021-01-22 00:00:00.000,36.3
+571,"ORD0000127","Blogtag","Shrimp - 21/25, Peel And Deviened",2021-01-22 00:00:00.000,17
+626,"ORD0000128","Thoughtworks","Corn Shoots",2021-01-22 00:00:00.000,18.4
+698,"ORD0000129","Kanoodle","Wine - Vineland Estate Semi - Dry",2021-01-22 00:00:00.000,11.4
+971,"ORD0000130","Demivee","Arizona - Plum Green Tea",2021-01-22 00:00:00.000,12.8
+143,"ORD0000131","Wordpedia","Godiva White Chocolate",2021-01-23 00:00:00.000,33
+188,"ORD0000131","Wordpedia","Tobasco Sauce",2021-01-23 00:00:00.000,22.4
+434,"ORD0000131","Wordpedia","Beef - Striploin Aa",2021-01-23 00:00:00.000,12
+494,"ORD0000131","Wordpedia","Lid - Translucent, 3.5 And 6 Oz",2021-01-23 00:00:00.000,8.4
+507,"ORD0000131","Wordpedia","Beef - Top Sirloin - Aaa",2021-01-23 00:00:00.000,26
+670,"ORD0000131","Wordpedia","Wine - Magnotta - Bel Paese White",2021-01-23 00:00:00.000,20.8
+776,"ORD0000132","Ailane","Cup - 6oz, Foam",2021-01-23 00:00:00.000,34.8
+781,"ORD0000133","Flipstorm","Chicken Thigh - Bone Out",2021-01-23 00:00:00.000,24
+869,"ORD0000134","Skinder","Salt And Pepper Mix - White",2021-01-23 00:00:00.000,7.4
+928,"ORD0000135","Gevee","Bread - Focaccia Quarter",2021-01-23 00:00:00.000,22
+960,"ORD0000136","Fiveclub","Soup - Cream Of Broccoli, Dry",2021-01-23 00:00:00.000,9.8
+76,"ORD0000136","Fiveclub","Quail - Eggs, Fresh",2021-01-24 00:00:00.000,28
+100,"ORD0000136","Fiveclub","Beets - Candy Cane, Organic",2021-01-24 00:00:00.000,27
+135,"ORD0000136","Fiveclub","Puree - Blackcurrant",2021-01-24 00:00:00.000,3.2
+249,"ORD0000136","Fiveclub","Mushroom - Lg - Cello",2021-01-24 00:00:00.000,14.4
+255,"ORD0000137","Plambee","Banana",2021-01-24 00:00:00.000,25.2
+307,"ORD0000138","Feedfish","Shiratamako - Rice Flour",2021-01-24 00:00:00.000,15.2
+358,"ORD0000139","Jayo","Beans - Turtle, Black, Dry",2021-01-24 00:00:00.000,18.5
+452,"ORD0000140","Wordware","Extract - Vanilla,artificial",2021-01-24 00:00:00.000,20.3
+555,"ORD0000141","Oloo","Hog / Sausage Casing - Pork",2021-01-24 00:00:00.000,37.7
+864,"ORD0000142","Fivechat","Muffin Mix - Chocolate Chip",2021-01-24 00:00:00.000,37.2
+872,"ORD0000143","LiveZ","Wine - Montecillo Rioja Crianza",2021-01-24 00:00:00.000,36
+77,"ORD0000144","Thoughtstorm","Vinegar - Tarragon",2021-01-25 00:00:00.000,6.9
+108,"ORD0000145","Youfeed","Soup - Verve - Chipotle Chicken",2021-01-25 00:00:00.000,9.1
+273,"ORD0000146","Eabox","Cheese - Valancey",2021-01-25 00:00:00.000,6.4
+352,"ORD0000147","Zoozzy","Soap - Pine Sol Floor Cleaner",2021-01-25 00:00:00.000,12.5
+607,"ORD0000148","Geba","Cheese - Valancey",2021-01-25 00:00:00.000,32.4
+676,"ORD0000149","Tagpad","Cream Of Tartar",2021-01-25 00:00:00.000,9.9
+787,"ORD0000150","Photobean","Table Cloth 90x90 Colour",2021-01-25 00:00:00.000,3.5
+886,"ORD0000151","Voonyx","Lamb - Shanks",2021-01-25 00:00:00.000,28.8
+81,"ORD0000152","Ainyx","Sugar - Crumb",2021-01-26 00:00:00.000,42.9
+211,"ORD0000153","Lazzy","Corn Syrup",2021-01-26 00:00:00.000,33.8
+293,"ORD0000154","Chatterbridge","Appetizer - Tarragon Chicken",2021-01-26 00:00:00.000,40.7
+331,"ORD0000154","Chatterbridge","Cleaner - Comet",2021-01-26 00:00:00.000,16.5
+508,"ORD0000154","Chatterbridge","Flour - Strong Pizza",2021-01-26 00:00:00.000,23.1
+857,"ORD0000154","Chatterbridge","Eel - Smoked",2021-01-26 00:00:00.000,23.4
+987,"ORD0000154","Chatterbridge","Tea - Darjeeling, Azzura",2021-01-26 00:00:00.000,22.5
+70,"ORD0000154","Chatterbridge","Extract - Almond",2021-01-27 00:00:00.000,17.5
+112,"ORD0000154","Chatterbridge","Cup - Translucent 7 Oz Clear",2021-01-27 00:00:00.000,2.7
+169,"ORD0000154","Chatterbridge","Wine - Red, Pinot Noir, Chateau",2021-01-27 00:00:00.000,58.5
+335,"ORD0000154","Chatterbridge","Apple - Fuji",2021-01-27 00:00:00.000,9.6
+485,"ORD0000154","Chatterbridge","Wine - Shiraz Wolf Blass Premium",2021-01-27 00:00:00.000,39
+505,"ORD0000154","Chatterbridge","Muffin Carrot - Individual",2021-01-27 00:00:00.000,10.4
+525,"ORD0000154","Chatterbridge","Bread - Raisin",2021-01-27 00:00:00.000,27.5
+540,"ORD0000155","Zooveo","Bread - Corn Muffaletta",2021-01-27 00:00:00.000,38
+669,"ORD0000156","Edgewire","Gatorade - Fruit Punch",2021-01-27 00:00:00.000,23
+841,"ORD0000156","Edgewire","Veal - Inside",2021-01-27 00:00:00.000,28.8
+5,"ORD0000157","Voolith","Whmis - Spray Bottle Trigger",2021-01-28 00:00:00.000,20.4
+201,"ORD0000158","Zoomzone","Soup - Verve - Chipotle Chicken",2021-01-28 00:00:00.000,23.8
+272,"ORD0000159","Innotype","Coffee Beans - Chocolate",2021-01-28 00:00:00.000,8
+281,"ORD0000159","Innotype","Beef - Short Ribs",2021-01-28 00:00:00.000,24
+613,"ORD0000159","Innotype","Lettuce - Belgian Endive",2021-01-28 00:00:00.000,38
+641,"ORD0000159","Innotype","Garbage Bag - Clear",2021-01-28 00:00:00.000,23.4
+644,"ORD0000159","Innotype","Soup - Verve - Chipotle Chicken",2021-01-28 00:00:00.000,20.4
+656,"ORD0000160","Tavu","Lamb - Sausage Casings",2021-01-28 00:00:00.000,26.6
+932,"ORD0000161","Tagpad","Maple Syrup",2021-01-28 00:00:00.000,17.4
+943,"ORD0000162","Thoughtbridge","Kirsch - Schloss",2021-01-28 00:00:00.000,20
+34,"ORD0000163","Skipstorm","Cake - Cake Sheet Macaroon",2021-01-29 00:00:00.000,16.8
+105,"ORD0000164","Yata","Yoplait - Strawbrasp Peac",2021-01-29 00:00:00.000,6.9
+155,"ORD0000165","Eazzy","Sprite - 355 Ml",2021-01-29 00:00:00.000,34.8
+191,"ORD0000166","Dablist","Vinegar - Cider",2021-01-29 00:00:00.000,44.4
+294,"ORD0000167","Divape","White Baguette",2021-01-29 00:00:00.000,28.8
+510,"ORD0000168","Mycat","Sesame Seed Black",2021-01-29 00:00:00.000,18.5
+677,"ORD0000169","Fliptune","Red Pepper Paste",2021-01-29 00:00:00.000,1.6
+682,"ORD0000170","Browsedrive","Wine - Red Oakridge Merlot",2021-01-29 00:00:00.000,15.6
+807,"ORD0000171","Realmix","Truffle Cups - White Paper",2021-01-29 00:00:00.000,27.3
+907,"ORD0000172","Quatz","Beans - Long, Chinese",2021-01-29 00:00:00.000,11.5
+51,"ORD0000173","Quamba","Cleaner - Lime Away",2021-01-30 00:00:00.000,16
+264,"ORD0000174","Oozz","Foie Gras",2021-01-30 00:00:00.000,38
+557,"ORD0000175","Youopia","Straw - Regular",2021-01-30 00:00:00.000,19.8
+903,"ORD0000176","Feednation","Pastry - Cheese Baked Scones",2021-01-30 00:00:00.000,9.5
+908,"ORD0000177","Riffpedia","Cheese - Mix",2021-01-30 00:00:00.000,12
+993,"ORD0000178","Abatz","Soup - Campbells Chicken",2021-01-30 00:00:00.000,10
+53,"ORD0000179","Yotz","Water - Tonic",2021-01-31 00:00:00.000,12
+206,"ORD0000180","Podcat","Artichokes - Jerusalem",2021-01-31 00:00:00.000,19.8
+388,"ORD0000181","Avavee","Flavouring - Raspberry",2021-01-31 00:00:00.000,16
+407,"ORD0000182","JumpXS","Beef - Shank",2021-01-31 00:00:00.000,15
+740,"ORD0000183","Jabbertype","Hickory Smoke, Liquid",2021-01-31 00:00:00.000,51
+785,"ORD0000184","Dabvine","Beans - Butter Lrg Lima",2021-01-31 00:00:00.000,12.6
+790,"ORD0000185","Livepath","Artichoke - Bottom, Canned",2021-01-31 00:00:00.000,18
+800,"ORD0000185","Livepath","Cake Sheet Combo Party Pack",2021-01-31 00:00:00.000,35.1
+843,"ORD0000186","Thoughtstorm","Soup - Campbells Beef Stew",2021-01-31 00:00:00.000,19.2
+17,"ORD0000187","Meedoo","Cheese - Roquefort Pappillon",2021-02-01 00:00:00.000,15
+189,"ORD0000188","Jayo","Juice - Cranberry 284ml",2021-02-01 00:00:00.000,40.8
+513,"ORD0000189","Skyba","Duck - Breast",2021-02-01 00:00:00.000,3.6
+714,"ORD0000190","Eire","Pasta - Bauletti, Chicken White",2021-02-01 00:00:00.000,37.8
+812,"ORD0000191","Geba","Five Alive Citrus",2021-02-01 00:00:00.000,22.8
+939,"ORD0000192","Skidoo","Pur Source",2021-02-01 00:00:00.000,26.6
+996,"ORD0000193","Kwideo","Lobak",2021-02-01 00:00:00.000,7.2
+283,"ORD0000194","Linkbuzz","Muffin Batt - Choc Chk",2021-02-02 00:00:00.000,29
+297,"ORD0000195","Camido","Trueblue - Blueberry Cranberry",2021-02-02 00:00:00.000,35.1
+361,"ORD0000196","Zooxo","Tomatoes - Heirloom",2021-02-02 00:00:00.000,9.2
+585,"ORD0000197","Wikizz","Soup - Base Broth Beef",2021-02-02 00:00:00.000,15.4
+629,"ORD0000197","Wikizz","Sugar - Crumb",2021-02-02 00:00:00.000,54
+760,"ORD0000197","Wikizz","Doilies - 10, Paper",2021-02-02 00:00:00.000,28.8
+767,"ORD0000197","Wikizz","Rum - White, Gg White",2021-02-02 00:00:00.000,37.2
+832,"ORD0000197","Wikizz","Placemat - Scallop, White",2021-02-02 00:00:00.000,19.6
+168,"ORD0000197","Wikizz","Pork - Tenderloin, Fresh",2021-02-03 00:00:00.000,19.6
+403,"ORD0000197","Wikizz","Bread Base - Italian",2021-02-03 00:00:00.000,16.5
+404,"ORD0000197","Wikizz","Bread - Burger",2021-02-03 00:00:00.000,29.7
+509,"ORD0000198","Lajo","Rosemary - Dry",2021-02-03 00:00:00.000,23
+824,"ORD0000199","JumpXS","Sambuca Cream",2021-02-03 00:00:00.000,13.5
+285,"ORD0000200","Fivechat","Milkettes - 2%",2021-02-04 00:00:00.000,15.5
+560,"ORD0000201","Npath","Ice Cream - Fudge Bars",2021-02-04 00:00:00.000,16
+782,"ORD0000202","Youopia","Melon - Watermelon, Seedless",2021-02-04 00:00:00.000,20.8
+852,"ORD0000203","Voonyx","Eggplant Oriental",2021-02-04 00:00:00.000,14.8
+889,"ORD0000204","Photolist","Taro Leaves",2021-02-04 00:00:00.000,22.4
+287,"ORD0000205","Dazzlesphere","Aspic - Clear",2021-02-05 00:00:00.000,9
+405,"ORD0000206","Jatri","Appetizer - Shrimp Puff",2021-02-05 00:00:00.000,6.6
+436,"ORD0000207","Skajo","Cleaner - Bleach",2021-02-05 00:00:00.000,3.6
+455,"ORD0000208","Npath","Soup - Campbells - Chicken Noodle",2021-02-05 00:00:00.000,23.4
+788,"ORD0000209","Midel","Liners - Baking Cups",2021-02-05 00:00:00.000,40.6
+354,"ORD0000210","Zoozzy","Wine - Vineland Estate Semi - Dry",2021-02-06 00:00:00.000,24
+582,"ORD0000211","Photolist","Soup - Knorr, Chicken Gumbo",2021-02-06 00:00:00.000,11.2
+54,"ORD0000211","Photolist","Pork - Shoulder",2021-02-07 00:00:00.000,19.6
+263,"ORD0000211","Photolist","Apple - Granny Smith",2021-02-07 00:00:00.000,6.8
+318,"ORD0000211","Photolist","Soup Knorr Chili With Beans",2021-02-07 00:00:00.000,15.6
+368,"ORD0000211","Photolist","Wine - Kwv Chenin Blanc South",2021-02-07 00:00:00.000,8.8
+590,"ORD0000211","Photolist","Garlic Powder",2021-02-07 00:00:00.000,16
+878,"ORD0000212","Photospace","Soup Campbells Beef With Veg",2021-02-07 00:00:00.000,22.2
+964,"ORD0000213","Janyx","Milk Powder",2021-02-07 00:00:00.000,37.5
+227,"ORD0000214","Realfire","Cheese - Perron Cheddar",2021-02-08 00:00:00.000,44
+402,"ORD0000215","Yakitri","Lamb Tenderloin Nz Fr",2021-02-08 00:00:00.000,51
+797,"ORD0000216","Livepath","Tray - Foam, Square 4 - S",2021-02-08 00:00:00.000,14
+990,"ORD0000217","Meedoo","Lamb - Shanks",2021-02-08 00:00:00.000,12
+84,"ORD0000218","Jaxnation","Irish Cream - Baileys",2021-02-09 00:00:00.000,16
+116,"ORD0000219","Oyoyo","Yogurt - Raspberry, 175 Gr",2021-02-09 00:00:00.000,6
+282,"ORD0000220","Ailane","Mangostein",2021-02-09 00:00:00.000,18
+547,"ORD0000221","Fiveclub","Mince Meat - Filling",2021-02-09 00:00:00.000,44.4
+901,"ORD0000222","Leenti","Liners - Banana, Paper",2021-02-09 00:00:00.000,28
+42,"ORD0000223","Avaveo","Bread - Bagels, Plain",2021-02-10 00:00:00.000,9
+55,"ORD0000224","Yakitri","Smirnoff Green Apple Twist",2021-02-10 00:00:00.000,3.3
+86,"ORD0000225","Eamia","Onions Granulated",2021-02-10 00:00:00.000,19.8
+124,"ORD0000226","Kamba","Longos - Greek Salad",2021-02-10 00:00:00.000,1.9
+342,"ORD0000227","Abatz","Salt - Sea",2021-02-10 00:00:00.000,18
+274,"ORD0000228","Zoomlounge","Tea - Lemon Scented",2021-02-11 00:00:00.000,27.9
+653,"ORD0000229","Kayveo","Tart Shells - Sweet, 3",2021-02-11 00:00:00.000,17.4
+730,"ORD0000230","Eazzy","Zucchini - Green",2021-02-11 00:00:00.000,1.6
+204,"ORD0000231","Zoomzone","Leeks - Baby, White",2021-02-12 00:00:00.000,17
+381,"ORD0000232","Vidoo","Veal - Kidney",2021-02-12 00:00:00.000,32.5
+523,"ORD0000233","Camido","Appetizer - Shrimp Puff",2021-02-12 00:00:00.000,33.6
+603,"ORD0000234","Mymm","Cookie Dough - Chocolate Chip",2021-02-12 00:00:00.000,16.8
+633,"ORD0000235","Skyba","Beer - Paulaner Hefeweisse",2021-02-12 00:00:00.000,8.4
+871,"ORD0000236","Mynte","Mini - Vol Au Vents",2021-02-12 00:00:00.000,10
+957,"ORD0000237","Brainbox","English Muffin",2021-02-12 00:00:00.000,8.8
+231,"ORD0000238","Realfire","Island Oasis - Lemonade",2021-02-13 00:00:00.000,8
+909,"ORD0000239","Kazio","Amarula Cream",2021-02-13 00:00:00.000,39.2
+930,"ORD0000240","Yotz","Scotch - Queen Anne",2021-02-13 00:00:00.000,20.3
+934,"ORD0000241","Camimbo","Bread - Pullman, Sliced",2021-02-13 00:00:00.000,11.9
+936,"ORD0000242","Wikivu","Pickle - Dill",2021-02-13 00:00:00.000,2.4
+946,"ORD0000243","Skyvu","Tomato Paste",2021-02-13 00:00:00.000,17.5
+948,"ORD0000244","Buzzdog","Peppercorns - Green",2021-02-13 00:00:00.000,6.5
+83,"ORD0000245","Flipstorm","Flour Dark Rye",2021-02-14 00:00:00.000,8.4
+130,"ORD0000246","Browsetype","Beef - Tenderloin",2021-02-14 00:00:00.000,5.2
+418,"ORD0000247","Lazz","Beef - Shank",2021-02-14 00:00:00.000,38.5
+519,"ORD0000248","Riffpath","Smirnoff Green Apple Twist",2021-02-14 00:00:00.000,34
+816,"ORD0000249","Skyba","Club Soda - Schweppes, 355 Ml",2021-02-14 00:00:00.000,1.6
+875,"ORD0000250","Oozz","Sterno - Chafing Dish Fuel",2021-02-14 00:00:00.000,32.2
+910,"ORD0000251","Dablist","Cup Translucent 9 Oz",2021-02-14 00:00:00.000,24
+126,"ORD0000252","Kamba","Veal - Leg, Provimi - 50 Lb Max",2021-02-15 00:00:00.000,15.6
+139,"ORD0000253","Edgewire","Sauce - Apple, Unsweetened",2021-02-15 00:00:00.000,39.6
+359,"ORD0000254","Jayo","Cheese - Woolwich Goat, Log",2021-02-15 00:00:00.000,12
+408,"ORD0000255","Leexo","Chinese Foods - Thick Noodles",2021-02-15 00:00:00.000,4.2
+448,"ORD0000256","Zoombeat","Onion - Dried",2021-02-15 00:00:00.000,6
+662,"ORD0000257","Livefish","Trout Rainbow Whole",2021-02-15 00:00:00.000,3.1
+753,"ORD0000258","Abatz","Compound - Strawberry",2021-02-15 00:00:00.000,9.5
+834,"ORD0000259","Kazio","French Pastries",2021-02-15 00:00:00.000,7.4
+1,"ORD0000260","Jazzy","Cabbage Roll",2021-02-16 00:00:00.000,12.6
+27,"ORD0000261","Jaxspan","Boogies",2021-02-16 00:00:00.000,6.8
+184,"ORD0000262","Aimbo","Beef - Prime Rib Aaa",2021-02-16 00:00:00.000,15.2
+344,"ORD0000263","Zoombox","Island Oasis - Ice Cream Mix",2021-02-16 00:00:00.000,3.4
+394,"ORD0000264","Talane","Chicken - Leg / Back Attach",2021-02-16 00:00:00.000,33
+614,"ORD0000265","Tagopia","Wine - Guy Sage Touraine",2021-02-16 00:00:00.000,44.8
+643,"ORD0000266","Vipe","Rabbit - Frozen",2021-02-16 00:00:00.000,4.8
+979,"ORD0000267","Skidoo","Brandy - Orange, Mc Guiness",2021-02-16 00:00:00.000,26.4
+149,"ORD0000268","Oyoba","Tea - Decaf 1 Cup",2021-02-17 00:00:00.000,31.2
+164,"ORD0000269","Twiyo","Wine - Beaujolais Villages",2021-02-17 00:00:00.000,1.5
+238,"ORD0000270","Janyx","Napkin - Beverage 1 Ply",2021-02-17 00:00:00.000,16.2
+521,"ORD0000271","Quamba","Bandage - Finger Cots",2021-02-17 00:00:00.000,39.6
+678,"ORD0000272","Browsedrive","Fish - Atlantic Salmon, Cold",2021-02-17 00:00:00.000,34.8
+317,"ORD0000273","Oba","Bread - Flat Bread",2021-02-18 00:00:00.000,24.3
+429,"ORD0000274","Photojam","Herb Du Provence - Primerba",2021-02-18 00:00:00.000,40.5
+472,"ORD0000275","Jabberbean","Kolrabi",2021-02-18 00:00:00.000,25.2
+573,"ORD0000276","Quimba","Lemon Tarts",2021-02-18 00:00:00.000,35.1
+711,"ORD0000277","Feedfish","Nori Sea Weed - Gold Label",2021-02-18 00:00:00.000,18.2
+200,"ORD0000278","Katz","Coffee - Egg Nog Capuccino",2021-02-19 00:00:00.000,7.6
+292,"ORD0000279","Voonix","Pear - Prickly",2021-02-19 00:00:00.000,23.1
+438,"ORD0000280","Centizu","Ecolab Digiclean Mild Fm",2021-02-19 00:00:00.000,12.8
+445,"ORD0000281","Wordpedia","Coriander - Seed",2021-02-19 00:00:00.000,15
+503,"ORD0000282","Oyoyo","Marjoram - Fresh",2021-02-19 00:00:00.000,29.9
+725,"ORD0000283","Meevee","Sauce - Ranch Dressing",2021-02-19 00:00:00.000,20.4
+831,"ORD0000284","Wikivu","Scallops - 20/30",2021-02-19 00:00:00.000,10.8
+876,"ORD0000285","Dynava","Crackers Cheez It",2021-02-19 00:00:00.000,2.8
+912,"ORD0000286","Fivebridge","Wine - Red, Antinori Santa",2021-02-19 00:00:00.000,4.8
+25,"ORD0000287","Abatz","Shrimp - Tiger 21/25",2021-02-20 00:00:00.000,5.4
+134,"ORD0000288","Vimbo","Pepper - Cubanelle",2021-02-20 00:00:00.000,17.1
+140,"ORD0000289","Quaxo","Chocolate - Dark Callets",2021-02-20 00:00:00.000,5.1
+395,"ORD0000290","Tanoodle","Figs",2021-02-20 00:00:00.000,15
+549,"ORD0000291","Miboo","Pumpkin",2021-02-20 00:00:00.000,34
+565,"ORD0000292","Yodoo","Pepper - Red, Finger Hot",2021-02-20 00:00:00.000,11.6
+605,"ORD0000293","Flashpoint","Mangoes",2021-02-20 00:00:00.000,28
+854,"ORD0000294","Katz","Wine - Prosecco Valdobienne",2021-02-20 00:00:00.000,14.4
+60,"ORD0000295","Twiyo","Wiberg Super Cure",2021-02-21 00:00:00.000,54
+182,"ORD0000296","Buzzbean","Sausage - Andouille",2021-02-21 00:00:00.000,14.4
+240,"ORD0000296","Buzzbean","Eggwhite Frozen",2021-02-21 00:00:00.000,33
+270,"ORD0000296","Buzzbean","Sausage - Breakfast",2021-02-21 00:00:00.000,58.5
+443,"ORD0000297","Wordpedia","Rice Pilaf, Dry,package",2021-02-21 00:00:00.000,24
+630,"ORD0000298","Lazzy","Appetizer - Southwestern",2021-02-21 00:00:00.000,11.1
+727,"ORD0000299","Eazzy","Russian Prince",2021-02-21 00:00:00.000,3.1
+271,"ORD0000299","Eazzy","Pepper - Red Thai",2021-02-22 00:00:00.000,9
+423,"ORD0000299","Eazzy","Cheese - Cheddar, Mild",2021-02-22 00:00:00.000,27.3
+601,"ORD0000299","Eazzy","Daves Island Stinger",2021-02-22 00:00:00.000,22.4
+622,"ORD0000300","Vinder","Cream - 35%",2021-02-22 00:00:00.000,2.1
+18,"ORD0000301","Linkbridge","Napkin White",2021-02-23 00:00:00.000,37.4
+279,"ORD0000302","Bluezoom","Split Peas - Yellow, Dry",2021-02-23 00:00:00.000,40.8
+349,"ORD0000302","Bluezoom","Juice - Grapefruit, 341 Ml",2021-02-23 00:00:00.000,32.5
+535,"ORD0000303","Linkbridge","Foie Gras",2021-02-23 00:00:00.000,44
+548,"ORD0000304","Ooba","Cups 10oz Trans",2021-02-23 00:00:00.000,16.9
+963,"ORD0000305","Rhybox","Bread - Flat Bread",2021-02-23 00:00:00.000,10.8
+40,"ORD0000306","Yata","Sauce - Soya, Dark",2021-02-24 00:00:00.000,19.5
+73,"ORD0000307","Mita","Soup - Campbells Chili Veg",2021-02-24 00:00:00.000,25.9
+239,"ORD0000308","Dynava","Cheese - Grana Padano",2021-02-24 00:00:00.000,4.8
+559,"ORD0000309","Gigashots","Longos - Grilled Salmon With Bbq",2021-02-24 00:00:00.000,10
+593,"ORD0000310","Oodoo","Cherries - Maraschino,jar",2021-02-24 00:00:00.000,22.4
+674,"ORD0000311","Shuffledrive","Eggplant Italian",2021-02-24 00:00:00.000,2.3
+683,"ORD0000312","Browsedrive","Cheese - Fontina",2021-02-24 00:00:00.000,16.9
+846,"ORD0000313","Livetube","Sobe - Green Tea",2021-02-24 00:00:00.000,9.1
+855,"ORD0000314","Chatterpoint","Chicken - Livers",2021-02-24 00:00:00.000,28
+879,"ORD0000315","Einti","Water - Spring Water, 355 Ml",2021-02-24 00:00:00.000,44.8
+47,"ORD0000316","Skipfire","Phyllo Dough",2021-02-25 00:00:00.000,23
+219,"ORD0000317","Skinder","Bread - Multigrain, Loaf",2021-02-25 00:00:00.000,37.8
+580,"ORD0000318","Meevee","Jolt Cola - Red Eye",2021-02-25 00:00:00.000,22
+828,"ORD0000319","Trunyx","Pancetta",2021-02-25 00:00:00.000,48
+925,"ORD0000320","Gevee","Wine - Chablis 2003 Champs",2021-02-25 00:00:00.000,10.8
+289,"ORD0000321","Voonte","Soup - Campbells Broccoli",2021-02-26 00:00:00.000,28.8
+303,"ORD0000322","Wordpedia","Lemon Pepper",2021-02-26 00:00:00.000,26.1
+770,"ORD0000323","Youtags","General Purpose Trigger",2021-02-26 00:00:00.000,28.6
+866,"ORD0000323","Youtags","Coffee - Frthy Coffee Crisp",2021-02-26 00:00:00.000,31.5
+383,"ORD0000323","Youtags","Paper Cocktail Umberlla 80 - 180",2021-02-27 00:00:00.000,12.8
+406,"ORD0000323","Youtags","Cut Wakame - Hanawakaba",2021-02-27 00:00:00.000,6
+446,"ORD0000323","Youtags","Sherbet - Raspberry",2021-02-27 00:00:00.000,19.5
+457,"ORD0000323","Youtags","Bagel - 12 Grain Preslice",2021-02-27 00:00:00.000,45.5
+479,"ORD0000323","Youtags","Lid Tray - 16in Dome",2021-02-27 00:00:00.000,12
+660,"ORD0000324","Livefish","Cookies - Oreo, 4 Pack",2021-02-27 00:00:00.000,4.6
+668,"ORD0000324","Livefish","Venison - Striploin",2021-02-27 00:00:00.000,16.2
+794,"ORD0000325","Linkbridge","Wine - Sauvignon Blanc Oyster",2021-02-27 00:00:00.000,16.8
+796,"ORD0000326","Livepath","Beef - Top Butt",2021-02-27 00:00:00.000,24
+962,"ORD0000327","Lazz","Cheese - Wine",2021-02-27 00:00:00.000,5.1
+29,"ORD0000328","Innojam","Cheese - Perron Cheddar",2021-02-28 00:00:00.000,7.8
+62,"ORD0000329","Oyonder","Soup Campbells - Italian Wedding",2021-02-28 00:00:00.000,5.4
+226,"ORD0000330","Feednation","Bread - Granary Small Pull",2021-02-28 00:00:00.000,31.2
+415,"ORD0000331","Meemm","Lime Cordial - Roses",2021-02-28 00:00:00.000,17.1
+621,"ORD0000332","Vinder","Tumeric",2021-02-28 00:00:00.000,22.8
+691,"ORD0000333","Feedbug","Flour - Whole Wheat",2021-02-28 00:00:00.000,23.8
+721,"ORD0000334","Yotz","Foam Espresso Cup Plain White",2021-02-28 00:00:00.000,39
+763,"ORD0000335","Voomm","Quiche Assorted",2021-02-28 00:00:00.000,22.8
+860,"ORD0000336","Yombu","Coconut - Shredded, Unsweet",2021-02-28 00:00:00.000,43.2
+185,"ORD0000337","Twitterbridge","Crawfish",2021-03-01 00:00:00.000,21
+187,"ORD0000338","Zazio","Cheese - Boursin, Garlic / Herbs",2021-03-01 00:00:00.000,19
+192,"ORD0000339","Photospace","Shrimp - Baby, Warm Water",2021-03-01 00:00:00.000,25.2
+620,"ORD0000339","Photospace","Wine - Wyndham Estate Bin 777",2021-03-01 00:00:00.000,3.3
+984,"ORD0000339","Photospace","V8 - Vegetable Cocktail",2021-03-01 00:00:00.000,9
+160,"ORD0000339","Photospace","Shrimp - Baby, Warm Water",2021-03-02 00:00:00.000,25.2
+311,"ORD0000340","Innotype","Olives - Stuffed",2021-03-02 00:00:00.000,8.4
+546,"ORD0000341","Miboo","Wine - Masi Valpolocell",2021-03-02 00:00:00.000,18
+567,"ORD0000342","Fliptune","Cake - Lemon Chiffon",2021-03-02 00:00:00.000,15.6
+850,"ORD0000343","Devbug","Wine - Red, Wolf Blass, Yellow",2021-03-02 00:00:00.000,13.2
+863,"ORD0000343","Devbug","Bouq All Italian - Primerba",2021-03-02 00:00:00.000,23.8
+891,"ORD0000343","Devbug","Grapes - Black",2021-03-02 00:00:00.000,27
+911,"ORD0000343","Devbug","Mustard - Individual Pkg",2021-03-02 00:00:00.000,52.5
+941,"ORD0000343","Devbug","Wine - Shiraz South Eastern",2021-03-02 00:00:00.000,31.2
+298,"ORD0000343","Devbug","Goulash Seasoning",2021-03-03 00:00:00.000,1.2
+341,"ORD0000344","Topiczoom","Extract - Vanilla,artificial",2021-03-03 00:00:00.000,10.8
+396,"ORD0000344","Topiczoom","Lotus Rootlets - Canned",2021-03-03 00:00:00.000,13
+474,"ORD0000345","Youspan","Sugar - Monocystal / Rock",2021-03-03 00:00:00.000,2.1
+596,"ORD0000346","Realblab","Cup - 3.5oz, Foam",2021-03-03 00:00:00.000,19.5
+673,"ORD0000347","Quatz","Lettuce - Green Leaf",2021-03-03 00:00:00.000,2.2
+793,"ORD0000348","Camido","Sambuca - Opal Nera",2021-03-03 00:00:00.000,35
+532,"ORD0000349","Twinder","Maintenance Removal Charge",2021-03-04 00:00:00.000,52
+634,"ORD0000350","Cogilith","Apple - Northern Spy",2021-03-04 00:00:00.000,1.2
+649,"ORD0000351","Jabbertype","Pork - Sausage Casing",2021-03-04 00:00:00.000,21
+802,"ORD0000352","Mynte","Bay Leaf Ground",2021-03-04 00:00:00.000,6
+839,"ORD0000353","Livetube","Chocolate - Semi Sweet, Calets",2021-03-04 00:00:00.000,11
+974,"ORD0000354","Youspan","Dill Weed - Dry",2021-03-04 00:00:00.000,11.2
+220,"ORD0000355","Devify","Sponge Cake Mix - Vanilla",2021-03-05 00:00:00.000,13.6
+251,"ORD0000356","Eamia","Bread - Roll, Italian",2021-03-05 00:00:00.000,31.5
+372,"ORD0000357","Realmix","Napkin - Dinner, White",2021-03-05 00:00:00.000,39.2
+454,"ORD0000358","Ailane","Soap - Hand Soap",2021-03-05 00:00:00.000,14
+490,"ORD0000359","Skidoo","Skewers - Bamboo",2021-03-05 00:00:00.000,7.5
+501,"ORD0000360","Livetube","Mudslide",2021-03-05 00:00:00.000,29.7
+623,"ORD0000361","Mycat","Bowl 12 Oz - Showcase 92012",2021-03-05 00:00:00.000,24
+789,"ORD0000362","Edgeclub","Beef - Shank",2021-03-05 00:00:00.000,12.6
+905,"ORD0000363","Leenti","Avocado",2021-03-05 00:00:00.000,10.2
+322,"ORD0000364","Mydeo","Potatoes - Mini Red",2021-03-06 00:00:00.000,16
+417,"ORD0000365","Meemm","Rosemary - Fresh",2021-03-06 00:00:00.000,3.5
+599,"ORD0000366","Oodoo","Mushroom - Enoki, Dry",2021-03-06 00:00:00.000,1.7
+799,"ORD0000367","Blogspan","Cheese - Provolone",2021-03-06 00:00:00.000,14.4
+836,"ORD0000368","Realbridge","Onions - Red",2021-03-06 00:00:00.000,36
+252,"ORD0000369","Vinte","Soup - Cream Of Potato / Leek",2021-03-07 00:00:00.000,1.8
+290,"ORD0000370","Fivechat","Plate Foam Laminated 9in Blk",2021-03-07 00:00:00.000,29.9
+310,"ORD0000371","Centimia","Veal - Knuckle",2021-03-07 00:00:00.000,37.8
+336,"ORD0000372","Rhynyx","Beer - Camerons Auburn",2021-03-07 00:00:00.000,20.3
+355,"ORD0000373","Agimba","The Pop Shoppe - Lime Rickey",2021-03-07 00:00:00.000,18
+431,"ORD0000374","Livepath","Juice - Cranberry 284ml",2021-03-07 00:00:00.000,58.5
+512,"ORD0000375","Riffpath","Silicone Parch. 16.3x24.3",2021-03-07 00:00:00.000,21
+642,"ORD0000376","Photobug","Pheasants - Whole",2021-03-07 00:00:00.000,27.6
+706,"ORD0000377","Dynabox","Flour - Cake",2021-03-07 00:00:00.000,12
+186,"ORD0000378","Skivee","Juice - Lemon",2021-03-08 00:00:00.000,9.2
+333,"ORD0000379","Lajo","Coffee - French Vanilla Frothy",2021-03-08 00:00:00.000,11.2
+422,"ORD0000380","Demivee","Carbonated Water - Peach",2021-03-08 00:00:00.000,9.2
+579,"ORD0000381","Photospace","Radish - Pickled",2021-03-08 00:00:00.000,35.2
+814,"ORD0000382","Yoveo","Pan Grease",2021-03-08 00:00:00.000,28.8
+465,"ORD0000383","Quinu","Mustard - Dry, Powder",2021-03-09 00:00:00.000,3.9
+493,"ORD0000384","Roodel","Seedlings - Clamshell",2021-03-09 00:00:00.000,51
+765,"ORD0000385","Topicstorm","Wine - Pinot Noir Pond Haddock",2021-03-09 00:00:00.000,13.5
+806,"ORD0000386","Tanoodle","Beef - Tenderloin",2021-03-09 00:00:00.000,9.6
+825,"ORD0000387","Livepath","Icecream - Dstk Super Cone",2021-03-09 00:00:00.000,16.8
+865,"ORD0000388","Feedbug","Lemonade - Mandarin, 591 Ml",2021-03-09 00:00:00.000,50.4
+78,"ORD0000389","Eabox","Grenadillo",2021-03-10 00:00:00.000,14.4
+147,"ORD0000390","Brainsphere","Lamb - Whole, Fresh",2021-03-10 00:00:00.000,24
+197,"ORD0000391","Wikizz","Dc - Sakura Fu",2021-03-10 00:00:00.000,13.5
+376,"ORD0000392","Devify","Rye Special Old",2021-03-10 00:00:00.000,30.4
+419,"ORD0000393","Reallinks","Sparkling Wine - Rose, Freixenet",2021-03-10 00:00:00.000,11.6
+741,"ORD0000394","Skibox","Pork - Hock And Feet Attached",2021-03-10 00:00:00.000,18
+919,"ORD0000395","Thoughtbridge","Chicken Giblets",2021-03-10 00:00:00.000,18.4
+141,"ORD0000396","Oyondu","Pepper - Cayenne",2021-03-11 00:00:00.000,36.4
+246,"ORD0000396","Oyondu","Oven Mitts 17 Inch",2021-03-11 00:00:00.000,5.6
+247,"ORD0000396","Oyondu","Fond - Chocolate",2021-03-11 00:00:00.000,16.8
+330,"ORD0000396","Oyondu","Bay Leaf Fresh",2021-03-11 00:00:00.000,3.1
+591,"ORD0000396","Oyondu","Parsley - Fresh",2021-03-11 00:00:00.000,3.8
+66,"ORD0000396","Oyondu","Scampi Tail",2021-03-12 00:00:00.000,4.5
+178,"ORD0000397","Quinu","Kaffir Lime Leaves",2021-03-12 00:00:00.000,16.8
+236,"ORD0000397","Quinu","Salt - Kosher",2021-03-12 00:00:00.000,20.4
+777,"ORD0000397","Quinu","Sauce - Bernaise, Mix",2021-03-12 00:00:00.000,45
+111,"ORD0000397","Quinu","Veal - Slab Bacon",2021-03-13 00:00:00.000,28
+502,"ORD0000398","Dabshots","Breakfast Quesadillas",2021-03-13 00:00:00.000,4
+918,"ORD0000399","Oyoba","Beef - Top Butt",2021-03-13 00:00:00.000,16
+3,"ORD0000400","Skivee","Radish - Black, Winter, Organic",2021-03-14 00:00:00.000,15.4
+286,"ORD0000401","Brainsphere","Sobe - Orange Carrot",2021-03-14 00:00:00.000,6
+327,"ORD0000402","Dablist","Beef Dry Aged Tenderloin Aaa",2021-03-14 00:00:00.000,10.5
+332,"ORD0000403","Roombo","Beef - Bresaola",2021-03-14 00:00:00.000,6.9
+353,"ORD0000404","Thoughtworks","Lamb - Pieces, Diced",2021-03-14 00:00:00.000,48
+460,"ORD0000405","Tagchat","Tuna - Salad Premix",2021-03-14 00:00:00.000,25
+542,"ORD0000406","Fivebridge","The Pop Shoppe Pinapple",2021-03-14 00:00:00.000,40.7
+72,"ORD0000407","Jayo","Tuna - Sushi Grade",2021-03-15 00:00:00.000,3.5
+552,"ORD0000408","Topicblab","Cheese - Parmesan Cubes",2021-03-15 00:00:00.000,22.8
+734,"ORD0000409","Abata","Sauce Bbq Smokey",2021-03-15 00:00:00.000,19.2
+764,"ORD0000410","Mynte","Cheese - Grana Padano",2021-03-15 00:00:00.000,33.3
+830,"ORD0000411","Flipstorm","Wine - Malbec Trapiche Reserve",2021-03-15 00:00:00.000,11.2
+118,"ORD0000412","Edgeblab","Ecolab - Ster Bac",2021-03-16 00:00:00.000,27.3
+291,"ORD0000413","Trilith","Fruit Salad Deluxe",2021-03-16 00:00:00.000,8
+378,"ORD0000414","Jabberbean","Pepper - Red Thai",2021-03-16 00:00:00.000,32.5
+470,"ORD0000415","Oodoo","Soup Bowl Clear 8oz92008",2021-03-16 00:00:00.000,10.5
+476,"ORD0000416","Gigashots","Pepper - White, Ground",2021-03-16 00:00:00.000,4
+640,"ORD0000417","Gigabox","Bouillion - Fish",2021-03-16 00:00:00.000,6
+882,"ORD0000418","Rhynyx","Onions Granulated",2021-03-16 00:00:00.000,2.4
+926,"ORD0000419","Gevee","Milk - Chocolate 500ml",2021-03-16 00:00:00.000,9.1
+207,"ORD0000420","Brightbean","Turkey Tenderloin Frozen",2021-03-17 00:00:00.000,25.9
+235,"ORD0000421","Realbuzz","Jam - Raspberry",2021-03-17 00:00:00.000,23.2
+391,"ORD0000422","Edgewire","Syrup - Monin, Irish Cream",2021-03-17 00:00:00.000,30.8
+659,"ORD0000423","Livefish","Puree - Mango",2021-03-17 00:00:00.000,7.8
+742,"ORD0000424","Tazzy","Pasta - Lasagna Noodle, Frozen",2021-03-17 00:00:00.000,18.2
+755,"ORD0000425","Feedfish","Bar Mix - Pina Colada, 355 Ml",2021-03-17 00:00:00.000,20.3
+989,"ORD0000425","Feedfish","Plate Foam Laminated 9in Blk",2021-03-17 00:00:00.000,22
+132,"ORD0000426","Voolith","Pork - Butt, Boneless",2021-03-18 00:00:00.000,24
+148,"ORD0000427","Gigabox","Appetizer - Chicken Satay",2021-03-18 00:00:00.000,18.4
+228,"ORD0000428","Realfire","Limes",2021-03-18 00:00:00.000,2.8
+375,"ORD0000429","Twimbo","Wine - Charddonnay Errazuriz",2021-03-18 00:00:00.000,51.8
+517,"ORD0000430","Bluejam","Noodles - Steamed Chow Mein",2021-03-18 00:00:00.000,22.2
+594,"ORD0000431","Oodoo","Langers - Ruby Red Grapfruit",2021-03-18 00:00:00.000,15.2
+885,"ORD0000432","Photobug","Wine - White, Pinot Grigio",2021-03-18 00:00:00.000,9.6
+14,"ORD0000433","Talane","Flower - Commercial Spider",2021-03-19 00:00:00.000,18
+20,"ORD0000434","Wikibox","Salt - Kosher",2021-03-19 00:00:00.000,8.4
+56,"ORD0000435","Innotype","Raspberries - Fresh",2021-03-19 00:00:00.000,12.4
+74,"ORD0000436","Flipstorm","Dc - Frozen Momji",2021-03-19 00:00:00.000,16.5
+99,"ORD0000437","Tavu","Wine - Sake",2021-03-19 00:00:00.000,37.2
+212,"ORD0000438","DabZ","Steel Wool",2021-03-19 00:00:00.000,33
+265,"ORD0000439","Oozz","Oil - Peanut",2021-03-19 00:00:00.000,8.4
+496,"ORD0000440","Yakitri","Apple - Delicious, Golden",2021-03-19 00:00:00.000,7.4
+592,"ORD0000440","Yakitri","Wine - Penfolds Koonuga Hill",2021-03-19 00:00:00.000,22.5
+707,"ORD0000440","Yakitri","Cabbage - Red",2021-03-19 00:00:00.000,9.6
+745,"ORD0000440","Yakitri","Sprite - 355 Ml",2021-03-19 00:00:00.000,12.5
+752,"ORD0000440","Yakitri","Flour - Whole Wheat",2021-03-19 00:00:00.000,6.2
+795,"ORD0000441","Skilith","Squid Ink",2021-03-19 00:00:00.000,15.6
+810,"ORD0000442","Linkbuzz","Wine - Alsace Riesling Reserve",2021-03-19 00:00:00.000,31.2
+867,"ORD0000443","Buzzdog","Amaretto",2021-03-19 00:00:00.000,5
+945,"ORD0000443","Buzzdog","Cheese - Goat",2021-03-19 00:00:00.000,60
+379,"ORD0000444","Mynte","Pasta - Ravioli",2021-03-20 00:00:00.000,9
+495,"ORD0000445","Thoughtbeat","Squash - Butternut",2021-03-20 00:00:00.000,42
+690,"ORD0000446","Trudoo","Lemonade - Island Tea, 591 Ml",2021-03-20 00:00:00.000,31.2
+694,"ORD0000447","Janyx","Oven Mitt - 13 Inch",2021-03-20 00:00:00.000,44.8
+92,"ORD0000448","Twitterbridge","Soup - Campbells Chicken",2021-03-21 00:00:00.000,26.6
+306,"ORD0000449","Innotype","Soup Campbells Mexicali Tortilla",2021-03-21 00:00:00.000,17
+554,"ORD0000450","Topicblab","Bagel - Ched Chs Presliced",2021-03-21 00:00:00.000,44
+688,"ORD0000451","Jabbersphere","Plasticforkblack",2021-03-21 00:00:00.000,33.3
+729,"ORD0000452","Eazzy","Appetizer - Southwestern",2021-03-21 00:00:00.000,43.4
+961,"ORD0000453","Yotz","Beef - Flank Steak",2021-03-21 00:00:00.000,26.4
+648,"ORD0000454","Photobug","Coffee - Decafenated",2021-03-22 00:00:00.000,16
+685,"ORD0000455","Kwinu","Lamb Rack Frenched Australian",2021-03-22 00:00:00.000,16.2
+780,"ORD0000456","Jaloo","Crab - Soft Shell",2021-03-22 00:00:00.000,14
+819,"ORD0000457","JumpXS","Mushroom - Chanterelle Frozen",2021-03-22 00:00:00.000,9
+183,"ORD0000458","Quinu","Muffin Orange Individual",2021-03-23 00:00:00.000,11.9
+337,"ORD0000459","Lajo","Yogurt - Raspberry, 175 Gr",2021-03-23 00:00:00.000,12.6
+385,"ORD0000460","Edgewire","Juice - Happy Planet",2021-03-23 00:00:00.000,48
+469,"ORD0000461","Jabberbean","Pastry - Chocolate Chip Muffin",2021-03-23 00:00:00.000,12
+484,"ORD0000462","Yodoo","Salmon - Atlantic, No Skin",2021-03-23 00:00:00.000,50.4
+551,"ORD0000463","Kwinu","Bread - Dark Rye, Loaf",2021-03-23 00:00:00.000,6
+849,"ORD0000464","Katz","Sprouts - Alfalfa",2021-03-23 00:00:00.000,25.5
+950,"ORD0000465","Rhybox","Wine - White, Pelee Island",2021-03-23 00:00:00.000,16
+21,"ORD0000466","Zoomlounge","Steel Wool S.o.s",2021-03-24 00:00:00.000,15.6
+425,"ORD0000467","Jabbersphere","Pineapple - Canned, Rings",2021-03-24 00:00:00.000,13.3
+657,"ORD0000468","Ailane","Juice - Orange 1.89l",2021-03-24 00:00:00.000,8.4
+751,"ORD0000469","Gigashots","Oats Large Flake",2021-03-24 00:00:00.000,10.2
+798,"ORD0000470","Vitz","Chocolate - Liqueur Cups With Foil",2021-03-24 00:00:00.000,11.4
+826,"ORD0000471","Blogspan","Mushroom - Morels, Dry",2021-03-24 00:00:00.000,35.2
+835,"ORD0000472","Realbuzz","Cheese - Brie,danish",2021-03-24 00:00:00.000,3.4
+985,"ORD0000473","Kimia","Cheese - Roquefort Pappillon",2021-03-24 00:00:00.000,9.1
+43,"ORD0000474","Voolith","Pepper - Chillies, Crushed",2021-03-25 00:00:00.000,27
+363,"ORD0000475","Oyoloo","Devonshire Cream",2021-03-25 00:00:00.000,47.6
+738,"ORD0000476","Jaxworks","Beef Wellington",2021-03-25 00:00:00.000,34.1
+954,"ORD0000477","Camido","Wine - Valpolicella Masi",2021-03-25 00:00:00.000,7.8
+966,"ORD0000478","Janyx","Pie Filling - Pumpkin",2021-03-25 00:00:00.000,42
+107,"ORD0000479","Brainbox","Oil - Olive",2021-03-26 00:00:00.000,7.2
+250,"ORD0000480","Plambee","Quail - Jumbo",2021-03-26 00:00:00.000,7.4
+608,"ORD0000481","Camimbo","Sauce - Marinara",2021-03-26 00:00:00.000,20.4
+904,"ORD0000482","Meevee","Bread - Multigrain Oval",2021-03-26 00:00:00.000,39
+24,"ORD0000483","Brightdog","Cookies - Assorted",2021-03-27 00:00:00.000,12
+90,"ORD0000483","Brightdog","Beer - Sleeman Fine Porter",2021-03-27 00:00:00.000,37.2
+94,"ORD0000483","Brightdog","Cookie Trail Mix",2021-03-27 00:00:00.000,13.8
+343,"ORD0000483","Brightdog","Quiche Assorted",2021-03-27 00:00:00.000,34.5
+522,"ORD0000484","Zoombeat","Pasta - Angel Hair",2021-03-27 00:00:00.000,30.8
+617,"ORD0000485","Youopia","Peas - Frozen",2021-03-27 00:00:00.000,46.8
+920,"ORD0000486","Zoombeat","Bols Melon Liqueur",2021-03-27 00:00:00.000,22.8
+193,"ORD0000487","Abata","Wine - Barolo Fontanafredda",2021-03-28 00:00:00.000,9.6
+374,"ORD0000487","Abata","Wine - Pinot Noir Latour",2021-03-28 00:00:00.000,54.6
+739,"ORD0000487","Abata","Foil - 4oz Custard Cup",2021-03-28 00:00:00.000,36.4
+947,"ORD0000487","Abata","Grapes - Green",2021-03-28 00:00:00.000,34.1
+953,"ORD0000488","Buzzdog","Pineapple - Regular",2021-03-28 00:00:00.000,25.6
+80,"ORD0000489","Eabox","Island Oasis - Cappucino Mix",2021-03-29 00:00:00.000,33.3
+172,"ORD0000490","Zoombox","Beer - Sleeman Fine Porter",2021-03-29 00:00:00.000,26.4
+217,"ORD0000491","Devify","Nantucket Cranberry Juice",2021-03-29 00:00:00.000,14.8
+400,"ORD0000492","Vipe","Bacardi Limon",2021-03-29 00:00:00.000,25.2
+575,"ORD0000493","Fivespan","Poppy Seed",2021-03-29 00:00:00.000,36.4
+883,"ORD0000494","Photobug","Lentils - Red, Dry",2021-03-29 00:00:00.000,11.6
+1000,"ORD0000495","Meembee","Wine - Peller Estates Late",2021-03-29 00:00:00.000,24.2
+199,"ORD0000496","Zoombox","Sour Puss Sour Apple",2021-03-30 00:00:00.000,10.5
+862,"ORD0000497","Eidel","Lettuce - Escarole",2021-03-30 00:00:00.000,3.8
+121,"ORD0000498","Skynoodle","Scrubbie - Scotchbrite Hand Pad",2021-03-31 00:00:00.000,1.9
+136,"ORD0000499","Rhynyx","Beer - Upper Canada Light",2021-03-31 00:00:00.000,51.8
+167,"ORD0000500","Eazzy","Vaccum Bag - 14x20",2021-03-31 00:00:00.000,6
+338,"ORD0000501","Lajo","Mousse - Banana Chocolate",2021-03-31 00:00:00.000,19.6
+442,"ORD0000502","Wordpedia","Lid Coffeecup 12oz D9542b",2021-03-31 00:00:00.000,16.2
+581,"ORD0000503","Mydeo","Soup - Campbellschix Stew",2021-03-31 00:00:00.000,52
+893,"ORD0000504","Jaxworks","Aspic - Clear",2021-03-31 00:00:00.000,34.2
+898,"ORD0000505","Vinte","Oil - Peanut",2021-03-31 00:00:00.000,26.4
+37,"ORD0000506","Ntags","Brandy - Bar",2021-04-01 00:00:00.000,16.5
+357,"ORD0000507","Topicstorm","Pork - Back, Short Cut, Boneless",2021-04-01 00:00:00.000,37.5
+487,"ORD0000508","Blogtags","Pear - Asian",2021-04-01 00:00:00.000,21.6
+754,"ORD0000509","Mynte","Beef - Ox Tail, Frozen",2021-04-01 00:00:00.000,11.4
+769,"ORD0000509","Mynte","Butcher Twine 4r",2021-04-01 00:00:00.000,3.6
+927,"ORD0000510","Gevee","Pears - Anjou",2021-04-01 00:00:00.000,16.8
+32,"ORD0000511","Voolith","Pork - Butt, Boneless",2021-04-02 00:00:00.000,14.4
+312,"ORD0000512","Innojam","Cheese - Cheddarsliced",2021-04-02 00:00:00.000,22.5
+461,"ORD0000513","Jabberbean","Fork - Plastic",2021-04-02 00:00:00.000,14
+524,"ORD0000514","Vitz","Turkey - Ground. Lean",2021-04-02 00:00:00.000,35.1
+175,"ORD0000515","Demivee","Muffin - Mix - Mango Sour Cherry",2021-04-03 00:00:00.000,42.9
+305,"ORD0000516","Feedspan","Wine - Niagara,vqa Reisling",2021-04-03 00:00:00.000,42.9
+537,"ORD0000517","Yata","Veal - Kidney",2021-04-03 00:00:00.000,30.8
+553,"ORD0000518","Topicblab","Bread - Flat Bread",2021-04-03 00:00:00.000,1.2
+775,"ORD0000519","Quire","Soup - Campbells, Creamy",2021-04-03 00:00:00.000,8.1
+260,"ORD0000520","Zoovu","Vodka - Moskovskaya",2021-04-04 00:00:00.000,11.1
+569,"ORD0000521","Rhyloo","Wine - Port Late Bottled Vintage",2021-04-04 00:00:00.000,10.4
+672,"ORD0000522","Zoovu","Spoon - Soup, Plastic",2021-04-04 00:00:00.000,1.3
+471,"ORD0000523","Realbuzz","Veal - Round, Eye Of",2021-04-06 00:00:00.000,46.2
+587,"ORD0000524","Photospace","Beef - Tongue, Cooked",2021-04-06 00:00:00.000,10.5
+809,"ORD0000524","Photospace","Flour - So Mix Cake White",2021-04-06 00:00:00.000,2.1
+929,"ORD0000524","Photospace","Icecream - Dibs",2021-04-06 00:00:00.000,26.6
+221,"ORD0000524","Photospace","Tuna - Loin",2021-04-07 00:00:00.000,12.6
+268,"ORD0000524","Photospace","Lettuce - Sea / Sea Asparagus",2021-04-07 00:00:00.000,26.1
+326,"ORD0000524","Photospace","Pastry - Chocolate Chip Muffin",2021-04-07 00:00:00.000,28.6
+444,"ORD0000524","Photospace","Ecolab - Lime - A - Way 4/4 L",2021-04-07 00:00:00.000,38
+625,"ORD0000525","Vinder","Water - Green Tea Refresher",2021-04-07 00:00:00.000,6.3
+46,"ORD0000526","Avavee","Glove - Cutting",2021-04-08 00:00:00.000,15.5
+82,"ORD0000527","Dynabox","Apples - Sliced / Wedge",2021-04-08 00:00:00.000,35
+102,"ORD0000528","Trudoo","Cake - Bande Of Fruit",2021-04-08 00:00:00.000,3.8
+154,"ORD0000529","Voonyx","Kirsch - Schloss",2021-04-08 00:00:00.000,28
+515,"ORD0000530","Twitternation","Pork Loin Bine - In Frenched",2021-04-08 00:00:00.000,17.6
+679,"ORD0000531","Browsedrive","Cheese - Pied De Vents",2021-04-08 00:00:00.000,53.2
+36,"ORD0000532","Avavee","Garlic - Elephant",2021-04-09 00:00:00.000,41.8
+514,"ORD0000533","Fadeo","Crab - Claws, Snow 16 - 24",2021-04-09 00:00:00.000,36
+715,"ORD0000534","Skippad","Oxtail - Cut",2021-04-09 00:00:00.000,47.6
+896,"ORD0000535","Kwinu","Glaze - Apricot",2021-04-09 00:00:00.000,9.1
+931,"ORD0000536","Kazio","Compound - Passion Fruit",2021-04-09 00:00:00.000,16.2
+935,"ORD0000537","Rooxo","Cup - 3.5oz, Foam",2021-04-09 00:00:00.000,31.2
+959,"ORD0000538","Rhybox","Chocolate Bar - Coffee Crisp",2021-04-09 00:00:00.000,5.6
+58,"ORD0000539","Shufflebeat","Dooleys Toffee",2021-04-10 00:00:00.000,11.9
+392,"ORD0000540","Eidel","Asparagus - White, Canned",2021-04-10 00:00:00.000,7
+602,"ORD0000541","Oodoo","Turkey - Breast, Smoked",2021-04-10 00:00:00.000,10.8
+654,"ORD0000542","Mydeo","Soy Protein",2021-04-10 00:00:00.000,6.6
+732,"ORD0000543","Omba","Mayonnaise",2021-04-10 00:00:00.000,28.5
+735,"ORD0000544","Tanoodle","Passion Fruit",2021-04-10 00:00:00.000,28.6
+784,"ORD0000545","Buzzshare","Veal - Provimi Inside",2021-04-10 00:00:00.000,49.5
+829,"ORD0000546","Aimbu","Wine - Ej Gallo Sonoma",2021-04-10 00:00:00.000,16.8
+11,"ORD0000547","Dabfeed","Wine - Piper Heidsieck Brut",2021-04-11 00:00:00.000,46.8
+71,"ORD0000548","Youtags","Pickles - Gherkins",2021-04-11 00:00:00.000,3.4
+166,"ORD0000549","Lazzy","Bread Crumbs - Japanese Style",2021-04-11 00:00:00.000,48.1
+301,"ORD0000550","Wordpedia","Sausage - Chorizo",2021-04-11 00:00:00.000,11.5
+528,"ORD0000551","Voomm","Towel Dispenser",2021-04-11 00:00:00.000,8.4
+618,"ORD0000552","Layo","Roe - Flying Fish",2021-04-11 00:00:00.000,39.2
+639,"ORD0000553","Photobug","Wine - Sauvignon Blanc",2021-04-11 00:00:00.000,42
+844,"ORD0000554","Trunyx","Quail - Jumbo Boneless",2021-04-11 00:00:00.000,15.6
+861,"ORD0000555","Midel","Dc - Sakura Fu",2021-04-11 00:00:00.000,12.6
+924,"ORD0000556","Einti","Cheese - Oka",2021-04-11 00:00:00.000,20
+266,"ORD0000557","Voonte","Pepper - Chilli Seeds Mild",2021-04-12 00:00:00.000,39
+427,"ORD0000557","Voonte","Steel Wool S.o.s",2021-04-12 00:00:00.000,28.6
+556,"ORD0000557","Voonte","Asparagus - White, Canned",2021-04-12 00:00:00.000,8.4
+632,"ORD0000557","Voonte","Foam Cup 6 Oz",2021-04-12 00:00:00.000,2.8
+716,"ORD0000557","Voonte","Jam - Apricot",2021-04-12 00:00:00.000,21.6
+736,"ORD0000558","Eazzy","Lamb - Leg, Boneless",2021-04-12 00:00:00.000,3.6
+818,"ORD0000559","JumpXS","Lychee - Canned",2021-04-12 00:00:00.000,36
+890,"ORD0000560","Reallinks","Rum - White, Gg White",2021-04-12 00:00:00.000,2.8
+113,"ORD0000561","Fliptune","Wine - Vineland Estate Semi - Dry",2021-04-13 00:00:00.000,42
+180,"ORD0000562","Vinder","Bar Bran Honey Nut",2021-04-13 00:00:00.000,3.5
+356,"ORD0000562","Vinder","Spinach - Spinach Leaf",2021-04-13 00:00:00.000,6.6
+624,"ORD0000562","Vinder","Wine - Magnotta - Cab Franc",2021-04-13 00:00:00.000,3
+877,"ORD0000563","Twiyo","Wine - Periguita Fonseca",2021-04-13 00:00:00.000,17.5
+50,"ORD0000564","Pixoboo","Sauce - Hollandaise",2021-04-14 00:00:00.000,12.6
+123,"ORD0000565","Yozio","Lettuce - Green Leaf",2021-04-14 00:00:00.000,49.4
+125,"ORD0000566","Rhyzio","Tequila - Sauza Silver",2021-04-14 00:00:00.000,2.5
+223,"ORD0000567","BlogXS","Cheese - Cottage Cheese",2021-04-14 00:00:00.000,22
+637,"ORD0000568","Avavee","Chocolate - Milk, Callets",2021-04-14 00:00:00.000,11.6
+695,"ORD0000569","Plambee","Chips Potato Reg 43g",2021-04-14 00:00:00.000,56
+805,"ORD0000570","Livepath","Muffin Batt - Ban Dream Zero",2021-04-14 00:00:00.000,22.4
+938,"ORD0000571","Dynabox","Chicken Thigh - Bone Out",2021-04-14 00:00:00.000,26.6
+15,"ORD0000572","Talane","Cookie Dough - Chocolate Chip",2021-04-15 00:00:00.000,60
+428,"ORD0000573","Yadel","Sauce - Black Current, Dry Mix",2021-04-15 00:00:00.000,24
+458,"ORD0000574","Dynabox","Beer - Heinekin",2021-04-15 00:00:00.000,28
+482,"ORD0000575","Blogtags","Pickerel - Fillets",2021-04-15 00:00:00.000,50.4
+483,"ORD0000575","Blogtags","Bamboo Shoots - Sliced",2021-04-15 00:00:00.000,10.4
+604,"ORD0000576","Dynava","Energy Drink",2021-04-15 00:00:00.000,16.1
+766,"ORD0000577","Mynte","Tandoori Curry Paste",2021-04-15 00:00:00.000,11.4
+888,"ORD0000578","Photobug","Compound - Strawberry",2021-04-15 00:00:00.000,3.7
+28,"ORD0000579","Fivespan","Island Oasis - Peach Daiquiri",2021-04-16 00:00:00.000,28
+96,"ORD0000580","Divavu","Chicken - Livers",2021-04-16 00:00:00.000,16.8
+127,"ORD0000581","Kamba","Lobster - Live",2021-04-16 00:00:00.000,9
+346,"ORD0000582","Yamia","Rice - Sushi",2021-04-16 00:00:00.000,33.6
+367,"ORD0000583","Katz","Pork - Bacon Cooked Slcd",2021-04-16 00:00:00.000,10
+421,"ORD0000584","Meemm","Flounder - Fresh",2021-04-16 00:00:00.000,20.7
+437,"ORD0000585","Skimia","Remy Red Berry Infusion",2021-04-16 00:00:00.000,10.5
+486,"ORD0000586","Camimbo","Dates",2021-04-16 00:00:00.000,20.4
+680,"ORD0000587","Browsedrive","Gelatine Leaves - Bulk",2021-04-16 00:00:00.000,27.3
+856,"ORD0000588","Brainlounge","Sage - Fresh",2021-04-16 00:00:00.000,3.6
+944,"ORD0000589","Thoughtsphere","Wine - Niagara Peninsula Vqa",2021-04-16 00:00:00.000,2.8
+213,"ORD0000590","Browsetype","Rum - Spiced, Captain Morgan",2021-04-17 00:00:00.000,19.2
+366,"ORD0000591","Ozu","Doilies - 7, Paper",2021-04-17 00:00:00.000,43.4
+665,"ORD0000592","Livefish","Watercress",2021-04-17 00:00:00.000,12
+747,"ORD0000593","Yotz","Silicone Paper 16.5x24",2021-04-17 00:00:00.000,28.8
+894,"ORD0000594","Brainlounge","Muffin - Mix - Creme Brule 15l",2021-04-17 00:00:00.000,46.8
+895,"ORD0000595","Edgeify","Oil - Hazelnut",2021-04-17 00:00:00.000,8
+261,"ORD0000596","Yozio","Icecream - Dstk Super Cone",2021-04-18 00:00:00.000,22
+299,"ORD0000597","Tagfeed","Beets - Mini Golden",2021-04-18 00:00:00.000,27
+464,"ORD0000598","Jabberbean","Cheese - Ermite Bleu",2021-04-18 00:00:00.000,24.3
+475,"ORD0000599","Oloo","Wine - Tribal Sauvignon",2021-04-18 00:00:00.000,7.8
+529,"ORD0000600","BlogXS","Soup - Tomato Mush. Florentine",2021-04-18 00:00:00.000,1.3
+586,"ORD0000601","Trunyx","Sultanas",2021-04-18 00:00:00.000,3.3
+720,"ORD0000602","Skyble","Tobasco Sauce",2021-04-18 00:00:00.000,27.5
+786,"ORD0000603","Skinder","Samosa - Veg",2021-04-18 00:00:00.000,30.8
+917,"ORD0000604","Kamba","Beef - Baby, Liver",2021-04-18 00:00:00.000,9
+980,"ORD0000605","Twinte","Bowl 12 Oz - Showcase 92012",2021-04-18 00:00:00.000,10.4
+222,"ORD0000606","Devify","Mushroom - Shitake, Dry",2021-04-19 00:00:00.000,22.4
+229,"ORD0000607","Eimbee","Soup - Campbells, Spinach Crm",2021-04-19 00:00:00.000,14.4
+345,"ORD0000608","Mynte","Glove - Cutting",2021-04-19 00:00:00.000,33.6
+733,"ORD0000609","Eare","Sultanas",2021-04-19 00:00:00.000,44.2
+762,"ORD0000610","Voomm","Wine - Vovray Sec Domaine Huet",2021-04-19 00:00:00.000,28
+897,"ORD0000610","Voomm","Steampan Lid",2021-04-19 00:00:00.000,2.8
+906,"ORD0000610","Voomm","Anchovy Paste - 56 G Tube",2021-04-19 00:00:00.000,24.8
+177,"ORD0000610","Voomm","Juice - Prune",2021-04-20 00:00:00.000,18.9
+390,"ORD0000610","Voomm","Dill Weed - Dry",2021-04-20 00:00:00.000,24.5
+563,"ORD0000610","Voomm","Shrimp - Black Tiger 13/15",2021-04-20 00:00:00.000,21
+817,"ORD0000611","JumpXS","Lime Cordial - Roses",2021-04-20 00:00:00.000,6
+30,"ORD0000612","Zoombeat","Bagel - Sesame Seed Presliced",2021-04-21 00:00:00.000,8.7
+44,"ORD0000613","Photobug","Beef - Ground Medium",2021-04-21 00:00:00.000,1.5
+280,"ORD0000614","Twimbo","Appetizer - Escargot Puff",2021-04-21 00:00:00.000,2
+424,"ORD0000614","Twimbo","Sauce - Hoisin",2021-04-21 00:00:00.000,48
+499,"ORD0000614","Twimbo","Cheese Cloth",2021-04-21 00:00:00.000,31.2
+574,"ORD0000614","Twimbo","Wine - Red, Harrow Estates, Cab",2021-04-21 00:00:00.000,6
+616,"ORD0000614","Twimbo","Mushroom - Chanterelle, Dry",2021-04-21 00:00:00.000,18
+899,"ORD0000615","Kimia","Mace",2021-04-21 00:00:00.000,14.7
+277,"ORD0000616","Tagfeed","Rosemary - Primerba, Paste",2021-04-22 00:00:00.000,45.5
+527,"ORD0000617","Devshare","Tea Leaves - Oolong",2021-04-22 00:00:00.000,25.3
+541,"ORD0000618","Feedbug","Bread Roll Foccacia",2021-04-22 00:00:00.000,9.6
+650,"ORD0000619","Photobug","Squid - U 5",2021-04-22 00:00:00.000,6.6
+848,"ORD0000620","Riffpedia","Cheese - Ermite Bleu",2021-04-22 00:00:00.000,10.8
+26,"ORD0000620","Riffpedia","Extract - Rum",2021-04-23 00:00:00.000,17.1
+64,"ORD0000620","Riffpedia","External Supplier",2021-04-23 00:00:00.000,46.5
+173,"ORD0000620","Riffpedia","Galliano",2021-04-23 00:00:00.000,10.4
+693,"ORD0000620","Riffpedia","Pineapple - Golden",2021-04-23 00:00:00.000,38.4
+853,"ORD0000620","Riffpedia","Wine - Gewurztraminer Pierre",2021-04-23 00:00:00.000,15.4
+323,"ORD0000620","Riffpedia","Wine - Savigny - Les - Beaune",2021-04-24 00:00:00.000,14.4
+360,"ORD0000620","Riffpedia","Turkey - Oven Roast Breast",2021-04-24 00:00:00.000,49.4
+370,"ORD0000621","Tagpad","Samosa - Veg",2021-04-24 00:00:00.000,30.4
+409,"ORD0000622","Einti","Taro Root",2021-04-24 00:00:00.000,3.2
+462,"ORD0000623","Photojam","Lobster - Canned Premium",2021-04-24 00:00:00.000,16.8
+696,"ORD0000624","Npath","Capers - Ox Eye Daisy",2021-04-24 00:00:00.000,40.3
+808,"ORD0000625","Jabbersphere","Wine - Prosecco Valdobienne",2021-04-24 00:00:00.000,12
+858,"ORD0000626","Katz","Shrimp - Black Tiger 26/30",2021-04-24 00:00:00.000,4.5
+958,"ORD0000627","Ainyx","Meldea Green Tea Liquor",2021-04-24 00:00:00.000,33.3
+4,"ORD0000628","Skinder","Tomato - Peeled Italian Canned",2021-04-25 00:00:00.000,7.6
+153,"ORD0000629","Zoovu","Beer - Paulaner Hefeweisse",2021-04-25 00:00:00.000,36.4
+230,"ORD0000630","Realfire","Sour Cream",2021-04-25 00:00:00.000,42
+313,"ORD0000631","Quimba","Bacardi Breezer - Strawberry",2021-04-25 00:00:00.000,39.6
+340,"ORD0000632","Avamba","Olives - Morracan Dired",2021-04-25 00:00:00.000,23.8
+536,"ORD0000633","Oba","Pepper - White, Ground",2021-04-25 00:00:00.000,18
+572,"ORD0000634","Quimba","Cinnamon - Ground",2021-04-25 00:00:00.000,37.2
+41,"ORD0000635","Dabjam","Pepsi - Diet, 355 Ml",2021-04-26 00:00:00.000,29.7
+162,"ORD0000636","Zoombeat","Compound - Rum",2021-04-26 00:00:00.000,14.3
+225,"ORD0000637","Demizz","Raspberries - Fresh",2021-04-26 00:00:00.000,2.8
+597,"ORD0000638","Oodoo","Muffin Hinge 117n",2021-04-26 00:00:00.000,27.2
+718,"ORD0000639","Thoughtstorm","Bread - Dark Rye",2021-04-26 00:00:00.000,4.8
+815,"ORD0000640","JumpXS","Pepper - Red, Finger Hot",2021-04-26 00:00:00.000,26.6
+88,"ORD0000641","Edgeify","Beer - Blue",2021-04-27 00:00:00.000,40.3
+119,"ORD0000642","Riffpath","Appetizer - Seafood Assortment",2021-04-27 00:00:00.000,7.8
+389,"ORD0000643","Edgewire","Pork - European Side Bacon",2021-04-27 00:00:00.000,10.8
+526,"ORD0000644","Ailane","Bread - Dark Rye, Loaf",2021-04-27 00:00:00.000,2.4
+558,"ORD0000645","Zoombox","Chocolate - Unsweetened",2021-04-27 00:00:00.000,46.8
+203,"ORD0000646","Zoomzone","Alize Sunset",2021-04-28 00:00:00.000,28
+267,"ORD0000647","Oozz","Wine - Stoneliegh Sauvignon",2021-04-28 00:00:00.000,9
+350,"ORD0000648","Rooxo","Raisin - Dark",2021-04-28 00:00:00.000,1.3
+703,"ORD0000649","Skyba","Lettuce - Lolla Rosa",2021-04-28 00:00:00.000,31
+813,"ORD0000650","Oba","Asparagus - Green, Fresh",2021-04-28 00:00:00.000,24.2
+981,"ORD0000651","Fanoodle","Mushroom - Shitake, Dry",2021-04-28 00:00:00.000,9.8
+6,"ORD0000652","Skyba","Fond - Chocolate",2021-04-29 00:00:00.000,2.2
+89,"ORD0000653","Yozio","Wine - Vovray Sec Domaine Huet",2021-04-29 00:00:00.000,1.3
+114,"ORD0000654","Oyope","Rosemary - Dry",2021-04-29 00:00:00.000,42.9
+205,"ORD0000655","Zoomzone","Sauce - Balsamic Viniagrette",2021-04-29 00:00:00.000,10.8
+242,"ORD0000656","Plambee","Shopper Bag - S - 4",2021-04-29 00:00:00.000,2.7
+687,"ORD0000657","Eimbee","Squash - Guords",2021-04-29 00:00:00.000,19.2
+994,"ORD0000658","Meedoo","Beef Cheek Fresh",2021-04-29 00:00:00.000,13.2
+75,"ORD0000659","Lazz","Thermometer Digital",2021-04-30 00:00:00.000,8
+157,"ORD0000660","Eazzy","Oil - Cooking Spray",2021-04-30 00:00:00.000,47.6
+232,"ORD0000661","Realfire","Potatoes - Idaho 80 Count",2021-04-30 00:00:00.000,15.2
+138,"ORD0000662","Edgeify","Shrimp - 16 - 20 Cooked, Peeled",2021-05-01 00:00:00.000,14.4
+142,"ORD0000663","Dabshots","Food Colouring - Blue",2021-05-01 00:00:00.000,30.8
+583,"ORD0000664","Nlounge","Wine - Malbec Trapiche Reserve",2021-05-01 00:00:00.000,17.6
+845,"ORD0000665","Livetube","Lamb Rack - Ontario",2021-05-01 00:00:00.000,23.8
+870,"ORD0000666","Abata","Pastry - Mini French Pastries",2021-05-01 00:00:00.000,49.4
+973,"ORD0000667","Ntags","Bread - White Epi Baguette",2021-05-01 00:00:00.000,10.2
+986,"ORD0000668","Meedoo","Scallops - U - 10",2021-05-01 00:00:00.000,39.2
+181,"ORD0000669","Mudo","Bread - Calabrese Baguette",2021-05-02 00:00:00.000,9.1
+463,"ORD0000670","Roodel","Cheese - Comte",2021-05-02 00:00:00.000,8.4
+681,"ORD0000671","Browsedrive","Oranges",2021-05-02 00:00:00.000,40.5
+771,"ORD0000672","Mynte","Table Cloth 54x72 White",2021-05-02 00:00:00.000,18
+210,"ORD0000673","Browsezoom","Flour - All Purpose",2021-05-03 00:00:00.000,12
+314,"ORD0000674","Avamba","Bread - Rolls, Rye",2021-05-03 00:00:00.000,15.2
+516,"ORD0000675","Riffpath","Bread - Bistro White",2021-05-03 00:00:00.000,16.5
+606,"ORD0000676","Viva","Parsley Italian - Fresh",2021-05-03 00:00:00.000,38.4
+628,"ORD0000677","Vinder","Emulsifier",2021-05-03 00:00:00.000,1.4
+661,"ORD0000678","Edgepulse","Pasta - Canelloni",2021-05-03 00:00:00.000,4.6
+743,"ORD0000679","Oyoloo","Table Cloth 53x69 White",2021-05-03 00:00:00.000,36
+821,"ORD0000680","Quaxo","Bacardi Raspberry",2021-05-03 00:00:00.000,11.2
+13,"ORD0000681","Yamia","Bread Base - Toscano",2021-05-04 00:00:00.000,49.5
+22,"ORD0000682","Jaxspan","Pastry - Apple Large",2021-05-04 00:00:00.000,8.5
+120,"ORD0000683","Edgeify","Yogurt - French Vanilla",2021-05-04 00:00:00.000,5.4
+328,"ORD0000683","Edgeify","Wine - Cousino Macul Antiguas",2021-05-04 00:00:00.000,10.8
+645,"ORD0000683","Edgeify","Pork - Bones",2021-05-04 00:00:00.000,22.2
+699,"ORD0000684","Kanoodle","Orange Roughy 4/6 Oz",2021-05-04 00:00:00.000,6
+773,"ORD0000685","Tavu","Arizona - Plum Green Tea",2021-05-04 00:00:00.000,27.9
+955,"ORD0000685","Tavu","Pork - Ham, Virginia",2021-05-04 00:00:00.000,19.8
+103,"ORD0000685","Tavu","Chutney Sauce - Mango",2021-05-05 00:00:00.000,19.2
+244,"ORD0000686","Plambee","Wine - Taylors Reserve",2021-05-05 00:00:00.000,17.6
+288,"ORD0000687","Latz","Wine - Segura Viudas Aria Brut",2021-05-05 00:00:00.000,27
+334,"ORD0000687","Latz","Wonton Wrappers",2021-05-05 00:00:00.000,19.2
+377,"ORD0000687","Latz","Pastry - Baked Scones - Mini",2021-05-05 00:00:00.000,15.4
+456,"ORD0000687","Latz","Chocolate - Pistoles, Lactee, Milk",2021-05-05 00:00:00.000,29.7
+538,"ORD0000688","Skipfire","Bagelers",2021-05-05 00:00:00.000,23.4
+600,"ORD0000689","Flashdog","Mushroom - Chanterelle Frozen",2021-05-05 00:00:00.000,14.8
+609,"ORD0000690","Voolith","Sprouts - Pea",2021-05-05 00:00:00.000,18.7
+999,"ORD0000691","Dazzlesphere","Rootbeer",2021-05-05 00:00:00.000,25.3
+504,"ORD0000692","Camido","Towel Multifold",2021-05-06 00:00:00.000,7.5
+744,"ORD0000693","Twitternation","Wine - Bouchard La Vignee Pinot",2021-05-06 00:00:00.000,50.4
+792,"ORD0000694","Livepath","Glaze - Apricot",2021-05-06 00:00:00.000,15.6
+61,"ORD0000695","Bubbletube","Veal - Knuckle",2021-05-07 00:00:00.000,1.5
+257,"ORD0000696","Kayveo","Juice - Pineapple, 48 Oz",2021-05-07 00:00:00.000,58.5
+296,"ORD0000697","Tavu","Beef - Top Butt",2021-05-07 00:00:00.000,27.3
+386,"ORD0000698","Divavu","Beer - Corona",2021-05-07 00:00:00.000,26.4
+666,"ORD0000699","Devpulse","Beans - Long, Chinese",2021-05-07 00:00:00.000,22.4
+758,"ORD0000700","Mynte","Eggplant Italian",2021-05-07 00:00:00.000,17.6
+823,"ORD0000701","Buzzdog","Soup V8 Roasted Red Pepper",2021-05-07 00:00:00.000,33.3
+933,"ORD0000701","Buzzdog","Spinach - Spinach Leaf",2021-05-07 00:00:00.000,16.5
+998,"ORD0000701","Buzzdog","French Pastry - Mini Chocolate",2021-05-07 00:00:00.000,13
+69,"ORD0000701","Buzzdog","Fib N9 - Prague Powder",2021-05-08 00:00:00.000,10.8
+145,"ORD0000701","Buzzdog","Appetizer - Southwestern",2021-05-08 00:00:00.000,30.4
+308,"ORD0000702","Flashspan","Appetizer - Crab And Brie",2021-05-08 00:00:00.000,7.8
+398,"ORD0000703","Gabtype","Garlic - Primerba, Paste",2021-05-08 00:00:00.000,44.8
+477,"ORD0000704","InnoZ","Lamb - Rack",2021-05-08 00:00:00.000,11.2
+783,"ORD0000705","Twitterbeat","Pasta - Lasagna, Dry",2021-05-08 00:00:00.000,43.5
+827,"ORD0000705","Twitterbeat","Hold Up Tool Storage Rack",2021-05-08 00:00:00.000,13
+880,"ORD0000705","Twitterbeat","Carrots - Mini Red Organic",2021-05-08 00:00:00.000,18
+93,"ORD0000705","Twitterbeat","Cabbage Roll",2021-05-09 00:00:00.000,26
+612,"ORD0000705","Twitterbeat","Pork Loin Bine - In Frenched",2021-05-09 00:00:00.000,35
+675,"ORD0000706","Quaxo","Steel Wool",2021-05-09 00:00:00.000,52
+10,"ORD0000707","Browsezoom","Versatainer Nc - 888",2021-05-10 00:00:00.000,46.8
+237,"ORD0000708","Rhyzio","Mushroom - Oyster, Fresh",2021-05-10 00:00:00.000,16
+324,"ORD0000709","Kayveo","Milk - Buttermilk",2021-05-10 00:00:00.000,29.4
+430,"ORD0000710","Skyndu","Lamb - Ground",2021-05-10 00:00:00.000,20
+566,"ORD0000711","Demivee","Oven Mitts - 15 Inch",2021-05-10 00:00:00.000,24
+638,"ORD0000712","Voonder","Olives - Black, Pitted",2021-05-10 00:00:00.000,1.8
+803,"ORD0000713","Shufflebeat","Halibut - Steaks",2021-05-10 00:00:00.000,36
+840,"ORD0000714","Buzzster","Chilli Paste, Ginger Garlic",2021-05-10 00:00:00.000,11.4
+923,"ORD0000715","Photobean","Cornstarch",2021-05-10 00:00:00.000,6.5
+209,"ORD0000716","Janyx","Wine - Carmenere Casillero Del",2021-05-11 00:00:00.000,19.8
+269,"ORD0000717","Zoovu","Shortbread - Cookie Crumbs",2021-05-11 00:00:00.000,34
+627,"ORD0000718","Youspan","Butter - Unsalted",2021-05-11 00:00:00.000,25.5
+686,"ORD0000719","Browsedrive","Vinegar - Raspberry",2021-05-11 00:00:00.000,23.4
+704,"ORD0000720","Kanoodle","Placemat - Scallop, White",2021-05-11 00:00:00.000,23.1
+712,"ORD0000721","Blogtags","Spoon - Soup, Plastic",2021-05-11 00:00:00.000,6.9
+902,"ORD0000722","Leenti","Wine - Peller Estates Late",2021-05-11 00:00:00.000,1.9
+33,"ORD0000723","Jayo","Carrots - Mini, Stem On",2021-05-12 00:00:00.000,30
+57,"ORD0000724","Realcube","Bread - Bistro Sour",2021-05-12 00:00:00.000,8
+106,"ORD0000725","Roomm","Beans - Soya Bean",2021-05-12 00:00:00.000,29.6
+216,"ORD0000726","Devify","Wine - Cahors Ac 2000, Clos",2021-05-12 00:00:00.000,16.2
+256,"ORD0000727","Oozz","Tarragon - Primerba, Paste",2021-05-12 00:00:00.000,24
+321,"ORD0000728","Wordware","Octopus",2021-05-12 00:00:00.000,40.6
+588,"ORD0000729","Thoughtmix","Tomatoes - Roma",2021-05-12 00:00:00.000,22.8
+779,"ORD0000730","Geba","Pepper - Scotch Bonnet",2021-05-12 00:00:00.000,53.2
+900,"ORD0000731","Leenti","Praline Paste",2021-05-12 00:00:00.000,34
+949,"ORD0000732","Buzzdog","Pasta - Linguini, Dry",2021-05-12 00:00:00.000,10.8
+110,"ORD0000733","Fliptune","Myers Planters Punch",2021-05-13 00:00:00.000,20.3
+152,"ORD0000733","Fliptune","Yogurt - Assorted Pack",2021-05-13 00:00:00.000,52.5
+171,"ORD0000733","Fliptune","Beans - Kidney, Canned",2021-05-13 00:00:00.000,46.8
+262,"ORD0000733","Fliptune","Wine - Magnotta - Cab Franc",2021-05-13 00:00:00.000,27
+801,"ORD0000733","Fliptune","Soup Knorr Chili With Beans",2021-05-13 00:00:00.000,22.5
+45,"ORD0000734","Bubblebox","Muffin Batt - Blueberry Passion",2021-05-14 00:00:00.000,18.9
+144,"ORD0000735","Dynabox","Pie Shell - 9",2021-05-14 00:00:00.000,2
+146,"ORD0000736","Edgeify","Pork - Smoked Back Bacon",2021-05-14 00:00:00.000,37.5
+481,"ORD0000737","Blogtags","Rambutan",2021-05-14 00:00:00.000,20
+498,"ORD0000737","Blogtags","Arctic Char - Fillets",2021-05-14 00:00:00.000,8.8
+692,"ORD0000737","Blogtags","Versatainer Nc - 888",2021-05-14 00:00:00.000,40.7
+701,"ORD0000737","Blogtags","Canadian Emmenthal",2021-05-14 00:00:00.000,16.8
+728,"ORD0000738","Avaveo","Shrimp - 16/20, Iqf, Shell On",2021-05-14 00:00:00.000,18.6
+750,"ORD0000739","Oba","Sambuca Cream",2021-05-14 00:00:00.000,37.4
+820,"ORD0000739","Oba","Dragon Fruit",2021-05-14 00:00:00.000,8
+884,"ORD0000739","Oba","Juice - Lagoon Mango",2021-05-14 00:00:00.000,12.8
+915,"ORD0000740","Ainyx","Foil Cont Round",2021-05-14 00:00:00.000,33
+48,"ORD0000741","Lajo","Flour - Pastry",2021-05-15 00:00:00.000,48
+214,"ORD0000742","Dabfeed","Ham - Procutinni",2021-05-15 00:00:00.000,24
+300,"ORD0000742","Dabfeed","Pate - Liver",2021-05-15 00:00:00.000,11.7
+488,"ORD0000742","Dabfeed","Vinegar - Champagne",2021-05-15 00:00:00.000,16
+506,"ORD0000743","Browsezoom","Trueblue - Blueberry 12x473ml",2021-05-15 00:00:00.000,16.8
+543,"ORD0000744","Skinix","Steamers White",2021-05-15 00:00:00.000,31
+697,"ORD0000745","Kanoodle","Chickensplit Half",2021-05-15 00:00:00.000,15
+700,"ORD0000746","Oyoyo","Muffin Mix - Raisin Bran",2021-05-15 00:00:00.000,58.5
+38,"ORD0000747","Voolith","Appetizer - Smoked Salmon / Dill",2021-05-16 00:00:00.000,45.5
+163,"ORD0000748","Oyoloo","Lettuce - Belgian Endive",2021-05-16 00:00:00.000,27
+224,"ORD0000749","Skippad","V8 - Tropical Blend",2021-05-16 00:00:00.000,3.2
+413,"ORD0000750","Blogspan","Flower - Commercial Bronze",2021-05-16 00:00:00.000,38.4
+511,"ORD0000751","Riffpath","Wine - White, Riesling, Semi - Dry",2021-05-16 00:00:00.000,4.6
+534,"ORD0000752","Snaptags","Ham - Cooked Italian",2021-05-16 00:00:00.000,20
+595,"ORD0000753","Babbleopia","Tia Maria",2021-05-16 00:00:00.000,18.9
+611,"ORD0000754","Skiptube","Chocolate - Pistoles, Lactee, Milk",2021-05-16 00:00:00.000,40.3
+702,"ORD0000754","Skiptube","Salad Dressing",2021-05-16 00:00:00.000,29.6
+746,"ORD0000755","Plambee","Dill Weed - Dry",2021-05-16 00:00:00.000,24
+12,"ORD0000756","Npath","Chicken - Diced, Cooked",2021-05-17 00:00:00.000,3.3
+329,"ORD0000757","Devbug","Lettuce - Curly Endive",2021-05-17 00:00:00.000,44.2
+339,"ORD0000758","Feedfire","Soup - Campbells, Creamy",2021-05-17 00:00:00.000,23.4
+412,"ORD0000758","Feedfire","Sprouts - Pea",2021-05-17 00:00:00.000,18.2
+459,"ORD0000758","Feedfire","Chicken - Whole Fryers",2021-05-17 00:00:00.000,7.2
+965,"ORD0000758","Feedfire","Flour - Fast / Rapid",2021-05-17 00:00:00.000,7.6
+170,"ORD0000759","Skiba","Soup - Campbells, Minestrone",2021-05-18 00:00:00.000,23.1
+196,"ORD0000760","Eidel","Chocolate Bar - Oh Henry",2021-05-18 00:00:00.000,41.6
+411,"ORD0000761","Skaboo","Wine - White, Lindemans Bin 95",2021-05-18 00:00:00.000,28.5
+756,"ORD0000762","Demivee","Placemat - Scallop, White",2021-05-18 00:00:00.000,27.6
+838,"ORD0000763","Livetube","Beer - Tetleys",2021-05-18 00:00:00.000,19.6
+39,"ORD0000764","Voolith","Wine - Cotes Du Rhone Parallele",2021-05-19 00:00:00.000,12.8
+150,"ORD0000765","Eazzy","Egg - Salad Premix",2021-05-19 00:00:00.000,55.5
+243,"ORD0000765","Eazzy","Dragon Fruit",2021-05-19 00:00:00.000,2
+577,"ORD0000765","Eazzy","Tomato Puree",2021-05-19 00:00:00.000,25.3
+631,"ORD0000765","Eazzy","Sobe - Lizard Fuel",2021-05-19 00:00:00.000,36
+749,"ORD0000765","Eazzy","Napkin White",2021-05-19 00:00:00.000,31.2
+956,"ORD0000766","Pixoboo","Milk - Chocolate 250 Ml",2021-05-19 00:00:00.000,20.8
+174,"ORD0000767","Kaymbo","Bar - Sweet And Salty Chocolate",2021-05-20 00:00:00.000,17
+245,"ORD0000767","Kaymbo","Crab - Meat",2021-05-20 00:00:00.000,15.3
+302,"ORD0000767","Kaymbo","Veal - Round, Eye Of",2021-05-20 00:00:00.000,22.4
+414,"ORD0000767","Kaymbo","Tea - Black Currant",2021-05-20 00:00:00.000,42
+868,"ORD0000767","Kaymbo","Wine - Magnotta - Cab Franc",2021-05-20 00:00:00.000,20
+104,"ORD0000768","InnoZ","Pork - Side Ribs",2021-05-21 00:00:00.000,24.8
+234,"ORD0000769","Gigazoom","Chivas Regal - 12 Year Old",2021-05-21 00:00:00.000,19.2
+380,"ORD0000770","Edgewire","Milk - Skim",2021-05-21 00:00:00.000,31.2
+530,"ORD0000771","Meemm","Sambuca - Ramazzotti",2021-05-21 00:00:00.000,23.2
+705,"ORD0000772","Pixoboo","Kiwi Gold Zespri",2021-05-21 00:00:00.000,18.9
+873,"ORD0000773","Yodel","Uniform Linen Charge",2021-05-21 00:00:00.000,9
+190,"ORD0000774","Gabtype","Wine - Blue Nun Qualitatswein",2021-05-22 00:00:00.000,4.8
+259,"ORD0000775","Zooxo","Ecolab - Hobart Washarm End Cap",2021-05-22 00:00:00.000,8.8
+399,"ORD0000776","Eayo","Cheese - Parmesan Grated",2021-05-22 00:00:00.000,3.4
+478,"ORD0000777","Skivee","Bread - Multigrain, Loaf",2021-05-22 00:00:00.000,17.1
+539,"ORD0000778","Yakidoo","Jicama",2021-05-22 00:00:00.000,15
+570,"ORD0000779","Quimba","Parsley - Fresh",2021-05-22 00:00:00.000,17.6
+652,"ORD0000780","Vipe","Turkey - Breast, Smoked",2021-05-22 00:00:00.000,36
+708,"ORD0000781","Eire","Calvados - Boulard",2021-05-22 00:00:00.000,25.2
+719,"ORD0000782","Shuffletag","V8 Splash Strawberry Banana",2021-05-22 00:00:00.000,43.4
+761,"ORD0000783","Mynte","Coffee - Flavoured",2021-05-22 00:00:00.000,2.4
+382,"ORD0000784","Digitube","Soup - French Can Pea",2021-05-23 00:00:00.000,45
+433,"ORD0000785","Feedfish","Towels - Paper / Kraft",2021-05-23 00:00:00.000,1.4
+921,"ORD0000786","Tagtune","Veal - Shank, Pieces",2021-05-23 00:00:00.000,11.7
+942,"ORD0000787","Flashset","Longan",2021-05-23 00:00:00.000,7.6
+215,"ORD0000787","Flashset","Napkin - Cocktail,beige 2 - Ply",2021-05-24 00:00:00.000,32
+276,"ORD0000787","Flashset","Lidsoupcont Rp12dn",2021-05-24 00:00:00.000,57
+916,"ORD0000787","Flashset","Spice - Peppercorn Melange",2021-05-24 00:00:00.000,18.9
+978,"ORD0000787","Flashset","Filo Dough",2021-05-24 00:00:00.000,19
+161,"ORD0000788","Demivee","Cheese - Parmesan Grated",2021-05-25 00:00:00.000,3.2
+202,"ORD0000789","Yata","Spice - Montreal Steak Spice",2021-05-25 00:00:00.000,52.5
+258,"ORD0000790","Realbridge","Sauce - Soy Low Sodium - 3.87l",2021-05-25 00:00:00.000,1.4
+387,"ORD0000791","Linkbuzz","Poppy Seed",2021-05-25 00:00:00.000,31.2
+473,"ORD0000792","Brainbox","Beets - Golden",2021-05-25 00:00:00.000,16.9
+635,"ORD0000793","Oba","Mussels - Cultivated",2021-05-25 00:00:00.000,23.8
+833,"ORD0000794","Quinu","Butter - Salted, Micro",2021-05-25 00:00:00.000,9.1
+874,"ORD0000795","Skyble","Tea - Decaf 1 Cup",2021-05-25 00:00:00.000,33
+983,"ORD0000796","Browseblab","V8 - Berry Blend",2021-05-25 00:00:00.000,24.5
+122,"ORD0000797","Abatz","Oven Mitts - 15 Inch",2021-05-26 00:00:00.000,44
+315,"ORD0000798","Realcube","Bread - Pumpernickel",2021-05-26 00:00:00.000,46.5
+450,"ORD0000799","Ailane","Beer - Tetleys",2021-05-26 00:00:00.000,14
+500,"ORD0000800","Zoomlounge","Wine - Hardys Bankside Shiraz",2021-05-26 00:00:00.000,1.5
+667,"ORD0000801","Livefish","Chestnuts - Whole,canned",2021-05-26 00:00:00.000,23.4
+991,"ORD0000802","Lazz","Ecolab - Hobart Upr Prewash Arm",2021-05-26 00:00:00.000,12.4
+19,"ORD0000803","Izio","Cheese - Augre Des Champs",2021-05-27 00:00:00.000,16.9
+165,"ORD0000804","Rhyloo","Wine - White, Pinot Grigio",2021-05-27 00:00:00.000,44.2
+304,"ORD0000805","Innotype","Broom - Angled",2021-05-27 00:00:00.000,49.5
+440,"ORD0000805","Innotype","Croissant, Raw - Mini",2021-05-27 00:00:00.000,15.4
+576,"ORD0000805","Innotype","Ham - Black Forest",2021-05-27 00:00:00.000,20.4
+619,"ORD0000805","Innotype","Cake - Mini Cheesecake",2021-05-27 00:00:00.000,11.7
+937,"ORD0000805","Innotype","Mousse - Banana Chocolate",2021-05-27 00:00:00.000,40.7
+253,"ORD0000805","Innotype","Yogurt - Cherry, 175 Gr",2021-05-28 00:00:00.000,17.1
+531,"ORD0000806","Zooveo","Pork - Loin, Boneless",2021-05-28 00:00:00.000,8
+737,"ORD0000807","Eazzy","Chilli Paste, Hot Sambal Oelek",2021-05-28 00:00:00.000,6.4
+133,"ORD0000808","Flashpoint","Arctic Char - Fillets",2021-05-29 00:00:00.000,29.9
+151,"ORD0000809","Kwilith","Chocolate - Pistoles, White",2021-05-29 00:00:00.000,3.7
+179,"ORD0000810","Quinu","Tart - Butter Plain Squares",2021-05-29 00:00:00.000,21
+218,"ORD0000811","Devify","Coke - Diet, 355 Ml",2021-05-29 00:00:00.000,23.1
+278,"ORD0000812","Riffpath","Bread - Assorted Rolls",2021-05-29 00:00:00.000,41.6
+397,"ORD0000812","Riffpath","Toamtoes 6x7 Select",2021-05-29 00:00:00.000,19.6
+851,"ORD0000812","Riffpath","Pasta - Penne Primavera, Single",2021-05-29 00:00:00.000,13.2
+914,"ORD0000812","Riffpath","Foie Gras",2021-05-29 00:00:00.000,19.8
+439,"ORD0000813","Wordpedia","Pie Shell - 5",2021-05-30 00:00:00.000,1.3
+615,"ORD0000814","Photobug","Soy Protein",2021-05-30 00:00:00.000,9.6
+646,"ORD0000814","Photobug","Ham - Cooked",2021-05-30 00:00:00.000,45.5
+647,"ORD0000814","Photobug","Barley - Pearl",2021-05-30 00:00:00.000,45.5
+710,"ORD0000815","Eire","Peach - Halves",2021-05-30 00:00:00.000,40.7
+757,"ORD0000816","Quinu","Ice - Clear, 300 Lb For Carving",2021-05-30 00:00:00.000,51.8
+969,"ORD0000817","Skidoo","Banana Turning",2021-05-30 00:00:00.000,49.5
+309,"ORD0000818","Edgetag","Cheese - Cream Cheese",2021-05-31 00:00:00.000,1.6
+480,"ORD0000818","Edgetag","Table Cloth 81x81 White",2021-05-31 00:00:00.000,19.8
+518,"ORD0000818","Edgetag","Ice Cream Bar - Oreo Sandwich",2021-05-31 00:00:00.000,25.2
+544,"ORD0000818","Edgetag","Bagelers - Cinn / Brown",2021-05-31 00:00:00.000,12.4
+778,"ORD0000819","Youbridge","True - Vue Containers",2021-05-31 00:00:00.000,38
+977,"ORD0000820","Flashspan","Tea - Apple Green Tea",2021-05-31 00:00:00.000,39

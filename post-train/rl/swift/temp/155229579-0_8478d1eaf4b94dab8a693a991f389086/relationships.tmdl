@@ -1,0 +1,23 @@
+﻿relationship 1e0ea097-485c-4b39-a835-10309c0d3eb2
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: DIM_PRODUTO.ID-Produto
+	toColumn: TAB_FATO.ID-Produto
+
+relationship e21c0426-41da-4be1-be7e-dc30e5282731
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DIM_EVENTO.'Data Venda'
+	toColumn: LocalDateTable_331fe230-0739-4f4a-baa5-b2053fd00509.Date
+
+relationship 14bd7b57-e5b0-4be4-a3ab-b209fd351f99
+	fromColumn: TAB_FATO.Loja
+	toColumn: DIM_LOJA.Loja
+
+relationship faa95f67-339e-4918-86c3-b72053342c5f
+	fromColumn: TAB_FATO.ID-Vendedor
+	toColumn: DIM_FUNCIONARIO.ID-Vendedor
+
+relationship 051ecfba-f7b8-4566-856a-11b42eca92bc
+	fromColumn: TAB_FATO.'Data Venda'
+	toColumn: DIM_EVENTO.'Data Venda'
+

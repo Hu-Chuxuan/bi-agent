@@ -1,0 +1,10 @@
+﻿relationship 5715a542-d043-4540-bee9-4c934e12ae37
+	fromColumn: Detalhamento_Dos_Beneficios_Cidadão.ID_Local
+	toColumn: Covid.ID_Local
+
+	annotation PBI_IsFromSource = FS
+
+relationship e0172cbb-6046-4325-8ed8-6845135ea7a2
+	fromColumn: Auxilio.ID_Local
+	toColumn: Covid.ID_Local
+

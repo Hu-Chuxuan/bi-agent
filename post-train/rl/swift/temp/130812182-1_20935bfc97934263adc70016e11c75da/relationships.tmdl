@@ -1,0 +1,51 @@
+﻿relationship 308d814d-b26b-4218-b796-be12e8293202
+	fromColumn: RM_Target.Territory_ID
+	toColumn: Regional_Manager.Territory_ID
+
+relationship b3b4d72e-68f8-4852-971d-6fb88c12972b
+	fromColumn: Distributor_Target.Distributor_ID
+	toColumn: Distributor.Distributor_ID
+
+relationship 2ddd6ffb-b665-449e-873d-0db459c1dfa0
+	fromColumn: Distributor.Territory_ID
+	toColumn: Regional_Manager.Territory_ID
+
+relationship 8642c6d0-f4a8-4fe6-8e70-889593270eaf
+	fromColumn: RM_ID_Replacements.RM_Territory_ID
+	toColumn: Regional_Manager.Territory_ID
+
+relationship 44796bda-f4ca-44fd-8a8d-a30a3a8adc63
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: RM_ID_Replacements.Distributor_ID
+	toColumn: Distributor.Distributor_ID
+
+relationship 951fa87d-ca1e-43b4-8585-1ea205883d8d
+	isActive: false
+	fromColumn: Invoices.RM_Territory_Code
+	toColumn: Regional_Manager.Territory_ID
+
+relationship ab485fc9-3925-47ec-9f31-a766a8967cc1
+	fromColumn: Invoices.Invoice_date
+	toColumn: Dates_V2.Date
+
+relationship 16dd22ff-f4b6-4d20-a260-ddc601523661
+	isActive: false
+	fromColumn: Invoices.Distributor_ID
+	toColumn: Distributor.Distributor_ID
+
+relationship 55d3bd60-5e91-4a55-9f26-7698ad48cf43
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: Regional_Manager.RM_Targets_Name_ID
+	toColumn: RM_Target.RM_Targets_Name_ID
+
+relationship 3d371322-eff2-4dc6-8951-f1505cd3367f
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: Dates_V2.QTR/MNTH/YR
+	toColumn: RM_Target.QTR/MTH/YR
+

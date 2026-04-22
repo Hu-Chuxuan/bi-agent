@@ -1,0 +1,192 @@
+﻿relationship 3f5aa8cc-b864-4c99-90c3-a48951425060
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'General Ledger'.Date
+	toColumn: LocalDateTable_535d4693-e919-4db8-ba8a-87e538f1b15c.Date
+
+relationship 65f0ba5a-cbf8-45d6-b165-cb9d9657b0ae
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Internet Sales'.'Order Date'
+	toColumn: LocalDateTable_78b3847c-32d7-4ca3-82ce-653c75e553bb.Date
+
+relationship 136ad8cd-c029-4574-a79c-d628a3878a05
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Internet Sales'.'Due Date'
+	toColumn: LocalDateTable_2f1a65b3-3eff-4e59-a312-1cc4079189f1.Date
+
+relationship ff57a19b-f35f-418e-a154-6b388a292418
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Internet Sales'.'Ship Date'
+	toColumn: LocalDateTable_9e8ecc4b-238e-4fa1-aecf-3717b38e7587.Date
+
+relationship e2634c54-f293-49f8-ad24-311127a325d2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Reseller Sales'.'Order Date'
+	toColumn: LocalDateTable_a97f1e90-d9ba-469f-8cf2-ea5369c1bee5.Date
+
+relationship b3c1c9bf-ad93-4fe2-82a4-b0dc1ee75393
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Reseller Sales'.'Due Date'
+	toColumn: LocalDateTable_c1cc8c99-180f-47dd-a15b-b55290d76818.Date
+
+relationship e482bf6a-0cf6-45e7-a59f-000fbb75ca83
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Reseller Sales'.'Ship Date'
+	toColumn: LocalDateTable_5c54a22c-8285-4a01-a437-2a04f91e8dcb.Date
+
+relationship 066054f0-a3dd-4b53-809e-0ee90d0a69d8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customers.Birthday
+	toColumn: LocalDateTable_65dc661b-7eaf-42e0-879f-30d3ff9ee64c.Date
+
+relationship a3c41c56-b5eb-4fe0-aae5-f98fa2ef19d0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customers.'First Purchase Date'
+	toColumn: LocalDateTable_cff6d723-c67e-4f9e-9270-9a7be7299cec.Date
+
+relationship 47661944-40c1-4a45-8a88-da87b8c6fa87
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.Date
+	toColumn: LocalDateTable_661d0547-cb6b-49aa-838a-5058d3006a1c.Date
+
+relationship 683446ff-f13c-4378-a59d-f4f4855b66f8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employees.Hired
+	toColumn: LocalDateTable_91708cb4-ab24-48ec-96b1-b3b7e30554c1.Date
+
+relationship e8afad23-5cc8-4ee5-8946-d731e428b784
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employees.Birthday
+	toColumn: LocalDateTable_0c400898-71b7-4a71-8d97-cb7612db7920.Date
+
+relationship ea48b5ab-5843-4286-b312-1c26ed875012
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employees.'Start Date'
+	toColumn: LocalDateTable_4519f3d4-7a61-498c-9456-feab39e2abbd.Date
+
+relationship cc20fbe3-6e5c-426b-9821-87994ba194e0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employees.'End Date'
+	toColumn: LocalDateTable_a7ecf78d-8b20-4475-b4f5-ae4ada55f781.Date
+
+relationship c4bd9935-fdc2-4826-857a-be3a47792370
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Promotions.'Start Date'
+	toColumn: LocalDateTable_72f64054-b66f-4df4-9c10-735dbf2ebe65.Date
+
+relationship 246f22b0-f808-46c2-9351-0c1cbee247f4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Promotions.'End Date'
+	toColumn: LocalDateTable_a62753cd-b20b-4174-a9a7-6f8a1a75e4d3.Date
+
+relationship bd379110-2b4c-4d69-bd50-8bb4f2badefc
+	fromColumn: 'Internet Sales'.CustomerKey
+	toColumn: Customers.CustomerKey
+
+relationship e5450227-053a-4f85-97ed-f4ce2ed4ef6d
+	isActive: false
+	fromColumn: 'Internet Sales'.DueDateKey
+	toColumn: Dates.DateKey
+
+relationship a7f50dad-de7c-4b01-8098-0c8753ba273a
+	fromColumn: 'Internet Sales'.OrderDateKey
+	toColumn: Dates.DateKey
+
+relationship 342f3634-75be-4a43-aa65-3f21ffc915bf
+	isActive: false
+	fromColumn: 'Internet Sales'.ShipDateKey
+	toColumn: Dates.DateKey
+
+relationship 163e0112-333f-4fa4-8335-0414d829392b
+	fromColumn: 'Internet Sales'.PromotionKey
+	toColumn: Promotions.PromotionKey
+
+relationship 8c9a8b68-9756-42e6-a765-1617f3142837
+	fromColumn: 'Reseller Sales'.DueDateKey
+	toColumn: Dates.DateKey
+
+relationship 5dc4e3e4-1264-44ad-b86b-fa7a5a521bc1
+	isActive: false
+	fromColumn: 'Reseller Sales'.OrderDateKey
+	toColumn: Dates.DateKey
+
+relationship d5a733cb-3498-4a8c-b706-3b6fb212fd7d
+	isActive: false
+	fromColumn: 'Reseller Sales'.ShipDateKey
+	toColumn: Dates.DateKey
+
+relationship cc6e91ce-b376-44d8-92ae-18b01fbac2a9
+	fromColumn: 'Reseller Sales'.EmployeeKey
+	toColumn: Employees.EmployeeKey
+
+relationship deca091a-fed3-4dd1-8a88-174e51b25408
+	fromColumn: 'Reseller Sales'.PromotionKey
+	toColumn: Promotions.PromotionKey
+
+relationship 11bbf21a-8a96-4e84-ae0e-ee1fe69682ee
+	fromColumn: 'Reseller Sales'.ResellerKey
+	toColumn: Resellers.ResellerKey
+
+relationship d926b3a0-ca98-44f5-9867-a4ea48522c32
+	fromColumn: 'Reseller Sales'.SalesTerritoryKey
+	toColumn: 'Sales Territories'.SalesTerritoryKey
+
+relationship 4988c330-1b1f-42c5-b856-3f1e964d726b
+	fromColumn: 'General Ledger'.AccountKey
+	toColumn: Accounts.AccountKey
+
+relationship e0c4448b-b87a-4373-be22-66de1504c311
+	fromColumn: 'General Ledger'.DateKey
+	toColumn: Dates.DateKey
+
+relationship 27116760-932a-4173-a895-8f13f6536c8c
+	fromColumn: 'General Ledger'.DepartmentGroupKey
+	toColumn: Departments.DepartmentGroupKey
+
+relationship af37aaa8-f747-44ed-a4dd-83889a716523
+	fromColumn: 'General Ledger'.OrganizationKey
+	toColumn: Organizations.OrganizationKey
+
+relationship 058d4215-cd59-48c5-9903-6d2f03cb9452
+	isActive: false
+	fromColumn: Employees.SalesTerritoryKey
+	toColumn: 'Sales Territories'.SalesTerritoryKey
+
+relationship e038c13c-1d5d-4d90-9370-48ca07e32014
+	fromColumn: 'Internet Sales'.ProductKey
+	toColumn: Products.ProductKey
+
+relationship 04c5bb34-6136-45f5-baad-f1dec171294f
+	fromColumn: 'Reseller Sales'.ProductKey
+	toColumn: Products.ProductKey
+
+relationship a9152702-7dcd-4d82-9da0-885d3d7375df
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Products.'Start Date'
+	toColumn: LocalDateTable_826e9b3c-fb86-436f-a466-e06bb51d7dca.Date
+
+relationship 08fe20e3-f520-4033-a399-75d926475d22
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Products.'End Date'
+	toColumn: LocalDateTable_7f1dd0ac-1487-4efa-9e37-0346b61825cc.Date
+
+relationship 63f31014-889e-4356-b71f-2940247e3594
+	fromColumn: Customers.SalesTerritoryKey
+	toColumn: 'Sales Territories'.SalesTerritoryKey
+
+relationship 0f68070c-eae2-4d18-b46b-906011083661
+	fromColumn: 'Internet Sales Plan'.SalesTerritoryKey
+	toColumn: 'Sales Territories'.SalesTerritoryKey
+
+relationship bf9b6a2c-d3f1-4d91-85c3-b3855377e835
+	fromColumn: 'Internet Sales Plan'.ProductKey
+	toColumn: Products.ProductKey
+
+relationship 013cdf49-d3a0-4580-939c-ac606cbf2a4b
+	fromColumn: 'Internet Sales Plan'.OrderDateKey
+	toColumn: Dates.DateKey
+
+relationship 3401ad8a-b5e5-4049-8683-0be33592437b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calculations.'Date Last Refreshed'
+	toColumn: LocalDateTable_aae3f632-3484-45b3-b1d1-ddc64c9a7475.Date
+

@@ -1,0 +1,17 @@
+﻿relationship ab1aeb10-6713-4f0f-9473-659c672a8d57
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ProductKey
+
+relationship a6597a69-f336-46f0-92c1-1b4e4b5da1be
+	fromColumn: Sales.CustomerKey
+	toColumn: Customer.CustomerKey
+
+relationship 4a642774-4900-4016-8a73-a9f13e30a6b6
+	isActive: false
+	fromColumn: Sales.'Delivery Date'
+	toColumn: Date.Date
+
+relationship cbb6f4d3-1b9f-4313-aff5-a815e1cddb66
+	fromColumn: Sales.'Order Date'
+	toColumn: Date.Date
+

@@ -1,0 +1,115 @@
+﻿relationship c9d49e3e-004c-483d-9077-803a1ab5bc96
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Visits.PreviousVisitDate
+	toColumn: LocalDateTable_4073d2ba-0595-4737-996e-e67c0e80e288.Date
+
+relationship e56d9f69-f03d-4a99-b2e4-a5341cbbd567
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Visits.CreatedDate
+	toColumn: LocalDateTable_848341c7-ef28-4491-b96f-e1edc8a60d76.Date
+
+relationship fc309734-6402-4766-a773-5407c1e8edcb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Visits.ModifiedDate
+	toColumn: LocalDateTable_31a1edef-dafa-49b6-b925-02e98e240fbe.Date
+
+relationship ecb5d2ab-b409-4ee3-bebb-e498a71eca41
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.RequiredDate
+	toColumn: LocalDateTable_246def0c-e10c-4777-a0e6-05590c4178e6.Date
+
+relationship a66fad08-330d-4e9e-a274-4b264aefe4ba
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.CreatedDate
+	toColumn: LocalDateTable_ac2a178b-4bd5-49e3-a2b7-1d0fd83813ac.Date
+
+relationship 6bd9c916-df8c-4134-a6d8-be2e0c344048
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.ModifiedDate
+	toColumn: LocalDateTable_55bec377-f777-4874-824a-9268aafbc2b4.Date
+
+relationship 232e3678-fe90-4988-9ed0-3fcb4d8f65f6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.CreatedDate
+	toColumn: LocalDateTable_560eabc5-cf47-46a7-b202-7ab525ff6539.Date
+
+relationship 79cf4e67-4614-494c-b2e0-4e394d02314a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.ModifiedDate
+	toColumn: LocalDateTable_04828283-5a5d-4b94-a8b7-7b3d95351c54.Date
+
+relationship e409bebf-607e-49f0-bb8f-3c9a640f2693
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.Date
+	toColumn: LocalDateTable_abb95c79-5e63-4809-9a9e-d82b1883c573.Date
+
+relationship f6141db7-7330-4786-a41a-ab1bc09c7845
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.WeekEnding
+	toColumn: LocalDateTable_899a59ca-bdfc-48f6-b028-bba10b1c38b2.Date
+
+relationship 2cd21bb5-06ee-4815-8426-ce7f6c5d331f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.MonthEnding
+	toColumn: LocalDateTable_f5fa0582-888c-4e38-8d47-97e42a33ff6d.Date
+
+relationship 078b6a7f-486a-4a36-ad94-b6669b14510b
+	fromColumn: Sales.ItemID
+	toColumn: Product.Item_ID
+
+relationship 8b0df465-fe4d-41c1-bdea-7f182182e27e
+	fromColumn: Visits.ItemID
+	toColumn: Product.Item_ID
+
+relationship cdd54d3f-0fca-4c43-a80a-fbf24f0e2e71
+	fromColumn: Sales.Brand_ID
+	toColumn: Brand.Brand_ID
+
+relationship a62076cd-c0bb-4222-b130-0804157591de
+	fromColumn: Visits.Brand_ID
+	toColumn: Brand.Brand_ID
+
+relationship 94e21ecd-feb8-4bd0-82b4-9b49a784f9df
+	fromColumn: Sales.RepresentativeID
+	toColumn: Rep.Representative_ID
+
+relationship 3f8ceb2a-0d2f-4d0f-b421-fa2ae265dd2e
+	fromColumn: Visits.RepresentativeID
+	toColumn: Rep.Representative_ID
+
+relationship 6faa78ca-7e7c-40a9-8022-c7742f7e67eb
+	fromColumn: Sales.DistributorID
+	toColumn: Distributor.Distributor_ID
+
+relationship 5cc7c976-22df-4259-95ab-9d33d8cec509
+	fromColumn: Sales.Grade_ID
+	toColumn: Grade.Grade_ID
+
+relationship 2d413b09-bc09-4515-9f6d-800361a1795f
+	fromColumn: Visits.Grade_ID
+	toColumn: Grade.Grade_ID
+
+relationship f0cdf15c-961a-4869-9798-1c0e9616c07a
+	fromColumn: Sales.CustomerID
+	toColumn: Customer.Customer_ID
+
+relationship 2b74edd0-d228-4fcc-9e28-c2731381d2dc
+	fromColumn: Visits.CustomerID
+	toColumn: Customer.Customer_ID
+
+relationship 5e755e5f-2269-4462-beee-7ae1c39db22a
+	fromColumn: Sales.OrderDate
+	toColumn: Dates.Date
+
+relationship d5055036-7734-4847-bad3-3e56c6006a54
+	fromColumn: Visits.VisitDate
+	toColumn: Dates.Date
+
+relationship afc0934d-9ed3-4035-a396-707edf0f7af1
+	fromColumn: Sales.ChannelID
+	toColumn: Channel.Channel_ID
+
+relationship 5624ee59-7d3f-4195-a3f1-4836dd140812
+	fromColumn: Visits.ChannelID
+	toColumn: Channel.Channel_ID
+

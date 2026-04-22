@@ -1,0 +1,5 @@
+Type,Material1,Description1,Materia2,Description2,Material3,Description3
+"A","X","plastic",1,"cover","a","type1"
+"A","X","plastic",2,"top","b","type2"
+"B","Y","metal",3,"middle","",""
+"B","Z","rubber",,"","",""

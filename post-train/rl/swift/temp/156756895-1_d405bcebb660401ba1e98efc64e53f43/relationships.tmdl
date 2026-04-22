@@ -1,0 +1,53 @@
+﻿relationship ea63f3aa-6842-4a56-af70-b4219b65f13d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_c8356636-fb0a-4e60-ad78-6687be763e81.Date
+
+relationship 4bb7e9b0-e283-4628-a1e0-d043a689470a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.WeekEnding
+	toColumn: LocalDateTable_d1217ff5-5c3f-4a41-a1ee-34385714b75f.Date
+
+relationship 9fd36309-cfe5-4353-9bd8-48cd06501718
+	fromColumn: Details.DOS
+	toColumn: Date.Date
+
+relationship d2fd8111-ef59-47ba-ba53-80f93cc9bb7e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Client.'Created Date'
+	toColumn: LocalDateTable_972f6d8b-a44c-43a6-91fe-13ab23aa9969.Date
+
+relationship e1de951e-bb1f-40e2-9e63-cee0ca722c49
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Client.MostRecentVisitDate
+	toColumn: LocalDateTable_d011a53a-5061-4137-8d4a-43b510e59ec2.Date
+
+relationship af618904-1a02-4759-aa4e-26ccff0c7f3a
+	fromColumn: Details.Name
+	toColumn: Client.'Full Name'
+
+relationship a1b893df-85d0-412a-ac17-2d726c47f714
+	fromColumn: AllTest.DOS
+	toColumn: Date.Date
+
+relationship f710124c-9d8a-4c76-803f-890cd7fb2325
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CPT.'Date of Service'
+	toColumn: LocalDateTable_389f07e5-81e1-4888-9ff7-90c527ac6c43.Date
+
+relationship b710211b-7edc-47cb-b554-9f832292572c
+	fromColumn: AllOperations.Date
+	toColumn: Date.Date
+
+relationship 722bc6a8-08af-4f62-a44a-41b56cd3902f
+	fromColumn: AllOperations.'Visit Facility'
+	toColumn: Locations.Location
+
+relationship 03d84c9e-585b-4c7e-bdfc-a14f9ee7828e
+	fromColumn: CPT.'CPT Code'
+	toColumn: 'CPT Codes'.'CPT Code'
+
+relationship 411aef88-9f01-40ee-837e-3d0019ca2fc4
+	fromColumn: Secondary.DOS
+	toColumn: Date.Date
+

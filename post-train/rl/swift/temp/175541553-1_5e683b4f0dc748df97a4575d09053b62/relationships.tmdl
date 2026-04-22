@@ -1,0 +1,10 @@
+﻿relationship 1867679d-47ba-4ef4-97dc-22e70477ae41
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Cars Produced'.ID-Car
+	toColumn: ProductType.ID-Car
+
+relationship 29b8f4c3-246f-48c1-8723-ecd4dce3e728
+	crossFilteringBehavior: bothDirections
+	fromColumn: Cars-Sold.ID-Car
+	toColumn: ProductType.ID-Car
+

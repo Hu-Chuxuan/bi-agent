@@ -1,0 +1,11 @@
+﻿relationship 92ac3e0d-76bf-42b0-9d62-50c0af4e8bce
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Table1.date
+	toColumn: LocalDateTable_eb903ecc-7c66-46f6-ab41-1f0553621cdb.Date
+
+relationship b21c4590-2cad-4d64-8315-fc07bfab081e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Table2.Location
+	toColumn: Table1.Location
+

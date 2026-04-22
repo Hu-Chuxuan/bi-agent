@@ -1,0 +1,10 @@
+﻿relationship c1d684c7-2518-4699-8cee-1ce648a725f0
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Unidades Produzidas'.ID-Produto
+	toColumn: 'Tipo Produto'.ID-Produto
+
+relationship f9c3c7e0-70d0-41bf-99be-3c6b5134ed54
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Unidades Vendidas'.ID-Produto
+	toColumn: 'Tipo Produto'.ID-Produto
+

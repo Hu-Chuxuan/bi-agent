@@ -1,0 +1,21 @@
+﻿relationship 7eab7aee-33da-4650-8da1-53cc5174ab9d
+	fromColumn: Budget.ProductId
+	toColumn: 'Product Master'.ProductId
+
+relationship 5fd947b4-1cd0-4ae1-bf3a-94ebf9ba9aaa
+	fromColumn: Sales.ProductId
+	toColumn: 'Product Master'.ProductId
+
+relationship 68b13b80-4338-4536-b263-695fd2159b78
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Date Dim'.Date
+	toColumn: LocalDateTable_ca743408-c620-43bf-b139-94bffc3e1cbf.Date
+
+relationship 54585a09-aeee-4f2f-b7e0-9cd47c89b51e
+	fromColumn: Sales.Date
+	toColumn: 'Date Dim'.Date
+
+relationship 7ea82119-0d6d-4c5a-a7a0-b333f2c3ad7a
+	fromColumn: Budget.Month
+	toColumn: 'Date Dim'.Date
+

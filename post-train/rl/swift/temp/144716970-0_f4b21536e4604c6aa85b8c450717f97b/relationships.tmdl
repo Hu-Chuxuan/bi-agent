@@ -1,0 +1,9 @@
+﻿relationship 22533e4c-5e22-4cd6-9296-bd7c45b0c740
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Cookie Sales'.Date
+	toColumn: LocalDateTable_81bdb712-a207-40c6-a319-05198df37cd7.Date
+
+relationship 5985db13-4560-492d-9b44-dd225a79c78a
+	fromColumn: 'Cookie Sales'.Country
+	toColumn: 'Country Population'.'Country / Dependency'
+

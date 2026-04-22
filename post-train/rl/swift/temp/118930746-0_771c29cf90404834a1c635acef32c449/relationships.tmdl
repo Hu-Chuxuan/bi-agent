@@ -1,0 +1,4 @@
+﻿relationship 5eaa79fb-f672-4e04-aaaa-6f90e95c94af
+	fromColumn: v_US_Sales.SalesYear
+	toColumn: value_adjusted_1995_df.year
+

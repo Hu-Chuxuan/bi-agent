@@ -1,0 +1,16 @@
+﻿relationship 9c4b5754-2633-4270-99cf-057af56aafd7
+	fromColumn: Price.'Order Number'
+	toColumn: Orders.'Order Groups'
+
+relationship 122823ac-7a90-45a8-b3fa-2d94f3b91110
+	fromColumn: 'Shipping Cost'.Orders
+	toColumn: Orders.'Order Groups'
+
+relationship af88f7e1-1c5c-44bd-a31f-cffe7a6bbdae
+	fromColumn: 'Price (2)'.OrderKey
+	toColumn: Orders.OrderKey
+
+relationship 8aa363c1-3665-4d40-bc94-ca3a145c580e
+	fromColumn: 'Shipping Cost (2)'.OrderKey
+	toColumn: Orders.OrderKey
+

@@ -1,0 +1,6 @@
+Plan Scenario,Var to Plan,Scenario Sort
+"Plan",1,3
+"10% Above Plan",1.1,2
+"20% Above Plan",1.2,1
+"10% Below Plan",0.9,4
+"20% Below Plan",0.8,5

@@ -1,0 +1,49 @@
+﻿relationship 4fb673f0-7c75-44ce-9afc-d4b2f179c574
+	fromColumn: CurrencyConv.Date
+	toColumn: Dates.Date
+
+relationship 9fbb9a98-d7a4-4d44-90dd-5b8976cba578
+	fromColumn: Quotes.Date
+	toColumn: Dates.Date
+
+relationship eb11c266-1ce8-4b3d-a0fd-27f7308d6f0d
+	fromColumn: Dividends.PayDate
+	toColumn: Dates.Date
+
+relationship 70a3aada-9279-47ec-98bb-93d4a38e049f
+	fromColumn: Trans.Account
+	toColumn: Account.Account
+
+relationship 41442ebb-992f-4c2e-a78d-f81d7eba006d
+	fromColumn: Trans.TransType
+	toColumn: TransType.TransType
+
+relationship 34b1e26e-5d28-48c4-8c2b-d514ced802d2
+	fromColumn: Trans.Symbol
+	toColumn: Symbol.Symbol
+
+relationship a96227e2-d712-46d8-8825-f68d09af92ec
+	fromColumn: SymbolSector.Symbol
+	toColumn: Symbol.Symbol
+
+relationship daeb8928-9426-42df-84cf-cc406aba16af
+	fromColumn: Quotes.Symbol
+	toColumn: Symbol.Symbol
+
+relationship 03d46a65-711a-4c64-9273-34180f4e7f9a
+	fromColumn: Dividends.Symbol
+	toColumn: Symbol.Symbol
+
+relationship 63ff9e75-30ea-4ab7-85e0-c91f1084d506
+	crossFilteringBehavior: bothDirections
+	fromColumn: Symbol.Allocation
+	toColumn: Allocation.Allocation
+
+relationship 26288b0f-e329-4f8e-92a1-53ae277cbcba
+	fromColumn: Trans.Date
+	toColumn: Dates.Date
+
+relationship 6a16c323-5ea7-4c89-82d2-16bb97e48099
+	fromColumn: ModelTrades.Symbol
+	toColumn: Symbol.Symbol
+

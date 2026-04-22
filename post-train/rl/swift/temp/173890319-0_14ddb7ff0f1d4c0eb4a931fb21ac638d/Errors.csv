@@ -1,0 +1,28 @@
+Source,Timestamp,Duration,Details,Event
+"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:50:45.703,1.2982638888888888E-08,"Failed to convert type bigint to integer, expression `awards.nominations` to ?.","OdbcQuery/FoldingWarning"
+"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:50:45.703,2.880787037037037E-09,"This ODBC driver doesn't support SQL_FN_CVT_CONVERT or SQL_FN_CVT_CAST. You can override this by using SqlGetInfo for SQL_CONVERT_FUNCTIONS.","OdbcQuery/FoldingWarning"
+"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:50:45.703,3.8866898148148147E-08,"Exception:
+ExceptionType: Microsoft.Mashup.Engine1.Runtime.FoldingFailureException, Microsoft.MashupEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Message: Exception of type 'Microsoft.Mashup.Engine1.Runtime.FoldingFailureException' was thrown.
+StackTrace:
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.CallConvertOrCast(SqlExpression from, OdbcTypeMap toType)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.TryVisitConvert(OdbcTypeInfo fromType, OdbcTypeInfo toType, SqlExpression expression, SqlExpression& convertedExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.TryConvert(OdbcTypeInfo typeInfo, OdbcScalarExpression expression, OdbcScalarExpression& convertedExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.<SoftConvertSeries>d__197.MoveNext()
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustNumberValuesToPreventOverflow(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustNumberValuesForCompatibility(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustForCompatibility(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.VisitEquals(OdbcSqlExpression leftExpression, OdbcSqlExpression rightExpression, Precision precision, Boolean nullable)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.VisitBinary(BinaryQueryExpression binaryExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQuery.SelectRows(FunctionValue function)","OdbcQueryDomain/ReportFoldingFailure"
+"Microsoft.Mashup.Container.NetFX45.34184.2020-02-20T05-50-37-746004.log",2020-02-20 00:51:24.293,1.4548263888888889E-07,"Exception:
+ExceptionType: System.IO.IOException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message: Pipe is broken.
+StackTrace:
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at Microsoft.Mashup.Evaluator.MessageSerializer.Serialize(BinaryWriter writer, Message message)
+   at Microsoft.Mashup.Evaluator.MessageSerializer.Serialize(BinaryWriter writer, Message message)
+   at Microsoft.Mashup.Evaluator.StreamMessenger.Post(Message message)
+   at Microsoft.Mashup.Evaluator.EvaluationHost.<>c__DisplayClass11_0.<TryReportException>b__1()
+   at Microsoft.Mashup.Common.SafeExceptions.IgnoreSafeExceptions(IEngineHost host, IHostTrace trace, Action action)","EvaluationHost/TryHandleException"

@@ -1,0 +1,361 @@
+store_id,variable,value
+1,region_id,28
+2,region_id,78
+3,region_id,76
+4,region_id,27
+5,region_id,4
+6,region_id,47
+7,region_id,3
+8,region_id,26
+9,region_id,2
+10,region_id,24
+11,region_id,22
+12,region_id,25
+13,region_id,23
+14,region_id,1
+15,region_id,18
+16,region_id,87
+17,region_id,84
+18,region_id,25
+19,region_id,5
+20,region_id,6
+21,region_id,106
+22,region_id,88
+23,region_id,89
+24,region_id,7
+1,store_type,Supermarket
+2,store_type,Small Grocery
+3,store_type,Supermarket
+4,store_type,Gourmet Supermarket
+5,store_type,Small Grocery
+6,store_type,Gourmet Supermarket
+7,store_type,Supermarket
+8,store_type,Deluxe Supermarket
+9,store_type,Mid-Size Grocery
+10,store_type,Supermarket
+11,store_type,Supermarket
+12,store_type,Deluxe Supermarket
+13,store_type,Deluxe Supermarket
+14,store_type,Small Grocery
+15,store_type,Supermarket
+16,store_type,Supermarket
+17,store_type,Deluxe Supermarket
+18,store_type,Mid-Size Grocery
+19,store_type,Deluxe Supermarket
+20,store_type,Mid-Size Grocery
+21,store_type,Deluxe Supermarket
+22,store_type,Small Grocery
+23,store_type,Mid-Size Grocery
+24,store_type,Supermarket
+1,store_name,Store 1
+2,store_name,Store 2
+3,store_name,Store 3
+4,store_name,Store 4
+5,store_name,Store 5
+6,store_name,Store 6
+7,store_name,Store 7
+8,store_name,Store 8
+9,store_name,Store 9
+10,store_name,Store 10
+11,store_name,Store 11
+12,store_name,Store 12
+13,store_name,Store 13
+14,store_name,Store 14
+15,store_name,Store 15
+16,store_name,Store 16
+17,store_name,Store 17
+18,store_name,Store 18
+19,store_name,Store 19
+20,store_name,Store 20
+21,store_name,Store 21
+22,store_name,Store 22
+23,store_name,Store 23
+24,store_name,Store 24
+1,store_street_address,2853 Bailey Rd
+2,store_street_address,5203 Catanzaro Way
+3,store_street_address,1501 Ramsey Circle
+4,store_street_address,433 St George Dr
+5,store_street_address,1250 Coggins Drive
+6,store_street_address,5495 Mitchell Canyon Road
+7,store_street_address,1077 Wharf Drive
+8,store_street_address,3173 Buena Vista Ave
+9,store_street_address,1872 El Pintado Road
+10,store_street_address,7894 Rotherham Dr
+11,store_street_address,5371 Holland Circle
+12,store_street_address,1120 Westchester Pl
+13,store_street_address,5179 Valley Ave
+14,store_street_address,4365 Indigo Ct
+15,store_street_address,5006 Highland Drive
+16,store_street_address,5922 La Salle Ct
+17,store_street_address,490 Risdon Road
+18,store_street_address,6764 Glen Road
+19,store_street_address,6644 Sudance Drive
+20,store_street_address,3706 Marvelle Ln
+21,store_street_address,4093 Steven Circle
+22,store_street_address,9606 Julpum Loop
+23,store_street_address,3920 Noah Court
+24,store_street_address,2342 Waltham St.
+1,store_city,Acapulco
+2,store_city,Bellingham
+3,store_city,Bremerton
+4,store_city,Camacho
+5,store_city,Guadalajara
+6,store_city,Beverly Hills
+7,store_city,Los Angeles
+8,store_city,Merida
+9,store_city,Mexico City
+10,store_city,Orizaba
+11,store_city,Portland
+12,store_city,Hidalgo
+13,store_city,Salem
+14,store_city,San Francisco
+15,store_city,Seattle
+16,store_city,Spokane
+17,store_city,Tacoma
+18,store_city,Hidalgo
+19,store_city,Vancouver
+20,store_city,Victoria
+21,store_city,San Andres
+22,store_city,Walla Walla
+23,store_city,Yakima
+24,store_city,San Diego
+1,store_state,Guerrero
+2,store_state,WA
+3,store_state,WA
+4,store_state,Zacatecas
+5,store_state,Jalisco
+6,store_state,CA
+7,store_state,CA
+8,store_state,Yucatan
+9,store_state,DF
+10,store_state,Veracruz
+11,store_state,OR
+12,store_state,Zacatecas
+13,store_state,OR
+14,store_state,CA
+15,store_state,WA
+16,store_state,WA
+17,store_state,WA
+18,store_state,Zacatecas
+19,store_state,BC
+20,store_state,BC
+21,store_state,DF
+22,store_state,WA
+23,store_state,WA
+24,store_state,CA
+1,store_country,Mexico
+2,store_country,USA
+3,store_country,USA
+4,store_country,Mexico
+5,store_country,Mexico
+6,store_country,USA
+7,store_country,USA
+8,store_country,Mexico
+9,store_country,Mexico
+10,store_country,Mexico
+11,store_country,USA
+12,store_country,Mexico
+13,store_country,USA
+14,store_country,USA
+15,store_country,USA
+16,store_country,USA
+17,store_country,USA
+18,store_country,Mexico
+19,store_country,Canada
+20,store_country,Canada
+21,store_country,Mexico
+22,store_country,USA
+23,store_country,USA
+24,store_country,USA
+1,store_phone,262-555-5124
+2,store_phone,605-555-8203
+3,store_phone,509-555-1596
+4,store_phone,304-555-1474
+5,store_phone,801-555-4324
+6,store_phone,958-555-5002
+7,store_phone,477-555-7967
+8,store_phone,797-555-3417
+9,store_phone,439-555-3524
+10,store_phone,212-555-4774
+11,store_phone,685-555-8995
+12,store_phone,151-555-1702
+13,store_phone,977-555-2724
+14,store_phone,135-555-4888
+15,store_phone,893-555-1024
+16,store_phone,643-555-3645
+17,store_phone,855-555-5581
+18,store_phone,528-555-8317
+19,store_phone,862-555-7395
+20,store_phone,897-555-1931
+21,store_phone,493-555-4781
+22,store_phone,881-555-5117
+23,store_phone,170-555-8424
+24,store_phone,111-555-0303
+1,first_opened_date,1982-01-09 00:00:00.000
+2,first_opened_date,1970-04-02 00:00:00.000
+3,first_opened_date,1959-06-14 00:00:00.000
+4,first_opened_date,1994-09-27 00:00:00.000
+5,first_opened_date,1978-09-18 00:00:00.000
+6,first_opened_date,1981-01-03 00:00:00.000
+7,first_opened_date,1971-05-21 00:00:00.000
+8,first_opened_date,1958-09-23 00:00:00.000
+9,first_opened_date,1955-03-18 00:00:00.000
+10,first_opened_date,1979-04-13 00:00:00.000
+11,first_opened_date,1976-09-17 00:00:00.000
+12,first_opened_date,1968-03-25 00:00:00.000
+13,first_opened_date,1957-04-13 00:00:00.000
+14,first_opened_date,1957-11-24 00:00:00.000
+15,first_opened_date,1969-07-24 00:00:00.000
+16,first_opened_date,1974-08-23 00:00:00.000
+17,first_opened_date,1970-05-30 00:00:00.000
+18,first_opened_date,1969-06-28 00:00:00.000
+19,first_opened_date,1977-03-27 00:00:00.000
+20,first_opened_date,1980-02-06 00:00:00.000
+21,first_opened_date,1986-02-07 00:00:00.000
+22,first_opened_date,1951-01-24 00:00:00.000
+23,first_opened_date,1977-07-16 00:00:00.000
+24,first_opened_date,1979-05-22 00:00:00.000
+1,last_remodel_date,1990-12-05 00:00:00.000
+2,last_remodel_date,1973-06-04 00:00:00.000
+3,last_remodel_date,1967-11-19 00:00:00.000
+4,last_remodel_date,1995-12-01 00:00:00.000
+5,last_remodel_date,1991-06-29 00:00:00.000
+6,last_remodel_date,1991-03-13 00:00:00.000
+7,last_remodel_date,1981-10-20 00:00:00.000
+8,last_remodel_date,1967-11-18 00:00:00.000
+9,last_remodel_date,1959-06-07 00:00:00.000
+10,last_remodel_date,1982-01-30 00:00:00.000
+11,last_remodel_date,1982-05-15 00:00:00.000
+12,last_remodel_date,1993-12-18 00:00:00.000
+13,last_remodel_date,1997-11-10 00:00:00.000
+14,last_remodel_date,1958-01-07 00:00:00.000
+15,last_remodel_date,1973-10-19 00:00:00.000
+16,last_remodel_date,1977-07-13 00:00:00.000
+17,last_remodel_date,1976-06-23 00:00:00.000
+18,last_remodel_date,1975-08-30 00:00:00.000
+19,last_remodel_date,1990-10-25 00:00:00.000
+20,last_remodel_date,1987-04-09 00:00:00.000
+21,last_remodel_date,1990-04-16 00:00:00.000
+22,last_remodel_date,1969-10-17 00:00:00.000
+23,last_remodel_date,1987-07-24 00:00:00.000
+24,last_remodel_date,1986-04-20 00:00:00.000
+1,total_sqft,23593
+2,total_sqft,28206
+3,total_sqft,39696
+4,total_sqft,23759
+5,total_sqft,24597
+6,total_sqft,23688
+7,total_sqft,23598
+8,total_sqft,30797
+9,total_sqft,36509
+10,total_sqft,34791
+11,total_sqft,20319
+12,total_sqft,30584
+13,total_sqft,27694
+14,total_sqft,22478
+15,total_sqft,21215
+16,total_sqft,30268
+17,total_sqft,33858
+18,total_sqft,38382
+19,total_sqft,23112
+20,total_sqft,34452
+21,total_sqft,32717
+22,total_sqft,35918
+23,total_sqft,29182
+24,total_sqft,27372
+1,grocery_sqft,17475
+2,grocery_sqft,22271
+3,grocery_sqft,24390
+4,grocery_sqft,16844
+5,grocery_sqft,15012
+6,grocery_sqft,15337
+7,grocery_sqft,14210
+8,grocery_sqft,20141
+9,grocery_sqft,22450
+10,grocery_sqft,26354
+11,grocery_sqft,16232
+12,grocery_sqft,21938
+13,grocery_sqft,18670
+14,grocery_sqft,15321
+15,grocery_sqft,13305
+16,grocery_sqft,22063
+17,grocery_sqft,22123
+18,grocery_sqft,30351
+19,grocery_sqft,16418
+20,grocery_sqft,27463
+21,grocery_sqft,25453
+22,grocery_sqft,24837
+23,grocery_sqft,19283
+24,grocery_sqft,18293
+1,full_address,"2853 Bailey Rd, Acapulco, Guerrero"
+2,full_address,"5203 Catanzaro Way, Bellingham, WA"
+3,full_address,"1501 Ramsey Circle, Bremerton, WA"
+4,full_address,"433 St George Dr, Camacho, Zacatecas"
+5,full_address,"1250 Coggins Drive, Guadalajara, Jalisco"
+6,full_address,"5495 Mitchell Canyon Road, Beverly Hills, CA"
+7,full_address,"1077 Wharf Drive, Los Angeles, CA"
+8,full_address,"3173 Buena Vista Ave, Merida, Yucatan"
+9,full_address,"1872 El Pintado Road, Mexico City, DF"
+10,full_address,"7894 Rotherham Dr, Orizaba, Veracruz"
+11,full_address,"5371 Holland Circle, Portland, OR"
+12,full_address,"1120 Westchester Pl, Hidalgo, Zacatecas"
+13,full_address,"5179 Valley Ave, Salem, OR"
+14,full_address,"4365 Indigo Ct, San Francisco, CA"
+15,full_address,"5006 Highland Drive, Seattle, WA"
+16,full_address,"5922 La Salle Ct, Spokane, WA"
+17,full_address,"490 Risdon Road, Tacoma, WA"
+18,full_address,"6764 Glen Road, Hidalgo, Zacatecas"
+19,full_address,"6644 Sudance Drive, Vancouver, BC"
+20,full_address,"3706 Marvelle Ln, Victoria, BC"
+21,full_address,"4093 Steven Circle, San Andres, DF"
+22,full_address,"9606 Julpum Loop, Walla Walla, WA"
+23,full_address,"3920 Noah Court, Yakima, WA"
+24,full_address,"2342 Waltham St., San Diego, CA"
+1,area_code,262
+2,area_code,605
+3,area_code,509
+4,area_code,304
+5,area_code,801
+6,area_code,958
+7,area_code,477
+8,area_code,797
+9,area_code,439
+10,area_code,212
+11,area_code,685
+12,area_code,151
+13,area_code,977
+14,area_code,135
+15,area_code,893
+16,area_code,643
+17,area_code,855
+18,area_code,528
+19,area_code,862
+20,area_code,897
+21,area_code,493
+22,area_code,881
+23,area_code,170
+24,area_code,111
+1,Years_Since_Remodel,32
+2,Years_Since_Remodel,49
+3,Years_Since_Remodel,55
+4,Years_Since_Remodel,27
+5,Years_Since_Remodel,31
+6,Years_Since_Remodel,31
+7,Years_Since_Remodel,41
+8,Years_Since_Remodel,55
+9,Years_Since_Remodel,63
+10,Years_Since_Remodel,40
+11,Years_Since_Remodel,40
+12,Years_Since_Remodel,29
+13,Years_Since_Remodel,25
+14,Years_Since_Remodel,64
+15,Years_Since_Remodel,49
+16,Years_Since_Remodel,45
+17,Years_Since_Remodel,46
+18,Years_Since_Remodel,47
+19,Years_Since_Remodel,32
+20,Years_Since_Remodel,35
+21,Years_Since_Remodel,32
+22,Years_Since_Remodel,53
+23,Years_Since_Remodel,35
+24,Years_Since_Remodel,36

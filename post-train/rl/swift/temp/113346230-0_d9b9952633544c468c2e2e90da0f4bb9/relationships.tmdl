@@ -1,0 +1,23 @@
+﻿relationship 9ccb24e9-d187-4171-88b9-c741c1d0e270
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.'Ship Date'
+	toColumn: LocalDateTable_b86be284-ef1d-48b8-b315-071cad827275.Date
+
+relationship 1db0fc58-4dea-4057-9b04-f90c970883bd
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Product Data'.Index
+	toColumn: Regions.Index
+
+relationship 8602320c-9f52-4886-a8ab-9930230cd66f
+	fromColumn: Sales.'Customer Name Index'
+	toColumn: 'Customer Data'.'Customer Index'
+
+relationship c83f2473-1bfa-43df-9cbd-8ffeeb6b2d4b
+	fromColumn: Sales.'Product Description Index'
+	toColumn: 'Product Data'.Index
+
+relationship be53da0b-f33c-430a-a67f-aa732a1ba5b1
+	fromColumn: Sales.OrderDate
+	toColumn: Date.Date
+

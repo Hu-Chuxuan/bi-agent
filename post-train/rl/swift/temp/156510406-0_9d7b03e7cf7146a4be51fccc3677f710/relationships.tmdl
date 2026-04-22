@@ -1,0 +1,31 @@
+﻿relationship e15e284b-c978-4992-b238-cc7ff85870c1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: factSales.Year/Month
+	toColumn: LocalDateTable_2d67bdd4-7395-4d37-9ddb-428c2e7939dd.Date
+
+relationship 2a343e0f-d16f-4d42-8573-87fa17b7472d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: factSales.'Stat Date'
+	toColumn: LocalDateTable_f23bf733-f0d9-47c2-bf8d-042abdea09e1.Date
+
+relationship c35dc19e-c5ec-4a2f-af6d-637082350915
+	joinOnDateBehavior: datePartOnly
+	fromColumn: factSales.'Report Date'
+	toColumn: LocalDateTable_c1fa963f-6348-4893-aaa6-053fe6ddcbb0.Date
+
+relationship 5877095a-c5a7-496a-b65a-001bb7ed7af5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Slicer 1'.'Report Date'
+	toColumn: LocalDateTable_14d29c3d-3198-47df-99cd-d6c9633e59fc.Date
+
+relationship 96f8f34c-2625-49c2-842e-fe7e71b73a8e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Slicer 2'.'Report Date'
+	toColumn: LocalDateTable_c4ffc260-4776-4357-8015-a33afbb077e9.Date
+
+relationship b241c3c6-fadf-4360-b1c1-ce10c34b7d59
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: dimBOM.PN
+	toColumn: factSales.'Part Numer'
+

@@ -1,0 +1,26 @@
+﻿relationship 23231d80-f3c7-4b03-a075-326e0b5f1902
+	fromColumn: Heather.Employee
+	toColumn: single_row_to_test.Employee
+
+relationship 85c3f62a-0cb4-472e-a9d9-87174677cbb1
+	fromColumn: Melissa.Employee
+	toColumn: single_row_to_test.Employee
+
+relationship 8120d9cb-bc58-46ff-9622-9d3fd855d266
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Melissa.Hours
+	toColumn: Heather.Hours
+
+relationship c8b67f9a-cd2b-4069-acb9-013d8003ee56
+	fromColumn: Rajesh.Employee
+	toColumn: single_row_to_test.Employee
+
+relationship 75641446-878b-44b2-90ad-0a407ca53270
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Rajesh.Hours
+	toColumn: Heather.Hours
+

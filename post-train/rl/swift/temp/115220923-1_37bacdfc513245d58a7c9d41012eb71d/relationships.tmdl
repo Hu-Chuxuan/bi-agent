@@ -1,0 +1,20 @@
+﻿relationship fcef3859-6d63-420c-82e4-1693612fc0e1
+	fromColumn: BabyNames.Year
+	toColumn: Years.Year
+
+relationship 80ea710d-3f89-4a2f-b761-090d777af4fc
+	fromColumn: BabyNames.Name
+	toColumn: Names.Name
+
+relationship 11b921a8-85c7-40d6-99fb-01f63aea4a13
+	fromColumn: BabyNames.Gender
+	toColumn: Gender.Gender
+
+relationship baf3708d-28e5-4b0d-8750-4393cabbb84b
+	fromColumn: tblSales.Name
+	toColumn: Names.Name
+
+relationship 529f1bb1-e088-450c-9d3b-265658a00783
+	fromColumn: tblSales.Year
+	toColumn: Years.Year
+

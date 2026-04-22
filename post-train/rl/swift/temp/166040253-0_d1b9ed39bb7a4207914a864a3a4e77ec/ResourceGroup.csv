@@ -1,0 +1,99 @@
+ResourceGroupId,SubscriptionId,ResourceGroupName,Tags,Location,IsManagedBy,IsManaged,StatusId
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/AbnerSynapseTest","01639594-cf98-4011-b14a-905062f4aa23","AbnerSynapseTest","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/databricks","01639594-cf98-4011-b14a-905062f4aa23","databricks","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/Ideaora","01639594-cf98-4011-b14a-905062f4aa23","Ideaora","","southcentralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/IoTDevKit","01639594-cf98-4011-b14a-905062f4aa23","IoTDevKit","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/NetworkWatcherRG","01639594-cf98-4011-b14a-905062f4aa23","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/PokerDIY","01639594-cf98-4011-b14a-905062f4aa23","PokerDIY","","northcentralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/QueMesa","01639594-cf98-4011-b14a-905062f4aa23","QueMesa","","southcentralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/QueMesaBotArchive","01639594-cf98-4011-b14a-905062f4aa23","QueMesaBotArchive","","southcentralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/StackResume","01639594-cf98-4011-b14a-905062f4aa23","StackResume","","centralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/SynapseDemo","01639594-cf98-4011-b14a-905062f4aa23","SynapseDemo","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/Test-AjayGanapathy","01639594-cf98-4011-b14a-905062f4aa23","Test-AjayGanapathy","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/Test-JeffreyUng","01639594-cf98-4011-b14a-905062f4aa23","Test-JeffreyUng","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/VS-QueMesa-Group","01639594-cf98-4011-b14a-905062f4aa23","VS-QueMesa-Group","","southcentralus","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/VS-stackresume-Group","01639594-cf98-4011-b14a-905062f4aa23","VS-stackresume-Group","","australiaeast","",False,1
+"/subscriptions/0b99ca5c-439a-4841-9e1b-bc078bc5d07a/resourceGroups/az400","0b99ca5c-439a-4841-9e1b-bc078bc5d07a","az400","","centralus","",False,1
+"/subscriptions/0b99ca5c-439a-4841-9e1b-bc078bc5d07a/resourceGroups/DefaultResourceGroup-CUS","0b99ca5c-439a-4841-9e1b-bc078bc5d07a","DefaultResourceGroup-CUS","","centralus","",False,1
+"/subscriptions/0b99ca5c-439a-4841-9e1b-bc078bc5d07a/resourceGroups/NetworkWatcherRG","0b99ca5c-439a-4841-9e1b-bc078bc5d07a","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/0e1e4d81-496e-47c3-a0de-a7fc513a96f1/resourceGroups/sammywemmydev","0e1e4d81-496e-47c3-a0de-a7fc513a96f1","sammywemmydev","","australiaeast","",False,1
+"/subscriptions/2a479f74-c465-40da-a5f3-c7111f599c99/resourceGroups/DefaultResourceGroup-EAU","2a479f74-c465-40da-a5f3-c7111f599c99","DefaultResourceGroup-EAU","","australiaeast","",False,1
+"/subscriptions/2a479f74-c465-40da-a5f3-c7111f599c99/resourceGroups/KS-RG","2a479f74-c465-40da-a5f3-c7111f599c99","KS-RG","","australiaeast","",False,1
+"/subscriptions/2a479f74-c465-40da-a5f3-c7111f599c99/resourceGroups/NetworkWatcherRG","2a479f74-c465-40da-a5f3-c7111f599c99","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/2a479f74-c465-40da-a5f3-c7111f599c99/resourceGroups/rulesvmabandoneddisks","2a479f74-c465-40da-a5f3-c7111f599c99","rulesvmabandoneddisks","","australiaeast","",False,1
+"/subscriptions/2a479f74-c465-40da-a5f3-c7111f599c99/resourceGroups/TechnicalTest-KS","2a479f74-c465-40da-a5f3-c7111f599c99","TechnicalTest-KS","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/Bot","3b850c94-10ac-4e1b-8824-4d83a8002e5f","Bot","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/CostBotDev","3b850c94-10ac-4e1b-8824-4d83a8002e5f","CostBotDev","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/costbot-storage-rg","3b850c94-10ac-4e1b-8824-4d83a8002e5f","costbot-storage-rg","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/Engine","3b850c94-10ac-4e1b-8824-4d83a8002e5f","Engine","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/Engine-SG12","3b850c94-10ac-4e1b-8824-4d83a8002e5f","Engine-SG12","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/Foundation","3b850c94-10ac-4e1b-8824-4d83a8002e5f","Foundation","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/NetworkWatcherRG","3b850c94-10ac-4e1b-8824-4d83a8002e5f","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/SOTest1","3b850c94-10ac-4e1b-8824-4d83a8002e5f","SOTest1","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/SyncTest","3b850c94-10ac-4e1b-8824-4d83a8002e5f","SyncTest","","australiaeast","",False,1
+"/subscriptions/3b850c94-10ac-4e1b-8824-4d83a8002e5f/resourceGroups/syncusagecost","3b850c94-10ac-4e1b-8824-4d83a8002e5f","syncusagecost","","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/CostBotDevVP","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","CostBotDevVP","","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/RJ-WIP","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","RJ-WIP","","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/SOTest1","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","SOTest1","","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/Test-WK","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","Test-WK","","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/tf-storage-rg","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","tf-storage-rg","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/CostBot-DEV","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","CostBot-DEV","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/CostBot-PROD","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","CostBot-PROD","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/DataDriven-Prod-CostBot-RG-01","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","DataDriven-Prod-CostBot-RG-01","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/DefaultResourceGroup-EAU","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","DefaultResourceGroup-EAU","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/NetworkWatcherRG","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/OpenDataHubBot-DEV","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","OpenDataHubBot-DEV","","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/TechnicalTest-BM","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","TechnicalTest-BM","","australiaeast","",False,1
+"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/DefaultResourceGroup-EAU","bb0e5691-f47c-49ab-af30-bfe9dd28bdba","DefaultResourceGroup-EAU","","australiaeast","",False,1
+"/subscriptions/bb0e5691-f47c-49ab-af30-bfe9dd28bdba/resourceGroups/NetworkWatcherRG","bb0e5691-f47c-49ab-af30-bfe9dd28bdba","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/c2065e1e-6a31-4778-af36-71fe4f0ef4bc/resourceGroups/NetworkWatcherRG","c2065e1e-6a31-4778-af36-71fe4f0ef4bc","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/c2065e1e-6a31-4778-af36-71fe4f0ef4bc/resourceGroups/RK-DD","c2065e1e-6a31-4778-af36-71fe4f0ef4bc","RK-DD","","westeurope","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/az104-10-rg1","d3e17d2e-fa87-4e79-933d-b3159bde6586","az104-10-rg1","","australiaeast","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/NetworkWatcherRG","d3e17d2e-fa87-4e79-933d-b3159bde6586","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/rg-nswtransport","d3e17d2e-fa87-4e79-933d-b3159bde6586","rg-nswtransport","","westus2","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/SQL_Data_Generator","d3e17d2e-fa87-4e79-933d-b3159bde6586","SQL_Data_Generator","","australiaeast","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/SQLServer","d3e17d2e-fa87-4e79-933d-b3159bde6586","SQLServer","","australiaeast","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/terraform_grp","d3e17d2e-fa87-4e79-933d-b3159bde6586","terraform_grp","","northeurope","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/TestResourceGroup","d3e17d2e-fa87-4e79-933d-b3159bde6586","TestResourceGroup","","centralus","",False,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/fun-tripupdate-rg","ed42b78a-dad6-4e14-89b9-e88191618c37","fun-tripupdate-rg","","australiaeast","",False,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/KK","ed42b78a-dad6-4e14-89b9-e88191618c37","KK","","australiaeast","",False,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/NetworkWatcherRG","ed42b78a-dad6-4e14-89b9-e88191618c37","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/VstsRG-kirankumar0032-2efa","ed42b78a-dad6-4e14-89b9-e88191618c37","VstsRG-kirankumar0032-2efa","","centralus","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/CostBotTests","fb65911d-36e6-4b33-b8f4-05c36019a2bf","CostBotTests","","australiaeast","",False,0
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/DefaultResourceGroup-EAU","fb65911d-36e6-4b33-b8f4-05c36019a2bf","DefaultResourceGroup-EAU","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/MDS4","fb65911d-36e6-4b33-b8f4-05c36019a2bf","MDS4","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/MDS5","fb65911d-36e6-4b33-b8f4-05c36019a2bf","MDS5","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/mds6","fb65911d-36e6-4b33-b8f4-05c36019a2bf","mds6","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/NetworkWatcherRG","fb65911d-36e6-4b33-b8f4-05c36019a2bf","NetworkWatcherRG","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/RG1","fb65911d-36e6-4b33-b8f4-05c36019a2bf","RG1","","australiaeast","",False,1
+"/subscriptions/fb65911d-36e6-4b33-b8f4-05c36019a2bf/resourceGroups/VM","fb65911d-36e6-4b33-b8f4-05c36019a2bf","VM","","australiaeast","",False,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/databricks-rg-databricks-gl2rxihgmq3ss","01639594-cf98-4011-b14a-905062f4aa23","databricks-rg-databricks-gl2rxihgmq3ss","","australiaeast","/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/AbnerSynapseTest/providers/Microsoft.Databricks/workspaces/databricks",True,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/workspacemanagedrg-8c5e43f6-d6ae-4e00-ad83-c667259f58e3","01639594-cf98-4011-b14a-905062f4aa23","workspacemanagedrg-8c5e43f6-d6ae-4e00-ad83-c667259f58e3","","australiaeast","subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/AbnerSynapseTest/providers/Microsoft.Synapse/workspaces/synapseanalyticsde",True,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/databricks-rg-technicaltest-bm-mddou5zuzjl4u","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","databricks-rg-technicaltest-bm-mddou5zuzjl4u","","australiaeast","/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/TechnicalTest-BM/providers/Microsoft.Databricks/workspaces/technicaltest-bm",True,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/synapseworkspace-managedrg-e15a0281-7e4f-4e55-8bf7-d69b19ca0c57","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","synapseworkspace-managedrg-e15a0281-7e4f-4e55-8bf7-d69b19ca0c57","","australiaeast","subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/CostBot-DEV/providers/Microsoft.Synapse/workspaces/costbot-prod-sw-01",True,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/databricks-rg-TransportDataBricks-ejsi7xxzovmm6","ed42b78a-dad6-4e14-89b9-e88191618c37","databricks-rg-TransportDataBricks-ejsi7xxzovmm6","","australiaeast","/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/NSWTransport/providers/Microsoft.Databricks/workspaces/TransportDataBricks",True,1
+"/subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/workspacemanagedrg-14eb956a-f7b3-4725-90fd-0da8c0f3a17d","01639594-cf98-4011-b14a-905062f4aa23","workspacemanagedrg-14eb956a-f7b3-4725-90fd-0da8c0f3a17d","{
+  ""CreatedBy"": ""RodneyJoyce""
+}","australiaeast","subscriptions/01639594-cf98-4011-b14a-905062f4aa23/resourceGroups/SynapseDemo/providers/Microsoft.Synapse/workspaces/synapsedemorj",True,1
+"/subscriptions/0b99ca5c-439a-4841-9e1b-bc078bc5d07a/resourceGroups/DevOps-Build-Agents","0b99ca5c-439a-4841-9e1b-bc078bc5d07a","DevOps-Build-Agents","{
+  ""Created By"": ""Rodney Joyce""
+}","australiaeast","",False,1
+"/subscriptions/4c6c2b0c-c619-480e-a3f9-4eec72aed9dc/resourceGroups/Test-SO","4c6c2b0c-c619-480e-a3f9-4eec72aed9dc","Test-SO","{
+  ""env"": ""blogpost-terraform-devops-pipeline"",
+  ""deployedBy"": ""devops""
+}","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/TeamsAppFoundation","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","TeamsAppFoundation","{
+  ""CreatedBy"": ""Rodney Joyce""
+}","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/TeamsAppFoundation-PROD","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","TeamsAppFoundation-PROD","{
+  ""CeatedBy"": ""Rodney Joyce""
+}","australiaeast","",False,1
+"/subscriptions/8c1e1941-46b6-4bce-a4eb-e9a27d69154f/resourceGroups/TriageDemo","8c1e1941-46b6-4bce-a4eb-e9a27d69154f","TriageDemo","{
+  ""CreatedBy"": ""Roney Joyce""
+}","australiaeast","",False,1
+"/subscriptions/d3e17d2e-fa87-4e79-933d-b3159bde6586/resourceGroups/DevOpsBuildAgentsProdRG","d3e17d2e-fa87-4e79-933d-b3159bde6586","DevOpsBuildAgentsProdRG","{
+  ""ms-resource-usage"": ""Prod_BuildAgent""
+}","australiaeast","",False,1
+"/subscriptions/ed42b78a-dad6-4e14-89b9-e88191618c37/resourceGroups/NSWTransport","ed42b78a-dad6-4e14-89b9-e88191618c37","NSWTransport","{
+  ""CreatedBy"": ""Kiran.kumar""
+}","australiaeast","",False,1

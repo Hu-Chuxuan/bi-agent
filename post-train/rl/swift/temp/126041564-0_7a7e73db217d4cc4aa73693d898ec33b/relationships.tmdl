@@ -1,0 +1,20 @@
+﻿relationship 57e0cefb-9b8c-4e33-b7a9-f785d8ef892a
+	fromColumn: Sales.'Location ID'
+	toColumn: Locations.'Location ID'
+
+relationship bd08be26-b458-4f93-9a2d-97336b917342
+	fromColumn: Sales.'Sales Person ID'
+	toColumn: Salespersons.'Salesperson ID'
+
+relationship 53a655b7-c0e3-4b40-b2aa-81648a263a71
+	fromColumn: Sales.'Product ID'
+	toColumn: Products.'Product ID'
+
+relationship e39d7a4d-7dc9-47d7-944a-dfdbb1fa7a36
+	fromColumn: Sales.'Customer ID'
+	toColumn: Customers.'Customer ID'
+
+relationship a6938969-4dc3-412d-9d43-9b86cbfbe9d9
+	fromColumn: Sales.'Purchase Date'
+	toColumn: Dates.Date
+

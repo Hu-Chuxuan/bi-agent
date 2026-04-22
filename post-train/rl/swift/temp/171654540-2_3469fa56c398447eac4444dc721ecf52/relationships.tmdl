@@ -1,0 +1,44 @@
+﻿relationship f948d7b2-eb53-429a-9f12-81273047f6d6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: vital_signs.Date_Time
+	toColumn: LocalDateTable_8e8aa9b1-1771-4b89-9bc9-92bae1c7a34b.Date
+
+relationship a9828884-ee93-4d52-ab60-0473a8caa6cd
+	fromColumn: vital_signs.user_id
+	toColumn: user.user_id
+
+relationship a3df49e3-77ca-42a1-b786-c06a46e885aa
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: vital_signs_ranges.user_id
+	toColumn: user.user_id
+
+relationship ce70b502-056d-41b3-87e0-7a298ac3fa3f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: charlie.Date_Time
+	toColumn: LocalDateTable_e29a3327-5cff-45e3-8b78-8522724260bc.Date
+
+relationship d0cf2e36-cdc9-4f51-a7ca-d4ac87b67ee0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: laptop_1.Date_Time
+	toColumn: LocalDateTable_66261a0f-f3d0-44df-8ff5-61b88177e62a.Date
+
+relationship 0ea27185-7b8b-466d-a9be-d17bddc0389d
+	fromColumn: devices.user_id
+	toColumn: user.user_id
+
+relationship 7512136e-d2a0-4923-88e3-152e85608e1e
+	fromColumn: charlie.device_id
+	toColumn: devices.device_id
+
+relationship 2ad993f8-dcde-4fc3-99da-da327c6024da
+	fromColumn: laptop_1.device_id
+	toColumn: devices.device_id
+
+relationship f6354a7c-cffd-4302-a273-e2124b1e70dd
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: laptop_1.Index
+	toColumn: charlie.Index
+

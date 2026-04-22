@@ -1,0 +1,24 @@
+﻿relationship fa7baab9-8506-40b7-be1c-c184b1c1ad34
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: electricity_production.Index
+	toColumn: 'Brazil''s'.Index
+
+relationship c5f316b6-2071-47ed-a300-e9cf838a3f35
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: electricity_production.Index
+	toColumn: 'Canada''s'.Index
+
+relationship 7b35be31-fc86-45ba-8f63-5f51f30b0fc8
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: electricity_production.Index
+	toColumn: 'Russia''s'.Index
+
+relationship a56ed73e-3b6c-4346-9f1e-bfcd3f11c326
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: electricity_production.Index
+	toColumn: 'South_Korea''s'.Index
+

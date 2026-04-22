@@ -1,0 +1,61 @@
+﻿relationship c8870c6d-8c44-4be2-8f5b-b3bed86e151f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: d-Customers.BirthDate
+	toColumn: LocalDateTable_7685bef9-4e99-423f-aec7-16cac81a66e9.Date
+
+relationship 505f7050-23b5-4304-946b-660fd7215dd5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: d-Calendar.Date
+	toColumn: LocalDateTable_55408903-2d41-4777-b508-16e8c4298f1d.Date
+
+relationship ec295542-e1d1-4941-869a-e219409038a2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: d-Calendar.'Start of Month'
+	toColumn: LocalDateTable_e64e10e7-f619-4e4b-89a8-f2aadab85307.Date
+
+relationship b4776626-bc1d-4389-be46-8f7920456e2d
+	fromColumn: f-Returns.ProductKey
+	toColumn: d-Products.ProductKey
+
+relationship b4538b02-e7ba-4e3b-b9d3-0573abbd4ab6
+	fromColumn: 'f- Sales'.CustomerKey
+	toColumn: d-Customers.CustomerKey
+
+relationship 400b8458-5f69-4782-9b66-705cefcd2e88
+	fromColumn: 'f- Sales'.ProductKey
+	toColumn: d-Products.ProductKey
+
+relationship a7efff66-9483-40a4-b510-ac5a39afcddb
+	fromColumn: d-Products.ProductSubcategoryKey
+	toColumn: d-Subcategories.ProductSubcategoryKey
+
+relationship 40c21a8e-1112-4c69-81bf-b9291512dad5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Target Customer'.BirthDate
+	toColumn: LocalDateTable_e108fb39-4d1c-4bfc-8d51-6a4bcf1c273a.Date
+
+relationship 34198e86-0afb-4c95-aae0-24155a1266a8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'f- Sales'.StockDate
+	toColumn: LocalDateTable_8916b688-9a69-4e62-a02f-be42f818cf0b.Date
+
+relationship 491efa44-bd1b-4c41-8262-638d8074751e
+	fromColumn: 'f- Sales'.TerritoryKey
+	toColumn: d-Territories.SalesTerritoryKey
+
+relationship 5190ba88-9fb4-426b-84aa-32afa799f41c
+	fromColumn: f-Returns.TerritoryKey
+	toColumn: d-Territories.SalesTerritoryKey
+
+relationship f49fcde4-04a8-4300-a084-5a21275212d3
+	fromColumn: 'f- Sales'.OrderDate
+	toColumn: d-Calendar.Date
+
+relationship 7af03d17-6a4a-47d5-aa2c-f25e9f871a29
+	fromColumn: f-Returns.ReturnDate
+	toColumn: d-Calendar.Date
+
+relationship afda269a-1b48-47e2-920f-54a9072dc8d7
+	fromColumn: d-Subcategories.'Category name'
+	toColumn: d-Categories.'Category Name'
+

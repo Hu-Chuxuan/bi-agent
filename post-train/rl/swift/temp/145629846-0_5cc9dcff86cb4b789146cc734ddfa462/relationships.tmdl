@@ -1,0 +1,14 @@
+﻿relationship 64957856-c251-4fcb-9af8-fe98e9a48693
+	joinOnDateBehavior: datePartOnly
+	fromColumn: OE_BD_NCR_Reports.NCR_Date_Closed
+	toColumn: LocalDateTable_96b78504-a9d4-4c9e-82b9-8d293e28cb5a.Date
+
+relationship b63da5a1-62ee-414b-bcc5-d4b919e9ec92
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_ca05f94d-63a9-43f3-86b1-671fe8bf587e.Date
+
+relationship 14309b2a-c333-4d8e-8593-9572db9a889d
+	fromColumn: OE_BD_NCR_Reports.NCR_Date_Raised
+	toColumn: Calendar.Date
+

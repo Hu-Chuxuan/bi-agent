@@ -1,0 +1,36 @@
+﻿relationship e725ebd4-f66a-4f86-9ec6-8bbe7758db8c
+	fromColumn: Groceries.category_id
+	toColumn: Category.category_id
+
+relationship 23b06f02-956b-4706-a8db-d044011e68ee
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Invoice.invoice_date
+	toColumn: LocalDateTable_84a4b138-fcc8-4e19-8c82-837ee92e6607.Date
+
+relationship c4303ae1-9b57-4ea1-903d-9b90e9517c4e
+	fromColumn: Orders.product_id
+	toColumn: Groceries.product_id
+
+relationship b778df0b-4e0c-4435-bf1a-cecfc1c153b6
+	fromColumn: Orders.invoice_id
+	toColumn: Invoice.invoice_id
+
+relationship 1f6a3cde-71eb-420b-abb4-c24dfa65af62
+	fromColumn: Invoice.customer_id
+	toColumn: Customer.id
+
+relationship 538a7066-981b-4730-a4b6-42ad473925e3
+	fromColumn: 'Grocery Sales'.product_id
+	toColumn: Groceries.product_id
+
+relationship 7faeaa5a-4ca4-4e09-94d0-d609c5181b37
+	fromColumn: 'Grocery Sales'.invoice_id
+	toColumn: Invoice.invoice_id
+
+relationship 2157f577-8f0b-43d7-8694-2acc0997b893
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Orders.order_id
+	toColumn: 'Grocery Sales'.order_id
+

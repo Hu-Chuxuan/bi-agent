@@ -1,0 +1,89 @@
+﻿relationship bcfe30bd-1ef5-4807-bf54-491ac0c56375
+	joinOnDateBehavior: datePartOnly
+	fromColumn: trial_explode_df.Date
+	toColumn: LocalDateTable_e7848897-1c09-48d4-9044-338f9a8c6d7c.Date
+
+relationship 8c7480d3-abf4-4c26-b3fa-706051d0e312
+	fromColumn: trial_explode_df.Disease
+	toColumn: Image.Disease
+
+relationship 14f37be1-e001-4d33-a7c3-1367d654f328
+	joinOnDateBehavior: datePartOnly
+	fromColumn: trial_df.Date
+	toColumn: LocalDateTable_eb46ad52-5f4a-49b6-93ce-6a8e3776983f.Date
+
+relationship 368a0528-9180-4e50-a1cd-859932f03e34
+	fromColumn: trial_df.Disease
+	toColumn: Image.Disease
+
+relationship c1cf7612-6fe8-4743-b1cc-3d2f91bd386f
+	isActive: false
+	fromColumn: trial_explode_df.Column1
+	toColumn: trial_df.Column1
+
+relationship 3c67cb4d-bf23-47c9-b156-7506e7f5f704
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Outbreak_Dataset_Final.Date
+	toColumn: LocalDateTable_12b797f1-97b4-4e78-82fd-34073eda2446.Date
+
+relationship aa307df0-f601-4acc-8c92-5476f6720c1f
+	fromColumn: Outbreak_Dataset_Final.Disease
+	toColumn: Image.Disease
+
+relationship dc413d48-5ff0-47e0-a4d9-5a11cf7157c0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: covid_19_data.ObservationDate
+	toColumn: LocalDateTable_8004385a-b0bb-4bd7-9dda-1bcc50f75377.Date
+
+relationship 9212832e-818f-4ce7-b262-bdf697b4b21b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: df_cfr.Date
+	toColumn: LocalDateTable_4224f861-fca6-4089-af5b-5625486ee428.Date
+
+relationship 6a671434-3906-46e2-b59c-334dd141e95a
+	fromColumn: df_cfr.Disease
+	toColumn: Image.Disease
+
+relationship 168e14d1-d99f-4867-bb4a-1c056f5d3925
+	isActive: false
+	fromColumn: trial_explode_df.Column1
+	toColumn: df_cfr.Column1
+
+relationship d4738c86-c161-42be-8149-6dd132e4a94e
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: trial_df.Column1
+	toColumn: df_cfr.Column1
+
+relationship cc52ebe2-9c5a-44a2-80e5-8a1eed340524
+	fromColumn: df_group2.Disease
+	toColumn: Image.Disease
+
+relationship 4410994e-dd31-4e47-bb7e-868bd0dca877
+	fromColumn: df_group3.Disease
+	toColumn: Image.Disease
+
+relationship aa2385cd-61c2-443a-ad20-fd88bfbe50d5
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: df_group4.Disease
+	toColumn: Image.Disease
+
+relationship a0b67f52-c5bc-4c07-9b62-39ba57b22720
+	fromColumn: df_group5.Disease
+	toColumn: Image.Disease
+
+relationship cb0560a9-d359-4759-8b4c-e10c379e4a35
+	fromColumn: df_group2_diseases_high_cfr.Disease
+	toColumn: Image.Disease
+
+relationship 4478ef3b-699a-4784-a900-8541e6e6c793
+	joinOnDateBehavior: datePartOnly
+	fromColumn: result_cfr_year_group_top5.Year
+	toColumn: LocalDateTable_05a5a355-6ea8-4400-94e6-a0acc128c5e0.Date
+
+relationship 68909189-a7f7-4460-b5ab-23efeda68a0c
+	fromColumn: result_cfr_year_group_top5.Disease
+	toColumn: Image.Disease
+

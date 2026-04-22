@@ -1,0 +1,22 @@
+Disease,Country,Year,cfr,Cases,Death
+"Acute haemorrhagic fever syndrome","Congo",2003,72.13114754,61,44
+"Avian","Indonesia",2008,81.75182482,139,113
+"Cholera","Zimbabwe",2009,65.09433962,79613,3731
+"Dengue","Pakistan",2019,6.525891341,47120,3075
+"Ebola","Congo",2003,89.51048951,143,128
+"Ebola","Gabon",1996,66.66666667,201,42
+"Encephalitis","Nepal",1997,90.28340081,247,223
+"Influenza","Madagascar",2002,83.04455446,808,671
+"Lassa fever","Nigeria",2016,54.57875458,273,149
+"MERS-CoV","Saudi Arabia",2014,36.02714374,941,347
+"Marburg haemorrhagic fever","Angola",2005,84.39716312,423,357
+"Meningococcal disease","Burkina Faso",2002,76.14991482,587,447
+"Meningococcal disease","Burkina Faso",2003,55.30612245,980,542
+"Plague","Madagascar",2017,41.93548387,1791,202
+"Rift Valley fever","Kenya",2007,29.44038929,411,121
+"SARS","Hong Kong SAR, China",2003,16.98005698,1755,298
+"SARS","Taiwan",2003,8.940518185,8221,735
+"Typhoid fever","Congo",2004,19.25287356,615,134
+"Viral haemorrhagic fever","Congo",1999,67.74193548,93,63
+"West Nile","United States",2002,21.91069574,963,211
+"Yellow fever","Brazil",2019,35.10174419,1376,483

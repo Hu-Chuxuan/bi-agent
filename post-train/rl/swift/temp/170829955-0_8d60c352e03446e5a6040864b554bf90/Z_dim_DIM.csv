@@ -1,0 +1,55 @@
+dimensao,PK_Z_dim_DIM
+"CEP",1
+"Logradouro",2
+"Bairro",3
+"Cidade",4
+"Estado",5
+"Categoria",6
+"Item",7
+"Descrição",8
+"Descrição complementar",9
+"Apresentação",10
+"Foto Ilustrativa",11
+"Marcas de referência",12
+"Quantidade",13
+"E-mail",14
+"Hospital",15
+"Solicitante Nome",16
+"Telefone",17
+"Responsável Nome",18
+"Número do Edital",19
+"Quantidade para consumo",20
+"Possui estruturação da SMAS com áreas essenciais:",21
+"Possui espaço Físico Adequado",22
+"Possui Recursos Humanos suficientes conforme NOB/RH",23
+"Possui veículo para realização das atividades",24
+"Possui Plano Municipal de Assistência Social",25
+"Existe setor específico",26
+"Qual a localização",27
+"Tipo de gestão e concessão dos Benefícios",28
+"Quantidade de Usuários do BPC inscritos no CadÚnico Idosos",29
+"Quantidade de Usuários do BPC inscritos no CadÚnico PCD",30
+"Quantos faltam, de acordo com os dados do CadUnico e IBGE",31
+"BPC na Escola",32
+"Realizou capacitações com recursos próprios nos 2 últimos anos",33
+"Grupo Gestor constituído",34
+"Possui Diagnóstico Sócio territorial",35
+"Possui Plano Municipal de Educação Permanente do SUAS",36
+"Atuou em temáticas previstas no Plano Municipal de Educação Permanente do SUAS",37
+"Participou de capacitações realizadas pela SEDES nos últimos 2 anos",38
+"Co-financiamento Estadual",39
+"Nome",40
+"Sobrenome",41
+"CPF",42
+"Número",43
+"CNPJ",44
+"Nome Fantasia",45
+"Razão Social",46
+"Tipo",47
+"Origem do servidor",48
+"Órgão de nomeação",49
+"Cargo de nomeação",50
+"Nome completo do nomeado",51
+"RG",52
+"Tipo de nomeação",53
+"Subordinação",54

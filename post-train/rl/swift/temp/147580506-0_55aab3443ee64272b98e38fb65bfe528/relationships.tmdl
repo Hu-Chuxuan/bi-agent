@@ -1,0 +1,13 @@
+﻿relationship 418a578a-c073-453a-90e1-927d9438341e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fonte_LasTablas_amostras.Date
+	toColumn: LocalDateTable_c04df517-9bbf-484b-8eff-02711c89ff53.Date
+
+relationship 47a9dae9-ee89-4599-be55-dcd8b42c679a
+	fromColumn: Fonte_LasTablas_resultados.id_amostra
+	toColumn: Fonte_LasTablas_amostras.id_amostra
+
+relationship c8bab2fc-b86f-4a07-92e1-e70b6b42231e
+	fromColumn: Fonte_LasTablas_amostras.'Sampling point'
+	toColumn: LasTablas_localizacao.'Sampling point'
+

@@ -1,0 +1,71 @@
+CentreID,variable,value
+C0001,StaffCount,10
+C0002,StaffCount,15
+C0003,StaffCount,10
+C0004,StaffCount,12
+C0005,StaffCount,11
+C0006,StaffCount,20
+C0007,StaffCount,18
+C0008,StaffCount,30
+C0009,StaffCount,25
+C0010,StaffCount,22
+C0001,ZipCode,2120
+C0002,ZipCode,2128
+C0003,ZipCode,2111
+C0004,ZipCode,2115
+C0005,ZipCode,2119
+C0006,ZipCode,2123
+C0007,ZipCode,2127
+C0008,ZipCode,2131
+C0009,ZipCode,2135
+C0010,ZipCode,2149
+C0001,State,Boston
+C0002,State,New York
+C0003,State,San Fransisco
+C0004,State,Boston
+C0005,State,New York
+C0006,State,Orlando
+C0007,State,San Fransisco
+C0008,State,Orlando
+C0009,State,New York
+C0010,State,Boston
+C0001,City,Massachusetts
+C0002,City,New York
+C0003,City,California
+C0004,City,Massachusetts
+C0005,City,New York
+C0006,City,Florida
+C0007,City,California
+C0008,City,Florida
+C0009,City,New York
+C0010,City,Massachusetts
+C0001,StreetName,Boylston Street
+C0002,StreetName,Newburry Street
+C0003,StreetName,Commonwealth Ave
+C0004,StreetName,Huntington Ave
+C0005,StreetName,South Huntington Ave
+C0006,StreetName,Mission Main
+C0007,StreetName,Park Street
+C0008,StreetName,Downtown Crossing
+C0009,StreetName,Copley
+C0010,StreetName,Fenway
+C0001,ContactNumber,9885438907
+C0002,ContactNumber,9185438907
+C0003,ContactNumber,9785438906
+C0004,ContactNumber,9785438901
+C0005,ContactNumber,9785338907
+C0006,ContactNumber,9785538907
+C0007,ContactNumber,9785838907
+C0008,ContactNumber,9785638907
+C0009,ContactNumber,9785138907
+C0010,ContactNumber,9285438907
+C0001,Name,CVS Pharmacy
+C0002,Name,Sudbury Pharmacy
+C0003,Name,Walpole Pharmacy
+C0004,Name,Walgreens
+C0005,Name,Hannaford
+C0006,Name,Walmart
+C0007,Name,Walgreens
+C0008,Name,Wegmans
+C0009,Name,Walmart
+C0010,Name,CVS Pharmacy

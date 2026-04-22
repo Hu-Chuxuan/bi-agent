@@ -1,0 +1,46 @@
+﻿relationship f5943599-4ae0-46d9-bf1a-f8e4e6a892f4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: bi_sentiment.Date
+	toColumn: LocalDateTable_de5d2e94-c19d-4b51-849d-61c267d87db0.Date
+
+relationship 04735e96-c299-42f7-b407-4be2be720f0a
+	fromColumn: bi_salesFact.Date
+	toColumn: bi_date.Date
+
+relationship 41dfe991-fa9a-4261-8033-e6f787ee1269
+	fromColumn: bi_product.ManufacturerID
+	toColumn: bi_manufacturer.ManufacturerID
+
+relationship 72bbc504-2b01-48d3-b109-556dec4c10a0
+	fromColumn: bi_sentiment.ManufacturerID
+	toColumn: bi_manufacturer.ManufacturerID
+
+relationship b6019771-462d-4533-8fb1-a686d370fff5
+	fromColumn: bi_salesFact.ProductID
+	toColumn: bi_product.ProductID
+
+relationship 84e7e694-6559-47c8-b9b9-37cc1cd11cea
+	isActive: false
+	fromColumn: bi_sentiment.ProductID
+	toColumn: bi_product.ProductID
+
+relationship e3e8625c-e11e-4cc8-b48a-6281f6b12e59
+	joinOnDateBehavior: datePartOnly
+	fromColumn: MyCalendar.Date
+	toColumn: LocalDateTable_5060ae89-40b7-4fd5-aabe-bc8d0100c8ed.Date
+
+relationship 4cf4ebbe-2067-4b0f-8d50-472219581256
+	joinOnDateBehavior: datePartOnly
+	fromColumn: MyNextDay.Date
+	toColumn: LocalDateTable_dc3636f1-a77c-4d9a-b25c-ca03283f7bd4.Date
+
+relationship 97be4676-2c2e-4926-b239-8cc5a811a648
+	joinOnDateBehavior: datePartOnly
+	fromColumn: MyNextMonth.Date
+	toColumn: LocalDateTable_68360dbd-078d-4061-8e6c-4c7d45d51080.Date
+
+relationship a1770953-df7e-4527-b75e-667ea36dfb3e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: bi_date.CalcuatedDate
+	toColumn: LocalDateTable_406e259c-27b4-4a91-baa2-5b00dba01d87.Date
+

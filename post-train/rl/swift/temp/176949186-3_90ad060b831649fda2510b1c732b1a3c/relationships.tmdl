@@ -1,0 +1,48 @@
+﻿relationship c85ca05d-3c1a-4e10-b596-a8609dc881a6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Product Price List'.'Valid To'
+	toColumn: LocalDateTable_b611cf14-4da3-4ea7-93b7-a4002d9c1a6d.Date
+
+relationship 1bb86f2e-ce62-4c58-86ff-c8cdb88a2dc7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Product Price List'.'Valid From'
+	toColumn: LocalDateTable_acfc8fa0-818a-458f-ab05-00d3e86b82a0.Date
+
+relationship fc840693-abee-41f2-b222-6f64bd54124c
+	fromColumn: 'DS Sales'.Product
+	toColumn: 'Sales Forecast'.item
+
+relationship a15ea4e8-dbf0-4720-bf01-7dc8821e8785
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Purchasing Forecast'.' item_code'
+	toColumn: 'Sales Forecast'.item
+
+relationship c09665f8-07cd-4891-9050-51e9cb64bf41
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Sales Forecast'.item
+	toColumn: 'Product Price List'.'Vendor Article No'
+
+relationship 890179c0-cffb-4b5d-92da-bf9d2584480c
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'PO Raised By Month'.Product
+	toColumn: 'Sales Forecast'.item
+
+relationship 223706c3-2bbb-4873-a940-e369e0a2800e
+	fromColumn: GR.Product
+	toColumn: 'Sales Forecast'.item
+
+relationship ebcd906d-14c5-41a6-8bc8-90ea72ed5dfe
+	fromColumn: SOH.Product
+	toColumn: 'Sales Forecast'.item
+
+relationship 0d3685ca-22c3-4012-aa56-1d8b0b243d43
+	fromColumn: SOO.Product
+	toColumn: 'Sales Forecast'.item
+
+relationship 0ca6dc64-cfea-49c0-8214-44f994bc2e0e
+	fromColumn: 'In stock rate'.Article
+	toColumn: 'Product Price List'.Article
+

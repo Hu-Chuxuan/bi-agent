@@ -1,0 +1,314 @@
+﻿relationship 468948ef-e8db-41bd-8639-0c5023bb7a57
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_projectriskratings.overriddencreatedon
+	toColumn: LocalDateTable_20cd55f1-a9ec-4671-94cf-be4a7ec6a5b3.Date
+
+relationship 5d2d339a-808f-4640-92fe-fe502fa711dd
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_projectriskratings.modifiedon
+	toColumn: LocalDateTable_4a0cf533-e5a8-4832-87ba-1e076783806f.Date
+
+relationship 38862a99-b976-4430-b156-f812fc7b14e9
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_projectriskratings.createdon
+	toColumn: LocalDateTable_e8de32a9-cb5b-451b-809d-41c4704757b8.Date
+
+relationship 0ded3ca6-7182-4ccd-affb-f3ce76e475f1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_projectriskratings.nadb_measuredate_pjrisk
+	toColumn: LocalDateTable_12ce68e3-4d02-4ed4-8916-20e34f34acb4.Date
+
+relationship 59ecc7f4-733c-4b77-a811-8e62d1745f56
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingindicators.modifiedon
+	toColumn: LocalDateTable_9b1ff81e-5ba8-4338-aec1-6cfb6224d011.Date
+
+relationship d3eb7253-6677-4294-bd6e-a2a6b86ce929
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingindicators.createdon
+	toColumn: LocalDateTable_f32fd59f-66b6-4fc3-aa6b-e7a22883e0af.Date
+
+relationship eae929e3-0239-447c-8247-b3576fb55ebc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingindicators.overriddencreatedon
+	toColumn: LocalDateTable_ece96f14-6d9f-42d3-9000-f29c0509c8ef.Date
+
+relationship 847bbb79-408b-4efa-bec1-921e963a5989
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingmethodologies.createdon
+	toColumn: LocalDateTable_6c5d577e-73a2-45fa-b37d-8a3d86d1bdae.Date
+
+relationship 39fafac0-6253-445a-8ea7-327763e96ae3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingmethodologies.modifiedon
+	toColumn: LocalDateTable_5f28c0a3-d331-46bb-870a-c4245d90fa19.Date
+
+relationship bbf2e2c0-6127-4bac-bd11-1a5d17c461d2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_riskratingmethodologies.overriddencreatedon
+	toColumn: LocalDateTable_7bda93c1-0ef3-482d-a3c4-b6ef8e63850b.Date
+
+relationship 6aaa61f1-9d27-4642-be54-daf659692894
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskstatuses.createdon
+	toColumn: LocalDateTable_cd225af9-862b-47ae-b01a-3da041030f3b.Date
+
+relationship ee2a2b72-e2c7-411d-aae1-331f89dd47f4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskstatuses.overriddencreatedon
+	toColumn: LocalDateTable_8f946fd7-ae84-40cd-9b07-d68fa95f893d.Date
+
+relationship 1d53cac6-83f2-472e-a0ec-2e91efbef36f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskstatuses.modifiedon
+	toColumn: LocalDateTable_a981f849-c325-4f82-9765-69be6d07025d.Date
+
+relationship eda4deff-433d-4568-9932-2f7efb7acb2f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskadministrations.modifiedon
+	toColumn: LocalDateTable_b623bb8a-b26f-450e-9e59-1fecda521022.Date
+
+relationship 42c68912-ce34-4e11-a88f-8f49b92fc7b4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskadministrations.createdon
+	toColumn: LocalDateTable_7f4df32a-c649-4f17-942c-56e8c2c27b1b.Date
+
+relationship 0c809d0f-3be5-4a4f-9439-3b686ef4fdcc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_creditriskadministrations.overriddencreatedon
+	toColumn: LocalDateTable_88715c1b-10ba-4d44-9f05-6479bb2960aa.Date
+
+relationship 89e68ba6-0dbf-4158-ae75-a8cf8f2e9994
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_Loan Administration'.overriddencreatedon
+	toColumn: LocalDateTable_4f3052af-20de-4871-a8ff-662a4b41d5ba.Date
+
+relationship cecc7ac5-9f7b-4b3a-bf0b-d7bffe8f0653
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_Loan Administration'.nadb_sponsoracceptancedate_pj
+	toColumn: LocalDateTable_f586fcc6-d5b6-4ced-9dd0-9f2e473dbebe.Date
+
+relationship 62adb145-c9c3-446d-a376-5289535583be
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_Loan Administration'.nadb_oneyearoperationalert_pj
+	toColumn: LocalDateTable_0d4a9087-faad-402a-a1f0-2661033483b7.Date
+
+relationship 1539fb7e-711d-48b0-b857-cc2e61d9bcfd
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_Loan Administration'.modifiedon
+	toColumn: LocalDateTable_0548be4c-4038-4045-98f2-adf5575895cb.Date
+
+relationship ecb36452-5153-4756-8226-ba1c690cf70e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_Loan Administration'.createdon
+	toColumn: LocalDateTable_2abb2a52-f150-4e63-9fe0-2c3e76f1a1f0.Date
+
+relationship 3e971459-1f31-4168-84f4-734eae876b33
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_riskratingindicators._nadb_indicatormethodology_value
+	toColumn: nadb_riskratingmethodologies.nadb_riskratingmethodologyid
+
+relationship db1bee78-6493-4f35-8fb3-24ba02112a3c
+	crossFilteringBehavior: bothDirections
+	securityFilteringBehavior: bothDirections
+	fromColumn: nadb_creditriskstatuses._nadb_riskindicator_value
+	toColumn: nadb_riskratingindicators.nadb_riskratingindicatorid
+
+relationship 1c60b191-7e57-417f-bc4e-e02ec0c5e88a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditratingscales.nadb_activedate
+	toColumn: LocalDateTable_f8708cc8-dcf0-4660-99d9-2e6d3d44481b.Date
+
+relationship 0b74b7f8-2f8d-4de5-b739-2e1745b8532e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditratingscales.overriddencreatedon
+	toColumn: LocalDateTable_bb15f416-dbbd-4eb1-9502-497a11ae6961.Date
+
+relationship af9f12cf-a615-48d0-840d-9ccb9bf55042
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditratingscales.createdon
+	toColumn: LocalDateTable_abd39f97-3882-4f51-ba36-d8ec188f38ac.Date
+
+relationship 17a7ef80-2d65-4a1b-a5a9-cdc799cb7b3f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditratingscales.modifiedon
+	toColumn: LocalDateTable_880b8ed9-1953-4f71-84c9-6a4bc27121ae.Date
+
+relationship 651dd4cf-83a9-4bc7-8920-c338351d117d
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_projectriskratings._nadb_methodologyused_value
+	toColumn: nadb_riskratingmethodologies.nadb_riskratingmethodologyid
+
+relationship b54cd061-39c9-44b3-b373-3c0f2347d061
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditriskratings.overriddencreatedon
+	toColumn: LocalDateTable_25737edf-70ac-4d07-acbf-aaedd2017f82.Date
+
+relationship b1734963-b4be-459d-9ed7-5acb4b697b65
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditriskratings.createdon
+	toColumn: LocalDateTable_2f04fe7c-8381-4e83-a828-9f52924a8849.Date
+
+relationship 6798db53-480d-437e-8698-54e809d9412a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: nadb_internalcreditriskratings.modifiedon
+	toColumn: LocalDateTable_64a9fba5-c4aa-4db7-bb5a-cc4b06860fe6.Date
+
+relationship 121e5d2f-7317-4ba4-94ba-83466109d0e7
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_projectriskratings._nadb_creditriskratingadministration_value
+	toColumn: nadb_creditriskadministrations.nadb_creditriskadministrationid
+
+relationship e24baf0a-af79-4b97-87f9-fff461aa005a
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_internalcreditratingscales._nadb_internalcreditriskrating_value
+	toColumn: nadb_internalcreditriskratings.nadb_internalcreditriskratingid
+
+relationship 3bba647a-4efd-43e9-8173-8bdb1329bfa0
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: nadb_creditriskadministrations._nadb_relatedloanadministration_crisk_value
+	toColumn: 'nadb_Loan Administration'.nadb_nabdabkprojectid
+
+relationship 5e8bc978-a74a-44a2-bf3a-decb1b4aca9d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BTI_ScaleGrade.nadb_measuredate_pjrisk
+	toColumn: LocalDateTable_bdf27b58-cf3c-4d06-95ad-c40747b78f03.Date
+
+relationship f1370812-a83f-42bf-9f22-97e3c97354bc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BTI_ScaleGrade.Year
+	toColumn: LocalDateTable_79668549-7672-421c-b7ac-10555a4b6df8.Date
+
+relationship 804ffefc-b381-40f7-8a5a-73816e2f6d72
+	crossFilteringBehavior: bothDirections
+	fromColumn: BTI_ScaleGrade.Internal
+	toColumn: nadb_internalcreditriskratings.nadb_internalcreditriskratingid
+
+relationship a7066987-0b64-4e39-8810-cb2424aca644
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_creditriskstatuses (2)'.modifiedon
+	toColumn: LocalDateTable_11dc23a3-17ea-44cf-aed3-9cfed2415a48.Date
+
+relationship 5351b674-e233-404a-a2f7-cf71e46cc6bc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_creditriskstatuses (2)'.overriddencreatedon
+	toColumn: LocalDateTable_9dd8e8e4-616a-48c8-a8d9-27a2a3abdb3c.Date
+
+relationship d08feb39-0bc4-43bd-ba75-4aeb568d805a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_creditriskstatuses (2)'.createdon
+	toColumn: LocalDateTable_2990b523-06d7-4b87-93df-c4262690d0b7.Date
+
+relationship 2e5cdf96-a516-4153-8681-38cf7fe930e0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingindicators (2)'.modifiedon
+	toColumn: LocalDateTable_2137b927-a584-4012-83de-4c9311e2c638.Date
+
+relationship 73aed76d-0dc4-4814-91ed-ab00ec52e01d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingindicators (2)'.createdon
+	toColumn: LocalDateTable_d2ec658c-89e6-4dc1-98d7-40f224ea29f1.Date
+
+relationship d054218e-9000-423c-acb7-d2dbc1f2d3f2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingindicators (2)'.overriddencreatedon
+	toColumn: LocalDateTable_fb84e815-b92d-456c-90bd-a030ac842b4c.Date
+
+relationship ba8e69c7-35e1-4fd7-beed-cb6b9c130731
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingmethodologies (2)'.modifiedon
+	toColumn: LocalDateTable_d3985805-fc83-45d6-90ce-b2764676b20d.Date
+
+relationship d6246ff9-9071-4ee8-852d-5dec1287a9b2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingmethodologies (2)'.overriddencreatedon
+	toColumn: LocalDateTable_4bad5645-e9c0-4210-ae07-ce792e2d812f.Date
+
+relationship c7662569-38e5-4b70-bcac-618cd9a5e46b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_riskratingmethodologies (2)'.createdon
+	toColumn: LocalDateTable_30ea9d76-f0b1-4d13-81b1-bdc924ce287c.Date
+
+relationship b778e72c-c797-474f-9d88-0d554216c2a4
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'nadb_creditriskstatuses (2)'._nadb_riskindicator_value
+	toColumn: 'nadb_riskratingindicators (2)'.nadb_riskratingindicatorid
+
+relationship 90137e25-6daa-456f-b84a-c37986db400b
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'nadb_riskratingindicators (2)'._nadb_indicatormethodology_value
+	toColumn: 'nadb_riskratingmethodologies (2)'.nadb_riskratingmethodologyid
+
+relationship 6c9ee579-5ef2-414f-8451-ad87c30a1d84
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_projectriskratings._nadb_riskstatus_rating_value
+	toColumn: 'nadb_creditriskstatuses (2)'.nadb_creditriskstatusid
+
+relationship 0d8046de-90ef-48be-bbc7-afe44c479377
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_internalcreditriskratings (2)'.modifiedon
+	toColumn: LocalDateTable_45986f4a-0399-460d-8faf-f58e63954364.Date
+
+relationship 0da019f7-c332-4afa-93c0-937aac05fcd8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_internalcreditriskratings (2)'.createdon
+	toColumn: LocalDateTable_4e518072-c070-4027-b592-1cf457014516.Date
+
+relationship c0cff0b0-078c-4c30-a8a5-51b6f796b67a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'nadb_internalcreditriskratings (2)'.overriddencreatedon
+	toColumn: LocalDateTable_d131fba9-278b-49c1-8108-d4afdbb6041c.Date
+
+relationship 1feb5829-3cde-4d6b-90a1-690fe1c9d176
+	crossFilteringBehavior: bothDirections
+	fromColumn: nadb_projectriskratings._nadb_internalcreditriskrating_value
+	toColumn: 'nadb_internalcreditriskratings (2)'.nadb_internalcreditriskratingid
+
+relationship b2a11953-eea8-4827-ba9e-425488670880
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Chart.nadb_measuredate_pjrisk
+	toColumn: LocalDateTable_8653ff07-f249-4253-b14e-434f1061b9c6.Date
+
+relationship 09caa9ab-3eab-4ab1-9f61-47cfee9d428a
+	crossFilteringBehavior: bothDirections
+	fromColumn: Chart._nadb_creditriskratingadministration_value
+	toColumn: nadb_creditriskadministrations.nadb_creditriskadministrationid
+
+relationship 86cfb110-cc6d-4b37-ac4e-cbdeeb7747ed
+	fromColumn: BTI_MethMaxPoints.nadb_riskratingmethodologyid
+	toColumn: nadb_riskratingmethodologies.nadb_riskratingmethodologyid
+
+relationship 3943089c-9bec-4c7c-a9f5-d8d1ad8fedaa
+	fromColumn: 'nadb_Loan Administration'._nadb_originppportunity_proj_value
+	toColumn: Opps.opportunityid
+
+relationship ede12be8-9d5a-445c-a478-2811af65632c
+	fromColumn: BTI_ProbabilityofDefault.KeyPI100
+	toColumn: PIat100.'EX-CreditScorelist - Copy'
+
+relationship afd89832-ecd5-4d7a-9bcf-6a5a233a0399
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BTI_ProbabilityofDefault.nadb_measuredate_pjrisk
+	toColumn: LocalDateTable_15465d16-dadd-4c93-be64-6d8b9b6d8d5e.Date
+
+relationship 5db80024-8b97-4c82-a415-e4b0fc5927c4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: innetable.nadb_measuredate_pjrisk
+	toColumn: LocalDateTable_4a5057b3-79f7-4c79-8036-4e8838a6cd24.Date
+
+relationship 85e11c2d-7caa-4b9f-9ca6-14e353c914d3
+	crossFilteringBehavior: bothDirections
+	fromColumn: BTI_ProbabilityofDefault._nadb_creditriskratingadministration_value
+	toColumn: nadb_creditriskadministrations.nadb_creditriskadministrationid
+
+relationship ecadc74c-8a5c-4a1d-b8eb-8ff5d16c3ec5
+	crossFilteringBehavior: bothDirections
+	fromColumn: innetable._nadb_creditriskratingadministration_value
+	toColumn: nadb_creditriskadministrations.nadb_creditriskadministrationid
+
+relationship 55da51bf-4325-4531-a15d-977559d83e5b
+	crossFilteringBehavior: bothDirections
+	fromColumn: BTI_ProbabilityofDefault._nadb_internalcreditriskrating_value
+	toColumn: nadb_internalcreditriskratings.nadb_internalcreditriskratingid
+

@@ -1,0 +1,11 @@
+﻿relationship 85bb3798-b581-4da8-a8ba-ac474684a3fe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Table.Date
+	toColumn: LocalDateTable_0069cd36-d284-4e57-85e7-271053209b72.Date
+
+relationship 4665c8ad-2b9b-442d-ae40-95cd59a24c88
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Table1.Date
+	toColumn: Table.Date
+

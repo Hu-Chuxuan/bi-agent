@@ -1,0 +1,40 @@
+Cert Type,Expired?,device_name,ip_address,cert_common_name,device_fk,ssl_version,valid_to,days_to_expire
+"Valid SSL","Expired","espn.com","99.84.191.124","redirect.espn.com",14473,"TLSv1.2",2020-10-21 00:00:00.000,0
+"Valid SSL","Expired","support.impactbs.my","202.186.107.190","support.impactbs.my",14523,"TLSv1.2",2021-05-30 00:00:00.000,0
+"Mixed Legacy","Expired","10.42.42.85","10.42.42.85","Device42Demo",14508,"TLSv1.1, TLSv1.0, TLSv1.2",2021-03-07 00:00:00.000,0
+"Legacy","Expired","fujitsu01","10.42.0.58","fujitsu01",1154,"TLSv1.0, SSLv3",2012-10-22 00:00:00.000,0
+"Legacy","Valid","esxi-prod3.device42.pvt","10.42.0.43","localhost.device42.pvt",8158,"TLSv1.0",2028-11-22 00:00:00.000,2567
+"Mixed Legacy","Valid","oracle12c.device42.pvt","10.42.0.19","10.42.0.19",1079,"TLSv1.3, TLSv1.2, TLSv1.1",2022-01-31 00:00:00.000,80
+"Mixed Legacy","Expired","esxi-003.device42.pvt","10.42.0.19","10.42.0.19",906,"TLSv1.1, TLSv1.0, TLSv1.2",2021-09-27 00:00:00.000,0
+"Mixed Legacy","Expired","10.42.42.76","10.42.42.76","Device42Demo",14507,"TLSv1.1, TLSv1.0, TLSv1.2",2021-03-07 00:00:00.000,0
+"Mixed Legacy","Valid","esxi-prod6.device42.pvt","10.42.0.67","10.42.0.67",9465,"TLSv1.1, TLSv1.0, TLSv1.2",2024-01-21 00:00:00.000,800
+"Valid SSL","Valid","10.42.42.142","10.42.42.142","localhost.localdomain",14510,"TLSv1.2",2030-01-23 00:00:00.000,2994
+"Mixed Legacy","Expired","RAC_39S4TR1","10.42.10.109","iDRAC6 default certificate",14671,"TLSv1.1, TLSv1.0, TLSv1.2",2019-09-15 00:00:00.000,0
+"Mixed Legacy","Valid","RAC_JT3NGS1","10.42.10.108","iDRAC6 default certificate",5607,"TLSv1.1, TLSv1.0, TLSv1.2",2023-01-01 00:00:00.000,415
+"Mixed Legacy","Valid","esxi-015.device42.pvt","10.42.0.156","localhost.device42.pvt",13628,"TLSv1.1, TLSv1.0, TLSv1.2",2029-05-02 00:00:00.000,2728
+"Legacy","Expired","esxi-prod2.device42.pvt","10.42.0.47","localhost.device42.pvt",6143,"TLSv1.0",2021-04-19 00:00:00.000,0
+"Mixed Legacy","Valid","esxi-002","10.42.0.26","localhost.localdomain",9449,"TLSv1.1, TLSv1.0, TLSv1.2",2025-10-31 00:00:00.000,1449
+"Mixed Legacy","Expired","packstack-001.device42.pvt","10.42.10.111","iDRAC6 default certificate",5582,"TLSv1.1, TLSv1.0, TLSv1.2",2019-09-15 00:00:00.000,0
+"Legacy","Valid","solaris-001","10.42.10.104","Oracle Integrated Lights Out Manager",5145,"TLSv1.0, SSLv3",2030-06-26 00:00:00.000,3148
+"Legacy","Expired","RAC_2ZKJML1","10.42.0.154","iDRAC6 default certificate",10379,"TLSv1.0, SSLv3",2019-01-03 00:00:00.000,0
+"Valid SSL","Valid","xen-003","10.42.0.45","10.42.0.45",5606,"TLSv1.2",2027-05-09 00:00:00.000,2004
+"Mixed Legacy","Valid","esxi-014.device42.pvt","10.42.0.155","localhost.device42.pvt",13335,"TLSv1.1, TLSv1.0, TLSv1.2",2029-04-27 00:00:00.000,2723
+"Legacy","Expired","d42-build002.device42.pvt","10.42.0.148","localhost.device42.pvt",10471,"TLSv1.1, TLSv1.0",2021-04-30 00:00:00.000,0
+"Legacy","Valid","RAC_C07FVK1","10.42.10.138","iDRAC6 default certificate",10470,"TLSv1.0, SSLv3",2023-01-01 00:00:00.000,415
+"Mixed Legacy","Valid","esxi-004.device42.pvt","10.42.0.22","WIN-G88ANGAC68I.device42.pvt",1027,"TLSv1.1, TLSv1.0, TLSv1.2",2028-08-24 00:00:00.000,2477
+"Mixed Legacy","Expired","RAC_HSMWBQ1","10.42.10.129","iDRAC6 default certificate",10469,"TLSv1.1, TLSv1.0, TLSv1.2",2019-09-15 00:00:00.000,0
+"Mixed Legacy","Valid","RAC_GPZ99P1","10.42.10.130","iDRAC6 default certificate",10468,"TLSv1.1, TLSv1.0, TLSv1.2",2024-06-04 00:00:00.000,935
+"Legacy","Expired","esxi-004.device42.pvt","10.42.10.134","iDRAC6 default certificate",1027,"TLSv1.0, SSLv3",2019-09-15 00:00:00.000,0
+"Mixed Legacy","Expired","RAC_5H9VPQ1","10.42.10.128","iDRAC6 default certificate",5585,"TLSv1.1, TLSv1.0, TLSv1.2",2019-09-15 00:00:00.000,0
+"Mixed Legacy","Valid","d42build-001.device42.pvt","10.42.0.61","localhost.device42.pvt",13415,"TLSv1.1, TLSv1.0, TLSv1.2",2029-02-07 00:00:00.000,2644
+"Mixed Legacy","Valid","esxi-003.device42.pvt","10.42.10.101","idrac-3WLT082",906,"TLSv1.1, TLSv1.0, TLSv1.2",2025-11-14 00:00:00.000,1463
+"Mixed Legacy","Expired","pfsense.device42.pvt","10.42.0.1","pfSense-56ec494f72399",2904,"TLSv1.1, TLSv1.2",2021-09-08 00:00:00.000,0
+"Valid SSL","Valid","xenserver-001","10.42.0.10","10.42.0.10",5610,"TLSv1.2",2026-07-11 00:00:00.000,1702
+"Mixed Legacy","Valid","esxi-017.device42.pvt","10.42.0.107","localhost.device42.pvt",13377,"TLSv1.1, TLSv1.0, TLSv1.2",2029-09-10 00:00:00.000,2859
+"Valid SSL","Valid","esxi-020.device42.pvt","10.42.0.163","10.42.0.163",13313,"TLSv1.2",2024-02-04 00:00:00.000,814
+"Mixed Legacy","Valid","esxi-005.device42.pvt","10.42.0.28","localhost.device42.pvt",8155,"TLSv1.1, TLSv1.0, TLSv1.2",2028-11-24 00:00:00.000,2569
+"Valid SSL","Valid","Sentry / ADTK0000001 / 10.42.10.4","10.42.10.4","Sentry Switched CDU",14155,"TLSv1.2",2023-07-01 00:00:00.000,596
+"Legacy","Expired","d42-build002.device42.pvt","10.42.10.146","iDRAC7 default certificate",10471,"TLSv1.0, SSLv3",2021-06-04 00:00:00.000,0
+"Mixed Legacy","Valid","10.42.0.157","10.42.0.157","10.42.0.157",10509,"TLSv1.1, TLSv1.0, TLSv1.2",2023-02-20 00:00:00.000,465
+"Legacy","Expired","juniper-wh-01","10.42.0.2","BK0209476336",4686,"TLSv1.0, SSLv3",2018-06-13 00:00:00.000,0
+"Legacy","Expired","juniper-wh-02","10.42.0.3","BK0209384983",4684,"TLSv1.0, SSLv3",2018-06-13 00:00:00.000,0

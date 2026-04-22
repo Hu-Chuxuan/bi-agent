@@ -1,0 +1,11 @@
+Total Devices,Used Space,Vendor,Rcmd Type,Monthly On-Demand Cost,Monthly 1-Year Reserved No Upfront Cost,Monthly 1-Year Reserved Partial Upfront Cost,Monthly 1-Year Reserved All Upfront Cost,Monthly (prorated) 3-Year Reserved No Upfront Cost,Monthly (prorated) 3-Year Reserved Partial Upfront Cost,Monthly (prorated) 3-Year Reserved All Upfront Cost,Yearly On-Demand Cost,Yearly 1-Year Reserved No Upfront Cost,Yearly 1-Year Reserved Partial Upfront Cost,Yearly 1-Year Reserved All Upfront Cost,Yearly (prorated) 3-Year Reserved No Upfront Cost,Yearly (prorated) 3-Year Reserved Partial Upfront Cost,Yearly (prorated) 3-Year Reserved All Upfront Cost,Monthly Networking Cost,Yearly Networking Cost,Monthly Storage Cost,Yearly Storage Cost
+2116,31539,"AWS","Existing",62260.09,41891.36,40261.06,39614.63,30866.88,29140.93,27855.51,747131.25,502685.46,483122.95,475378,370420.88,349687.4,334260.84,,,79964.51,959574.12
+2116,31539,"AWS","Re-sized",10528.05,7124.13,6866.17,6753.56,5240.86,4959.07,4737.93,126337.56,85489.75,82393.14,81044,62891.76,59508.8,56852.78,77.85,934.2,174.22,2090.64
+2116,31539,"Azure","Existing",1014.47,,,,,,,12176.4,,,,,,,,,153879.54,1846554.48
+2116,31539,"Azure","Re-sized",8659.28,,,,,,,103935.64,,,,,,,62.93,755.16,679.12,8149.44
+2116,31539,"GCP","Existing",70172.2,,,,,,,842063.33,,,,,,,,,227831.3,2733975.6
+2116,31539,"GCP","Re-sized",11618.83,,,,,,,139425.49,,,,,,,108.92,1307.04,214.93,2579.16
+2116,31539,"Oracle","Existing",103399.79,,,,,,,1241087.53,,,,,,,,,5350.12,64201.44
+2116,31539,"Oracle","Re-sized",13248.38,,,,,,,159020.63,,,,,,,0,0,74.22,890.64
+2116,31539,"VMware","Existing",289986.99,,,,,,,3480607.25,,,,,,,,,,
+2116,31539,"VMware","Re-sized",75648.78,,,,,,,907984.5,,,,,,,,,,

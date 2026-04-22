@@ -1,0 +1,34 @@
+﻿relationship 7150b82e-1d0a-41bc-bbef-8ec08d84dda9
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Support Tickets'.'Date Created'
+	toColumn: LocalDateTable_554232b0-b557-4ee7-8e22-2e21332a5111.Date
+
+relationship d56e6dcb-8703-423a-b6e7-c4029768ce87
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Support Tickets'.'Date Completed'
+	toColumn: LocalDateTable_c743a80e-9b75-4d85-8e4e-256be17fd40b.Date
+
+relationship e3e4a71c-746a-4150-8ec0-1ae406e850ba
+	fromColumn: 'Customer Table'.'Company ID'
+	toColumn: Company.'Company ID'
+
+relationship 1939f036-fb5e-4aed-abef-7fa1dabd2f45
+	fromColumn: Device.'Customer ID'
+	toColumn: 'Customer Table'.'Customer ID'
+
+relationship b78aaa71-6295-4ea2-bb7c-221867cd5014
+	fromColumn: 'Support Tickets'.'Customer ID'
+	toColumn: 'Customer Table'.'Customer ID'
+
+relationship 21b58d75-c637-4b6d-94b0-89edcd939783
+	fromColumn: 'Customer Table'.'Geography ID'
+	toColumn: Geography.'Geography ID'
+
+relationship fa3c94ec-70b1-4ea0-9e14-097fdaf0037c
+	fromColumn: 'Customer Table'.'Subscription ID'
+	toColumn: Subscription.'Subscription ID'
+
+relationship 82416c82-703f-4ce3-97ea-802c07d350e7
+	fromColumn: 'Customer Table'.Role
+	toColumn: Role.'Role ID'
+

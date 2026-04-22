@@ -1,0 +1,35 @@
+id,location,province_id_fk
+1,"Atlantis",4
+2,"Balfour",1
+3,"Bergville",8
+4,"Bethal",1
+5,"Cape Town",4
+6,"East London",5
+7,"Emalahleni",1
+8,"Ermelo",1
+9,"Grabouw",4
+10,"Ladysmith",8
+11,"Lephalale",9
+12,"Mbashe River",5
+13,"Middelburg",1
+14,"Mossel Bay",4
+15,"Ncora River",5
+16,"Norvalspont",6
+17,"Ogies",1
+18,"Petrusville",6
+19,"Standerton",1
+20,"Umtata River",5
+21,"Vereeniging",3
+22,"Volksrust",1
+23,"Vredendal",4
+24,"Grootvlei",1
+25,"Johannesburg",3
+26,"Pretoria",3
+27,"Newcastle",8
+28,"Port Elizabeth",5
+29,"Durban",8
+30,"Tubatse",1
+31,"Helderberg",4
+32,"Bethlehem",7
+33,"Kakamas",6
+34,"Knysna",4

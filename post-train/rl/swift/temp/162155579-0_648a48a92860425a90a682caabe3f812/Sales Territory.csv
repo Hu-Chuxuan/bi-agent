@@ -1,0 +1,12 @@
+SalesTerritoryKey,SalesTerritoryAlternateKey,Sales Territory Region,Sales Territory Country,Sales Territory Group,Sales Territory Image,Sales By Region,Region Volume
+1,1,"Northwest","United States","North America","",3649866.5512000043,"Medium"
+2,2,"Northeast","United States","North America","",6532.4681999999966,"Low"
+3,3,"Central","United States","North America","",3000.8295999999991,"Low"
+4,4,"Southwest","United States","North America","",5718150.8122000024,"Medium"
+5,5,"Southeast","United States","North America","",12238.849599999998,"Low"
+6,6,"Canada","Canada","North America","",1977844.862099997,"Low"
+7,7,"France","France","Europe","",2644017.7143000066,"Medium"
+8,8,"Germany","Germany","Europe","",2894312.3382000015,"Medium"
+9,9,"Australia","Australia","Pacific","",9061000.5843999889,"High"
+10,10,"United Kingdom","United Kingdom","Europe","",3391712.2109000022,"Medium"
+11,0,"NA","NA","NA","",,"Low"

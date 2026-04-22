@@ -1,0 +1,64 @@
+Measure Names,Question Wording,Avg. Response Value,Measure Values,CustomSort
+"","High Intelligence",1.686602871,,-99
+"","Is Kind to animals",2.40821256,,-99
+"","Good Ability to lift heavy objects",2.576555024,,-99
+"","Likes the Beatles",2.720095694,,-99
+"","Good Sense of Humor",2.736842105,,-99
+"","Can Play Jazz",2.793764988,,-99
+"","Makes good coffee",2.821002387,,-99
+"","Good Job Skills",2.844868735,,-99
+"","Has grace under pressure",2.889952153,,-99
+"Small degree","High Intelligence",,-0.263157895,-2
+"Moderate Degree Neg","High Intelligence",,-0.197368421,-3
+"Moderate Degree Neg","Is Kind to animals",,-0.176328502,-3
+"Moderate Degree Neg","Good Ability to lift heavy objects",,-0.162679426,-3
+"Not at all","High Intelligence",,-0.14354067,-1
+"Moderate Degree Neg","Likes the Beatles",,-0.13277512,-3
+"Small degree","Is Kind to animals",,-0.125603865,-2
+"Moderate Degree Neg","Can Play Jazz",,-0.12470024,-3
+"Moderate Degree Neg","Good Sense of Humor",,-0.123205742,-3
+"Moderate Degree Neg","Makes good coffee",,-0.109785203,-3
+"Moderate Degree Neg","Has grace under pressure",,-0.10645933,-3
+"Moderate Degree Neg","Good Job Skills",,-0.100238663,-3
+"Small degree","Good Ability to lift heavy objects",,-0.074162679,-2
+"Small degree","Makes good coffee",,-0.071599045,-2
+"Small degree","Good Sense of Humor",,-0.064593301,-2
+"Small degree","Can Play Jazz",,-0.059952038,-2
+"Small degree","Good Job Skills",,-0.052505967,-2
+"Small degree","Likes the Beatles",,-0.050239234,-2
+"Small degree","Has grace under pressure",,-0.033492823,-2
+"Not at all","Is Kind to animals",,-0.028985507,-1
+"Not at all","Can Play Jazz",,-0.028776978,-1
+"Not at all","Good Ability to lift heavy objects",,-0.023923445,-1
+"Not at all","Has grace under pressure",,-0.0215311,-1
+"Not at all","Makes good coffee",,-0.021479714,-1
+"Not at all","Good Job Skills",,-0.021479714,-1
+"Not at all","Likes the Beatles",,-0.019138756,-1
+"Not at all","Good Sense of Humor",,-0.019138756,-1
+"High Degree","High Intelligence",,0.038277512,2
+"High Degree","Is Kind to animals",,0.099033816,2
+"Moderate Degree Pos","Good Job Skills",,0.100238663,1
+"Moderate Degree Pos","Has grace under pressure",,0.10645933,1
+"Moderate Degree Pos","Makes good coffee",,0.109785203,1
+"High Degree","Good Ability to lift heavy objects",,0.122009569,2
+"Moderate Degree Pos","Good Sense of Humor",,0.123205742,1
+"Moderate Degree Pos","Can Play Jazz",,0.12470024,1
+"Moderate Degree Pos","Likes the Beatles",,0.13277512,1
+"High Degree","Likes the Beatles",,0.14354067,2
+"Very High Degree","High Intelligence",,0.160287081,3
+"Moderate Degree Pos","Good Ability to lift heavy objects",,0.162679426,1
+"High Degree","Good Sense of Humor",,0.169856459,2
+"Moderate Degree Pos","Is Kind to animals",,0.176328502,1
+"Moderate Degree Pos","High Intelligence",,0.197368421,1
+"High Degree","Good Job Skills",,0.214797136,2
+"High Degree","Has grace under pressure",,0.234449761,2
+"High Degree","Makes good coffee",,0.248210024,2
+"High Degree","Can Play Jazz",,0.24940048,2
+"Very High Degree","Is Kind to animals",,0.393719807,3
+"Very High Degree","Can Play Jazz",,0.412470024,3
+"Very High Degree","Makes good coffee",,0.439140811,3
+"Very High Degree","Good Ability to lift heavy objects",,0.454545455,3
+"Very High Degree","Has grace under pressure",,0.497607656,3
+"Very High Degree","Good Sense of Humor",,0.5,3
+"Very High Degree","Good Job Skills",,0.510739857,3
+"Very High Degree","Likes the Beatles",,0.5215311,3

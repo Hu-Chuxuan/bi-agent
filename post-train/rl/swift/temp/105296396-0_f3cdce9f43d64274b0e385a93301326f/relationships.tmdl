@@ -1,0 +1,13 @@
+﻿relationship 8f538feb-5cfc-4eca-8d65-b31e7c7a25fe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: All_Dates.TheDate
+	toColumn: LocalDateTable_9bbb85de-92d1-4a99-b897-2736a522f3ca.Date
+
+relationship 362b4999-3ae0-4da3-b012-57bb81aea8f0
+	fromColumn: Catalog_Requests.'Req Date'
+	toColumn: All_Dates.TheDate
+
+relationship 465ab526-0e7d-4fd6-bec5-a49b5e912428
+	fromColumn: Catalog_Requests.Zipcode
+	toColumn: ZipLatLong.Zip
+

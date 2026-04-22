@@ -1,0 +1,29 @@
+﻿relationship 9103e85b-dac3-4b7d-92d8-4c53ebcaa074
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Transform-ITData.event_time
+	toColumn: LocalDateTable_5c81c516-76b7-49c5-91d6-6142876dcc54.Date
+
+relationship 6a8a28f3-eb0d-4717-8bc6-bf4bdc13e8ab
+	crossFilteringBehavior: bothDirections
+	fromColumn: Fans.Model
+	toColumn: Product.Product
+
+relationship 4c7b7234-444c-4f12-96ff-480504d228ce
+	fromColumn: Transform-ITData.serial_number
+	toColumn: Fans.'Transmitter Serial'
+
+relationship f483bb64-e9c1-479d-a4b8-2dcb9c7af224
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fans.'Warranty End Date'
+	toColumn: LocalDateTable_9122aada-ccf7-4b14-bef5-2add29210e71.Date
+
+relationship 5820dfed-c599-45e9-ac4d-80dac790b969
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fans.'First Service Date'
+	toColumn: LocalDateTable_b7438004-a038-4788-ab72-71cd8db76286.Date
+
+relationship 75c96189-c857-4725-9a3e-6a7b52acf0cf
+	crossFilteringBehavior: bothDirections
+	fromColumn: Fans.'Customer Code'
+	toColumn: Customers.CustomerCode
+

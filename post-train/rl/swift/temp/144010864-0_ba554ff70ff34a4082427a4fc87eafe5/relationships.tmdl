@@ -1,0 +1,17 @@
+﻿relationship e8d97830-36d4-4ac4-afc5-fcac6522274a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CALENDARIO.Date
+	toColumn: LocalDateTable_a8a5dda6-e4af-4684-975a-ac4c76e78f61.Date
+
+relationship 48f68930-93b9-4f06-a3fa-91811b5327fd
+	fromColumn: VENDAS.DataVenda
+	toColumn: CALENDARIO.Date
+
+relationship 5d7d2d05-6f66-469a-b3e6-40db0140c3bc
+	fromColumn: VENDAS.idProduto
+	toColumn: PRODUTOS.idProduto
+
+relationship 641fe29b-f466-4a2e-95e6-82e6f259862a
+	fromColumn: VENDAS.idCliente
+	toColumn: CLIENTES.idCliente
+

@@ -1,0 +1,45 @@
+﻿relationship 392206d0-60ed-49fb-8640-ddd8fd0e933e
+	fromColumn: 'Stockmovement history'.date
+	toColumn: Kalender.Datum
+
+relationship b09c9306-b42c-45f6-91a3-d724a845ed49
+	fromColumn: 'WH Purchase Order Item'.product_sku
+	toColumn: 'Producten Uitgebreid'.sku
+
+relationship 95194e8e-c1b9-4f80-b37e-bcebc96b21d0
+	fromColumn: Forecast.sku
+	toColumn: 'Producten Uitgebreid'.sku
+
+relationship 457a0c1c-92cf-4e2f-9d7c-42dc8e93287c
+	fromColumn: 'WH Container Item (Open orders)'.Samengevoegd
+	toColumn: 'WH Container Item (Orderinfo)'.Samengevoegd
+
+relationship da36807d-6f1f-4820-b10c-3cfc1ae69173
+	fromColumn: 'WH Container Item (Cnt onderweg)'.Samengevoegd
+	toColumn: 'WH Container Item (Orderinfo)'.Samengevoegd
+
+relationship 62bbbba5-9ba9-426b-9a64-4e610a424b46
+	fromColumn: 'WH Container Item (Open orders)'.'Arrival Order'
+	toColumn: Kalender.Datum
+
+relationship 28e256d3-3ec0-4e30-b0fb-684f14756377
+	fromColumn: 'WH Container Item (Cnt onderweg)'.'Arrival Container'
+	toColumn: Kalender.Datum
+
+relationship 9b1d7051-c3fd-4788-ba74-4ce708072f87
+	fromColumn: 'WH Purchase Order Item'.supply_date
+	toColumn: Kalender.Datum
+
+relationship 80ee020a-f68a-4743-98f9-06784d781bc6
+	fromColumn: 'Stockmovement history'.sku
+	toColumn: 'Producten Uitgebreid'.sku
+
+relationship f37d881b-aed3-4b06-98e4-5f9285043f0c
+	fromColumn: 'WH Container Item (Orderinfo)'.sku
+	toColumn: 'Producten Uitgebreid'.sku
+
+relationship 9512a8ca-da46-4bbc-960c-77eb26d4757d
+	toCardinality: many
+	fromColumn: Forecast.Weeknummer
+	toColumn: Kalender.JJJJWW
+

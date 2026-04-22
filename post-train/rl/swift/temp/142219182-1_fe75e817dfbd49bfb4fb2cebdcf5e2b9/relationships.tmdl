@@ -1,0 +1,33 @@
+﻿relationship dcb9fa9d-645a-4116-8855-c2453a94fc53
+	joinOnDateBehavior: datePartOnly
+	fromColumn: HistoricalEsportData.Date
+	toColumn: LocalDateTable_8479d58c-04ca-484b-9cc4-7d75b925f460.Date
+
+relationship 3afe8af5-cc24-4166-a010-4248c0d0c3cd
+	fromColumn: HistoricalEsportData.Game
+	toColumn: GeneralEsportData.Game
+
+relationship 3d3f0036-afa0-4a2b-8464-33ed407da2ea
+	fromColumn: Twitch_game_data.Game
+	toColumn: GeneralEsportData.Game
+
+relationship 2022dec0-1198-4f87-8a90-f56face16b4f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: SteamCharts.date
+	toColumn: LocalDateTable_fdffc745-e887-484d-9ac3-06c597e2dd02.Date
+
+relationship 42ee5077-7ddf-49dc-ada6-51fcfc1030a5
+	fromColumn: use.Game
+	toColumn: GeneralEsportData.Game
+
+relationship 8df67777-d49a-466a-97d6-0752864dcf3e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: single-cluster.'Release Date'
+	toColumn: LocalDateTable_84ce8eaa-86c3-46dc-bd5c-b0780838243a.Date
+
+relationship 467ef5dc-185d-42f8-98b2-e95fbc79799f
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: multiple-cluster.Column1
+	toColumn: single-cluster.Column1
+

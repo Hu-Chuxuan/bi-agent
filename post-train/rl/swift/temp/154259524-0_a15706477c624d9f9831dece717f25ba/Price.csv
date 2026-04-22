@@ -1,0 +1,12 @@
+Item,Customer,Country,ItemFamily,Discount,Price,Pricing Method,Column,Col_result
+Item6,,,ZV,,100.0,2,100.0,40.0
+Item1,C1,,,,2.18,1,2.18,2.18
+,C5,,EL,0.2,,4,0.2,0.0
+,C6,,ZV,0.4,,4,0.4,0.0
+Item3,C3,,,,4.6,1,4.6,4.6
+Item2,C2,,,,3.55,1,3.55,3.55
+,C4,,TH,0.3,,4,0.3,0.0
+Item5,,,TH,,60.0,2,60.0,18.0
+Item8,,GR,,,9.7,3,9.7,9.7
+Item4,,,EL,,50.0,2,50.0,10.0
+Item7,,AU,,,6.8,3,6.8,6.8

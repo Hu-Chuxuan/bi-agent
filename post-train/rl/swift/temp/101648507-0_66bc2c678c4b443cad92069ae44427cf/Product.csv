@@ -1,0 +1,21 @@
+ProductID,SKU,Product,Category,Item Group,Kit Type,Channels,Demographic,Cost
+1,"1010-GL120-3C","Trainer - Tailspin GL-120","Glider","Airplane","RTF",3,"Novice",59.05
+2,"1010-GL155-4C","Trainer - Tailspin GL-155","Glider","Airplane","RTF",4,"Intermediate",162.68
+3,"2030-PCUB-3C","Piper Cub 3 Channel","Trainer","Airplane","RTF",3,"Beginner",60.83
+4,"2030-PCUB-4C","Piper Cub 4 Channel","Trainer","Airplane","RTF",4,"Intermediate",139.09
+5,"2050-P47-4C","P47 4 Channel","Warbird","Airplane","RTF",4,"Intermediate",86.91
+6,"2050-P47-5C","P47 5 Channel","Warbird","Airplane","RTF",5,"Advanced",225.17
+7,"2055-P51-5C","P51","Warbird","Airplane","RTF",5,"Advanced",217.35
+8,"2060-SKYT-5C","SkyTrainer","Trainer","Airplane","RTF",5,"Advanced",146.91
+9,"3010-TAVM2-11-3C","Tailspin Aviator Mk2-11","Glider","Airplane","KIT",3,"Intermediate",126.32
+10,"3010-TAVM2-12-4C","Tailspin Aviator Mk2-12","Trainer","Airplane","KIT",4,"Intermediate",129.13
+11,"3010-TAVM2-15-4C","Tailspin Aviator Mk2-15","Trainer","Airplane","KIT",4,"Intermediate",140.79
+12,"3010-TWAR-BM32-5C","Tailspin Warbird BM32","Warbird","Airplane","KIT",5,"Advanced",240.79
+13,"3050-THeli-Co-Ax Pro-4C","Tailspin Heli - Co-Ax Pro Mk I - 4ch","Co-Axial","Helicopter","KIT",4,"Intermediate",247.16
+14,"3050-THeli-MaxPro-6C","Tailspin Heli - Max Pro Flight - 6ch","Collective pitch","Helicopter","KIT",6,"Professional",367.16
+15,"3050-THeli-Pro-5C","Tailspin Heli - Pro Mk III - 5ch","Fixed pitch","Helicopter","KIT",5,"Advanced",255.16
+16,"4010-3CAX-B-3C","3CAX-B Helicopter","Co-Axial","Helicopter","RTF",3,"Novice",39.96
+17,"4010-3CFP-I-3C","3CFP-I Helicopter","Fixed pitch","Helicopter","RTF",3,"Beginner",95.16
+18,"4030-4CAX-B-4C","4CAX-B Helicopter","Co-Axial","Helicopter","RTF",4,"Intermediate",95.96
+19,"4030-4CFP-I-4C","4CFP-I Helicopter","Fixed pitch","Helicopter","RTF",4,"Beginner",111.96
+20,"4040-6CCP-A-6C","6CCP-A Helicopter","Collective pitch","Helicopter","RTF",6,"Professional",151.96

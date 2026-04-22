@@ -1,0 +1,66 @@
+﻿relationship 18c92c7d-47ff-47f7-94b0-e220f4c15f0e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Customer_Lookup.BirthDate
+	toColumn: LocalDateTable_2492375e-922a-44de-b1c9-9928d74c7047.Date
+
+relationship 7e3a0dc0-ea98-4a15-8935-0c001c782375
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calender_Lookup.Date
+	toColumn: LocalDateTable_135a90cd-d04b-4fdb-98b9-c7e258b9d6a0.Date
+
+relationship 9bc2d2cc-714e-428e-afda-887465aa210b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calender_Lookup.'Start of Week'
+	toColumn: LocalDateTable_c512dc84-66c3-4bfb-b79a-e04c36461eb0.Date
+
+relationship 0f22095d-9234-4efa-9dbe-ece5233e0be5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calender_Lookup.'Start of Month'
+	toColumn: LocalDateTable_5c6325fa-3ba6-4710-bd3b-cc1c0c5f0248.Date
+
+relationship 54e9c1d2-0b83-419b-82dd-11d64bafb708
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calender_Lookup.'Start of Year'
+	toColumn: LocalDateTable_0638a8c8-e155-4970-8114-91807b30faa8.Date
+
+relationship 37416548-7231-460e-aa59-914d238e8e0e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Sales.StockDate
+	toColumn: LocalDateTable_d04be715-0df9-4bad-815d-439275214bd6.Date
+
+relationship 9a5f02b7-6ecc-43d8-959d-510f2008636a
+	fromColumn: AW_Returns.ReturnDate
+	toColumn: AW_Calender_Lookup.Date
+
+relationship d24ed7b1-5b66-4dcf-aed3-f7f6d0b377f2
+	fromColumn: AW_Returns.ProductKey
+	toColumn: AW_Product_Lookup.ProductKey
+
+relationship 0c04fc6f-28c1-460d-9ea5-52975c002d06
+	fromColumn: AW_Returns.TerritoryKey
+	toColumn: AW_Territories_Lookup.SalesTerritoryKey
+
+relationship 403602fd-b349-4bb6-843d-c5b9c116ec44
+	fromColumn: AW_Sales.CustomerKey
+	toColumn: AW_Customer_Lookup.CustomerKey
+
+relationship 7a002914-adcb-4b4c-990c-375e7806eccc
+	fromColumn: AW_Sales.OrderDate
+	toColumn: AW_Calender_Lookup.Date
+
+relationship 03bfb8c9-1fd3-4a58-af66-147120d7771f
+	fromColumn: AW_Sales.ProductKey
+	toColumn: AW_Product_Lookup.ProductKey
+
+relationship 45ab697b-003b-4c9f-915c-77dda996326c
+	fromColumn: AW_Sales.TerritoryKey
+	toColumn: AW_Territories_Lookup.SalesTerritoryKey
+
+relationship e5746f2f-b183-4889-84a3-a6280547346e
+	fromColumn: AW_Product_Subcategory_Lookup.ProductCategoryKey
+	toColumn: AW_Product_Category_Lookup.ProductCategoryKey
+
+relationship e5447b8d-35e4-49f2-973f-c3ebec309d17
+	fromColumn: AW_Product_Lookup.ProductSubcategoryKey
+	toColumn: AW_Product_Subcategory_Lookup.ProductSubcategoryKey
+

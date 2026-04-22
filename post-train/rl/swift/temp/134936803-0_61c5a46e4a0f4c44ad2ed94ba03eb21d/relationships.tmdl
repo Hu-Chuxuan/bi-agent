@@ -1,0 +1,59 @@
+﻿relationship 93102ff9-9a54-4abe-85ab-5c1cf8c989a8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_f973e239-5a32-4b9d-9c71-d142ff420d50.Date
+
+relationship 6879ce03-c84a-4db6-8671-ea086849f94d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.MonthYear
+	toColumn: LocalDateTable_17c458a4-3d45-4b29-b483-9898ad540c29.Date
+
+relationship 321f6058-17b8-4f3b-8f96-f37630cb6b05
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.MonthYearLong
+	toColumn: LocalDateTable_d2b24f41-706d-47b9-ba66-ebbfcd96aedd.Date
+
+relationship f1a2cb5d-8acf-49a2-b227-300e0756c5c7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.BirthDate
+	toColumn: LocalDateTable_f89d15c1-ea47-4e8b-bcc9-eb0228df03c7.Date
+
+relationship f1352e47-8288-44a5-b88a-9c85697d145d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customer.DateFirstPurchase
+	toColumn: LocalDateTable_1d7272e3-87e7-4ba2-96a1-4a909c6ce50e.Date
+
+relationship a41d374c-5a3b-4240-a91b-89ac9679754d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Product.StartDate
+	toColumn: LocalDateTable_c0854ca0-10d0-4fc6-89a9-d07c497796b3.Date
+
+relationship 1407d7d9-10da-4473-ae72-ff5e770ab3d5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sales.ShipDate
+	toColumn: LocalDateTable_dfc2273d-02ce-4bbc-b6b7-7cfafa987421.Date
+
+relationship 4b2eaeb6-9b74-445d-8532-f258809f4c68
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ProductKey
+
+relationship 9e32bd39-2d8e-42ed-bdf2-ac611a65f6e3
+	fromColumn: Sales.CustomerKey
+	toColumn: Customer.CustomerKey
+
+relationship 69a49c67-e4ae-4ab1-8919-79a39b9d00c7
+	fromColumn: Sales.SalesTerritoryKey
+	toColumn: Territories.SalesTerritoryKey
+
+relationship 42a3983a-cd68-4f43-81f7-a05ba1d73068
+	fromColumn: Sales.OrderDate
+	toColumn: Calendar.Date
+
+relationship 036ca01f-908a-41ae-bfcf-680d6324d961
+	fromColumn: Budget.ProductKey
+	toColumn: Product.ProductKey
+
+relationship 560bd366-d690-4eaa-a9a7-ad090d27deb3
+	fromColumn: Budget.Month
+	toColumn: Calendar.Date
+

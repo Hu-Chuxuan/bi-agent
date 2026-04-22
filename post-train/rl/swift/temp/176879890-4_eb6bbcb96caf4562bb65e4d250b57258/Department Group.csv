@@ -1,0 +1,8 @@
+DepartmentGroupKey,Department Group,Parent Group
+1,"Corporate",""
+2,"Executive General and Administration","Corporate"
+3,"Inventory Management","Corporate"
+4,"Manufacturing","Corporate"
+5,"Quality Assurance","Corporate"
+6,"Research and Development","Corporate"
+7,"Sales and Marketing","Corporate"

@@ -1,0 +1,19 @@
+﻿relationship 97e05a26-8a9d-47c6-ba7f-4e4416754ad1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Errors.Timestamp
+	toColumn: LocalDateTable_659142ca-7048-4bfd-aaba-6883e043b435.Date
+
+relationship 278f091f-22d8-4eb6-a037-a958612e5716
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FoldingWarnings.Timestamp
+	toColumn: LocalDateTable_96681754-c5ab-4bec-9044-f7f8f40d0044.Date
+
+relationship 33995811-5d49-4663-a0df-e03442079571
+	fromColumn: ODBCFoldingInfo.QueryKey
+	toColumn: Queries.QueryKey
+
+relationship cce7b369-6134-43fd-a4e3-7be09b3a9270
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ExtensionTrace.Timestamp
+	toColumn: LocalDateTable_cd0ea894-eea1-41dc-86bd-5676f7e382a2.Date
+

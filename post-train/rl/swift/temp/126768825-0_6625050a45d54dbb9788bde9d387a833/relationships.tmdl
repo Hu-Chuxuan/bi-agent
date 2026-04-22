@@ -1,0 +1,23 @@
+﻿relationship c57f76e4-c962-4966-9ca9-257be351883c
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: dim_dependente.CodigoDependente
+	toColumn: dependente_silver.CodigoDependente
+
+relationship 22b18eb7-d598-454b-ab37-545b6b56ff9d
+	fromColumn: dependente_silver.MatriculaFuncionario
+	toColumn: dim_vendedor.MatriculaFuncionario
+
+relationship 4d3d9f63-5127-43db-8794-ab224f940804
+	isActive: false
+	fromColumn: dim_dependente.MatriculaFuncionario
+	toColumn: dim_vendedor.MatriculaFuncionario
+
+relationship 50e56b2a-26b6-4692-8c8f-4e86d1c4283f
+	fromColumn: fato_vendas.CodigoVendedor
+	toColumn: dim_vendedor.CodigoVendedor
+
+relationship f3083581-d2c2-44fa-ab4d-1bc11be44392
+	fromColumn: fato_vendas.CodigoProduto
+	toColumn: dim_produto.CodigoProduto
+

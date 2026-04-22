@@ -1,0 +1,78 @@
+﻿relationship 22b074e0-039e-479f-9340-f0a134a83fb2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customers.birthdate
+	toColumn: LocalDateTable_656f2000-d98a-4ffa-8fbe-861a15c975c4.Date
+
+relationship 25dead01-11d6-4d97-b1af-75531fbae61d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customers.acct_open_date
+	toColumn: LocalDateTable_f53227d8-3106-40c2-a140-bbd39ee8b14f.Date
+
+relationship c76d6cfc-6a15-4aff-9ccf-c18004835662
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Stores.first_opened_date
+	toColumn: LocalDateTable_a36256cd-e40a-40f3-a45f-b610734d7059.Date
+
+relationship 95bd0975-f6f3-448f-b10c-7b1cafb2ff8c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Stores.last_remodel_date
+	toColumn: LocalDateTable_a058b3fe-16ba-4465-88c4-de1a53f3e65e.Date
+
+relationship 3c8dcbb6-f733-40d5-ae7f-ab79ececa9d5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.date
+	toColumn: LocalDateTable_6e719145-34cd-4cd5-8ae7-6b8ac1599820.Date
+
+relationship ae466a00-4161-4154-b172-c610ecd160fe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.'Start of Week'
+	toColumn: LocalDateTable_6477b94a-945c-4543-bc79-11f9e1aa7b6e.Date
+
+relationship 59806f20-24dd-4e3a-b323-a60d5ec72da0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.'Start of Month'
+	toColumn: LocalDateTable_da9de774-0b0e-48f4-82c7-1b99b8c24b93.Date
+
+relationship d68254e7-cc0c-4f87-b33a-369e6a7bec91
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Return_Data.return_date
+	toColumn: LocalDateTable_2966442f-56c7-4323-a9a0-557bc98ba3ff.Date
+
+relationship ccff629f-5497-42e3-9166-8b4131c273ae
+	fromColumn: Transaction_Data.customer_id
+	toColumn: Customers.customer_id
+
+relationship 8f44b972-ad64-444c-b39b-01510afcf371
+	fromColumn: Transaction_Data.product_id
+	toColumn: Products.product_id
+
+relationship 1f24133c-7e48-4008-998e-ae73e1c13c0e
+	fromColumn: Transaction_Data.store_id
+	toColumn: Stores.store_id
+
+relationship 4b4e8db0-da34-46ea-98c8-7c18574414a8
+	fromColumn: Transaction_Data.stock_date
+	toColumn: Calendar.date
+
+relationship b18c0dea-0c68-4091-be49-7927cb9d8938
+	fromColumn: Return_Data.product_id
+	toColumn: Products.product_id
+
+relationship 94726139-aaa4-4cd3-92ac-249afe6d06a2
+	fromColumn: Return_Data.store_id
+	toColumn: Stores.store_id
+
+relationship eb23ea7e-3272-43bc-9504-dfabf20ef3f5
+	fromColumn: Stores.region_id
+	toColumn: Regions.region_id
+
+relationship b4811249-c052-4654-8aad-caffa42c60cb
+	isActive: false
+	fromColumn: Transaction_Data.transaction_date
+	toColumn: Calendar.date
+
+relationship 72485877-4b27-4c24-b38a-8d4fe339bd05
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.'End of Month'
+	toColumn: LocalDateTable_0c40254c-7d23-4e50-82ad-62720abfd83d.Date
+

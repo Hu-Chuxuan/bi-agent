@@ -1,0 +1,24 @@
+﻿relationship df542166-73c1-4cb1-a4ed-d86dcac38bf7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_5c5c1f10-58da-4f6c-8569-2b7e728b25b1.Date
+
+relationship 59d551f8-b82f-4535-884e-e31a00c80024
+	fromColumn: 'US Superstore data'.'Order Date'
+	toColumn: Date.Date
+
+relationship 1dd4efe6-67d8-4806-b94c-6d040e7bb077
+	isActive: false
+	fromColumn: 'US Superstore data'.'Ship Date'
+	toColumn: Date.Date
+
+relationship 72cf8f90-e6e7-4481-b13b-6c0702bf3b88
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.'Week Starting Sunday'
+	toColumn: LocalDateTable_eb9561e4-5d02-4777-b1eb-090455b0bb3d.Date
+
+relationship 8a0bbbee-0b96-4e30-96ca-565728a97dfe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.'Week Starting Monday'
+	toColumn: LocalDateTable_3f1ac4c3-b749-4c3e-be0b-840ee53c72ff.Date
+

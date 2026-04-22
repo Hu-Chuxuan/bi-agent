@@ -1,0 +1,23 @@
+﻿relationship 787fcb22-77f1-4c34-aabf-6455d6111197
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_e23c23d8-eb19-4b2a-9ea5-602f11771a87.Date
+
+relationship fc2fbb33-cc4f-4b4a-97d2-5cb32db92d45
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Month
+	toColumn: LocalDateTable_91a7aa19-0bec-48d9-8619-0159c5cf0714.Date
+
+relationship 50c8c1fc-1798-4df1-816f-8bf1c6e62b75
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.'Full Date'
+	toColumn: LocalDateTable_6b125349-03dc-4195-8317-9cdc9c89299f.Date
+
+relationship 9cd21c86-3990-4b13-89e3-9675c592007e
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ProductKey
+
+relationship eb95e265-2055-47a0-ab7b-06f4c6b0a0af
+	fromColumn: Sales.OrderDateKey
+	toColumn: Date.DateKey
+

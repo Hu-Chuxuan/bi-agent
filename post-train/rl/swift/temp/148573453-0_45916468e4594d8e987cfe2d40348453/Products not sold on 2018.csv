@@ -1,0 +1,141 @@
+producto_ID,variable,value
+1,producto_nombre,Trek 820 - 2016
+319,producto_nombre,Trek Checkpoint SL 5 Women's - 2019
+317,producto_nombre,Trek Checkpoint ALR 5 - 2019
+16,producto_nombre,Electra Townie Original 7D EQ - 2016
+125,producto_nombre,Trek Kids' Dual Sport - 2018
+83,producto_nombre,Trek Boy's Kickster - 2015/2017
+267,producto_nombre,Trek Precaliber 12 Girl's - 2018
+73,producto_nombre,Sun Bicycles Brickell Tandem 7 - 2017
+320,producto_nombre,Trek Checkpoint SL 6 - 2019
+318,producto_nombre,Trek Checkpoint ALR 5 Women's - 2019
+291,producto_nombre,Electra Sweet Ride 1 (20-inch) - Girl's - 2018
+30,producto_nombre,Surly Ice Cream Truck Frameset - 2017
+154,producto_nombre,Trek Domane SLR 6 Disc Women's - 2018
+321,producto_nombre,Trek Checkpoint ALR Frameset - 2019
+74,producto_nombre,Electra Cruiser Lux 1 - 2017
+284,producto_nombre,Electra Savannah 1 (20-inch) - Girl's - 2018
+121,producto_nombre,Surly Krampus Frameset - 2018
+195,producto_nombre,Electra Townie Go! 8i Ladies' - 2018
+316,producto_nombre,Trek Checkpoint ALR 4 Women's - 2019
+94,producto_nombre,Haro Shredder Pro 20 - 2017
+1,marca_ID,9
+319,marca_ID,9
+317,marca_ID,9
+16,marca_ID,1
+125,marca_ID,9
+83,marca_ID,9
+267,marca_ID,9
+73,marca_ID,7
+320,marca_ID,9
+318,marca_ID,9
+291,marca_ID,1
+30,marca_ID,8
+154,marca_ID,9
+321,marca_ID,9
+74,marca_ID,1
+284,marca_ID,1
+121,marca_ID,8
+195,marca_ID,1
+316,marca_ID,9
+94,marca_ID,2
+1,marca_nombre,Trek
+319,marca_nombre,Trek
+317,marca_nombre,Trek
+16,marca_nombre,Electra
+125,marca_nombre,Trek
+83,marca_nombre,Trek
+267,marca_nombre,Trek
+73,marca_nombre,Sun Bicycles
+320,marca_nombre,Trek
+318,marca_nombre,Trek
+291,marca_nombre,Electra
+30,marca_nombre,Surly
+154,marca_nombre,Trek
+321,marca_nombre,Trek
+74,marca_nombre,Electra
+284,marca_nombre,Electra
+121,marca_nombre,Surly
+195,marca_nombre,Electra
+316,marca_nombre,Trek
+94,marca_nombre,Haro
+1,categoria_ID,6
+319,categoria_ID,7
+317,categoria_ID,7
+16,categoria_ID,3
+125,categoria_ID,6
+83,categoria_ID,1
+267,categoria_ID,1
+73,categoria_ID,3
+320,categoria_ID,7
+318,categoria_ID,7
+291,categoria_ID,1
+30,categoria_ID,6
+154,categoria_ID,7
+321,categoria_ID,7
+74,categoria_ID,3
+284,categoria_ID,1
+121,categoria_ID,6
+195,categoria_ID,5
+316,categoria_ID,7
+94,categoria_ID,1
+1,categoria_nombre,Mountain Bikes
+319,categoria_nombre,Road Bikes
+317,categoria_nombre,Road Bikes
+16,categoria_nombre,Cruisers Bicycles
+125,categoria_nombre,Mountain Bikes
+83,categoria_nombre,Children Bicycles
+267,categoria_nombre,Children Bicycles
+73,categoria_nombre,Cruisers Bicycles
+320,categoria_nombre,Road Bikes
+318,categoria_nombre,Road Bikes
+291,categoria_nombre,Children Bicycles
+30,categoria_nombre,Mountain Bikes
+154,categoria_nombre,Road Bikes
+321,categoria_nombre,Road Bikes
+74,categoria_nombre,Cruisers Bicycles
+284,categoria_nombre,Children Bicycles
+121,categoria_nombre,Mountain Bikes
+195,categoria_nombre,Electric Bikes
+316,categoria_nombre,Road Bikes
+94,categoria_nombre,Children Bicycles
+1,modelo_año,2016
+319,modelo_año,2019
+317,modelo_año,2019
+16,modelo_año,2016
+125,modelo_año,2018
+83,modelo_año,2017
+267,modelo_año,2018
+73,modelo_año,2017
+320,modelo_año,2019
+318,modelo_año,2019
+291,modelo_año,2018
+30,modelo_año,2017
+154,modelo_año,2018
+321,modelo_año,2019
+74,modelo_año,2017
+284,modelo_año,2018
+121,modelo_año,2018
+195,modelo_año,2018
+316,modelo_año,2019
+94,modelo_año,2017
+1,precio_lista,379.99
+319,precio_lista,2799.99
+317,precio_lista,1999.99
+16,precio_lista,599.99
+125,precio_lista,469.99
+83,precio_lista,149.99
+267,precio_lista,199.99
+73,precio_lista,749.99
+320,precio_lista,3799.99
+318,precio_lista,1999.99
+291,precio_lista,319.99
+30,precio_lista,999.99
+154,precio_lista,5499.99
+321,precio_lista,3199.99
+74,precio_lista,439.99
+284,precio_lista,319.99
+121,precio_lista,2499.99
+195,precio_lista,2599.99
+316,precio_lista,1699.99
+94,precio_lista,249.99

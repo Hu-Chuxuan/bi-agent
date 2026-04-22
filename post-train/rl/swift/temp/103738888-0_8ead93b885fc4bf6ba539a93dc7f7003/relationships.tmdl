@@ -1,0 +1,12 @@
+﻿relationship c1bc7e5e-31b1-42f3-a796-7700b3becdfe
+	fromColumn: 'Customer Ledger Entry'.'Customer Code'
+	toColumn: Customer.'Customer Code'
+
+relationship 179f0280-e0f5-4396-9868-7e6018314e8a
+	fromColumn: 'Detailed Cust Ledger Entry'.'Invoice No'
+	toColumn: 'Customer Ledger Entry'.'Invoice No'
+
+relationship 24b3d764-c768-4ccd-94ef-56db94e50c08
+	fromColumn: 'Customer Ledger Entry'.'Invoice Date'
+	toColumn: DimDate.Date
+

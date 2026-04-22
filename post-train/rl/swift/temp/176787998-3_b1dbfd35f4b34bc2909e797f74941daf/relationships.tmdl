@@ -1,0 +1,32 @@
+﻿relationship b5fdd7b9-4b5c-4927-ac0d-96ffa47f39a4
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Locaciones 2'.Identificador
+	toColumn: tabla_locaciones.identificador
+
+relationship cb58526f-efd0-426d-a383-898bc1cdf69f
+	fromColumn: 'orders (3)'.CustomerID
+	toColumn: 'customers (3)'.CustomerID
+
+relationship 2dccd1ba-6fff-485d-9f3e-8441bf7ebaea
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'plantas capacidades'.PlantID
+	toColumn: plants.PlantID
+
+relationship 8751808a-077d-4b26-a9f2-73a2c6c9ad28
+	fromColumn: variable_costs.PlantID
+	toColumn: plants.PlantID
+
+relationship 6428f1f9-b104-4151-b587-63a6a7348ee8
+	fromColumn: routes_available.Directo
+	toColumn: routes_endtoend.Directo
+
+relationship 295b7c81-7301-448e-9241-2ab25a9b9d3e
+	fromColumn: routes_available.Combinada2
+	toColumn: 'routes_segment (2)'.Combinada2
+
+relationship af515d4d-e162-4602-b874-7615aa3ef4a4
+	fromColumn: routes_available.Combinada1
+	toColumn: 'routes_segment (1)'.Combinada1
+

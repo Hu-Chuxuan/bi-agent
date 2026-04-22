@@ -1,0 +1,4 @@
+Desc SLA,PK_dim_SLA,Cor
+"dentro do prazo",1,"Verde"
+"perto do prazo",2,"Amarelo"
+"fora do prazo",3,"Vermelho"

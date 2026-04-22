@@ -1,0 +1,11 @@
+﻿relationship dea20c09-8026-4c15-a6d7-ab0c2a478d07
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Fact.departmentid
+	toColumn: Department.departmentid
+
+relationship 9b0845c5-1fdc-412d-8e48-0a7137b99fd5
+	crossFilteringBehavior: bothDirections
+	fromColumn: Rights.departmentid
+	toColumn: Department.departmentid
+

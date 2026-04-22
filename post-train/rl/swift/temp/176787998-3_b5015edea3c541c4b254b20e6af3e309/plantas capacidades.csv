@@ -1,0 +1,6 @@
+PlantID,PlantProdCapacityLiters,PlantRailTransportationCapacityLiters,PlantRoadTransportationCapacityLiters
+"Plant001",760,324,362
+"Plant002",906,76,201
+"Plant003",691,382,345
+"Plant004",165,294,445
+"Plant005",1000,292,499

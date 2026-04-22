@@ -1,0 +1,60 @@
+﻿relationship 19c5da31-882d-468e-8171-2ae0e3f5b63b
+	fromColumn: 'General Table'.Photo
+	toColumn: Photo.Photo
+
+relationship a8bfb12e-de53-481c-bf55-6bd508371a56
+	fromColumn: 'General Table'.'Hard Skills'
+	toColumn: 'SHard Skills'.'Hard Skills'
+
+relationship 8bfaf67c-f540-4b1a-84f8-21dfbe327d0f
+	fromColumn: 'General Table'.'Soft Skills'
+	toColumn: 'SSoft Scales'.'Soft Skills'
+
+relationship c72f254a-295c-41d4-889c-451e2a16f316
+	fromColumn: 'General Table'.Education
+	toColumn: Education.Education
+
+relationship ae1c81c3-407d-4c35-9685-5ad7479f8ffe
+	fromColumn: 'General Table'.Certification
+	toColumn: Certification.Certification
+
+relationship 5e1828d7-0dad-4705-b5a9-d50dfc3f1104
+	fromColumn: 'General Table'.Title
+	toColumn: Experience.Title
+
+relationship da7eb83a-7274-4504-8524-f020dd184736
+	fromColumn: 'General Table'.Company
+	toColumn: 'Companies'' Logos'.Company
+
+relationship 83c9a256-e44b-488c-b248-11dbf40aa31e
+	fromColumn: 'Soft Skills'.'Soft Skills'
+	toColumn: 'SSoft Scales'.'Soft Skills'
+
+relationship 79019709-80ca-4c78-86c8-1bd7ed78dc22
+	fromColumn: 'Soft Skills'.Education
+	toColumn: Education.Education
+
+relationship 9638a369-a210-4aea-91b6-09f8b4784547
+	fromColumn: 'Soft Skills'.Certification
+	toColumn: Certification.Certification
+
+relationship 64d2ca12-2f87-43c1-a87a-73c3e022028c
+	fromColumn: 'Soft Skills'.Title
+	toColumn: Experience.Title
+
+relationship 79ef224e-d55c-4c93-9a22-36d7d5507e6b
+	fromColumn: 'Hard Skills'.'Hard Skills'
+	toColumn: 'SHard Skills'.'Hard Skills'
+
+relationship 7f8aca5e-4cd8-4b0b-a33b-310ede09a003
+	fromColumn: 'Hard Skills'.Certification
+	toColumn: Certification.Certification
+
+relationship a882e96c-83af-487a-98be-376eb4c5d88b
+	fromColumn: 'Hard Skills'.Title
+	toColumn: Experience.Title
+
+relationship 7fe3d266-f725-4f7b-b285-0d424445decf
+	fromColumn: 'Hard Skills'.Education
+	toColumn: Education.Education
+

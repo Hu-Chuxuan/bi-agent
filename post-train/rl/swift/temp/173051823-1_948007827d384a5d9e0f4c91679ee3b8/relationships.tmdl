@@ -1,0 +1,52 @@
+﻿relationship 09fc7dad-f849-4f6b-bc5b-2571302dea28
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.Date
+	toColumn: LocalDateTable_2f227d3c-6b00-4a4e-b788-e962a92d98c2.Date
+
+relationship 9cfe7800-e60a-4fd0-a354-952960c88364
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date/Times.Date/Time
+	toColumn: LocalDateTable_8e456766-5527-4435-b16f-8ee100ce382e.Date
+
+relationship 8c97e319-e3fe-47ca-9953-f2ef959f56e0
+	fromColumn: 'Electricity Demand'.BA-Subregion
+	toColumn: 'BAs + Subregions'.BA-Subregion
+
+relationship 7b2c2932-d5cf-437d-be8d-17ad094ca11f
+	fromColumn: 'BAs + Subregions'.'BA Code'
+	toColumn: BAs.'BA Code'
+
+relationship 39e94280-9ac2-42aa-81ff-ad290844d3e0
+	fromColumn: 'Electricity Generated'.BA
+	toColumn: BAs.'BA Code'
+
+relationship 2cf642a8-e25e-4de9-b5dd-4c1d3a551f73
+	fromColumn: Temperatures.'Station ID'
+	toColumn: 'BAs + Subregions'.'NOAA Station ID'
+
+relationship 2d5e7435-d824-423b-b5bf-be1385dffdcf
+	fromColumn: 'Electricity Outages'.Date
+	toColumn: Dates.Date
+
+relationship 50006203-01f5-4c47-99b5-76230cc1b631
+	fromColumn: Temperatures.Date
+	toColumn: Dates.Date
+
+relationship df78d718-3a6c-4b9c-935b-9888163853fc
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Electricity Outages'.'NERC Region'
+	toColumn: BAs.'NERC Region'
+
+relationship 840eba7d-632d-4067-9597-c6b75a8bc557
+	fromColumn: 'Electricity Generated'.Date/Time
+	toColumn: Date/Times.Date/Time
+
+relationship 22474208-1bdb-479b-b5bf-511b5c7ce8b6
+	fromColumn: 'Electricity Demand'.Date/Time
+	toColumn: Date/Times.Date/Time
+
+relationship 8f2ec5c5-7fa6-4057-899f-04e044bee0be
+	fromColumn: Date/Times.Date
+	toColumn: Dates.Date
+

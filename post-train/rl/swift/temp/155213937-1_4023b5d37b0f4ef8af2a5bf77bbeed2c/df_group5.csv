@@ -1,0 +1,449 @@
+Country,Disease,Year,outbreak_cluster
+"Afghanistan","COVID-19",2020,0
+"Albania","COVID-19",2020,0
+"Algeria","COVID-19",2020,0
+"Andorra","COVID-19",2020,0
+"Argentina","COVID-19",2020,0
+"Australia","COVID-19",2020,0
+"Austria","COVID-19",2020,0
+"Azerbaijan","COVID-19",2020,0
+"Bahrain","COVID-19",2020,0
+"Bangladesh","COVID-19",2020,0
+"Belgium","COVID-19",2020,0
+"Bosnia and Herzegovina","COVID-19",2020,0
+"Brazil","COVID-19",2020,0
+"Bulgaria","COVID-19",2020,0
+"Burkina Faso","COVID-19",2020,0
+"Cabo Verde","COVID-19",2020,0
+"Canada","COVID-19",2020,0
+"Chile","COVID-19",2020,0
+"China","COVID-19",2020,0
+"Colombia","COVID-19",2020,0
+"Congo (Kinshasa)","COVID-19",2020,0
+"Costa Rica","COVID-19",2020,0
+"Croatia","COVID-19",2020,0
+"Cuba","COVID-19",2020,0
+"Cyprus","COVID-19",2020,0
+"Czech Republic","COVID-19",2020,0
+"Denmark","COVID-19",2020,0
+"Dominican Republic","COVID-19",2020,0
+"Ecuador","COVID-19",2020,0
+"Egypt","COVID-19",2020,0
+"Finland","COVID-19",2020,0
+"France","COVID-19",2020,0
+"Gabon","COVID-19",2020,0
+"Gambia","COVID-19",2020,0
+"Germany","COVID-19",2020,0
+"Ghana","COVID-19",2020,0
+"Greece","COVID-19",2020,0
+"Guatemala","COVID-19",2020,0
+"Guyana","COVID-19",2020,0
+"Hong Kong","COVID-19",2020,0
+"Hungary","COVID-19",2020,0
+"Iceland","COVID-19",2020,0
+"India","COVID-19",2020,0
+"Indonesia","COVID-19",2020,0
+"Iran","COVID-19",2020,0
+"Iraq","COVID-19",2020,0
+"Ireland","COVID-19",2020,0
+"Israel","COVID-19",2020,0
+"Italy","COVID-19",2020,0
+"Jamaica","COVID-19",2020,0
+"Japan","COVID-19",2020,0
+"Kazakhstan","COVID-19",2020,0
+"Lebanon","COVID-19",2020,0
+"Lithuania","COVID-19",2020,0
+"Luxembourg","COVID-19",2020,0
+"Malaysia","COVID-19",2020,0
+"Martinique","COVID-19",2020,0
+"Mauritius","COVID-19",2020,0
+"Mexico","COVID-19",2020,0
+"Moldova","COVID-19",2020,0
+"Montenegro","COVID-19",2020,0
+"Morocco","COVID-19",2020,0
+"Netherlands","COVID-19",2020,0
+"Nigeria","COVID-19",2020,0
+"North Macedonia","COVID-19",2020,0
+"Norway","COVID-19",2020,0
+"Others","COVID-19",2020,0
+"Pakistan","COVID-19",2020,0
+"Panama","COVID-19",2020,0
+"Paraguay","COVID-19",2020,0
+"Peru","COVID-19",2020,0
+"Philippines","COVID-19",2020,0
+"Poland","COVID-19",2020,0
+"Portugal","COVID-19",2020,0
+"Romania","COVID-19",2020,0
+"Russia","COVID-19",2020,0
+"San Marino","COVID-19",2020,0
+"Saudi Arabia","COVID-19",2020,0
+"Serbia","COVID-19",2020,0
+"Singapore","COVID-19",2020,0
+"Slovakia","COVID-19",2020,0
+"Slovenia","COVID-19",2020,0
+"South Korea","COVID-19",2020,0
+"Spain","COVID-19",2020,0
+"Sudan","COVID-19",2020,0
+"Sweden","COVID-19",2020,0
+"Switzerland","COVID-19",2020,0
+"Taiwan","COVID-19",2020,0
+"Thailand","COVID-19",2020,0
+"Tunisia","COVID-19",2020,0
+"Turkey","COVID-19",2020,0
+"UK","COVID-19",2020,0
+"US","COVID-19",2020,0
+"Ukraine","COVID-19",2020,0
+"United Arab Emirates","COVID-19",2020,0
+"Zimbabwe","COVID-19",2020,0
+"Afghanistan","Dengue",2019,0
+"Afghanistan","Diphtheria",2003,0
+"Albania","Polio",1996,0
+"Algeria","Cholera",2018,0
+"Algeria","Plague",2003,0
+"Algeria","Typhoid fever",1996,0
+"Angola","Acute haemorrhagic fever syndrome",2005,0
+"Angola","Cholera",2006,0
+"Angola","Meningococcal disease",2001,0
+"Bahrain","MERS-CoV",2016,0
+"Bangladesh","Diphtheria",2017,0
+"Bangladesh","Nipah virus",2004,0
+"Benin","Yellow fever",1996,0
+"Bosnia and Herzegovina","Haemorrhagic fever with renal syndrome",1996,0
+"Brazil","Cholera",1999,0
+"Brazil","Dengue",2008,0
+"Brazil","Measles",2018,0
+"Brazil","Microcephaly",2015,0
+"Brazil","Microcephaly",2016,0
+"Burundi","Malaria",1999,0
+"Cambodia","Avian",2013,0
+"Cambodia","Dengue",1998,0
+"Cameroon","Cholera",2018,0
+"Canada","Avian",2015,0
+"Canada","Seoul virus",2017,0
+"Canada","West Nile",2002,0
+"Central African Republic","Meningococcal disease",2004,0
+"Central African Republic","Yellow fever",2009,0
+"Chad","Hepatitis",2017,0
+"China","Enterovirus",2008,0
+"China","Influenza",2013,0
+"China","MERS-CoV",2015,0
+"Comoros","Cholera",1999,0
+"Congo","Acute respiratory syndrome",2002,0
+"Congo","Crimean-Congo haemorrhagic fever",2010,0
+"Congo","Ebola",2018,0
+"Congo","Ebola",2019,0
+"Congo","Ebola",2020,0
+"Congo","Monkeypox",1997,0
+"Congo","Typhoid fever",2004,0
+"Congo","Typhoid fever",2005,0
+"Cuba","Dengue",1997,0
+"Djibouti","Cholera",1997,0
+"France","Dengue",2019,0
+"France","Legionellosis",2003,0
+"France","Meningococcal disease",2000,0
+"France","SARS",2003,0
+"Gabon","Acute haemorrhagic fever syndrome",2002,0
+"Gabon","Viral haemorrhagic fever",2001,0
+"Germany","Avian",2006,0
+"Germany","MERS-CoV",2015,0
+"Ghana","Yellow fever",2012,0
+"Guinea","Cholera",2008,0
+"Guinea","Ebola",2014,0
+"Guinea","Meningococcal disease",1999,0
+"Haiti","Cholera",2010,0
+"Hong Kong","Avian",2004,0
+"Hong Kong SAR, China","SARS",2003,0
+"India","Meningococcal disease",2005,0
+"Indonesia","Dengue",2004,0
+"Indonesia","Meningococcal disease",2000,0
+"Iran","MERS-CoV",2015,0
+"Iraq","Cholera",2015,0
+"Ireland","Measles",2000,0
+"Jamaica","Dengue",2019,0
+"Japan","Encephalitis",1996,0
+"Kenya","Rift Valley fever",2018,0
+"Korea","MERS-CoV",2018,0
+"Korea","Measles",2001,0
+"Kuwait","MERS-CoV",2015,0
+"Lebanon","Measles",2019,0
+"Liberia","Ebola",2014,0
+"Liberia","Lassa fever",2018,0
+"Madagascar","Influenza",2002,0
+"Madagascar","Measles",2019,0
+"Malaysia","Dengue",1998,0
+"Malaysia","Encephalitis",1999,0
+"Malaysia","MERS-CoV",2018,0
+"Malaysia","Myocarditis",1997,0
+"Malaysia","SARS",2003,0
+"Mali","Cholera",2003,0
+"Mali","Yellow fever",2019,0
+"Mauritania","Rift Valley fever",2012,0
+"Mexico","Encephalitis",1996,0
+"Mexico","Influenza",2009,0
+"Mongolia","Cholera",1996,0
+"Mozambique","Cholera",2018,0
+"Namibia","Hepatitis",2018,0
+"Namibia","Plague",1999,0
+"Namibia","Polio",2006,0
+"Netherlands","Avian",2003,0
+"Netherlands","Lassa fever",2019,0
+"Netherlands","Legionellosis",1999,0
+"Netherlands","Meningococcal disease",2000,0
+"Niger","Cholera",2018,0
+"Niger","Hepatitis",2017,0
+"Niger","Rift Valley fever",2016,0
+"Nigeria","Hepatitis",2017,0
+"Nigeria","Lassa fever",2019,0
+"Nigeria","Monkeypox",2018,0
+"Norway","Legionellosis",2001,0
+"Oman","MERS-CoV",2019,0
+"Pakistan","Avian",2008,0
+"Pakistan","Dengue",2019,0
+"Paraguay","Yellow fever",2008,0
+"Peru","Yellow fever",2001,0
+"Philippines","MERS-CoV",2015,0
+"Philippines","Meningococcal disease",2005,0
+"Philippines","SARS",2003,0
+"Saudi Arabia","Rift Valley fever",2000,0
+"Senegal","Yellow fever",2011,0
+"Singapore","SARS",2003,0
+"Somalia","Cholera",2018,0
+"South Africa","Cholera",2003,0
+"South Africa","Ebola",1996,0
+"South Africa","SARS",2003,0
+"Spain","Legionellosis",2001,0
+"Spain","Listeriosis",2019,0
+"Sri Lanka","Cholera",1998,0
+"Sri Lanka","Dengue",2017,0
+"Sudan","Cholera",2019,0
+"Sudan","Dengue",2019,0
+"Sudan","Ebola",2004,0
+"Sudan","Haemorrhagic fever syndrome",2016,0
+"Sudan","Hepatitis",2004,0
+"Sudan","Rift Valley fever",2019,0
+"Taiwan","SARS",2003,0
+"Taiwan, China","SARS",2003,0
+"Tanzania","Rift Valley fever",2007,0
+"Thailand","Avian",2006,0
+"Thailand","Diphtheria",1996,0
+"Thailand","SARS",2003,0
+"Togo","Meningococcal disease",2017,0
+"Tunisia","Measles",2019,0
+"Turkey","Avian",2006,0
+"Turkey","MERS-CoV",2014,0
+"Uganda","Marburg haemorrhagic fever",2012,0
+"Uganda","Plague",1998,0
+"Uganda","Yellow fever",2016,0
+"United Arab Emirates","MERS-CoV",2020,0
+"United States","Anthrax",2001,0
+"United States","Elizabethkingia",2016,0
+"United States","Encephalitis",1999,0
+"United States","Hantavirus pulmonary syndrome",2012,0
+"United States","West Nile",2002,0
+"Viet Nam","Avian",2012,0
+"Viet Nam","SARS",2003,0
+"Yemen","Acute haemorrhagic fever syndrome",2000,0
+"Yemen","Diphtheria",2017,0
+"Yemen","Rift Valley fever",2000,0
+"Zambia","Plague",2001,0
+"Zimbabwe","Cholera",2018,0
+"Afghanistan","Acute haemorrhagic fever syndrome",2000,1
+"Afghanistan","Cholera",1998,5
+"Angola","Marburg haemorrhagic fever",2005,1
+"Angola","Polio",1999,3
+"Angola","Yellow fever",2016,3
+"Azerbaijan","Avian",2006,1
+"Bangladesh","Acute neurological syndrome",2001,1
+"Benin","Lassa fever",2016,2
+"Bolivia","Yellow fever",1997,2
+"Brazil","Yellow fever",2001,9
+"Brazil","Yellow fever",2017,6
+"Brazil","Yellow fever",2018,3
+"Brazil","Yellow fever",2019,1
+"Burkina Faso","Meningococcal disease",2002,6
+"Burkina Faso","Meningococcal disease",2003,4
+"Cambodia","Avian",2005,17
+"Cambodia","Avian",2008,12
+"Cambodia","Avian",2009,11
+"Cambodia","Avian",2010,10
+"Cambodia","Avian",2011,9
+"Cambodia","Avian",2012,2
+"Cameroon","Yellow fever",2012,1
+"Canada","Avian",2004,1
+"Canada","SARS",2003,1
+"Chad","Cholera",2001,2
+"China","Acute respiratory syndrome",2003,1
+"China","Avian",2004,50
+"China","Avian",2005,47
+"China","Avian",2006,47
+"China","Avian",2007,42
+"China","Avian",2008,37
+"China","Avian",2009,36
+"China","Avian",2010,35
+"China","Avian",2012,33
+"China","Avian",2013,30
+"China","Avian",2014,29
+"China","Avian",2015,26
+"China","Avian",2016,18
+"China","Avian",2017,10
+"China","Enterovirus",1998,1
+"China","Influenza",2003,4
+"China","SARS",2003,2
+"China","SARS",2004,1
+"Congo","Acute haemorrhagic fever syndrome",1999,3
+"Congo","Acute haemorrhagic fever syndrome",2002,2
+"Congo","Acute haemorrhagic fever syndrome",2003,1
+"Congo","Cholera",2011,3
+"Congo","Crimean-Congo haemorrhagic fever",1998,5
+"Congo","Crimean-Congo haemorrhagic fever",1999,4
+"Congo","Crimean-Congo haemorrhagic fever",2001,3
+"Congo","Crimean-Congo haemorrhagic fever",2003,2
+"Congo","Crimean-Congo haemorrhagic fever",2006,1
+"Congo","Ebola",2001,9
+"Congo","Ebola",2002,9
+"Congo","Ebola",2003,8
+"Congo","Ebola",2004,7
+"Congo","Ebola",2005,6
+"Congo","Ebola",2008,4
+"Congo","Ebola",2009,4
+"Congo","Ebola",2012,3
+"Congo","Ebola",2014,2
+"Congo","Ebola",2017,1
+"Congo","Meningococcal disease",2001,2
+"Congo","Meningococcal disease",2002,1
+"Congo","Plague",2005,3
+"Congo","Plague",2006,2
+"Congo","Viral haemorrhagic fever",1999,4
+"Congo","Viral haemorrhagic fever",2000,2
+"Congo","Yellow fever",2010,7
+"Congo","Yellow fever",2014,4
+"Congo","Yellow fever",2016,3
+"Egypt","Avian",2006,33
+"Egypt","Avian",2007,29
+"Egypt","Avian",2008,26
+"Egypt","Avian",2009,22
+"Egypt","Avian",2010,14
+"Egypt","Avian",2011,9
+"Egypt","Avian",2012,3
+"Ethiopia","Meningococcal disease",2000,5
+"Ethiopia","Meningococcal disease",2001,1
+"France","Legionellosis",1998,1
+"Gabon","Ebola",1996,3
+"Gabon","Ebola",1997,2
+"Gabon","Ebola",2001,1
+"Gabon","Ebola",2002,1
+"Guinea","Yellow fever",2000,9
+"Guinea","Yellow fever",2001,8
+"Guinea","Yellow fever",2008,2
+"Guinea","Yellow fever",2009,1
+"Hong Kong","Influenza",1998,1
+"India","Dengue",1996,1
+"India","Nipah virus",2018,1
+"Indonesia","Avian",2005,40
+"Indonesia","Avian",2006,37
+"Indonesia","Avian",2007,30
+"Indonesia","Avian",2008,23
+"Indonesia","Avian",2009,17
+"Indonesia","Avian",2010,16
+"Indonesia","Avian",2011,10
+"Indonesia","Avian",2012,4
+"Iraq","Avian",2006,1
+"Iraq","Cholera",2007,4
+"Iraq","Cholera",2008,2
+"Jordan","MERS-CoV",2015,1
+"Kenya","Cholera",2017,1
+"Kenya","Rift Valley fever",1998,4
+"Kenya","Rift Valley fever",2007,2
+"Korea","MERS-CoV",2015,2
+"Liberia","Cholera",2003,2
+"Liberia","Lassa fever",2016,1
+"Liberia","Yellow fever",1996,7
+"Liberia","Yellow fever",2000,5
+"Liberia","Yellow fever",2001,3
+"Liberia","Yellow fever",2004,2
+"Madagascar","Plague",2014,3
+"Madagascar","Plague",2015,2
+"Madagascar","Plague",2017,1
+"Malawi","Cholera",2002,1
+"Malaysia","Dengue",1996,2
+"Malaysia","Dengue",1997,1
+"Mali","Yellow fever",2005,1
+"Mauritania","Rift Valley fever",1998,1
+"Mexico","Cholera",2013,1
+"Mozambique","Cholera",1997,8
+"Nepal","Encephalitis",1997,1
+"Niger","Meningococcal disease",2003,3
+"Niger","Meningococcal disease",2015,1
+"Nigeria","Avian",2006,1
+"Nigeria","Cholera",1996,5
+"Nigeria","Cholera",1999,3
+"Nigeria","Lassa fever",2012,5
+"Nigeria","Lassa fever",2016,4
+"Nigeria","Lassa fever",2017,2
+"Nigeria","Lassa fever",2018,1
+"Nigeria","Meningococcal disease",2015,1
+"Nigeria","Monkeypox",2017,1
+"Nigeria","Yellow fever",2019,2
+"Oman","MERS-CoV",2015,7
+"Oman","MERS-CoV",2016,5
+"Oman","MERS-CoV",2018,1
+"Pakistan","Avian",2007,1
+"Philippines","Ebola",1996,1
+"Qatar","MERS-CoV",2014,7
+"Qatar","MERS-CoV",2015,6
+"Qatar","MERS-CoV",2016,4
+"Saudi Arabia","MERS-CoV",2014,17
+"Saudi Arabia","MERS-CoV",2015,17
+"Saudi Arabia","MERS-CoV",2016,16
+"Saudi Arabia","MERS-CoV",2017,12
+"Saudi Arabia","MERS-CoV",2018,8
+"Saudi Arabia","MERS-CoV",2019,5
+"Senegal","Cholera",2005,2
+"Senegal","Yellow fever",2005,2
+"Sierra Leone","Cholera",2012,1
+"Sierra Leone","Lassa fever",1996,2
+"Sierra Leone","Lassa fever",1997,1
+"Sierra Leone","Yellow fever",2003,2
+"Somalia","Cholera",1997,10
+"Somalia","Cholera",1999,3
+"Somalia","Cholera",2000,1
+"South Africa","Cholera",2000,3
+"South Africa","Cholera",2001,3
+"South Africa","Rift Valley fever",1999,2
+"South Africa","Rift Valley fever",2010,1
+"Sudan","Cholera",2006,4
+"Sudan","Cholera",2014,1
+"Sudan","Meningococcal disease",1999,6
+"Sudan","Meningococcal disease",2000,5
+"Sudan","Rift Valley fever",2007,3
+"Sudan","Rift Valley fever",2008,1
+"Sudan","Yellow fever",2005,2
+"Sudan","Yellow fever",2012,1
+"Tajikistan","Polio",2010,1
+"Tanzania","Cholera",1996,7
+"Tanzania","Cholera",2015,3
+"Thailand","Avian",2004,7
+"Thailand","Avian",2005,2
+"Thailand","MERS-CoV",2015,2
+"Thailand","MERS-CoV",2016,1
+"Uganda","Ebola",2000,5
+"Uganda","Ebola",2001,5
+"Uganda","Ebola",2007,4
+"Uganda","Ebola",2012,1
+"Uganda","Meningococcal disease",2006,1
+"United Arab Emirates","MERS-CoV",2015,10
+"United Arab Emirates","MERS-CoV",2016,8
+"United Arab Emirates","MERS-CoV",2018,2
+"United Arab Emirates","MERS-CoV",2019,1
+"Venezuela","Yellow fever",2004,1
+"Viet Nam","Avian",2004,27
+"Viet Nam","Avian",2005,23
+"Viet Nam","Avian",2007,14
+"Viet Nam","Avian",2008,12
+"Viet Nam","Avian",2009,9
+"Viet Nam","Avian",2010,4
+"Zambia","Cholera",1999,4
+"Zambia","Plague",1997,1
+"Zimbabwe","Cholera",1998,7
+"Zimbabwe","Cholera",2008,5
+"Zimbabwe","Cholera",2009,3

@@ -1,0 +1,22 @@
+﻿relationship 8c90db00-60c6-47db-92e8-491f859313b3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DIM_Customer.DateFirstPurchase
+	toColumn: LocalDateTable_46204ab8-d6c8-4f7f-aef7-84cbcc146541.Date
+
+relationship 83de6f20-1320-44a0-9bfe-3b4aa84aa70e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DIM_DATE_Calendar.Date
+	toColumn: LocalDateTable_4dd1b641-6510-42ee-b16b-9df42c151874.Date
+
+relationship eb0f2ff5-dcbf-40d8-bb04-3b141ee65cd7
+	fromColumn: FactInternetSales.ProductKey
+	toColumn: DIM_Products.ProductKey
+
+relationship ef515727-202c-4371-a5dc-f97564591106
+	fromColumn: FactInternetSales.OrderDateKey
+	toColumn: DIM_DATE_Calendar.DateKey
+
+relationship 38b97634-225b-4524-9140-42c7083897ba
+	fromColumn: FactInternetSales.CustomerKey
+	toColumn: DIM_Customer.CustomerKey
+

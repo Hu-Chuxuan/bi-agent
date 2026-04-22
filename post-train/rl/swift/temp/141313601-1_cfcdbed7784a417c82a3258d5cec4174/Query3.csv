@@ -1,0 +1,124 @@
+os_group_w_other,month,device_count,percent_device_count
+"Ubuntu-16","2020-11",39,0.99
+"Microsoft Windows Server 2012 R2 Standard","2020-11",71,1.81
+"Ubuntu-18","2020-11",669,17.03
+"Ubuntu Linux (64-bit)-","2020-11",73,1.86
+"CentOS-7","2020-11",42,1.07
+"Debian GNU/Linux 10 (buster)-10","2020-11",19,0.48
+"Microsoft Windows Server 2008 R2 (64-bit)","2020-11",221,5.62
+"Other","2020-11",456,11.61
+"Partial Discovery","2020-11",2136,54.36
+"CentOS-","2020-11",203,5.17
+"CentOS-7","2020-12",42,1.06
+"Ubuntu Linux (64-bit)-","2020-12",73,1.84
+"Ubuntu-18","2020-12",684,17.28
+"Other","2020-12",461,11.65
+"Microsoft Windows Server 2012 R2 Standard","2020-12",73,1.84
+"Partial Discovery","2020-12",2136,53.97
+"Microsoft Windows Server 2008 R2 (64-bit)","2020-12",221,5.58
+"CentOS-","2020-12",208,5.26
+"Debian GNU/Linux 10 (buster)-10","2020-12",21,0.53
+"Ubuntu-16","2020-12",39,0.99
+"Debian GNU/Linux 10 (buster)-10","2021-01",22,0.55
+"Ubuntu Linux (64-bit)-","2021-01",80,2
+"Other","2021-01",470,11.74
+"Partial Discovery","2021-01",2137,53.4
+"Ubuntu-16","2021-01",39,0.97
+"CentOS-","2021-01",234,5.85
+"Microsoft Windows Server 2012 R2 Standard","2021-01",73,1.82
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-01",221,5.52
+"CentOS-7","2021-01",42,1.05
+"Ubuntu-18","2021-01",684,17.09
+"CentOS-7","2021-02",42,1
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-02",221,5.26
+"Ubuntu-18","2021-02",714,17
+"Ubuntu-16","2021-02",39,0.93
+"Other","2021-02",490,11.67
+"Microsoft Windows Server 2012 R2 Standard","2021-02",74,1.76
+"Partial Discovery","2021-02",2275,54.18
+"CentOS-","2021-02",240,5.72
+"Ubuntu Linux (64-bit)-","2021-02",80,1.91
+"Debian GNU/Linux 10 (buster)-10","2021-02",24,0.57
+"Microsoft Windows Server 2012 R2 Standard","2021-03",74,1.75
+"CentOS-7","2021-03",42,0.99
+"Partial Discovery","2021-03",2278,53.85
+"Debian GNU/Linux 10 (buster)-10","2021-03",25,0.59
+"Ubuntu Linux (64-bit)-","2021-03",80,1.89
+"Ubuntu-16","2021-03",39,0.92
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-03",221,5.22
+"CentOS-","2021-03",252,5.96
+"Ubuntu-18","2021-03",715,16.9
+"Other","2021-03",504,11.91
+"Ubuntu-16","2021-04",34,1.87
+"CentOS-","2021-04",221,12.18
+"Partial Discovery","2021-04",710,39.12
+"Ubuntu Linux (64-bit)-","2021-04",75,4.13
+"Ubuntu-18","2021-04",27,1.49
+"Microsoft Windows Server 2012 R2 Standard","2021-04",71,3.91
+"Debian GNU/Linux 10 (buster)-10","2021-04",1,0.06
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-04",220,12.12
+"CentOS-7","2021-04",40,2.2
+"Other","2021-04",416,22.92
+"Ubuntu-18","2021-05",26,1.42
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-05",220,11.98
+"Partial Discovery","2021-05",738,40.17
+"Microsoft Windows Server 2012 R2 Standard","2021-05",71,3.86
+"CentOS-7","2021-05",40,2.18
+"Ubuntu Linux (64-bit)-","2021-05",75,4.08
+"Ubuntu-16","2021-05",34,1.85
+"CentOS-","2021-05",224,12.19
+"Other","2021-05",409,22.26
+"CentOS-","2021-06",146,12.32
+"Other","2021-06",211,17.81
+"Ubuntu-16","2021-06",23,1.94
+"Ubuntu Linux (64-bit)-","2021-06",47,3.97
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-06",1,0.08
+"CentOS-7","2021-06",17,1.43
+"Microsoft Windows Server 2012 R2 Standard","2021-06",27,2.28
+"Partial Discovery","2021-06",694,58.57
+"Ubuntu-18","2021-06",19,1.6
+"CentOS-","2021-07",150,12.9
+"Microsoft Windows Server 2012 R2 Standard","2021-07",27,2.32
+"Partial Discovery","2021-07",675,58.04
+"Other","2021-07",203,17.45
+"Ubuntu-18","2021-07",19,1.63
+"CentOS-7","2021-07",17,1.46
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-07",1,0.09
+"Ubuntu-16","2021-07",23,1.98
+"Ubuntu Linux (64-bit)-","2021-07",48,4.13
+"Microsoft Windows Server 2012 R2 Standard","2021-08",27,2.29
+"CentOS-7","2021-08",17,1.44
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-08",1,0.08
+"Ubuntu Linux (64-bit)-","2021-08",48,4.07
+"CentOS-","2021-08",154,13.07
+"Ubuntu-18","2021-08",16,1.36
+"Ubuntu-16","2021-08",23,1.95
+"Other","2021-08",193,16.38
+"Partial Discovery","2021-08",699,59.34
+"Partial Discovery","2021-09",731,60.21
+"CentOS-","2021-09",155,12.77
+"CentOS-7","2021-09",17,1.4
+"Ubuntu Linux (64-bit)-","2021-09",48,3.95
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-09",1,0.08
+"Other","2021-09",195,16.06
+"Microsoft Windows Server 2012 R2 Standard","2021-09",27,2.22
+"Ubuntu-18","2021-09",16,1.32
+"Ubuntu-16","2021-09",24,1.98
+"Other","2021-10",196,16.42
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-10",1,0.08
+"CentOS-","2021-10",154,12.9
+"Ubuntu-16","2021-10",24,2.01
+"Microsoft Windows Server 2012 R2 Standard","2021-10",25,2.09
+"CentOS-7","2021-10",17,1.42
+"Ubuntu-18","2021-10",14,1.17
+"Partial Discovery","2021-10",714,59.8
+"Ubuntu Linux (64-bit)-","2021-10",49,4.1
+"Other","2021-11",159,29.94
+"Ubuntu-16","2021-11",24,4.52
+"CentOS-","2021-11",154,29
+"Microsoft Windows Server 2008 R2 (64-bit)","2021-11",1,0.19
+"Ubuntu Linux (64-bit)-","2021-11",49,9.23
+"Microsoft Windows Server 2012 R2 Standard","2021-11",19,3.58
+"Partial Discovery","2021-11",96,18.08
+"CentOS-7","2021-11",17,3.2
+"Ubuntu-18","2021-11",12,2.26

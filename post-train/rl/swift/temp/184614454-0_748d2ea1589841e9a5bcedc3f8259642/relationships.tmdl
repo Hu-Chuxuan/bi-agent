@@ -1,0 +1,23 @@
+﻿relationship a9c2f1e0-4aed-46ad-a3e6-d24f5ef00ec4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BikeBookingReport.StartDate
+	toColumn: LocalDateTable_44aa7251-2b93-41f7-8ef8-c0851b4ac7e0.Date
+
+relationship b025a79a-a2e0-4e58-be45-db34ddceedaf
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BikeBookingReport.EndDate
+	toColumn: LocalDateTable_17da22b2-1496-4d0f-8c00-b80f7d40bc5f.Date
+
+relationship 8fc42484-f127-41d1-867d-ab5030fbd19e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: PrefferedCustomers.DateOfBirth
+	toColumn: LocalDateTable_34b7c5da-a87e-4ab6-aa2e-4982c286d172.Date
+
+relationship 6ee4ad4d-194b-4175-9ed0-3aa4dcbec1ad
+	fromColumn: BikeBookingReport.CustomerID
+	toColumn: PrefferedCustomers.CustomerID
+
+relationship 5db5d664-b9d5-45ba-86f3-26427daaffd3
+	fromColumn: BikeBookingReport.BikeID
+	toColumn: BikeOwnerStatus.BikeID
+

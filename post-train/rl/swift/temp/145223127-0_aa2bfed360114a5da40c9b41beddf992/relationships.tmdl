@@ -1,0 +1,10 @@
+﻿relationship f8bd9143-a0ec-4fa3-bdfe-2c4af583a197
+	fromColumn: 'Bundle 1'.'Bundle Name'
+	toColumn: 'Desired Table'.'Bundle Name'
+
+relationship 3f7f1453-2a32-45db-a988-346193781db7
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Bundle 2'.'Bundle Name'
+	toColumn: 'Desired Table'.'Bundle Name'
+

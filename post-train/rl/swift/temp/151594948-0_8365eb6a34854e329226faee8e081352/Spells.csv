@@ -1,0 +1,101 @@
+Spell ID,Incantation,Spell Name,Effect,Light,Dialogue.Dialogue ID,Dialogue.Place ID,Dialogue.Character ID,Dialogue.Chapter ID
+40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,4448.0,70.0,1.0,152.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3462.0,30.0,13.0,129.0
+24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,4445.0,70.0,129.0,152.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3437.0,14.0,9.0,128.0
+45,Protego Maxima,Protego Maxima,Summons a large protective barrier,White,,,,
+58,Stupefy,Stunning Spell,Knocks out target,Red,4440.0,70.0,1.0,152.0
+58,Stupefy,Stunning Spell,Knocks out target,Red,4486.0,70.0,23.0,153.0
+37,Oculus Reparo,Oculus Reparo,Repairs glasses,,,,,
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,4203.0,49.0,18.0,149.0
+54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,2141.0,30.0,10.0,80.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,594.0,65.0,1.0,23.0
+58,Stupefy,Stunning Spell,Knocks out target,Red,6020.0,7.0,1.0,191.0
+32,Lumos Maxima,Lumos Maxima,Produces bright light,White,,,,
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,6381.0,9.0,1.0,199.0
+61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,1460.0,46.0,1.0,54.0
+12,Confringo,Blasting Curse,Explosion,Fiery Orange,7406.0,66.0,1.0,232.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,2712.0,37.0,3.0,100.0
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,7161.0,55.0,1.0,223.0
+7,Avada Kedavra,Killing Curse,Instantaneous death,Green,4512.0,70.0,9.0,155.0
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,6098.0,7.0,3.0,193.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,1573.0,45.0,2.0,58.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,1557.0,60.0,5.0,57.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3487.0,58.0,3.0,130.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,1572.0,45.0,1.0,58.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,223.0,42.0,2.0,10.0
+26,Incarcerous,Incarcerous Spell,Binds target in ropes,,4339.0,35.0,15.0,151.0
+12,Confringo,Blasting Curse,Explosion,Fiery Orange,6249.0,74.0,3.0,195.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,6940.0,21.0,1.0,215.0
+7,Avada Kedavra,Killing Curse,Instantaneous death,Green,5674.0,23.0,6.0,181.0
+46,Protego totalum,Protego totalum,Shields an area,,,,,
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,5620.0,73.0,1.0,180.0
+49,Reparo,Mending Charm,Fixes broken objects,,,,,
+53,Rictusempra,Tickling Charm,Tickles and weakens,Silver,1400.0,36.0,1.0,51.0
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,6719.0,13.0,2.0,207.0
+2,Aguamenti,Water-Making Spell,Conjures water,Icy blue,5625.0,73.0,4.0,180.0
+36,Obliviate,Memory Charm,Erases memories,Green,6031.0,7.0,3.0,191.0
+8,Bombarda,Exploding Charm,Small explosion,,2714.0,37.0,3.0,100.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,2710.0,37.0,1.0,100.0
+33,Lumos Solem,Lumos Solem Spell,Produces sunlight,Bright yellow,,,,
+56,Sectumsempra,Sectumsempra,Lacerates target,White,5422.0,56.0,1.0,176.0
+14,Diffindo,Severing Charm,Cuts objects,Light green,6460.0,68.0,1.0,201.0
+21,Finite,General Counter-Spell,Terminates all spell effects,Red,4220.0,49.0,42.0,149.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3209.0,36.0,1.0,119.0
+48,Relashio,Revulsion Jinx,Forces target to let go,Purple,6199.0,70.0,3.0,194.0
+36,Obliviate,Memory Charm,Erases memories,Green,5729.0,17.0,3.0,184.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,6198.0,70.0,1.0,194.0
+61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,423.0,26.0,2.0,17.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,4230.0,49.0,1.0,149.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,4700.0,18.0,4.0,160.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,1749.0,25.0,2.0,64.0
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,2526.0,20.0,1.0,94.0
+58,Stupefy,Stunning Spell,Knocks out target,Red,4347.0,35.0,2.0,151.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,3573.0,8.0,11.0,132.0
+34,Muffliato,Muffliato Charm,Conceals sound,,,,,
+61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,457.0,34.0,2.0,18.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,6882.0,2.0,3.0,212.0
+22,Homenum Revelio,Human Presence Revealing Spell,Reveals human presence,,6045.0,7.0,3.0,191.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3217.0,36.0,78.0,119.0
+7,Avada Kedavra,Killing Curse,Instantaneous death,Green,7160.0,55.0,99.0,223.0
+48,Relashio,Revulsion Jinx,Forces target to let go,Purple,6906.0,2.0,3.0,214.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,4549.0,41.0,4.0,156.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,5448.0,39.0,2.0,178.0
+15,Dissendium,Dissendium,Reveals secret passages,,6246.0,74.0,1.0,195.0
+43,Priori Incantatem,Reverse Spell,Shows the previous spells cast by a wand,Gold,,,,
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3527.0,8.0,1.0,131.0
+61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,428.0,26.0,29.0,17.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,6048.0,7.0,1.0,191.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,3521.0,11.0,1.0,131.0
+29,Locomotor,Locomotion Charm,Moves objects in midair,,,,,
+19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,1383.0,36.0,6.0,51.0
+23,Immobulus,Freezing Charm,Stops movement and actions of the target,Blue,1184.0,30.0,3.0,45.0
+1,Accio,Summoning Charm,Summons an object,,,,,
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,3537.0,8.0,1.0,132.0
+24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,3989.0,55.0,50.0,144.0
+61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,426.0,26.0,3.0,17.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,6254.0,74.0,1.0,195.0
+24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,5682.0,40.0,1.0,182.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3225.0,36.0,2.0,119.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,5447.0,39.0,3.0,178.0
+24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,4204.0,49.0,42.0,149.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,2990.0,39.0,1.0,113.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,2551.0,20.0,1.0,94.0
+30,Locomotor Mortis,Leg-Locker Curse,Sticks legs together,Purple,4216.0,49.0,18.0,149.0
+10,Cistem Aperio,Cistem Aperio,Opens chests,White,,,,
+7,Avada Kedavra,Killing Curse,Instantaneous death,Green,4509.0,70.0,9.0,154.0
+12,Confringo,Blasting Curse,Explosion,Fiery Orange,7396.0,66.0,1.0,231.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,5011.0,39.0,1.0,166.0
+18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,3518.0,11.0,1.0,131.0
+13,Crucio,Cruciatus Curse,Excruciating pain,Red,4474.0,70.0,22.0,152.0
+20,Expulso,Expulso Curse,Blows things up,Blue,6248.0,74.0,1.0,195.0
+58,Stupefy,Stunning Spell,Knocks out target,Red,4449.0,70.0,10.0,152.0
+42,Portus,Portus,Turns object into Portkey,Blue,4534.0,70.0,4.0,155.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,6593.0,12.0,1.0,203.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,6382.0,9.0,3.0,199.0
+54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,2143.0,30.0,2.0,80.0
+4,Alohomora,Unlocking Charm,Unlocks target,Blue,4391.0,70.0,1.0,152.0
+35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,3572.0,8.0,1.0,132.0
+58,Stupefy,Stunning Spell,Knocks out target,Red,6720.0,13.0,1.0,207.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,3517.0,11.0,1.0,131.0
+31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,6881.0,2.0,2.0,212.0

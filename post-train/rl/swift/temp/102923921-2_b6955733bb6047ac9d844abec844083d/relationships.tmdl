@@ -1,0 +1,38 @@
+﻿relationship a6ba607e-d129-4c09-8912-07f885f37558
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Data.'Datum aangemaakt'
+	toColumn: LocalDateTable_dfe2e778-96a9-4c7e-93ef-7c695256b455.Date
+
+relationship a0c1f2fb-e900-401d-bc9d-c7a69f6053ea
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Data.'Datum gesloten= closed'
+	toColumn: LocalDateTable_06903bf6-e83c-4025-9a94-6ed32d51826a.Date
+
+relationship cc2afac8-893b-434c-a631-c5532561ec5b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Data.'Deadline melding= due date'
+	toColumn: LocalDateTable_aed249c3-4eac-48c9-ba98-3a9a974844eb.Date
+
+relationship 6a3853d3-c838-4469-8081-105ded825d88
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Datumtabel.Date
+	toColumn: LocalDateTable_9e60b0c1-33bc-48c2-8071-de1a094cfd9e.Date
+
+relationship 99dea84e-85be-44df-a140-16205b52d12b
+	fromColumn: Data.'report date'
+	toColumn: Datumtabel.Date
+
+relationship 3584a3ca-ef54-4af8-a00c-a2d786e2c12f
+	fromColumn: Data.'Impact score'
+	toColumn: 'Impact ranking'.Impact
+
+relationship 7346c949-3b9b-4a85-9178-534bbdd8324e
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: tbl_impact.Impact
+	toColumn: 'Impact ranking'.Impact
+
+relationship 7ec53118-dea3-47ab-b90d-5989923fcb05
+	fromColumn: Comments.Datum
+	toColumn: Datumtabel.Date
+

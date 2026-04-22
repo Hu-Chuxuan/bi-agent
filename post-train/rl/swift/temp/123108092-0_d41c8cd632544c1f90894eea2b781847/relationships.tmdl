@@ -1,0 +1,8 @@
+﻿relationship 4bc0079f-141e-44f9-af65-b31ff45514d2
+	fromColumn: Axis_Data.Category
+	toColumn: Data.Category
+
+relationship 58070818-a905-426f-b1c9-b3d22c6667f1
+	fromColumn: Axis_Data.Axis
+	toColumn: Sort_Months.Months
+

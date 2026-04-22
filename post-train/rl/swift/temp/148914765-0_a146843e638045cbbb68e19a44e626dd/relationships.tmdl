@@ -1,0 +1,81 @@
+﻿relationship 493a8c7d-e575-4346-82b6-abb67e3b3d4f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Date Created'
+	toColumn: LocalDateTable_6a9b6900-0e33-4d63-8a21-d8e2e9dadff7.Date
+
+relationship 97549095-40ae-41a7-b758-c8ff0467c301
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Date Created new'
+	toColumn: LocalDateTable_71b6d6de-6e84-4bf6-8843-46f7875e5b32.Date
+
+relationship f0c079e4-5ee9-421e-b2ef-fee1215e430b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Modified Created Date'
+	toColumn: LocalDateTable_206befc3-9272-4aaf-ab1b-802cc43314ca.Date
+
+relationship ffef6af2-4ec1-4517-a4eb-770d2eaa5657
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Last Updated'
+	toColumn: LocalDateTable_aaf1a6d9-2030-4597-8ba5-09459ef2b20e.Date
+
+relationship d59a3abe-7c7d-44f1-bed4-ee9138a92a39
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Due Date'
+	toColumn: LocalDateTable_827a41d4-9bf7-424f-9b2e-3bf898204aaa.Date
+
+relationship 8cd1a25c-0663-49c4-be91-0c0ff8a597f9
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'SERVICEDESK ANALYSIS'.'Closed Date'
+	toColumn: LocalDateTable_f02e8a19-486d-41e6-8313-9c159d3f2843.Date
+
+relationship 3a310aeb-6d0a-4848-aca4-9bb4d7fac02b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Date Created'
+	toColumn: LocalDateTable_d0baeff1-0dd8-4186-a3b4-deff1722e8c9.Date
+
+relationship a4e146f2-596f-4bc3-98a5-bed3a6494937
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Date Created new'
+	toColumn: LocalDateTable_6776aba3-8697-4f43-bd6c-6a6555cedce3.Date
+
+relationship 84d0461c-4b69-4195-ad03-26eeba8a27a9
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Modified Created Date'
+	toColumn: LocalDateTable_7498c567-55e2-4403-b379-22bef84200eb.Date
+
+relationship 9956412a-5dd5-44ea-9598-5f0e416b380f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Last Updated'
+	toColumn: LocalDateTable_fd8cb2ef-1905-486d-ae32-f2b78bd5ad98.Date
+
+relationship 54aa0ac2-1b68-4fe3-a281-a325bebbe195
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Closed Date'
+	toColumn: LocalDateTable_35e6a352-793c-411e-93cd-4ca9273864fe.Date
+
+relationship e2722e99-d968-491d-bcdc-b620f35fd365
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'Due Date'
+	toColumn: LocalDateTable_892f20c0-c347-4490-b33c-0e782dcae9a4.Date
+
+relationship ea4700d5-759d-466b-b180-6a518e124eba
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Current Status - Copy'.COLUMN
+	toColumn: 'SERVICEDESK ANALYSIS'.'Current Status - Copy'
+
+relationship ccc9e1ae-d464-4030-8427-1927549d3419
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.Custom
+	toColumn: LocalDateTable_948c2fca-ea63-4c54-a3d3-62936cf5e22b.Date
+
+relationship 1e226687-6a84-45ae-b291-8f8f19bec5f5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.DueDate1
+	toColumn: LocalDateTable_c683d54b-c433-4928-bbb6-a42fe45007d1.Date
+
+relationship 7b65f6c2-738c-4fa5-99df-fe2e44695039
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Current Status - Copy'.'today date'
+	toColumn: LocalDateTable_5768a6a1-6cef-4a04-a9f0-b96e4d60f4de.Date
+

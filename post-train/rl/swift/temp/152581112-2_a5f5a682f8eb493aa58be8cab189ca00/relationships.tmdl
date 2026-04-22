@@ -1,0 +1,47 @@
+﻿relationship 110f1f7e-8409-4d91-b3dd-1e7e3a78f41c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: amazon_prime_titles.date_added
+	toColumn: LocalDateTable_ecb9f241-7069-4919-b62f-fa3ef97fcf43.Date
+
+relationship afdfb93a-cb0e-43cd-9a66-44692fc914e0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: netflix_titles.date_added
+	toColumn: LocalDateTable_4406f401-3df6-4c55-9057-44f7bdfef817.Date
+
+relationship e60dd745-d31d-4318-a0c3-486ecf419135
+	joinOnDateBehavior: datePartOnly
+	fromColumn: titles.date_added
+	toColumn: LocalDateTable_71c8a771-8942-45db-87e4-972437aa4ff0.Date
+
+relationship 69e75fad-9218-4935-9b1a-8f8bb4b27148
+	fromColumn: netflix_director.show_id
+	toColumn: titles.show_id
+
+relationship 79ac275f-758a-4d2f-a484-053e3b6d03a8
+	fromColumn: netflix_cast.show_id
+	toColumn: titles.show_id
+
+relationship b9b77fb6-1d43-4905-b07d-3260cb0dbc9a
+	fromColumn: netflix_country.show_id
+	toColumn: titles.show_id
+
+relationship f0f674e2-e6a0-46c8-bb5d-bcb1ec3e1538
+	fromColumn: netflix_genres.show_id
+	toColumn: titles.show_id
+
+relationship 19c39d01-aa35-45e6-9209-7da4118dea7a
+	fromColumn: amazon_director.show_id
+	toColumn: titles.show_id
+
+relationship 126bbd25-bcd9-4323-b6f8-ac6667fac1cf
+	fromColumn: amazon_cast.show_id
+	toColumn: titles.show_id
+
+relationship c51fb017-72ad-4ddb-843d-b98955589b7e
+	fromColumn: amazon_countries.show_id
+	toColumn: titles.show_id
+
+relationship 23079725-4f99-4d45-9f08-2166d603e9c5
+	fromColumn: amazon_genres.show_id
+	toColumn: titles.show_id
+

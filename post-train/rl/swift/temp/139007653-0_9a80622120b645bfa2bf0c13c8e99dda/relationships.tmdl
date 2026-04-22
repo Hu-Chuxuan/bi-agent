@@ -1,0 +1,22 @@
+﻿relationship 216f057b-dd6a-4e26-8e3f-81a8dc1a1230
+	fromColumn: fTransactions.ProductID
+	toColumn: dProduct.ProductID
+
+relationship 020d77ca-182e-4b9a-ad2e-565e067d44aa
+	fromColumn: fTransactions.SalesRep
+	toColumn: dSalesReps.SalesRepID
+
+relationship 8968f701-facb-4d45-8d33-9477bb9af4bf
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dCalendar.Date
+	toColumn: LocalDateTable_58ec62d8-5f47-441d-bd03-4423292e7b7d.Date
+
+relationship 0dedb47e-fe2f-42d1-a3dd-d478cba861e4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dCalendar.WeekEnding
+	toColumn: LocalDateTable_ef84802b-181c-4b84-9d61-b8b996de6401.Date
+
+relationship 28271fd4-4046-406f-a301-6a072eeae24a
+	fromColumn: fTransactions.'ISO Date'
+	toColumn: dCalendar.Date
+

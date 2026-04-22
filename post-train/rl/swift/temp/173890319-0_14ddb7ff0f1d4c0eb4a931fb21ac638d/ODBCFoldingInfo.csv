@@ -1,0 +1,17 @@
+Event,QueryKey,Details
+Warning,0,"Failed to convert type bigint to integer, expression `awards.nominations` to ?."
+Warning,0,This ODBC driver doesn't support SQL_FN_CVT_CONVERT or SQL_FN_CVT_CAST. You can override this by using SqlGetInfo for SQL_CONVERT_FUNCTIONS.
+Failure,0,"Exception:
+ExceptionType: Microsoft.Mashup.Engine1.Runtime.FoldingFailureException, Microsoft.MashupEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Message: Exception of type 'Microsoft.Mashup.Engine1.Runtime.FoldingFailureException' was thrown.
+StackTrace:
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.CallConvertOrCast(SqlExpression from, OdbcTypeMap toType)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.TryVisitConvert(OdbcTypeInfo fromType, OdbcTypeInfo toType, SqlExpression expression, SqlExpression& convertedExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.TryConvert(OdbcTypeInfo typeInfo, OdbcScalarExpression expression, OdbcScalarExpression& convertedExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.<SoftConvertSeries>d__197.MoveNext()
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustNumberValuesToPreventOverflow(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustNumberValuesForCompatibility(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.AdjustForCompatibility(OdbcScalarExpression left, OdbcScalarExpression right, Precision precision)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.VisitEquals(OdbcSqlExpression leftExpression, OdbcSqlExpression rightExpression, Precision precision, Boolean nullable)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQueryExpressionVisitor.VisitBinary(BinaryQueryExpression binaryExpression)
+   at Microsoft.Mashup.Engine1.Library.Odbc.OdbcQuery.SelectRows(FunctionValue function)"

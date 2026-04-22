@@ -1,0 +1,23 @@
+﻿relationship edb0eaf7-baa8-4fc7-b1b8-45924b407e38
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Sales data'.'Invoice Date'
+	toColumn: LocalDateTable_449ef316-6c9b-4611-b22c-40fefe51390f.Date
+
+relationship a5f252fd-41ca-4d5e-a7f9-e51acedce369
+	fromColumn: 'Sales data'.'Customer ID'
+	toColumn: 'Customer data'.'Customer ID'
+
+relationship 1fb5a3b1-1a44-4a26-b5a1-d2a3e9af573c
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Sales budgets'.'Year Qtr'
+	toColumn: 'Sales data'.'Year Qtr'
+
+relationship 06fdb66b-5a8b-4170-801a-a1a3c1b5ac10
+	fromColumn: 'Product data'.'Product ID'
+	toColumn: 'Distinct product'.'Product ID'
+
+relationship ac090e1c-db48-4958-9f99-54be967ca6af
+	fromColumn: 'Sales data'.'Product ID, Year'
+	toColumn: 'Product data'.'Product ID, Year'
+

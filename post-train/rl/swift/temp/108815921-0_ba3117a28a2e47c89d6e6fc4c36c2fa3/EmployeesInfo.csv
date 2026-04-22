@@ -1,0 +1,14 @@
+EmployeeID,E101,E102,E103,E104,E105,E106,E107,E108,E109,E110,E111,E112
+FirstName,Qiyu,Ankita,Nancy,Nancy,Andrew,Janet,Margaret,Steven,Suyama,Robert,Laura,Anne
+LastName,Ye,Pathak,Jain,Davolio,Fuller,Leverling,Peacock,Buchanan,Michael,King,Callahan,Dodsworth
+Gender,Female,Female,Female,Female,Male,Female,Male,Male,Male,Male,Female,Female
+Title,Chief Financial Officer,Chief Operation Officer,Chief Executive Officer,Sales Representative,"Vice President, Sales",Sales Representative,Sales Representative,Sales Manager,Sales Representative,Sales Representative,Inside Sales Coordinator,Sales Representative
+DateOfBirth,1980-05-28 00:00:00.000,1982-03-23 00:00:00.000,1981-10-12 00:00:00.000,1948-12-08 00:00:00.000,1952-02-19 00:00:00.000,1963-08-30 00:00:00.000,1937-09-19 00:00:00.000,1955-03-04 00:00:00.000,1963-07-02 00:00:00.000,1960-05-29 00:00:00.000,1958-01-09 00:00:00.000,1966-01-27 00:00:00.000
+HiringDate,2018-03-16 00:00:00.000,2018-02-18 00:00:00.000,2018-02-18 00:00:00.000,2018-05-01 00:00:00.000,2018-08-14 00:00:00.000,2019-04-01 00:00:00.000,2018-05-03 00:00:00.000,2017-10-17 00:00:00.000,2018-10-17 00:00:00.000,2018-01-02 00:00:00.000,2019-03-05 00:00:00.000,2018-11-15 00:00:00.000
+EmployeeStreetAddress,44rd Dr SE,Northeast 8th Street,3212-16th Ave. N.E.,507 - 20th Ave. E.Apt. 2A,908 W. Capital Way,722 Moss Bay Blvd.,4110 Old Redmond Rd.,14 Garrett Hill,Coventry House Miner Rd.,Edgeham Hollow Winchester Way,4726 - 11th Ave. N.E.,7 Houndstooth Rd.
+EmployeeCity,Bothell,Bellevue,Seattle,Seattle,Tacoma,Kirkland,Redmond,London,London,London,Seattle,London
+EmployeeState,WA,WA,WA,WA,WA,WA,WA,,,,WA,
+EmployeeCountry,USA,USA,USA,USA,USA,USA,USA,UK,UK,UK,USA,UK
+EmployeePhoneNumber,(206) 778-9918,(206) 372-6638,(206) 642-7623,(206) 555-9857,(206) 555-9482,(206) 555-3412,(206) 555-8122,(71) 555-4848,(71) 555-7773,(71) 555-5598,(206) 555-1189,(71) 555-4444
+PhoneNumberExtension,234,121,889,5467,3457,3355,5176,3453,428,465,2344,452
+EmployeeReportsTo,,,,E101,E102,E103,E105,E104,E104,E106,E108,E106

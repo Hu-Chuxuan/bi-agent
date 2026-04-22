@@ -1,0 +1,30 @@
+﻿relationship 8581be20-3fca-440c-b6b6-560ae649fb8a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'ODI centuries'.Date
+	toColumn: LocalDateTable_a2b87ec2-8a75-4d4e-b8c6-6229dba3e8c4.Date
+
+relationship 1594b23d-5e85-437b-883c-bd0450e6c0e4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Test centuries'.Date
+	toColumn: LocalDateTable_e2323f89-f33c-416b-ae24-efd25f8ce475.Date
+
+relationship 6e9d7b35-698a-4930-b2b1-1149a45d5e67
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Test centuries'.'No.'
+	toColumn: 'ODI centuries'.'No.'
+
+relationship 90225a0d-2ec1-4403-927a-039883025ad1
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: YOY(Test).Year
+	toColumn: 'YOY(ODI )'.Year
+
+relationship c958c953-22a1-4cd9-a7ca-2f5abc82f5ae
+	fromColumn: BattingSummary.'Match Formate'
+	toColumn: BowlingSummary.'Match Formate'
+
+relationship ee533cc4-e328-46b8-b94b-e1fdd821ad02
+	fromColumn: BattingSummary.N/O
+	toColumn: 'ODI centuries'.'No.'
+

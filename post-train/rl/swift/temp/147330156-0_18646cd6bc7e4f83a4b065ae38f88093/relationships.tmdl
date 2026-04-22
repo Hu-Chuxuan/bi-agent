@@ -1,0 +1,38 @@
+﻿relationship 1a1fb53f-0bb6-4e00-9047-1f7c91656060
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CALENDAR.StartDate
+	toColumn: LocalDateTable_48122762-ab67-4211-8ad2-74f590415bbd.Date
+
+relationship 7488f129-8bc2-441e-af3c-e5a08c13d509
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CALENDAR.EndDate
+	toColumn: LocalDateTable_6c8f17ad-4581-4247-a28a-228c5d450a30.Date
+
+relationship 92bbd2ef-0feb-422b-ba71-30f6f333d11f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CALENDAR.DateTime
+	toColumn: LocalDateTable_ecb60497-ca11-4a3b-a852-5c762dab2eae.Date
+
+relationship 4015134c-0dec-41a2-a914-346323c4f779
+	joinOnDateBehavior: datePartOnly
+	fromColumn: CUSTOMERS.EnrollmentDate
+	toColumn: LocalDateTable_43cbcf3e-a28c-49bb-9e3f-bfe9ac6718f0.Date
+
+relationship e200e2c7-5630-411c-8ab3-2f97400a1a3d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: SALES.OrderDateTime
+	toColumn: LocalDateTable_605154fc-43b4-403b-82ef-984061e9197c.Date
+
+relationship fd9a8639-4dd6-4e27-8a77-3a7fcf7e3025
+	fromColumn: CALENDAR.Date
+	toColumn: DATE.Date
+
+relationship 45383400-b795-4452-a191-6deed27feabf
+	fromColumn: SALES.CustomerID
+	toColumn: CUSTOMERS.CustomerID
+
+relationship 8ae4d7bd-d966-4e45-b017-e7028ee21997
+	toCardinality: many
+	fromColumn: SALES.OrderDate
+	toColumn: CALENDAR.Date
+

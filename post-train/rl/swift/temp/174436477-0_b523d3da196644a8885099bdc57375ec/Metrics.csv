@@ -1,0 +1,716 @@
+ID,TableID,Measure Name,Measure Description,DataType,DAX Expression,FormatString,Hidden Measure Flag,State,ModifiedTime,StructureModifiedTime,KPIID,IsSimpleMeasure,ErrorMessage,DisplayFolder,DetailRowsDefinitionID,Table Name,Data Type
+98691,97247,"Internet Net Sales (PYTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:24:11.346,2017-05-14 16:36:28.983,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103533,97247,"Reseller Net Sales (CY)","",10,"CALCULATE([Reseller Net Sales],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","",False,1,2017-11-15 13:30:41.756,2017-05-14 18:59:35.713,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103537,97247,"Reseller Net Sales (PY)","",10,"CALCULATE([Reseller Net Sales],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 13:31:48.176,2017-05-14 19:00:16.926,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103541,97247,"Reseller Net Sales (PYTD)","",10,"CALCULATE([Reseller Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1  &&
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-12 00:37:54.733,2017-05-14 19:01:00.403,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103545,97247,"Reseller Net Sales (YTD)","",10,"CALCULATE([Reseller Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-11 23:41:31.533,2017-05-14 19:01:39.470,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103549,97247,"Internet Sales Margin % (YTD)","",8,"CALCULATE([Internet Sales Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:20:40.690,2017-05-14 19:03:01.210,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103553,97247,"Internet Sales Margin % (CY)","",8,"CALCULATE([Internet Sales Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year Status] = ""Current Calendar Year"" && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 19:03:28.746,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103557,97247,"Internet Sales Margin % (PYTD)","",8,"CALCULATE([Internet Sales Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) - 1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:29:37.793,2017-05-14 19:04:23.566,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103561,97247,"Internet Sales Margin % (PY)","",8,"CALCULATE([Internet Sales Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year Status] = ""Prior Calendar Year"" && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 19:04:54.530,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103565,97247,"AdWorks Net Sales (YTD)","",10,"CALCULATE([AdWorks Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:54:06.966,2017-05-14 19:07:02.986,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103569,97247,"AdWorks Net Sales (CY)","",10,"CALCULATE([AdWorks Net Sales],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:54:29.713,2017-05-14 19:07:37.256,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103573,97247,"AdWorks Net Sales (PYTD)","",10,"CALCULATE([AdWorks Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:58:02.833,2017-05-14 19:08:01.993,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103577,97247,"AdWorks Net Sales (PY)","",10,"CALCULATE([AdWorks Net Sales],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:57:40.673,2017-05-14 19:08:28.390,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103581,97247,"Internet Sales Customer Count (YTD)","",6,"CALCULATE([Internet Sales Customer Count],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","#,0",False,1,2017-12-01 23:05:18.120,2017-05-14 19:12:08.836,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103585,97247,"Internet Sales Customer Count (CY)","",6,"CALCULATE([Internet Sales Customer Count],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","#,0",False,1,2017-11-13 18:29:49.540,2017-05-14 19:13:06.310,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103589,97247,"Internet Sales Customer Count (PY)","",6,"CALCULATE([Internet Sales Customer Count],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","#,0",False,1,2017-11-13 18:29:49.540,2017-05-14 19:13:43.126,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103593,97247,"Internet Sales Customer Count (PYTD)","",6,"CALCULATE([Internet Sales Customer Count],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","#,0",False,1,2017-12-02 22:24:25.426,2017-05-14 19:14:33.146,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103625,97247,"AdWorks Net Margin % (YTD)","",8,"CALCULATE([AdWorks Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:56:41.353,2017-05-14 19:30:42.040,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103629,97247,"AdWorks Net Margin % (CY)","",8,"CALCULATE([AdWorks Net Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:54:45.766,2017-05-14 19:31:12.946,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103633,97247,"AdWorks Net Margin % (PYTD)","",8,"CALCULATE([AdWorks Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:56:18.966,2017-05-14 19:32:05.796,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103637,97247,"AdWorks Net Margin % (PY)","",8,"CALCULATE([AdWorks Net Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:54:55.993,2017-05-14 19:32:49.000,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103641,97247,"Reseller Net Margin % (YTD)","",8,"CALCULATE([Reseller Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-11 23:53:38.413,2017-05-14 19:34:49.436,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103645,97247,"Reseller Net Margin % (CY)","",8,"CALCULATE([Reseller Net Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","0.00%;-0.00%;0.00%",False,1,2017-12-02 22:50:34.840,2017-05-14 19:36:05.076,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103649,97247,"Reseller Net Margin % (PYTD)","",8,"CALCULATE([Reseller Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:53:17.263,2017-05-14 19:36:47.366,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103653,97247,"Reseller Net Margin % (PY)","",8,"CALCULATE([Reseller Net Margin %],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:51:36.750,2017-05-14 19:37:20.250,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103663,97247,"Internet Sales Var to Plan (YTD)","",10,"CALCULATE([Internet Net Sales Var to Plan],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0.0;(\$#,0.0);\$#,0.0",False,1,2017-12-02 22:21:31.360,2017-05-14 19:40:02.073,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103667,97247,"Internet Sales Var to Plan (CY)","",10,"CALCULATE([Internet Net Sales Var to Plan],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-10-31 18:43:32.230,2017-05-14 19:40:29.886,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103671,97247,"Internet Sales Var to Plan (PYTD)","",10,"CALCULATE([Internet Net Sales Var to Plan],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:30:48.853,2017-05-14 19:40:55.110,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103675,97247,"Internet Sales Var to Plan (PY)","",10,"CALCULATE([Internet Net Sales Var to Plan],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","\$#,0;(\$#,0);\$#,0",False,1,2017-10-31 18:43:32.230,2017-05-14 19:41:38.896,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103679,97247,"Internet Net Sales (YOY)","",10,"[Internet Net Sales (CY)] - [Internet Net Sales (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-14 15:32:44.433,2017-05-14 20:23:52.570,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103683,97247,"Internet Net Sales (YOY %)","",8,"DIVIDE([Internet Net Sales (YOY)],[Internet Net Sales (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 20:24:42.000,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103690,97247,"AdWorks Net Sales (YOY)","",10,"[AdWorks Net Sales (CY)] - [AdWorks Net Sales (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:57:08.953,2017-05-14 20:27:32.370,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103694,97247,"AdWorks Net Sales (YOY %)","",8,"DIVIDE([AdWorks Net Sales (YOY)],[AdWorks Net Sales (PY)])","",False,1,2017-12-04 23:58:21.820,2017-05-14 20:28:19.190,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103698,97247,"Reseller Net Sales (YOY)","",10,"[Reseller Net Sales (CY)] - [Reseller Net Sales (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-08-25 00:19:19.740,2017-05-14 20:30:04.950,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103702,97247,"Reseller Net Sales (YOY %)","",8,"DIVIDE([Reseller Net Sales (YOY)],[Reseller Net Sales (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 20:31:59.176,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103706,97247,"AdWorks Net Margin % (YOY)","",8,"[AdWorks Net Margin % (CY)] - [AdWorks Net Margin % (PY)]","",False,1,2017-12-04 23:56:58.823,2017-05-14 20:34:10.016,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103710,97247,"AdWorks Net Margin % (YOY YTD)","",8,"[AdWorks Net Margin % (YTD)] - [AdWorks Net Margin % (PYTD)]","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:56:41.526,2017-05-14 20:36:03.800,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103714,97247,"Internet Net Sales (YOY YTD)","",10,"[Internet Net Sales (YTD)] - [Internet Net Sales (PYTD)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:24:11.500,2017-05-14 20:37:35.503,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103718,97247,"Internet Net Sales (YOY YTD %)","",8,"DIVIDE([Internet Net Sales (YOY YTD)],[Internet Net Sales (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:24:11.500,2017-05-14 20:38:32.196,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103722,97247,"Internet Sales Customer Count (YOY)","",6,"[Internet Sales Customer Count (CY)] - [Internet Sales Customer Count (PY)]","#,0",False,1,2017-11-13 18:29:49.540,2017-05-14 20:39:38.563,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103726,97247,"Internet Sales Customer Count (YOY %)","",8,"DIVIDE([Internet Sales Customer Count (YOY)],[Internet Sales Customer Count (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 20:40:30.753,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103734,97247,"Internet Sales Customer Count (YOY YTD %)","",8,"DIVIDE([Internet Sales Customer Count (YOY YTD)],[Internet Sales Customer Count (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:24:25.583,2017-05-14 20:42:13.623,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103745,97247,"AdWorks Net Sales (YOY YTD)","",10,"[AdWorks Net Sales (YTD)] - [AdWorks Net Sales (PYTD)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:58:02.980,2017-05-14 20:46:09.096,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103747,97247,"AdWorks Net Sales (YOY YTD %)","",8,"DIVIDE([AdWorks Net Sales (YOY YTD)],[AdWorks Net Sales (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-04 23:58:02.980,2017-05-14 20:46:17.940,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103757,97247,"Internet Sales Customer Count (YOY YTD)","",6,"[Internet Sales Customer Count (YTD)] - [Internet Sales Customer Count (PYTD)]","#,0",False,1,2017-12-02 22:24:25.583,2017-05-14 20:48:30.863,,False,"","",,"Date Intelligence Metrics","Whole Number"
+103759,97247,"Internet Sales Var to Plan (YOY)","",10,"[Internet Sales Var to Plan (CY)] - [Internet Sales Var to Plan (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-10-31 18:43:32.230,2017-05-14 20:48:37.403,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103766,97247,"Reseller Net Sales (YOY YTD)","",10,"[Reseller Net Sales (YTD)] - [Reseller Net Sales (PYTD)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:17:36.206,2017-05-14 20:52:03.063,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+103770,97247,"Reseller Net Sales (YOY YTD %)","",8,"DIVIDE([Reseller Net Sales (YOY YTD)],[Reseller Net Sales (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:16:33.440,2017-05-14 20:53:01.686,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103774,97247,"Internet Sales Margin % (YOY)","",8,"[Internet Sales Margin % (CY)] - [Internet Net Sales (PY)]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 20:55:16.886,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+103778,97247,"Internet Sales Margin % (YOY YTD)","",8,"[Internet Sales Margin % (YTD)] - [Internet Sales Margin % (PYTD)]","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:29:37.956,2017-05-14 20:56:10.846,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111528,97247,"Internet Net Sales Mix % (YTD)","",8,"CALCULATE([Internet Net Sales Mix %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:14:27.003,2017-05-14 22:12:28.223,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111532,97247,"Internet Net Sales Mix % (CY)","",8,"CALCULATE([Internet Net Sales Mix %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 22:13:06.490,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111536,97247,"Internet Net Sales Mix % (PY)","",8,"CALCULATE([Internet Net Sales Mix %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 22:14:05.110,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111540,97247,"Internet Net Sales Mix % (PYTD)","",8,"CALCULATE([Internet Net Sales Mix %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:32:05.563,2017-05-14 22:14:38.166,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111544,97247,"Internet Net Sales Mix (YOY)","",8,"[Internet Net Sales Mix % (CY)] - [Internet Net Sales Mix % (PY)]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-14 22:15:47.730,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111548,97247,"Internet Net Sales Mix % (YOY YTD)","",10,"[Internet Net Sales (YTD)] - [Internet Net Sales (PYTD)]","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:24:11.500,2017-05-14 22:16:48.550,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111555,97247,"AdWorks Net Sales CY +30%","",10,"1.3 * [AdWorks Net Sales (CY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-04 23:55:05.026,2017-05-14 22:30:50.456,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111559,97247,"AdWorks Net Sales CY -30%","",10,".7 * [AdWorks Net Sales (CY)]","",False,1,2017-12-04 23:58:29.970,2017-05-14 22:32:10.153,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111567,97247,"Internet Sales Per Customer (YTD)","",10,"CALCULATE([Internet Sales Per Customer],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:21:21.116,2017-05-15 00:08:27.010,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111571,97247,"Internet Sales Per Customer (CY)","",10,"CALCULATE([Internet Sales Per Customer],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 18:29:49.540,2017-05-15 00:09:04.880,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111575,97247,"Internet Sales Per Customer (PY)","",10,"CALCULATE([Internet Sales Per Customer],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 18:29:49.540,2017-05-15 00:10:14.493,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111579,97247,"Internet Sales Per Customer (PYTD)","",10,"CALCULATE([Internet Sales Per Customer],
+		FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) - 1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:30:22.340,2017-05-15 00:11:35.823,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111586,97247,"Internet Sales Per Customer (YOY)","",10,"[Internet Sales Per Customer (CY)] - [Internet Sales Per Customer (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 18:29:49.540,2017-05-15 00:12:32.866,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+111590,97247,"Internet Sales Per Customer (YOY %)","",8,"DIVIDE([Internet Sales Per Customer (YOY)], [Internet Sales Per Customer (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-15 00:13:33.000,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+111612,97247,"Internet Sales Count of New Customers (YTD)","",6,"CALCULATE([Internet Sales New Customers],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","#,0",False,1,2017-12-02 22:19:46.106,2017-05-15 01:22:45.793,,False,"","",,"Date Intelligence Metrics","Whole Number"
+119378,97247,"Reseller Net Sales Mix % (YTD)","",8,"CALCULATE([Reseller Net Sales Mix %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:22:17.386,2017-05-15 13:07:50.826,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+119382,97247,"Reseller Net Sales Mix % (CY)","",8,"CALCULATE([Reseller Net Sales Mix %],FILTER(ALL('Date'),
+	'Date'[Calendar Year Status] = ""Current Calendar Year"" && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-15 13:08:39.920,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+119386,97247,"Reseller Net Sales Mix % (PY)","",8,"CALCULATE([Reseller Net Sales Mix %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+	'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) - 12 &&
+	'Date'[Date] >= MIN('Date'[Prior Calendar Year Date]) && 'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+	))","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-15 13:09:40.293,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+119393,97247,"Reseller Net Sales Mix % (PYTD)","",8,"CALCULATE([Reseller Net Sales Mix %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+		'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])))","#,0.0%;-#,0.0%;#,0.0%",False,1,2017-12-02 22:33:33.946,2017-05-15 13:12:05.316,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+119397,97247,"Reseller Net Sales Mix % (YOY)","",8,"[Reseller Net Sales Mix % (CY)] - [Reseller Net Sales Mix % (PY)]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-15 13:12:59.596,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+119401,97247,"Reseller Net Sales Mix % (YOY YTD)","",8,"[Reseller Net Sales Mix % (YTD)] - [Reseller Net Sales Mix % (PYTD)]","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:22:17.566,2017-05-15 13:14:01.416,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+140667,97247,"Internet Net Sales (CY - Variable)","",10,"
+VAR CY = YEAR(TODAY())
+RETURN
+ CALCULATE([Internet Net Sales],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = CY && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","",True,1,2017-11-15 13:14:20.553,2017-05-17 17:25:56.420,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+167223,97247,"Internet Net Sales Plan (YTD)","",10,"CALCULATE([Internet Net Sales Plan],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) 
+		&& 'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:14:41.510,2017-05-19 00:09:26.863,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+167227,97247,"Internet Net Sales Plan (CY)","",10,"CALCULATE([Internet Net Sales Plan],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-10-31 22:10:31.480,2017-05-19 00:10:32.693,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+167231,97247,"Target: 10 % of YTD Internet Sales Plan","",10,"[Internet Net Sales Plan (YTD)] *.1","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:14:41.656,2017-05-19 00:27:17.076,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+221176,97247,"Internet Net Sales Plan (YOY)","",10,"[Internet Net Sales Plan (CY)] - [Internet Net Sales (PY)]","#,0",False,1,2017-11-14 15:32:44.433,2017-05-20 16:53:24.986,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+221180,97247,"Internet Net Sales Plan (YOY YTD)","",10,"[Internet Net Sales Plan (YTD)] - [Internet Net Sales (PYTD)]","\$#,0.00;(\$#,0.00);\$#,0.00",False,1,2017-12-02 22:24:11.500,2017-05-20 16:56:52.493,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+221184,97247,"Internet Net Sales Plan (YOY %)","",8,"DIVIDE([Internet Net Sales Plan (YOY)],[Internet Net Sales (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-20 17:01:19.980,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+221191,97247,"Internet Net Sales Plan (YOY YTD %)","",8,"DIVIDE([Internet Net Sales Plan (YOY YTD)],[Internet Net Sales (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:24:11.500,2017-05-20 17:04:34.353,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+221198,97247,"Internet Net Sales (CY)","",10,"CALCULATE([Internet Net Sales],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 22:31:04.486,2017-05-20 17:23:50.423,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+221202,97247,"Internet Net Sales (YTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 22:47:07.013,2017-05-20 17:24:44.823,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+221214,97247,"Target: 25% Above Planned YOY Growth","",8,"1.25 * [Internet Net Sales Plan (YOY %)]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-20 18:23:57.356,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+221218,97247,"Target: 25% Above Planned YTD Growth","",8,"1.25 * [Internet Net Sales Plan (YOY YTD %)]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-20 18:25:00.733,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+304495,97247,"Internet Net Sales (Trailing 3 Periods)","",10,"CALCULATE([Internet Net Sales],FILTER(ALL('Date'),
+	'Date'[Calendar Year Month Number] >= MAX('Date'[Calendar Year Month Number])-2 && 'Date'[Calendar Year Month Number] <= MAX('Date'[Calendar Year Month Number])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-06 20:25:05.426,2017-05-29 16:43:01.660,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+377255,97247,"Internet Sales Customer Count Average of Trailing 6","",8,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Internet Sales Customer Count])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE(AVERAGEX(VALUES('Date'[Calendar Year Month Number]),[Internet Sales Customer Count]),FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth -1 && 'Date'[Calendar Year Month Number] >=SixMonthsPrior))","#,0",False,1,2017-11-13 18:29:49.540,2017-08-25 18:24:03.213,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+377257,97247,"Internet Sales Margin % Average of Trailing 6","",8,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Internet Sales Margin %])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE(AVERAGEX(VALUES('Date'[Calendar Year Month Number]),[Internet Sales Margin %]),FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth -1 && 'Date'[Calendar Year Month Number] >=SixMonthsPrior))","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-08-25 18:24:13.033,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+377259,97247,"Internet Sales Per Customer Average of Trailing 6","",10,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Internet Sales Per Customer])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE(AVERAGEX(VALUES('Date'[Calendar Year Month Number]),[Internet Sales Per Customer]),FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth -1 && 'Date'[Calendar Year Month Number] >=SixMonthsPrior))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 18:29:49.540,2017-08-25 18:24:21.193,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+445412,97247,"Internet Net Sales (YTD Last Month)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date]) && 'Date'[Calendar Month Number] <= [Prior Calendar Month Number]))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-20 21:23:48.120,2017-09-02 13:18:13.396,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+445419,97247,"Target: 10 % Above PYTD Internet Customers","",8,"[Internet Sales Customer Count (PYTD)] * 1.1","#,0",False,1,2017-12-02 22:31:05.426,2017-09-02 15:36:20.610,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+445424,97247,"Target: 50 % Above PYTD Internet Customers","",8,"[Internet Sales Customer Count (PYTD)] * 1.5","",False,1,2017-12-02 22:31:11.820,2017-09-02 15:48:05.720,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+634620,97247,"Internet Net Sales (CY Test)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])),VALUES('Date'[Date])
+		)","\$#,0;(\$#,0);\$#,0",True,1,2017-11-15 12:32:11.146,2017-11-13 22:28:57.073,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+634624,97247,"Internet Net Sales (MTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 22:47:48.233,2017-11-13 22:34:02.846,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+634632,97247,"Internet Net Sales (WTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year Week Number] = MAX('Date'[Calendar Year Week Number]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 22:49:41.140,2017-11-13 22:48:02.940,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+634643,97247,"Internet Net Sales (PMTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year Month Number] = MAX('Date'[Calendar Year Month Number])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Month Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 23:51:26.363,2017-11-13 23:48:52.313,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+635742,97247,"Internet Net Sales (PWTD)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year Week Number] = MAX('Date'[Calendar Year Week Number])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Week Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-14 00:05:02.616,2017-11-14 00:03:35.990,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+640606,97247,"Internet Net Sales (PY)","",10,"CALCULATE([Internet Net Sales],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-14 15:32:44.123,2017-11-14 14:28:37.803,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+640614,97247,"min prior calendar date","",9,"min('Date'[Prior Calendar Year Date])","General Date",True,1,2017-12-02 22:53:46.786,2017-11-14 15:10:56.033,,False,"","",,"Date Intelligence Metrics","Date"
+640618,97247,"max prior calendar date","",9,"max('Date'[Prior Calendar Year Date])","General Date",True,1,2017-12-02 22:53:49.936,2017-11-14 15:11:48.710,,False,"","",,"Date Intelligence Metrics","Date"
+640721,97247,"Internet Net Sales (Today)","",10,"CALCULATE([Internet Net Sales],FILTER(ALL('Date'),'Date'[Date] = TODAY()))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-14 21:51:51.640,2017-11-14 21:49:20.393,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+640725,97247,"Internet Net Sales (Yesterday)","",10,"CALCULATE([Internet Net Sales],FILTER(ALL('Date'),'Date'[Date] = TODAY()-1))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-14 21:52:02.433,2017-11-14 21:51:09.936,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645601,97247,"Internet Net Margin (CY)","",10,"CALCULATE([Internet Net Margin],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 13:42:00.810,2017-11-15 13:36:13.353,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645605,97247,"Internet Net Margin (PY)","",10,"CALCULATE([Internet Net Margin],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 13:42:18.426,2017-11-15 13:36:39.096,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645609,97247,"Internet Net Margin (YTD)","",10,"CALCULATE([Internet Net Margin],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 13:42:55.546,2017-11-15 13:37:07.323,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645613,97247,"Internet Net Margin (PYTD)","",10,"CALCULATE([Internet Net Margin],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:24:03.456,2017-11-15 13:37:34.546,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645617,97247,"Internet Net Margin (YOY)","",10,"[Internet Net Margin (CY)] - [Internet Net Margin (PY)]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 13:42:47.750,2017-11-15 13:38:07.160,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645624,97247,"Internet Net Margin (YOY YTD)","",10,"[Internet Net Margin (YTD)] - [Internet Net Margin (PYTD)]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-02 22:24:03.616,2017-11-15 13:39:20.890,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645628,97247,"Internet Net Margin (YOY %)","",8,"DIVIDE([Internet Net Margin (YOY)],[Internet Net Margin (PY)])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-11-15 13:40:45.210,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+645632,97247,"Internet Net Margin (YOY YTD %)","",8,"DIVIDE([Internet Net Margin (YOY YTD)],[Internet Net Margin (PYTD)])","0.0%;-0.0%;0.0%",False,1,2017-12-02 22:24:03.616,2017-11-15 13:43:18.750,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+645640,97247,"Internet Net Sales (Trailing 60 Days)","",10,"
+VAR MaxDate = MAX('Date'[Date])
+VAR StartDate = MaxDate - 59
+RETURN
+CALCULATE([Internet Net Sales],FILTER(ALL('Date'),'Date'[Date] >= StartDate && 'Date'[Date] <= MaxDate))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 14:55:52.933,2017-11-15 14:42:31.963,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+645644,97247,"Internet Net Sales Trailing (60 to 120 Days)","",10,"
+VAR MaxDate = MAX('Date'[Date])
+VAR EndDate = MaxDate - 60
+VAR StartDate = EndDate - 59
+RETURN
+CALCULATE([Internet Net Sales],FILTER(ALL('Date'), 'Date'[Date] >= StartDate && 'Date'[Date] <= EndDate))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-15 15:01:07.273,2017-11-15 14:56:34.133,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+650526,97247,"Internet Net Sales (YTD Last Week)","",10,"CALCULATE([Internet Net Sales],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date]) && 'Date'[Calendar Week Number in Year] <= [Prior Calendar Week Number]))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-20 21:25:11.933,2017-11-20 20:45:59.406,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+695332,97247,"Internet Net Margin % (CY)","",8,"CALCULATE([Internet Net Margin %],FILTER(ALL('Date'),
+	'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))
+	)","",False,1,2017-12-02 22:41:38.606,2017-12-02 22:41:23.173,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695336,97247,"Internet Net Margin % (PY)","",8,"CALCULATE([Internet Net Margin %],FILTER(ALL('Date'),
+	CONTAINS(VALUES('Date'[Prior Calendar Year Date]),'Date'[Prior Calendar Year Date],'Date'[Date])))","",False,1,2017-12-02 22:42:23.566,2017-12-02 22:42:10.793,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695340,97247,"Internet Net Margin % (PYTD)","",8,"CALCULATE([Internet Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year])-1 && 
+			'Date'[Date] <= MAX('Date'[Prior Calendar Year Date])
+			))","",False,1,2017-12-02 22:43:25.896,2017-12-02 22:43:05.756,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695344,97247,"Internet Net Margin % (YOY)","",8,"[Internet Net Margin % (CY)] - [Internet Net Margin % (PY)]","",False,1,2017-12-02 22:44:16.533,2017-12-02 22:43:52.896,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695348,97247,"Internet Net Margin % (YTD)","",8,"CALCULATE([Internet Net Margin %],
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Date] <= MAX('Date'[Date])))","0.0%;-0.0%;0.0%",False,1,2017-12-11 23:52:55.746,2017-12-02 22:44:49.343,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695352,97247,"Internet Net Margin % (YOY YTD %)","",8,"[Internet Net Margin % (YTD)] - [Internet Net Margin % (PYTD)]","",False,1,2017-12-02 22:46:41.200,2017-12-02 22:45:44.293,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695356,97247,"Reseller Net Margin % (YOY)","",8,"[Reseller Net Margin % (CY)] - [Reseller Net Margin % (PY)]","",False,1,2017-12-02 22:55:27.503,2017-12-02 22:54:46.736,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+695360,97247,"Reseller Net Margin % (YOY YTD %)","",8,"[Reseller Net Margin % (YTD)] - [Reseller Net Margin % (PYTD)]","",False,1,2017-12-02 22:56:52.396,2017-12-02 22:55:51.370,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+770457,97247,"AdWorks Net Sales Plan (YTD)","",10,"
+IF([Plan Grain Status] = ""Actual Grain"",BLANK(),
+CALCULATE(sum('Sales and Margin Plan'[Internet Net Sales]) + sum('Sales and Margin Plan'[Reseller Net Sales]),
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Calendar Year Month Number] <= MAX('Date'[Calendar Year Month Number]))))","\$#,0;(\$#,0);\$#,0",False,1,2017-12-23 01:44:50.760,2017-12-23 01:15:43.090,,False,"","",,"Date Intelligence Metrics","Fixed Decimal Number"
+770469,97247,"AdWorks Net Margin Plan % (YTD)","",8,"
+CALCULATE(DIVIDE(sum('Sales and Margin Plan'[Internet Margin $]) + sum('Sales and Margin Plan'[Reseller Margin $]),sum('Sales and Margin Plan'[Internet Net Sales]) + sum('Sales and Margin Plan'[Reseller Net Sales])),
+	FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 
+		'Date'[Calendar Year Month Number] <= MAX('Date'[Calendar Year Month Number])))","0.0%;-0.0%;0.0%",False,1,2017-12-23 02:06:56.913,2017-12-23 01:52:53.356,,False,"","",,"Date Intelligence Metrics","Decimal Number"
+11710,266,"Internet Sales Products Sold Count","",6,"CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),'Internet Sales')","#,0",False,1,2017-11-13 20:33:47.050,2017-01-10 10:55:25.293,,False,"","",,"Internet Sales","Whole Number"
+12204,266,"Internet Sales Freight Cost","",10,"SUM('Internet Sales'[Freight])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-06 19:24:27.876,2017-01-26 22:28:22.400,,False,"","",,"Internet Sales","Fixed Decimal Number"
+12208,266,"Internet Sales Order Quantity","",6,"sum('Internet Sales'[Order Quantity])","#,0",False,1,2017-08-25 00:11:11.146,2017-01-26 22:29:32.186,,False,"","",,"Internet Sales","Whole Number"
+40710,266,"Internet Sales Discounts","",10,"sum('Internet Sales'[Discount Amount])","",False,1,2017-08-30 17:02:40.290,2017-05-01 23:58:47.353,,False,"","",,"Internet Sales","Fixed Decimal Number"
+40724,266,"Internet Sales Margin %","",8,"DIVIDE([Internet Net Sales]-[Internet Sales Product Cost],[Internet Net Sales])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-02 00:10:21.406,,False,"","",,"Internet Sales","Decimal Number"
+49198,266,"Internet Sales Orders","",6,"DISTINCTCOUNT('Internet Sales'[Sales order number])","#,0",False,1,2017-08-25 00:11:11.146,2017-05-02 00:32:26.166,,False,"","",,"Internet Sales","Whole Number"
+52895,266,"Internet Sales France Customer Count","",6,"CALCULATE([Internet Sales Customer Count],Customer[Customer Country] = ""France"")","#,0",False,1,2017-11-13 18:29:49.540,2017-05-03 02:16:17.213,,False,"","",,"Internet Sales","Whole Number"
+61674,266,"Current Month Internet Net Sales","",10,"
+VAR CurrentMonth = LOOKUPVALUE('Date'[Calendar Year Month Number],'Date'[Date],TODAY())
+RETURN
+CALCULATE([Internet Net Sales],FILTER(ALL('Date'),'Date'[Calendar Year Month Number] = CurrentMonth))","\$#,0;(\$#,0);\$#,0",True,1,2017-11-06 21:23:36.610,2017-05-04 00:44:17.970,,False,"","",,"Internet Sales","Fixed Decimal Number"
+61685,266,"Current Year Internet Sales Margin %","",8,"
+VAR CY = LOOKUPVALUE('Date'[Calendar Year],'Date'[Date],TODAY())
+RETURN
+CALCULATE([Internet Sales Margin %],'Date'[Calendar Year] = CY )","0.0%;-0.0%;0.0%",True,1,2017-12-02 22:37:19.703,2017-05-04 01:02:53.350,,False,"","",,"Internet Sales","Decimal Number"
+61689,266,"Current Year Internet Sales Customer Count","",6,"
+VAR CY = LOOKUPVALUE('Date'[Calendar Year],'Date'[Date],TODAY())
+RETURN
+CALCULATE([Internet Sales Customer Count],'Date'[Calendar Year] = CY )","#,0",True,1,2017-11-13 18:29:49.540,2017-05-04 01:05:57.536,,False,"","",,"Internet Sales","Whole Number"
+64864,266,"Internet Sales Rows","",6,"COUNTROWS('Internet Sales')","#,0",False,1,2017-10-16 15:05:16.680,2017-05-13 14:31:15.460,,False,"","",,"Internet Sales","Whole Number"
+111563,266,"Internet Sales Per Customer","",10,"DIVIDE([Internet Net Sales],[Internet Sales Customer Count])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-13 18:29:49.540,2017-05-15 00:06:55.803,,False,"","",,"Internet Sales","Fixed Decimal Number"
+111594,266,"Internet Sales New Customers","",6,"
+VAR Today = TODAY() VAR CurrentYear = YEAR(Today)
+VAR PriorCustomers = 
+SUMMARIZE(CALCULATETABLE('Internet Sales',FILTER(ALL('Date'),'Date'[Calendar Year] <= CurrentYear-1)),'Customer'[Customer Alternate Key])
+VAR CYCustomers =  SUMMARIZE(CALCULATETABLE('Internet Sales',FILTER(ALL('Date'),
+	'Date'[Calendar Year Status] = ""Current Calendar Year"" &&
+	'Date'[Date] >= MIN('Date'[Date]) &&
+	'Date'[Date] <= MAX('Date'[Date]))),'Customer'[Customer Alternate Key])
+RETURN
+CALCULATE(DISTINCTCOUNT('Customer'[Customer Alternate Key]),EXCEPT(CYCustomers,PriorCustomers))","#,0",False,1,2017-11-14 19:39:50.703,2017-05-15 00:53:05.146,,False,"","",,"Internet Sales","Whole Number"
+409590,266,"Count of Product Rows","",6,"COUNTROWS('Product')","#,0",True,1,2017-11-06 21:23:33.306,2017-08-29 15:17:51.020,,False,"","",,"Internet Sales","Whole Number"
+577314,266,"Internet Net Sales (Due Date)","",10,"CALCULATE([Internet Net Sales], USERELATIONSHIP('Internet Sales'[Due Date],'Date'[Date]))","\$#,0;(\$#,0);\$#,0",True,1,2018-01-02 17:46:20.033,2017-10-29 21:49:51.443,,False,"","",,"Internet Sales","Fixed Decimal Number"
+577318,266,"Internet Net Sales (Ship Date)","",10,"CALCULATE([Internet Net Sales],USERELATIONSHIP('Internet Sales'[Ship Date],'Date'[Date]))","\$#,0;(\$#,0);\$#,0",True,1,2018-01-02 17:46:58.846,2017-10-29 21:53:34.003,,False,"","",,"Internet Sales","Fixed Decimal Number"
+589523,266,"Employee Rows","",6,"COUNTROWS(Employee)","0",True,1,2017-12-02 22:37:24.753,2017-11-01 21:15:56.610,,False,"","",,"Internet Sales","Whole Number"
+624298,266,"Internet Gross Sales (Bikes)","",10,"CALCULATE([Internet Gross Sales],'Product'[Product Category] = ""Bikes"")","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2017-11-12 16:14:39.273,2017-11-12 16:14:04.583,,False,"","",,"Internet Sales","Fixed Decimal Number"
+624302,266,"Reseller Gross Sales (something)","",10,"CALCULATE([Reseller Gross Sales],'Product'[Product Color] IN {""Red"", ""White""},Promotion[Discount Percentage] > .25)","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2018-01-02 19:08:44.663,2017-11-12 16:16:35.563,,False,"","",,"Internet Sales","Fixed Decimal Number"
+634598,266,"Internet Sales Customers Missing","",6,"
+CALCULATE(DISTINCTCOUNT('Customer'[Customer Alternate Key]),
+	FILTER(VALUES('Customer'[Customer Alternate Key]),
+		ISEMPTY(RELATEDTABLE('Internet Sales'))))","#,0",False,1,2017-11-13 20:46:43.636,2017-11-13 19:21:39.836,,False,"","",,"Internet Sales","Whole Number"
+634602,266,"Quick Check","",6,"[Internet Sales Customer Count] + [Internet Sales Customers Missing]","0",True,1,2017-12-02 22:37:31.933,2017-11-13 19:32:54.073,,False,"","",,"Internet Sales","Whole Number"
+634608,266,"Internet Sales Products Missing","",6,"
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+	FILTER(VALUES('Product'[Product Alternate Key]),ISEMPTY(RELATEDTABLE('Internet Sales'))))","#,0",False,1,2017-11-25 22:52:17.243,2017-11-13 20:37:12.146,,False,"","",,"Internet Sales","Whole Number"
+634612,266,"Internet Sales First Year Customer Count","",6,"
+CALCULATE([Internet Sales Customer Count],'Customer'[Customer History Segment] = ""First Year Customer"")","0",False,1,2017-11-13 21:01:31.136,2017-11-13 21:00:35.970,,False,"","",,"Internet Sales","Whole Number"
+634616,266,"Internet Sales Products Missing (Accessories)","",6,"CALCULATE([Internet Sales Products Missing],'Product'[Product Category] = ""Accessories"")","0",False,1,2017-11-13 21:04:55.420,2017-11-13 21:04:17.126,,False,"","",,"Internet Sales","Whole Number"
+640703,266,"Internet Sales First Year and Accessory Customers","",6,"
+VAR FirstYearCustomers = 
+SUMMARIZE(
+	CALCULATETABLE('Internet Sales',
+		'Customer'[Customer History Segment] = ""First Year Customer""),
+	'Customer'[Customer Alternate Key])
+VAR AccessoryCustomersThisYear = 
+SUMMARIZE(
+CALCULATETABLE('Internet Sales',
+		'Date'[Calendar Year Status] = ""Current Calendar Year"",'Product'[Product Category] = ""Accessories""),
+'Customer'[Customer Alternate Key])
+VAR TargetCustomerSet = 
+DISTINCT(UNION(FirstYearCustomers,AccessoryCustomersThisYear))
+RETURN
+CALCULATE(DISTINCTCOUNT(Customer[Customer Alternate Key]),TargetCustomerSet)","#,0",False,1,2017-11-14 19:39:50.703,2017-11-14 16:37:40.770,,False,"","",,"Internet Sales","Whole Number"
+640705,266,"SummarizeColumnsCheck","",6,"
+COUNTROWS(SUMMARIZECOLUMNS('Customer'[Customer Alternate Key],CALCULATETABLE('Internet Sales','Product'[Product Category] = ""Accessories"")))","0",False,1,2017-11-14 16:48:01.886,2017-11-14 16:45:08.033,,False,"","",,"Internet Sales","Whole Number"
+640741,266,"Internet Net Sales Product Rank","",6,"
+IF(HASONEVALUE('Product'[Product Alternate Key]),
+	RANKX(ALL('Product'[Product Alternate Key]),[Internet Net Sales],,DESC,Skip),BLANK())","0",False,1,2017-11-15 21:32:36.850,2017-11-14 23:14:56.370,,False,"","",,"Internet Sales","Whole Number"
+645652,266,"Internet Net Sales Product Rank (All Products)","",6,"
+VAR ProdRankTable = 
+ALL('Product'[Product Alternate Key],'Product'[Product Name],'Product'[Product Category Group],'Product'[Product Category],'Product'[Product Subcategory],'Product'[Product Name])
+RETURN
+RANKX(ProdRankTable,
+	[Internet Net Sales],,DESC,Skip)","0",True,1,2017-12-02 22:36:48.333,2017-11-15 20:09:50.283,,False,"","",,"Internet Sales","Whole Number"
+645656,266,"Internet Net Sales Product Rank (All Selected)","",6,"
+RANKX(ALLSELECTED('Product'),[Internet Net Sales],,DESC,Skip)","0",True,1,2017-11-15 21:14:11.240,2017-11-15 21:12:40.990,,False,"","",,"Internet Sales","Whole Number"
+645660,266,"Internet Net Sales Product Rank (Conditional)","",6,"
+VAR SingleProduct = HASONEVALUE('Product'[Product Alternate Key])
+VAR SingleSubCat = HASONEVALUE('Product'[Product Subcategory])
+VAR SingleCat = HASONEVALUE('Product'[Product Category])
+RETURN
+Switch(TRUE(),
+	SingleProduct = TRUE(), RANKX(ALL('Product'[Product Alternate Key],'Product'[Product Name]),[Internet Net Sales],,DESC,Skip),
+	SingleSubCat = TRUE(), RANKX(ALL('Product'[Product Subcategory]),[Internet Net Sales],,DESC,Skip),
+	SingleCat = TRUE(), RANKX(ALL('Product'[Product Category]),[Internet Net Sales],,DESC,Skip),
+	BLANK())","0",True,1,2017-12-02 22:36:45.003,2017-11-15 21:39:53.963,,False,"","",,"Internet Sales","Whole Number"
+645670,266,"Internet Net Sales Product Rank (New Conditional)","",6,"
+Switch(TRUE(),
+	HASONEVALUE('Product'[Product Alternate Key]), RANKX(ALL('Product'[Product Alternate Key]),[Internet Net Sales],,DESC,Skip),
+	HASONEVALUE('Product'[Product Subcategory]), RANKX(ALL('Product'[Product Subcategory]),[Internet Net Sales],,DESC,Skip),
+	HASONEVALUE('Product'[Product Category]), RANKX(ALL('Product'[Product Category]),[Internet Net Sales],,DESC,Skip),
+	BLANK())","0",True,1,2017-12-02 22:36:41.603,2017-11-15 22:13:23.483,,False,"","",,"Internet Sales","Whole Number"
+665106,266,"Internet Net Sales Per Order","",10,"DIVIDE([Internet Net Sales],[Internet Sales Orders])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-25 22:43:29.380,2017-11-25 22:40:13.076,,False,"","",,"Internet Sales","Fixed Decimal Number"
+665110,266,"Internet Net Sales (Format Thousands)","",2,"FORMAT([Internet Net Sales],""$0,.0K"")","",True,1,2017-12-02 22:37:06.486,2017-11-25 23:23:37.456,,False,"","",,"Internet Sales","Text"
+665114,266,"Internet Net Sales (Format Millions)","",2,"FORMAT([Internet Net Sales],""$0,,.0M"")","",True,1,2017-12-02 22:37:03.006,2017-11-25 23:35:30.296,,False,"","",,"Internet Sales","Text"
+684540,266,"Internet Sales Below 150K","",10,"IF([Internet Net Sales] <= 150000, [Internet Net Sales],BLANK())","\$#,0.###############;(\$#,0.###############);\$#,0.###############",True,1,2017-12-02 22:37:36.770,2017-11-29 23:15:08.533,,False,"","",,"Internet Sales","Fixed Decimal Number"
+684544,266,"Internet Net Sales Per Order Below $600","",10,"IF([Internet Net Sales Per Order] < 600,[Internet Net Sales Per Order],BLANK())","\$#,0.###############;(\$#,0.###############);\$#,0.###############",True,1,2017-12-02 22:36:58.620,2017-11-29 23:18:53.673,,False,"","",,"Internet Sales","Fixed Decimal Number"
+684548,266,"Internet Net Sales Per Order Above $600","",10,"IF([Internet Net Sales Per Order] >= 600, [Internet Net Sales Per Order],BLANK())","\$#,0.###############;(\$#,0.###############);\$#,0.###############",True,1,2017-12-02 22:36:54.603,2017-11-30 13:58:57.093,,False,"","",,"Internet Sales","Fixed Decimal Number"
+11702,481,"Reseller Sales Purchase Orders","",6,"DISTINCTCOUNT('Reseller Sales'[CustomerPONumber])","#,0",False,1,2017-10-28 18:53:59.496,2017-01-10 10:40:12.380,,False,"","",,"Reseller Sales","Whole Number"
+12224,481,"Reseller Sales Freight Cost","",10,"sum('Reseller Sales'[Freight])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-06 19:28:07.573,2017-01-26 22:38:09.626,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+12236,481,"Reseller Sales Order Quantity","",6,"sum('Reseller Sales'[Order Quantity])","#,0",False,1,2017-10-28 18:57:10.456,2017-01-26 22:41:28.173,,False,"","",,"Reseller Sales","Whole Number"
+38397,481,"Reseller Sales Discounts","",10,"sum('Reseller Sales'[Discount Amount])","",False,1,2017-10-28 18:57:15.673,2017-05-01 22:54:21.246,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+39885,481,"Reseller Count of Products Sold","",6,"CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),'Reseller Sales')","0",False,1,2017-10-28 18:57:32.493,2017-05-01 23:15:08.693,,False,"","",,"Reseller Sales","Whole Number"
+56926,481,"Last Monthly Reseller Net Sales","",10,"CALCULATE([Reseller Net Sales],LASTNONBLANK('Date'[Calendar Year Month Number],[Reseller Net Sales]) )","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.980,2017-05-03 13:45:58.816,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+59785,481,"Average Monthly Reseller Sales","",10,"AVERAGEX(values('Date'[Calendar Year Month Number]),[Reseller Net Sales])","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-03 15:12:31.846,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+59792,481,"Reseller Trailing 6","",10,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Reseller Net Sales])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE([Reseller Net Sales],FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth-1 && 'Date'[Calendar Year Month Number] >= SixMonthsPrior))","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-03 15:26:00.473,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+59796,481,"Reseller Sales Average of Trailing 6 Months","",10,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Reseller Net Sales])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE(AVERAGEX(VALUES('Date'[Calendar Year Month Number]),[Reseller Net Sales]),FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth -1 && 'Date'[Calendar Year Month Number] >=SixMonthsPrior))","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-03 15:28:46.396,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+59800,481,"Reseller Sales Average Margin % of Trailing 6","",8,"
+VAR LastNonBlankMonth = LASTNONBLANK('Date'[Calendar Year Month Number],[Reseller Net Margin %])
+VAR SixMonthsPrior = LastNonBlankMonth - 6
+RETURN
+CALCULATE(AVERAGEX(VALUES('Date'[Calendar Year Month Number]),[Reseller Net Margin %]),FILTER(ALL('Date'),'Date'[Calendar Year Month Number] <= LastNonBlankMonth -1 && 'Date'[Calendar Year Month Number] >=SixMonthsPrior))","0.00%;-0.00%;0.00%",False,1,2017-11-20 20:37:12.946,2017-05-03 15:44:50.393,,False,"","",,"Reseller Sales","Decimal Number"
+79333,481,"Reseller Sales Rows","",6,"COUNTROWS('Reseller Sales')","#,0",False,1,2017-10-28 18:56:59.780,2017-05-13 14:58:41.753,,False,"","",,"Reseller Sales","Whole Number"
+103607,481,"Reseller Sales Margin Amt","",10,"[Reseller Net Sales] - [Reseller Sales Product Cost]","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-14 19:21:30.053,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+158670,481,"Reseller Net Sales (Bikes)","",10,"CALCULATE([Reseller Net Sales],'Product'[Product Category] = ""Bikes"")","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-18 20:30:23.420,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+158674,481,"Reseller Net Sales (Non-Bikes)","",10,"CALCULATE([Reseller Net Sales],'Product'[Product Category Group] = ""Non-Bikes"")","\$#,0;(\$#,0);\$#,0",False,1,2017-10-30 21:44:50.983,2017-05-18 20:31:03.410,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+158678,481,"Reseller Net Sales (Non-Bikes %)","",8,"DIVIDE([Reseller Net Sales (Non-Bikes)],[Reseller Net Sales])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-05-18 20:39:26.526,,False,"","",,"Reseller Sales","Decimal Number"
+169941,481,"Count of Resellers","",6,"DISTINCTCOUNT(Reseller[Reseller Key])","#,0",False,1,2017-10-28 18:57:50.833,2017-05-19 19:25:54.136,,False,"","",,"Reseller Sales","Whole Number"
+169945,481,"Count of Resellers with Sales","",6,"CALCULATE([Count of Resellers],'Reseller Sales')","#,0",False,1,2017-10-28 18:57:53.803,2017-05-19 19:27:21.676,,False,"","",,"Reseller Sales","Whole Number"
+169949,481,"Reseller Net Sales Rank","",6,"RANKX(ALL(Reseller[Reseller],Reseller[Reseller Key]),[Reseller Net Sales],,DESC,Skip)","#,0",False,1,2017-10-30 21:44:50.983,2017-05-19 19:28:52.116,,False,"","",,"Reseller Sales","Whole Number"
+169953,481,"Count of Reseller Names","",6,"DISTINCTCOUNT('Reseller'[Reseller])","0",False,1,2017-12-14 20:41:50.850,2017-05-19 19:30:55.793,,False,"","",,"Reseller Sales","Whole Number"
+169957,481,"Reseller Net Sales Rank (All)","",6,"RANKX(ALL(Reseller),[Reseller Net Sales],,DESC,Skip)","#,0",False,1,2017-10-30 21:44:50.983,2017-05-19 19:44:35.783,,False,"","",,"Reseller Sales","Whole Number"
+589527,481,"Employee Count","",6,"DISTINCTCOUNT(Employee[Employee Key])","0",False,1,2017-11-01 22:09:59.203,2017-11-01 21:48:01.700,,False,"","",,"Reseller Sales","Whole Number"
+589531,481,"Employee Count (CF)","",6,"CALCULATE(DISTINCTCOUNT('Employee'[Employee Key]),CROSSFILTER('Reseller Sales'[Employee Key],'Employee'[Employee Key],Both))","0",False,1,2017-11-01 22:29:43.690,2017-11-01 22:03:54.520,,False,"","",,"Reseller Sales","Whole Number"
+604874,481,"reseller rows","",6,"COUNTROWS('Reseller Sales')","0",False,1,2017-11-06 18:35:50.253,2017-11-06 18:35:35.386,,False,"","",,"Reseller Sales","Whole Number"
+624321,481,"Legacy Reseller High Value Accessory and Clothing Products","",6,"
+/*
+Accessory category products with over 20K in net sales and over 32% net margin since last year 
+Clothing category products with over 55K in net sales and over 28% net margin since last year
+Enable filtering from dimension tables related to Reseller Sales
+*/
+VAR AccessorySales = 20000 VAR AccessoryNetMargin = .32
+VAR ClothingSales = 50000 VAR ClothingNetMargin = .28
+VAR CurrentAndPriorYear = CALCULATETABLE('Date','Date'[Calendar Year Status] IN {""Current Calendar Year"", ""Prior Calendar Year""})
+//Distinct Accessory Products
+VAR AccessoryProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+	CROSSFILTER('Reseller Sales'[Product Key],'Product'[Product Key],Both),
+	CurrentAndPriorYear,
+	'Product'[Product Category] = ""Accessories"",
+	FILTER('Product',[Reseller Net Margin %] >= AccessoryNetMargin && [Reseller Net Sales] >= AccessorySales)
+	)
+//Distinct Clothing Products
+VAR ClothingProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+	CROSSFILTER('Reseller Sales'[Product Key],'Product'[Product Key],Both),
+	CurrentAndPriorYear,
+	'Product'[Product Category] = ""Clothing"",
+	FILTER('Product',[Reseller Net Margin %] >= ClothingNetMargin && [Reseller Net Sales] > ClothingSales)
+	)
+RETURN
+AccessoryProducts + ClothingProducts","0",True,1,2017-11-14 19:46:05.246,2017-11-12 19:51:39.890,,False,"","",,"Reseller Sales","Whole Number"
+640709,481,"Reseller High Value Accessory and Clothing Products","",6,"
+/*
+Accessory category products with over 20K in net sales and over 32% net margin since last year 
+Clothing category products with over 55K in net sales and over 28% net margin since last year
+Enable filtering from dimension tables related to Reseller Sales
+*/
+VAR AccessorySales = 20000 VAR AccessoryNetMargin = .32
+VAR ClothingSales = 50000 VAR ClothingNetMargin = .28
+//Distinct Accessory Products
+VAR AccessoryProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+		FILTER(
+		SUMMARIZE(
+		CALCULATETABLE('Reseller Sales',
+			'Date'[Calendar Year Status] IN {""Current Calendar Year"", ""Prior Calendar Year""},
+			'Product'[Product Category] = ""Accessories""),
+			'Product'[Product Alternate Key]),
+			[Reseller Net Margin %] >= AccessoryNetMargin && [Reseller Net Sales] >= AccessorySales))
+//Distinct Clothing Products
+VAR ClothingProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+		FILTER(
+		SUMMARIZE(
+		CALCULATETABLE('Reseller Sales',
+			'Date'[Calendar Year Status] IN {""Current Calendar Year"", ""Prior Calendar Year""},
+			'Product'[Product Category] = ""Clothing""),
+			'Product'[Product Alternate Key]),
+			[Reseller Net Margin %] >= ClothingNetMargin && [Reseller Net Sales] > ClothingSales)
+	)
+RETURN
+AccessoryProducts + ClothingProducts","0",False,1,2017-11-14 19:46:23.963,2017-11-14 19:23:04.823,,False,"","",,"Reseller Sales","Whole Number"
+640713,481,"New Reseller High Value Accessory and Clothing Products","",6,"
+/*
+Accessory category products with over 20K in net sales and over 32% net margin since last year 
+Clothing category products with over 55K in net sales and over 28% net margin since last year
+Enable filtering from dimension tables related to Reseller Sales
+*/
+VAR AccessorySales = 20000 VAR AccessoryNetMargin = .32
+VAR ClothingSales = 50000 VAR ClothingNetMargin = .28
+//Distinct Accessory Products
+VAR AccessoryProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+		FILTER(
+		FILTER(
+		SUMMARIZE(
+		CALCULATETABLE('Reseller Sales',
+			'Date'[Calendar Year Status] IN {""Current Calendar Year"", ""Prior Calendar Year""},
+			'Product'[Product Category] = ""Accessories""),
+			'Product'[Product Alternate Key]),
+			[Reseller Net Margin %] >= AccessoryNetMargin), 
+			[Reseller Net Sales] >= AccessorySales))
+//Distinct Clothing Products
+VAR ClothingProducts = 
+CALCULATE(DISTINCTCOUNT('Product'[Product Alternate Key]),
+		FILTER(
+		FILTER(
+		SUMMARIZE(
+		CALCULATETABLE('Reseller Sales',
+			'Date'[Calendar Year Status] IN {""Current Calendar Year"", ""Prior Calendar Year""},
+			'Product'[Product Category] = ""Clothing""),
+			'Product'[Product Alternate Key]),
+			[Reseller Net Margin %] >= ClothingNetMargin),
+			 [Reseller Net Sales] >= ClothingSales)
+	)
+RETURN
+AccessoryProducts + ClothingProducts","0",False,1,2017-11-14 20:26:37.973,2017-11-14 20:24:58.790,,False,"","",,"Reseller Sales","Whole Number"
+733344,1995,"Selected Product Name","",2,"
+VAR ProdName = SELECTEDVALUE('Product'[Product Name], ""Multiple Product Names"")
+RETURN ""Product Name: "" & ProdName","",False,1,2017-12-11 23:26:53.420,2017-12-11 23:22:26.730,,False,"","",,"Product","Text"
+733348,1995,"Selected Product Subcategory","",2,"
+VAR ProdSubcat = SELECTEDVALUE('Product'[Product Subcategory], ""Multiple Product Subcateogies"")
+RETURN ""Product Subcategory: "" & ProdSubcat","",False,1,2017-12-12 03:28:23.200,2017-12-12 03:27:19.706,,False,"","",,"Product","Text"
+738292,1995,"Distinct Count of Products","",6,"DISTINCTCOUNT('Product'[Product Alternate Key])","#,0",False,1,2017-12-13 17:44:44.210,2017-12-13 17:44:43.890,,False,"","",,"Product","Whole Number"
+624960,67530,"Brett Set Based Validation Test","",6,"
+VAR MaleCustomers = 
+CALCULATETABLE(VALUES('Customer'[Customer Alternate Key]),
+	CROSSFILTER('Internet Sales'[Customer Key],'Customer'[Customer Key],Both),
+	'Customer'[Customer Gender] = ""Male""
+                )
+VAR AccessoryCustomersThisYear = 
+CALCULATETABLE(VALUES('Customer'[Customer Alternate Key]),
+	CROSSFILTER('Internet Sales'[Customer Key],'Customer'[Customer Key],Both),
+	'Date'[Calendar Year Status] = ""Current Calendar Year"",
+	'Product'[Product Category] = ""Accessories""
+                )
+VAR TargetCustomerSet = 
+DISTINCT(UNION(MaleCustomers,AccessoryCustomersThisYear))
+RETURN
+CALCULATE(DISTINCTCOUNT(Customer[Customer Alternate Key]),TargetCustomerSet)","#,0",True,1,2017-12-13 19:45:14.106,2017-11-12 21:49:26.720,,False,"","",,"Customer","Whole Number"
+98733,98698,"Internet Net Sales Mix %","",8,"DIVIDE([Internet Net Sales],[AdWorks Net Sales])","0%;-0%;0%",False,1,2017-11-20 20:37:12.946,2017-05-14 16:43:33.610,,False,"","",,"Adventure Works Sales","Decimal Number"
+98737,98698,"Reseller Net Sales Mix %","",8,"DIVIDE([Reseller Net Sales],[AdWorks Net Sales])","",False,1,2017-11-06 22:07:02.736,2017-05-14 16:44:38.596,,False,"","",,"Adventure Works Sales","Decimal Number"
+178507,98698,"Product Total Net Sales Rank (YOY YTD %)","",6,"if(or(ISBLANK([AdWorks Net Sales (YOY YTD %)]),[AdWorks Net Sales (YOY YTD %)]=-1),BLANK(),RANKX(ALL('Product'[Product Alternate Key],'Product'[Product Name]),[AdWorks Net Sales (YOY YTD %)],,DESC,Skip))","#,0",False,1,2017-12-04 23:57:52.163,2017-05-19 20:15:01.150,,False,"","",,"Adventure Works Sales","Whole Number"
+178511,98698,"Product Total Net Sales Rank ASC (YOY YTD %)","",6,"if(OR(ISBLANK([AdWorks Net Sales (YOY YTD %)]),[AdWorks Net Sales (YOY YTD %)]=-1),BLANK(),RANKX(ALL('Product'[Product Alternate Key],'Product'[Product Name]),[AdWorks Net Sales (YOY YTD %)],,ASC,Skip))","#,0",False,1,2017-12-04 23:57:52.163,2017-05-19 20:30:32.743,,False,"","",,"Adventure Works Sales","Whole Number"
+212631,98698,"Product Total Sales Rank (PYTD)","",6,"
+IF(HASONEVALUE('Product'[Product Alternate Key]),
+RANKX(ALL('Product'[Product Name],'Product'[Product Alternate Key]),[AdWorks Net Sales (PYTD)],,DESC,Skip),BLANK())","#,0",False,1,2017-12-04 23:58:02.980,2017-05-20 11:25:54.816,,False,"","",,"Adventure Works Sales","Whole Number"
+543105,98698,"Last Refresh Message","",2,"""Last Refreshed: "" & [LastRefreshMeasure]","",True,1,2017-10-31 20:35:02.270,2017-10-17 20:55:49.536,,False,"","",,"Adventure Works Sales","Text"
+589381,98698,"Last Refresh Msg","",2,"
+	VAR CurrentDateValue = MAX('CurrentDate'[CurrentDate])
+	RETURN
+		""Last Refreshed: "" & CurrentDateValue","",False,1,2017-10-31 20:14:31.870,2017-10-31 20:11:49.563,,False,"","",,"Adventure Works Sales","Text"
+604932,98698,"LastRefreshMeasure","",9,"MAX(CurrentDate[CurrentDate])","",True,1,2017-11-06 21:23:01.456,2017-11-06 21:22:54.053,,False,"","",,"Adventure Works Sales","Date"
+604982,98698,"AdWorks Freight Costs","",10,"[Internet Sales Freight Cost] + [Reseller Sales Freight Cost]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-06 22:14:55.746,2017-11-06 22:13:36.760,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+645636,98698,"Brett Divide","",8,"
+VAR num = 7 Var denom = BLANK()
+RETURN
+num/denom","",True,1,2018-01-02 17:36:03.213,2017-11-15 14:01:45.590,,False,"","",,"Adventure Works Sales","Decimal Number"
+376746,376482,"Internet Net Sales Plan","",10,"
+if([Plan Grain Status] = ""Actual Grain"",BLANK(),
+ SUM('Sales and Margin Plan'[Internet Net Sales]))","\$#,0;(\$#,0);\$#,0",False,1,2017-10-31 22:10:31.376,2017-08-25 16:58:27.440,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377127,376482,"Sales and Margin Plan Rows","",6,"COUNTROWS('Sales and Margin Plan')","#,0",False,1,2017-08-25 17:21:00.706,2017-08-25 17:20:36.663,,False,"","",,"Sales and Margin Plan","Whole Number"
+377171,376482,"Reseller Net Sales Plan","",10,"
+IF([Plan Grain Status] = ""Actual Grain"",BLANK(),
+SUM('Sales and Margin Plan'[Reseller Net Sales]))","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:25:21.783,2017-08-25 17:28:10.923,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377175,376482,"AdWorks Net Sales Plan","",10,"[Internet Net Sales Plan] + [Reseller Net Sales Plan]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:26:46.510,2017-08-25 17:30:17.073,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377179,376482,"Reseller Net Margin Plan","",10,"SUM('Sales and Margin Plan'[Reseller Margin $])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:25:38.856,2017-08-25 17:32:49.746,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377183,376482,"Internet Net Margin Plan","",10,"SUM('Sales and Margin Plan'[Internet Margin $])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:23:32.053,2017-08-25 17:33:54.526,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377187,376482,"AdWorks Net Margin Plan","",10,"[Internet Net Margin Plan] + [Reseller Net Margin Plan]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:28:12.176,2017-08-25 17:39:30.810,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377224,376482,"Internet Net Margin % Plan","",8,"DIVIDE([Internet Net Margin Plan],[Internet Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-08-25 17:44:49.346,,False,"","",,"Sales and Margin Plan","Decimal Number"
+377228,376482,"Reseller Net Margin % Plan","",8,"DIVIDE([Reseller Net Margin Plan],[Reseller Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-08-25 17:49:10.046,,False,"","",,"Sales and Margin Plan","Decimal Number"
+377232,376482,"AdWorks Net Margin Plan %","",8,"DIVIDE([AdWorks Net Margin Plan],[AdWorks Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-08-25 17:52:31.916,,False,"","",,"Sales and Margin Plan","Decimal Number"
+377239,376482,"Internet Net Sales Var to Plan","",10,"
+IF([Plan Grain Status] = ""Actual Grain"",BLANK(),
+[Internet Net Sales] - [Internet Net Sales Plan])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-06 20:25:05.426,2017-08-25 18:02:25.976,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+379571,376482,"Reseller Net Sales Var to Plan","",10,"
+IF([Plan Grain Status] = ""Actual Grain"", BLANK(),
+[Reseller Net Sales] - [Reseller Net Sales Plan])","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:25:21.886,2017-08-25 19:08:44.880,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+379575,376482,"Internet Net Sales Margin % Var to Plan","",8,"[Internet Sales Margin %] - [Internet Net Margin % Plan]","0.0%;-0.0%;0.0%",False,1,2017-11-20 20:37:12.946,2017-08-25 19:09:59.793,,False,"","",,"Sales and Margin Plan","Decimal Number"
+379593,376482,"AdWorks Net Sales Var to Plan","",10,"[AdWorks Net Sales] - [AdWorks Net Sales Plan]","\$#,0;(\$#,0);\$#,0",False,1,2017-11-11 18:29:19.716,2017-08-25 19:25:23.496,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+753261,376482,"Internet Net Sales Var to Plan %","",8,"DIVIDE([Internet Net Sales Var to Plan],[Internet Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-12-15 23:49:03.826,2017-12-15 23:47:17.530,,False,"","",,"Sales and Margin Plan","Decimal Number"
+770438,376482,"Reseller Net Sales Var to Plan %","",8,"DIVIDE([Reseller Net Sales Var to Plan],[Reseller Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-12-23 00:40:53.066,2017-12-23 00:40:00.320,,False,"","",,"Sales and Margin Plan","Decimal Number"
+770446,376482,"AdWorks Net Sales Var to Plan %","",8,"DIVIDE([AdWorks Net Sales Var to Plan],[AdWorks Net Sales Plan])","0.0%;-0.0%;0.0%",False,1,2017-12-23 00:56:53.753,2017-12-23 00:56:11.840,,False,"","",,"Sales and Margin Plan","Decimal Number"
+770461,376482,"YTD internet sales plan","",10,"CALCULATE(sum('Sales and Margin Plan'[Internet Net Sales]),FILTER(ALL('Date'),'Date'[Calendar Year] = MAX('Date'[Calendar Year]) && 'Date'[Calendar Year Month Number] <= MAX('Date'[Calendar Year Month Number])))","\$#,0;(\$#,0);\$#,0",True,1,2017-12-23 01:36:12.786,2017-12-23 01:29:05.130,,False,"","",,"Sales and Margin Plan","Fixed Decimal Number"
+377298,377265,"Sales Territory Table Filter Check","",11,"ISCROSSFILTERED('Sales Territory')","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-08-25 18:48:35.623,,False,"","",,"Measure Support","True/False"
+377302,377265,"Current User","",2,"USERPRINCIPALNAME()","",False,1,2017-12-15 23:38:27.843,2017-08-25 18:49:50.266,,False,"","",,"Measure Support","Text"
+377306,377265,"Product Subcat Filter Check","",11,"ISFILTERED('Product'[Product Subcategory])","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-08-25 18:53:16.706,,False,"","",,"Measure Support","True/False"
+379569,377265,"Current Year","",6,"LOOKUPVALUE('Date'[Calendar Year],'Date'[Date],TODAY())","0",False,1,2017-12-15 23:38:27.843,2017-08-25 18:59:36.573,,False,"","",,"Measure Support","Whole Number"
+418393,377265,"Date Grain Plan Filter Test","",2,"SWITCH(
+	TRUE(),
+	NOT(ISCROSSFILTERED('Date')),""Plan Grain"",
+	ISFILTERED('Date'[Calendar Week in Year]) || ISFILTERED('Date'[Date]) || ISFILTERED('Date'[Weekday]) ||ISFILTERED('Date'[Calendar Yr-Wk]), ""Actual Grain"",
+""Plan Grain""
+)","",False,1,2017-12-15 23:38:27.843,2017-08-29 19:48:03.136,,False,"","",,"Measure Support","Text"
+418397,377265,"Product Grain Plan Filter Test","",2,"
+SWITCH(TRUE(),
+	NOT(ISCROSSFILTERED('Product')),""Plan Grain"", 
+	ISFILTERED('Product'[Product Alternate Key]) || ISFILTERED('Product'[Product Line]) || ISFILTERED('Product'[Product Model]) || ISFILTERED('Product'[Product Name]) || ISFILTERED('Product'[Product Color]) || ISFILTERED('Product'[Product Style]), ""Actual Grain"",
+	""Plan Grain"")","",False,1,2017-12-15 23:38:27.843,2017-08-29 20:06:45.510,,False,"","",,"Measure Support","Text"
+418401,377265,"Sales Territory Grain Plan Filter Test","",2,"
+SWITCH(TRUE(),
+	NOT(ISCROSSFILTERED('Sales Territory')),""Plan Grain"", 
+	ISFILTERED('Sales Territory'[Sales Territory Key]), ""Actual Grain"",
+	""Plan Grain"")","",False,1,2017-12-15 23:38:27.843,2017-08-29 20:23:37.973,,False,"","",,"Measure Support","Text"
+418444,377265,"Plan Grain Status","",2,"
+IF([Date Grain Plan Filter Test] = ""Plan Grain"" && [Product Grain Plan Filter Test] = ""Plan Grain"" && [Sales Territory Grain Plan Filter Test] = ""Plan Grain"", 
+		""Plan Grain"",
+		""Actual Grain"")","",False,1,2017-12-15 23:38:27.843,2017-08-29 20:29:07.490,,False,"","",,"Measure Support","Text"
+445408,377265,"Prior Calendar Month Number","",6,"LOOKUPVALUE('Date'[Calendar Month Number],'Date'[Date],TODAY())-1","0",False,1,2017-12-15 23:38:27.843,2017-09-02 13:13:59.736,,False,"","",,"Measure Support","Whole Number"
+629778,377265,"VariablePlaying","",8,"
+VAR Brett = ""Something""
+VAR MyRate = .25
+RETURN
+MyRate","",False,1,2018-01-02 19:08:02.950,2017-11-13 14:05:01.530,,False,"","",,"Measure Support","Decimal Number"
+640717,377265,"Last Completed Calendar Month Number (New)","",6,"MONTH(TODAY()) - 1","0",False,1,2017-12-15 23:38:27.843,2017-11-14 21:25:57.970,,False,"","",,"Measure Support","Whole Number"
+640729,377265,"Internet Sales Cross Filtered","",11,"ISCROSSFILTERED('Internet Sales')","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-11-14 22:11:07.420,,False,"","",,"Measure Support","True/False"
+640733,377265,"Product Category Filtered","",11,"ISFILTERED('Product'[Product Category])","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-11-14 22:12:13.813,,False,"","",,"Measure Support","True/False"
+640737,377265,"Product Category CrossFiltered","",11,"ISCROSSFILTERED('Product'[Product Category])","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-11-14 22:14:58.043,,False,"","",,"Measure Support","True/False"
+645590,377265,"First Day of Current Year","",9,"
+VAR CY = YEAR(TODAY())
+RETURN
+CALCULATE(FIRSTDATE('Date'[Date]),FILTER(ALL('Date'),'Date'[Calendar Year] = CY))","m/d/yyyy",False,1,2017-12-15 23:38:27.843,2017-11-15 13:14:34.483,,False,"","",,"Measure Support","Date"
+645592,377265,"Current Month Number","",6,"MONTH(MAX(CurrentDate[CurrentDate]))","0",False,1,2017-12-15 23:38:27.843,2017-11-15 13:14:48.073,,False,"","",,"Measure Support","Whole Number"
+645648,377265,"Target: 10% Above PYTD Internet Sales","",10,"
+[Internet Net Sales (PYTD)] * 1.10","\$#,0;(\$#,0);\$#,0",False,1,2017-12-15 23:38:27.843,2017-11-15 15:41:07.333,,False,"","",,"Measure Support","Fixed Decimal Number"
+645668,377265,"MysubcatValuecheck","",11,"HASONEVALUE('Product'[Product Subcategory])","""TRUE"";""TRUE"";""FALSE""",False,1,2017-12-15 23:38:27.843,2017-11-15 22:11:47.583,,False,"","",,"Measure Support","True/False"
+650530,377265,"Prior Calendar Week Number","",6,"LOOKUPVALUE('Date'[Calendar Week Number in Year],'Date'[Date],TODAY())-1","0",False,1,2017-12-15 23:38:27.843,2017-11-20 21:22:51.366,,False,"","",,"Measure Support","Whole Number"
+753257,377265,"Internet Net Sales vs Plan Index","",6,"IF([Internet Net Sales Var to Plan %] > 0,1,2)","0",False,1,2017-12-16 15:29:16.680,2017-12-15 23:38:31.556,,False,"","",,"Measure Support","Whole Number"
+770442,377265,"Reseller Net Sales vs Plan Index","",6,"IF([Reseller Net Sales Var to Plan %] > 0,1,2)","0",False,1,2017-12-23 00:47:13.416,2017-12-23 00:46:49.243,,False,"","",,"Measure Support","Whole Number"
+770450,377265,"AdWorks Net Sales vs Plan Index","",6,"IF([AdWorks Net Sales Var to Plan %] > 0,1,2)","0",False,1,2017-12-23 01:05:19.053,2017-12-23 01:04:50.730,,False,"","",,"Measure Support","Whole Number"
+780754,377265,"Internet Gross Product Margin Description","",2,"""Internet Gross Sales minus Internet Sales Product Cost""","",False,1,2018-01-02 20:47:07.713,2018-01-02 20:46:24.460,,False,"","",,"Measure Support","Text"
+40706,266,"Internet Gross Sales","The sum of unit price multiplied by order quantity.",10,"SUMX('Internet Sales','Internet Sales'[Order Quantity]*'Internet Sales'[Unit Price])","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 18:04:05.633,2017-05-01 23:56:27.673,,False,"","",,"Internet Sales","Fixed Decimal Number"
+40714,266,"Internet Net Sales","Internet Gross Sales minus Internet Sales Discounts.",10,"[Internet Gross Sales] - [Internet Sales Discounts]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:12:03.856,2017-05-02 00:02:00.790,,False,"","",,"Internet Sales","Fixed Decimal Number"
+40732,266,"Internet Sales Product Cost","The sum of product standard cost multiplied by order quantity.",10,"SUMX('Internet Sales','Internet Sales'[Order Quantity]* 'Internet Sales'[Product Standard Cost])","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 18:03:55.840,2017-05-02 00:11:37.890,,False,"","",,"Internet Sales","Fixed Decimal Number"
+49194,266,"Internet Gross Product Margin %","Internet Gross Product Margin divided by Internet Gross Sales.",8,"DIVIDE([Internet Gross Product Margin],[Internet Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:14:09.083,2017-05-02 00:29:44.573,,False,"","",,"Internet Sales","Decimal Number"
+103603,266,"Internet Net Product Margin","Internet Net Sales minus Internet Sales Product Cost.",10,"[Internet Net Sales] - [Internet Sales Product Cost]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 18:14:37.653,2017-05-14 19:20:15.316,,False,"","",,"Internet Sales","Fixed Decimal Number"
+604880,266,"Internet Cost of Sales","Internet Sales Product Cost plus Internet Sales Freight Cost.",10,"[Internet Sales Product Cost] + [Internet Sales Freight Cost]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:07:52.200,2017-11-06 19:26:16.933,,False,"","",,"Internet Sales","Fixed Decimal Number"
+604897,266,"Internet Sales Net Product Margin %","Net Sales minus Product Cost",8,"DIVIDE([Internet Net Product Margin],[Internet Net Sales])","0.0%;-0.0%;0.0%",False,1,2017-12-14 20:05:01.010,2017-11-06 20:18:41.300,,False,"","",,"Internet Sales","Decimal Number"
+604902,266,"Internet Gross Product Margin","Internet Gross Sales minus Internet Sales Product Cost.",10,"[Internet Gross Sales] - [Internet Sales Product Cost]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 21:02:30.823,2017-11-06 20:20:54.340,,False,"","",,"Internet Sales","Fixed Decimal Number"
+604909,266,"Internet Net Product Margin %","Internet Net Product Margin divided by Internet Net Sales.",8,"DIVIDE([Internet Net Product Margin],[Internet Net Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 18:15:01.033,2017-11-06 20:23:44.723,,False,"","",,"Internet Sales","Decimal Number"
+604916,266,"Internet Gross Margin","Internet Gross Sales minus Internet Cost of Sales.",10,"[Internet Gross Sales] - [Internet Cost of Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:07:02.646,2017-11-06 21:11:07.020,,False,"","",,"Internet Sales","Fixed Decimal Number"
+604920,266,"Internet Gross Margin %","Internet Gross Product Margin divided by Internet Gross Sales.",8,"DIVIDE([Internet Gross Margin],[Internet Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:06:35.533,2017-11-06 21:13:06.746,,False,"","",,"Internet Sales","Decimal Number"
+604924,266,"Internet Net Margin","Internet Net Sales minus Internet Cost of Sales.",10,"[Internet Net Sales] - [Internet Cost of Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:09:22.816,2017-11-06 21:14:57.910,,False,"","",,"Internet Sales","Fixed Decimal Number"
+604928,266,"Internet Net Margin %","Internet Net Margin divided by Internet Net Sales.",8,"DIVIDE([Internet Net Margin],[Internet Net Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 18:04:23.470,2017-11-06 21:15:50.360,,False,"","",,"Internet Sales","Decimal Number"
+634590,266,"Internet Sales Customer Count","Unique customers who have purchased online.",6,"
+CALCULATE(DISTINCTCOUNT(Customer[Customer Alternate Key]),
+	'Internet Sales')","#,0",False,1,2017-12-13 17:45:22.846,2017-11-13 16:51:14.750,,False,"","",,"Internet Sales","Whole Number"
+38401,481,"Reseller Gross Sales","The sum of unit price multiplied ordered quantity.",10,"SUMX('Reseller Sales','Reseller Sales'[Unit Price]*'Reseller Sales'[Order Quantity])","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:32:28.253,2017-05-01 22:55:27.100,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+38405,481,"Reseller Net Sales","Reseller Gross Sales minus Reseller Sales Discounts.",10,"[Reseller Gross Sales] - [Reseller Sales Discounts]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:18:31.143,2017-05-01 22:57:09.510,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+39038,481,"Reseller Sales Product Cost","The sum of product standard cost multiplied by order quantity.",10,"SUMX('Reseller Sales','Reseller Sales'[Order Quantity]*'Reseller Sales'[Product Standard Cost])","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:20:11.780,2017-05-01 23:06:59.550,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+39893,481,"Reseller Gross Margin %","Reseller Gross Margin divied by Reseller Gross Sales.",8,"DIVIDE([Reseller Gross Margin],[Reseller Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:30:29.116,2017-05-01 23:20:08.763,,False,"","",,"Reseller Sales","Decimal Number"
+604888,481,"Reseller Cost of Sales","Reseller Sales Product Cost plus Reseller Sales Freight Cost.",10,"[Reseller Sales Product Cost] + [Reseller Sales Freight Cost]","\$#,0.00;(\$#,0.00);\$#,0.00",False,1,2018-01-02 17:21:57.093,2017-11-06 19:29:21.706,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+604935,481,"Reseller Gross Product Margin","Reseller Gross Sales minus Reseller Sales Product Cost.",10,"[Reseller Gross Sales] - [Reseller Sales Product Cost]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:22:53.736,2017-11-06 21:24:37.616,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+604939,481,"Reseller Gross Product Margin %","Reseller Gross Product Margin divided by Reseller Gross Sales.",8,"DIVIDE([Reseller Gross Product Margin],[Reseller Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:23:43.006,2017-11-06 21:25:48.296,,False,"","",,"Reseller Sales","Decimal Number"
+604943,481,"Reseller Net Product Margin","Reseller Net Sales minus Reseller Sales Product Cost.",10,"[Reseller Net Sales] - [Reseller Sales Product Cost]","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2018-01-02 17:25:30.856,2017-11-06 21:27:46.303,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+604947,481,"Reseller Net Product Margin %","Reseller Net Product Margin divided by Reseller Net Sales.",8,"DIVIDE([Reseller Net Product Margin],[Reseller Net Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:25:58.170,2017-11-06 21:28:35.953,,False,"","",,"Reseller Sales","Decimal Number"
+604955,481,"Reseller Gross Margin","Reseller Gross Sales minus Reseller Cost of Sales.",10,"[Reseller Gross Sales] - [Reseller Cost of Sales]","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2018-01-02 17:30:13.776,2017-11-06 21:32:08.896,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+604959,481,"Reseller Net Margin","Reseller Net Sales minus Reseller Cost of Sales.",10,"[Reseller Net Sales] - [Reseller Cost of Sales]","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2018-01-02 17:29:28.043,2017-11-06 21:33:32.443,,False,"","",,"Reseller Sales","Fixed Decimal Number"
+604963,481,"Reseller Net Margin %","Reseller Net Margin divided by Reseller Net Sales.",8,"DIVIDE([Reseller Net Margin],[Reseller Net Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:29:44.090,2017-11-06 21:35:27.313,,False,"","",,"Reseller Sales","Decimal Number"
+733352,648,"Selected Calendar Year","The currently selected calendar year",2,"
+VAR CalYear = SELECTEDVALUE('Date'[Calendar Year], ""Multiple Years"")
+RETURN ""Calendar Year: "" & CalYear","",False,1,2017-12-13 21:37:34.123,2017-12-12 03:29:00.833,,False,"","",,"Date","Text"
+98729,98698,"AdWorks Net Sales","Internet Net Sales plus Reseller Net Sales.",10,"[Internet Net Sales] + [Reseller Net Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:35:22.503,2017-05-14 16:42:35.020,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+103617,98698,"AdWorks Net Margin","AdWorks Net Sales minus AdWorks Cost of Sales.",10,"[AdWorks Net Sales] - [AdWorks Cost of Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:41:36.850,2017-05-14 19:25:13.256,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+103621,98698,"AdWorks Net Margin %","AdWorks Net Margin divided by AdWorks Net Sales.",8,"DIVIDE([AdWorks Net Margin],[AdWorks Net Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:41:50.856,2017-05-14 19:26:52.940,,False,"","",,"Adventure Works Sales","Decimal Number"
+604969,98698,"AdWorks Cost of Sales","Internet Cost of Sales plus Reseller Cost of Sales.",10,"[Internet Cost of Sales] + [Reseller Cost of Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:36:41.690,2017-11-06 22:08:33.360,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+604974,98698,"AdWorks Gross Sales","Internet Gross Sales plus Reseller Gross Sales.",10,"[Internet Gross Sales] + [Reseller Gross Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:35:08.513,2017-11-06 22:09:56.576,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+604978,98698,"AdWorks Sales Product Cost","Internet Sales Product Cost plus Reseller Sales Product Cost.",10,"[Internet Sales Product Cost] + [Reseller Sales Product Cost]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:35:57.156,2017-11-06 22:11:36.946,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+604986,98698,"AdWorks Discounts","Total corporate sales discounts (online and reseller).",10,"[Internet Sales Discounts] + [Reseller Sales Discounts]","\$#,0;(\$#,0);\$#,0",False,1,2017-12-14 20:44:45.193,2017-11-06 22:14:20.540,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+604990,98698,"AdWorks Gross Margin","AdWorks Gross Sales minus AdWorks Cost of Sales.",10,"[AdWorks Gross Sales] - [AdWorks Cost of Sales]","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:42:34.853,2017-11-06 22:15:30.566,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+604994,98698,"AdWorks Gross Margin %","AdWorks Gross Margin divided by AdWorks Gross Sales.",8,"DIVIDE([AdWorks Gross Margin],[AdWorks Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:43:12.113,2017-11-06 22:15:58.623,,False,"","",,"Adventure Works Sales","Decimal Number"
+604998,98698,"AdWorks Gross Product Margin","AdWorks Gross Sales minus AdWorks Sales Product Cost.",10,"[AdWorks Gross Sales] - [AdWorks Sales Product Cost]","\$#,0.###############;(\$#,0.###############);\$#,0.###############",False,1,2018-01-02 17:38:29.726,2017-11-06 22:17:04.996,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+605002,98698,"AdWorks Gross Product Margin %","AdWorks Gross Product Margin divided by AdWorks Gross Sales.",8,"DIVIDE([AdWorks Gross Product Margin],[AdWorks Gross Sales])","0.0%;-0.0%;0.0%",False,1,2018-01-02 17:39:09.083,2017-11-06 22:17:48.086,,False,"","",,"Adventure Works Sales","Decimal Number"
+605006,98698,"AdWorks Net Product Margin","AdWorks Net Sales minus AdWorks Sales Product Cost.",10,"[AdWorks Net Sales] - [AdWorks Sales Product Cost]","\$#,0.00;(\$#,0.00);\$#,0.00",False,1,2018-01-02 17:39:54.860,2017-11-06 22:20:34.823,,False,"","",,"Adventure Works Sales","Fixed Decimal Number"
+605010,98698,"AdWorks Net Product Margin %","AdWorks Net Product Margin divided by AdWorks Net Sales.",8,"DIVIDE([AdWorks Net Product Margin],[AdWorks Net Sales])","\$#,0;(\$#,0);\$#,0",False,1,2018-01-02 17:40:19.260,2017-11-06 22:21:45.526,,False,"","",,"Adventure Works Sales","Decimal Number"

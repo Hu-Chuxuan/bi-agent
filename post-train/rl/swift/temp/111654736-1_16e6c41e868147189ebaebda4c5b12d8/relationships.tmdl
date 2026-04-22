@@ -1,0 +1,51 @@
+﻿relationship 41081dec-4d11-47a0-9977-642b88091346
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: AGENCE.Code_Adresse
+	toColumn: ADRESSE.Code_Adresse
+
+relationship cfd09d50-955e-4fd6-bbdb-01e7ed53ad3c
+	fromColumn: CLIENT.Code_Adresse
+	toColumn: ADRESSE.Code_Adresse
+
+relationship 3a3be27e-54ad-474e-8ae4-082690cd1e67
+	fromColumn: ADRESSE.Cle_departement
+	toColumn: DEPARTEMENT.Cle_departement
+
+relationship 8caf15fb-8465-4c89-bfec-18327b9208b3
+	fromColumn: SALARIE.Code_Agence
+	toColumn: AGENCE.Code_Agence
+
+relationship 8d82aaaa-27ca-4dcb-ad00-af8b815d21fa
+	fromColumn: CLIENT.Code_Type_Client
+	toColumn: TYPE_CLIENT.Code_Type_Client
+
+relationship 2674031f-14df-42b6-b44d-5834d9f639b6
+	isActive: false
+	fromColumn: CLIENT.Code_Salarie
+	toColumn: SALARIE.Code_Salarie
+
+relationship a09239f6-bec4-4a5b-af5c-b64383155dc1
+	fromColumn: CLIENT.Code_Secteur_activite
+	toColumn: SECTEUR_ACTIVITE.Code_Secteur_Activite
+
+relationship de7439a4-5df2-4228-b286-93e1a15a154d
+	fromColumn: DEPARTEMENT.Code_Pays
+	toColumn: PAYS.Code_Pays
+
+relationship 8819d588-adb4-4aa1-bff2-32de7bf4f411
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'SALARIE PAR AGENCE'.Code_Agence
+	toColumn: AGENCE.Code_Agence
+
+relationship b98cdcf5-af6c-4433-a358-5b6371f9fddb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Merged-Dataset.Date_Ouverture_1er_Compte
+	toColumn: LocalDateTable_2cd6d922-f38d-4d5c-a423-2e902705108a.Date
+
+relationship 7a864ce5-8802-466f-8547-0fa9422b0016
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Merged-Dataset.Date_Ouverture_Dernier_Compte
+	toColumn: LocalDateTable_01ac1916-e20e-40ae-bdf1-564f564a0cec.Date
+

@@ -1,0 +1,129 @@
+Identifier/Volume,Array Name,Array Type,Storage Type (SAN/NAS),Capacity Type (Usable/RAW),Total Capacity (GB),LUN (only needed if SAN),"RAID (RAID-6, RAID5, RAID 10, etc.)",Used Capacity (GB),mean_iops,peak_iops,mean_thruput,peak_thruput,mean_lat,peak_lat,Access Protocol (CIFS/NFS/FC/iSCSI),Utilization Date,Media Type,Used For,Label,Notes,Description,Pool,Storage Vendor,Thin Provisioned?,storagearray_pk
+"d42do-679-03","AF1000","Array (NIMBLE)","SAN","GB",50,"lun|066fcdbccae2100adb000000000000000000000003|array|096fcdbccae2100adb000000000000000000000001","",23.31,"","","","","","","fc","","ssd","","","","","default","","No",6626
+"d42do-697-01","AF1000","Array (NIMBLE)","SAN","GB",1,"lun|066fcdbccae2100adb000000000000000000000001|array|096fcdbccae2100adb000000000000000000000001","",0.02,"","","","","","","fc","","ssd","","","","","default","","No",6626
+"d42do-697-02","AF1000","Array (NIMBLE)","SAN","GB",1,"lun|066fcdbccae2100adb000000000000000000000002|array|096fcdbccae2100adb000000000000000000000001","",0.01,"","","","","","","fc","","ssd","","","","","default","","No",6626
+"ArrayIQTest-00","CKM00164000536","Array (UNITY)","SAN","GB",50,"lun|sv_1|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"ArrayIQTest-01","CKM00164000536","Array (UNITY)","SAN","GB",50,"lun|sv_2|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-1143-00","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_9|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-1143-01","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_10|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-1143-02","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_11|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-1143-03","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_12|array|CKM00164000536","",0,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-608-00","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_7|array|CKM00164000536","",0.03,"","","","","","","fc","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"d42do-608-01","CKM00164000536","Array (UNITY)","SAN","GB",1,"lun|sv_8|array|CKM00164000536","",0.01,"","","","","","","fc","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"NFSTEST","CKM00164000536","Array (UNITY)","NAS","GB",50,"fs|fs_2|array|CKM00164000536","",4.15,"","","","","","","nfs","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"TestDatastore","CKM00164000536","Array (UNITY)","SAN","GB",100,"lun|sv_4|array|CKM00164000536","",0,"","","","","","","fc","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"ThickLun","CKM00164000536","Array (UNITY)","SAN","GB",10,"lun|sv_3|array|CKM00164000536","",10,"","","","","","","","","sas","","","","","Unity_Pool_01","EMC","No",6301
+"SVM1_root","cluster1","Array (NETAPP)","NAS","GB",0.02,"vol|SVM1_root|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",3119
+"svm2_root","cluster1","Array (NETAPP)","NAS","GB",0.02,"vol|svm2_root|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",3119
+"svm3_root","cluster1","Array (NETAPP)","NAS","GB",0.02,"vol|svm3_root|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",3119
+"vol0","cluster1","Array (NETAPP)","NAS","GB",2.16,"vol|vol0|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",1.56,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124653_10","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124653_10|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124742_46","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124742_46|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124758_60","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124758_60|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124809_22","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124809_22|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124825_91","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124825_91|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124840_31","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124840_31|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124900_1","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124900_1|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124911_34","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124911_34|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124930_41","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124930_41|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124941_44","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124941_44|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_124956_18","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_124956_18|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125009_90","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125009_90|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125022_80","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125022_80|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125042_17","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125042_17|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125054_76","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125054_76|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125104_33","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125104_33|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125114_8","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125114_8|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125127_60","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125127_60|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125137_39","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125137_39|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125150_31","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125150_31|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125201_47","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125201_47|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125217_67","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125217_67|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125228_63","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125228_63|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125240_1","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125240_1|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_03022021_125256_75","cluster1","Array (NETAPP)","NAS","GB",1,"vol|vol_03022021_125256_75|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_2gb_thick","cluster1","Array (NETAPP)","NAS","GB",2,"vol|vol_2gb_thick|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0.01,"","","","","","","nas","","","","","","","","","No",3119
+"vol_5gb_thin","cluster1","Array (NETAPP)","NAS","GB",5,"vol|vol_5gb_thin|array|124a44cf-5063-11eb-8fd7-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",3119
+"/ifs","d42dev","Array (ISILON)","NAS","GB",,"fs|1|array|000c29c7bf33cd753d5f461e3eff5fb4a8c3","",,"","","","","","","nfs","","sas","","","","","","EMC","No",2490
+"/ifs/.ifsvar/modules/fsa","d42dev","Array (ISILON)","NAS","GB",,"fs|2|array|000c29c7bf33cd753d5f461e3eff5fb4a8c3","",,"","","","","","","nfs","","sas","","","","","","EMC","No",2490
+"LUN 5","dev42vnx5100","Array (VNX)","SAN","GB",50,"lun|00005|array|APM00125186274","RAID-5",50,"","","","","","","","","sas","","","","","Concrete storage pool 0000 for APM00125186274 storage system","EMC Corporation","No",6069
+"StorageTesting_1","dev42vnx5100","Array (VNX)","SAN","GB",50,"lun|00006|array|APM00125186274","RAID-5",50,"","","","","","","fc","","sas","","","","","Concrete storage pool 0000 for APM00125186274 storage system","EMC Corporation","No",6069
+"StorageTesting_2","dev42vnx5100","Array (VNX)","SAN","GB",50,"lun|00007|array|APM00125186274","RAID-5",50,"","","","","","","fc","","sas","","","","","Concrete storage pool 0000 for APM00125186274 storage system","EMC Corporation","No",6069
+"StorageTesting_RAW_1","dev42vnx5100","Array (VNX)","SAN","GB",1,"lun|00008|array|APM00125186274","RAID-5",1,"","","","","","","fc","","sas","","","","","Concrete storage pool 0000 for APM00125186274 storage system","EMC Corporation","No",6069
+"StorageTesting_RAW_2","dev42vnx5100","Array (VNX)","SAN","GB",1,"lun|00009|array|APM00125186274","RAID-5",1,"","","","","","","fc","","sas","","","","","Concrete storage pool 0000 for APM00125186274 storage system","EMC Corporation","No",6069
+"testd_0","dev42vnx5100","Array (VNX)","SAN","GB",10,"lun|00000|array|APM00125186274","RAID-1",10,"","","","","","","","","ssd","","","","","Concrete storage pool 0001 for APM00125186274 storage system","EMC Corporation","No",6069
+"testd_1","dev42vnx5100","Array (VNX)","SAN","GB",10,"lun|00001|array|APM00125186274","RAID-1",10,"","","","","","","","","ssd","","","","","Concrete storage pool 0001 for APM00125186274 storage system","EMC Corporation","No",6069
+"testd_2","dev42vnx5100","Array (VNX)","SAN","GB",10,"lun|00002|array|APM00125186274","RAID-1",10,"","","","","","","","","ssd","","","","","Concrete storage pool 0001 for APM00125186274 storage system","EMC Corporation","No",6069
+"testd_3","dev42vnx5100","Array (VNX)","SAN","GB",10,"lun|00003|array|APM00125186274","RAID-1",10,"","","","","","","","","ssd","","","","","Concrete storage pool 0001 for APM00125186274 storage system","EMC Corporation","No",6069
+"testd_4","dev42vnx5100","Array (VNX)","SAN","GB",10,"lun|00004|array|APM00125186274","RAID-1",10,"","","","","","","","","ssd","","","","","Concrete storage pool 0001 for APM00125186274 storage system","EMC Corporation","No",6069
+"admin","Device42_3Par_Sim","Array (HP3PAR)","SAN","GB",10,"lun|60002AC000000000000000000001855E|array|2FF70002AC01855E","RAID1",10,"","","","","","","fc","","fc","","","","","all-FC","3PAR","No",2319
+".srdata","Device42_3Par_Sim","Array (HP3PAR)","SAN","GB",60,"lun|60002AC000000000000000010001855E|array|2FF70002AC01855E","RAID1",60,"","","","","","","fc","","fc","","","","","all-FC","3PAR","No",2319
+"ZakirTest02","Device42_3Par_Sim","Array (HP3PAR)","SAN","GB",1,"lun|60002AC000000000000000040001855E|array|2FF70002AC01855E","RAID5",0.63,"","","","","","","","","","","","","","SSD_r5","3PAR","No",2319
+"ZakirTest1","Device42_3Par_Sim","Array (HP3PAR)","SAN","GB",10,"lun|60002AC000000000000000030001855E|array|2FF70002AC01855E","RAID5",1.13,"","","","","","","fc","","ssd","","","","","SSD_r5","3PAR","No",2319
+"ZakirTest1","Device42_3Par_Sim","Array (HP3PAR)","SAN","GB",10,"lun|60002AC000000000000000030001855E|array|2FF70002AC01855E","RAID5",1.13,"","","","","","","fc","","ssd","","","","","all-SSD","3PAR","No",2319
+"ArrayIQ01","Infinidate1","Array (INFI)","SAN","GB",1,"lun|119|array|36002","",0.01,"","","","","","","iscsi","","","","","","","Pool1","Infinidat","No",6057
+"TestFS","Infinidate1","Array (INFI)","NAS","GB",1000,"fs|24034|array|36002","",0,"","","","","","","nfs","","","","","","","Pool1","Infinidat","No",6057
+"d42do904_NFS_volume","NetApp_Cluster","Array (NETAPP)","NAS","GB",10,"vol|72efbf28-5662-4d77-9c90-0bbd2ffb369b|array|c374983a-ce1d-11eb-822c-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",6344
+"d42do904_root","NetApp_Cluster","Array (NETAPP)","NAS","GB",0.02,"vol|22934fea-c49a-4753-8e80-1516b4b71034|array|c374983a-ce1d-11eb-822c-0050568a7ee4","",0,"","","","","","","nas","","","","","","","","","No",6344
+"vol0","NetApp_Cluster","Array (NETAPP)","NAS","GB",3.16,"vol|f5bce900-9b0e-449b-9719-dfb3a212ca77|array|c374983a-ce1d-11eb-822c-0050568a7ee4","",2.57,"","","","","","","nas","","","","","","","","","No",6344
+"arrayIQ-Unity-iSCSI-3","","Array (UNITY)","SAN","GB",5,"lun|sv_2|array|VIRT2039MB5BCH","",0.02,"","","","","","","iscsi","","","","","","","Capacity","EMC","No",2318
+"arrayIQ-Unity-iSCSI-4","","Array (UNITY)","SAN","GB",5,"lun|sv_3|array|VIRT2039MB5BCH","",0.02,"","","","","","","iscsi","","","","","","","Capacity","EMC","No",2318
+"arrayIQ-Unity-iSCSI-5","","Array (UNITY)","SAN","GB",5,"lun|sv_4|array|VIRT2039MB5BCH","",0.02,"","","","","","","iscsi","","","","","","","Capacity","EMC","No",2318
+"DatastoreTest1","","Array (UNITY)","SAN","GB",10,"lun|sv_5|array|VIRT2039MB5BCH","",0,"","","","","","","","","","","","","","Performance","EMC","No",2318
+"Unity-filesystem","","Array (UNITY)","NAS","GB",3,"fs|fs_2|array|VIRT2039MB5BCH","",1.51,"","","","","","","cifs","","","","","","","Extreme","EMC","Yes",2318
+"z001","","Array (UNITY)","SAN","GB",100,"lun|sv_1|array|VIRT2039MB5BCH","",0,"","","","","","","","","","","","","","Capacity","EMC","No",2318
+"ArrayIQ01","Oraclezfs","Array (ZFS)","NAS","GB",2,"fs|ArrayIQ01|project|default|pool|Pool1|array|Oraclezfs","",0,"","","","","","","nfs","","","","","","","Pool1","Oracle","No",2317
+"ArrayIQ02","Oraclezfs","Array (ZFS)","NAS","GB",34.23,"fs|ArrayIQ02|project|default|pool|Pool1|array|Oraclezfs","",0,"","","","","","","nfs","","","","","","","Pool1","Oracle","No",2317
+"ArrayIQ04","Oraclezfs","Array (ZFS)","NAS","GB",34.23,"fs|ArrayIQ04|project|default|pool|Pool1|array|Oraclezfs","",0,"","","","","","","nfs","","","","","","","Pool1","Oracle","No",2317
+"ArrayIQ10","Oraclezfs","Array (ZFS)","SAN","GB",2,"lun|ArrayIQ10|project|default|pool|Pool1|array|Oraclezfs","mirror",0.01,"","","","","","","","","","","","","","Pool1","Oracle","No",2317
+"demo","Oraclezfs","Array (ZFS)","NAS","GB",2,"fs|demo|project|default|pool|Pool1|array|Oraclezfs","",0,"","","","","","","nfs","","","","","","","Pool1","Oracle","No",2317
+"/data/col1/backup","wbd42ddc03.device42.pvt","Array (DATA-DOMAIN)","NAS","GB",16252.6,"mtree|%2Fdata%2Fcol1%2Fbackup|array|APM00165258704","",0,"","","","","","","mtree","","sas","","","","","","EMC","No",2288
+"/data/col1/d42do-530","wbd42ddc03.device42.pvt","Array (DATA-DOMAIN)","NAS","GB",5,"mtree|%2Fdata%2Fcol1%2Fd42do-530|array|APM00165258704","",4.23,"","","","","","","mtree","","sas","","","","","","EMC","No",2288
+"/data/col1/test","wbd42ddc03.device42.pvt","Array (DATA-DOMAIN)","NAS","GB",16252.6,"mtree|%2Fdata%2Fcol1%2Ftest|array|APM00165258704","",0,"","","","","","","mtree","","sas","","","","","","EMC","No",2288
+"/data/col1/tp-storage","wbd42ddc03.device42.pvt","Array (DATA-DOMAIN)","NAS","GB",16252.6,"mtree|%2Fdata%2Fcol1%2Ftp-storage|array|APM00165258704","",54.31,"","","","","","","mtree","","sas","","","","","","EMC","No",2288
+"/ifs","wbd42isilon1","Array (ISILON)","NAS","GB",,"fs|1|array|0007430adbc0bda7ce5fc816b9df16b7bcb0","",,"","","","","","","nfs","","sata","","","","","","EMC","No",6108
+"/ifs/vmzone/TP-Storage/TP-Storage-wbd42isilon1-s1","wbd42isilon1","Array (ISILON)","NAS","GB",,"fs|2|array|0007430adbc0bda7ce5fc816b9df16b7bcb0","",,"","","","","","","nfs","","sata","","","","","","EMC","No",6108
+"AIQTest01","wbd42pstgr1","Array (PURE)","SAN","GB",50,"lun|AIQTest01|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"AIQTest02","wbd42pstgr1","Array (PURE)","SAN","GB",50,"lun|AIQTest02|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"AIQTest03","wbd42pstgr1","Array (PURE)","SAN","GB",50,"lun|AIQTest03|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"AIQTest04","wbd42pstgr1","Array (PURE)","SAN","GB",50,"lun|AIQTest04|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"d42-1845101","wbd42pstgr1","Array (PURE)","SAN","GB",2,"lun|d42-1845101|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0.01,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42-18451-01","wbd42pstgr1","Array (PURE)","SAN","GB",2,"lun|d42-18451-01|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0.01,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42-1845102","wbd42pstgr1","Array (PURE)","SAN","GB",2,"lun|d42-1845102|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42-18451-02","wbd42pstgr1","Array (PURE)","SAN","GB",2,"lun|d42-18451-02|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42do-1168-01","wbd42pstgr1","Array (PURE)","SAN","GB",1,"lun|d42do-1168-01|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42do-1168-02","wbd42pstgr1","Array (PURE)","SAN","GB",1,"lun|d42do-1168-02|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42do-1168-03","wbd42pstgr1","Array (PURE)","SAN","GB",1,"lun|d42do-1168-03|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"d42do-1168-04","wbd42pstgr1","Array (PURE)","SAN","GB",1,"lun|d42do-1168-04|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"Pure-01","wbd42pstgr1","Array (PURE)","SAN","GB",500,"lun|Pure-01|array|def59bf5-854d-4d07-a456-adcceb18fceb","",5.18,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"Pure-02","wbd42pstgr1","Array (PURE)","SAN","GB",500,"lun|Pure-02|array|def59bf5-854d-4d07-a456-adcceb18fceb","",7.6,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"Pure-RDM-01","wbd42pstgr1","Array (PURE)","SAN","GB",10,"lun|Pure-RDM-01|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"Pure-RDM-02","wbd42pstgr1","Array (PURE)","SAN","GB",10,"lun|Pure-RDM-02|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"TPStoragecl1-M-wbd42pstgr1-0000","wbd42pstgr1","Array (PURE)","SAN","GB",2048,"lun|TPStoragecl1-M-wbd42pstgr1-0000|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0.01,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"TPStorage-ISO","wbd42pstgr1","Array (PURE)","SAN","GB",150,"lun|TPStorage-ISO|array|def59bf5-854d-4d07-a456-adcceb18fceb","",54,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"TPStorage-Lab","wbd42pstgr1","Array (PURE)","SAN","GB",20480,"lun|TPStorage-Lab|array|def59bf5-854d-4d07-a456-adcceb18fceb","",566.75,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"u18ud01tp9208d0","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|u18ud01tp9208d0|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"u18ud01tp9208d1","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|u18ud01tp9208d1|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"u18ud01tp9208d2","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|u18ud01tp9208d2|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","","","ssd","","","","","","Pure Storage","No",2080
+"winhejavvv7dmad0","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|winhejavvv7dmad0|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"winhejavvv7dmad1","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|winhejavvv7dmad1|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"winub4nfj7qmd6d0","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|winub4nfj7qmd6d0|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"winub4nfj7qmd6d1","wbd42pstgr1","Array (PURE)","SAN","GB",32,"lun|winub4nfj7qmd6d1|array|def59bf5-854d-4d07-a456-adcceb18fceb","",0,"","","","","","","fc","","ssd","","","","","","Pure Storage","No",2080
+"C$","WH-NETAPP-01","Array (NETAPP)","NAS","GB",135,"fs|C$|array|0142255929","raid_dp",6.42,"","","","","","","cifs","","sata","","","","","aggr0","NetApp","No",2042
+"compute1","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1024.02,"lun|/vol/vol2/compute1|array|0142255929","raid_dp",185.15,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"compute2","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1024.02,"lun|/vol/vol2/compute2|array|0142255929","raid_dp",880.55,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"d42do_904","WH-NETAPP-01","Array (NETAPP)","NAS","GB",0.02,"fs|d42do_904|array|0142255929","raid_dp",0,"","","","","","","cifs","","sata","","","","","aggr0","NetApp","No",2042
+"esx02","WH-NETAPP-01","Array (NETAPP)","SAN","GB",10,"lun|/vol/vol5/esx02|array|0142255929","raid_dp",0,"","","","","","","","","sata","","","","","aggr0","NetApp","No",2042
+"esxi","WH-NETAPP-01","Array (NETAPP)","SAN","GB",800.05,"lun|/vol/vol4/esxi|array|0142255929","raid_dp",623.21,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"ETC$","WH-NETAPP-01","Array (NETAPP)","NAS","GB",135,"fs|ETC$|array|0142255929","raid_dp",6.42,"","","","","","","cifs","","sata","","","","","aggr0","NetApp","No",2042
+"exi01","WH-NETAPP-01","Array (NETAPP)","SAN","GB",10,"lun|/vol/vol5/exi01|array|0142255929","raid_dp",0,"","","","","","","","","sata","","","","","aggr0","NetApp","No",2042
+"kvm","WH-NETAPP-01","Array (NETAPP)","SAN","GB",449.02,"lun|/vol/vol3/kvm|array|0142255929","raid_dp",340.2,"","","","","","","iscsi, fc","","sata","","","","","aggr0","NetApp","No",2042
+"lunOne","WH-NETAPP-01","Array (NETAPP)","SAN","GB",55,"lun|/vol/NetApp01/lunOne|array|0142255929","raid_dp",21.98,"","","","","","","iscsi","","sata","","","","","aggr0","NetApp","No",2042
+"lunOne","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1,"lun|/vol/d42do_553/lunOne|array|0142255929","raid_dp",0.03,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"lunOne","WH-NETAPP-01","Array (NETAPP)","SAN","GB",55,"lun|/vol/NetApp02/lunOne|array|0142255929","raid_dp",21.54,"","","","","","","iscsi","","sata","","","","","aggr0","NetApp","No",2042
+"lunTwo","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1,"lun|/vol/d42do_553/lunTwo|array|0142255929","raid_dp",0.01,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"lunTwo","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1,"lun|/vol/NetApp01/lunTwo|array|0142255929","raid_dp",0.02,"","","","","","","iscsi","","sata","","","","","aggr0","NetApp","No",2042
+"lunTwo","WH-NETAPP-01","Array (NETAPP)","SAN","GB",1,"lun|/vol/NetApp02/lunTwo|array|0142255929","raid_dp",0.01,"","","","","","","iscsi","","sata","","","","","aggr0","NetApp","No",2042
+"winsantest","WH-NETAPP-01","Array (NETAPP)","SAN","GB",10,"lun|/vol/vol5/winsantest|array|0142255929","raid_dp",0,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"xen","WH-NETAPP-01","Array (NETAPP)","SAN","GB",449.02,"lun|/vol/vol1/xen|array|0142255929","raid_dp",247.34,"","","","","","","fc","","sata","","","","","aggr0","NetApp","No",2042
+"xenfc","WH-NETAPP-01","Array (NETAPP)","SAN","GB",10,"lun|/vol/vol5/xenfc|array|0142255929","raid_dp",0,"","","","","","","","","sata","","","","","aggr0","NetApp","No",2042

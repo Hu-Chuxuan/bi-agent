@@ -1,0 +1,1603 @@
+Calendar Year,Calendar Month,Product Subcategory,Plan Amt,Sales Territory Country,ProductKey,OrderDateKey,SalesTerritoryKey,Year Month,Sales Territory Group,Month Number
+2013,"January","Road Bikes",48736.798,"France",372,20130101,7,"2013-Jan","Europe",1
+2013,"January","Touring Bikes",14421.3068,"France",560,20130101,7,"2013-Jan","Europe",1
+2013,"January","Bottles and Cages",161.5852,"France",477,20130101,7,"2013-Jan","Europe",1
+2013,"January","Helmets",639.2332,"France",214,20130101,7,"2013-Jan","Europe",1
+2013,"January","Caps",23.4626,"France",225,20130101,7,"2013-Jan","Europe",1
+2013,"January","Mountain Bikes",19907.9123,"France",353,20130102,7,"2013-Jan","Europe",1
+2013,"January","Jerseys",455.7687,"France",231,20130102,7,"2013-Jan","Europe",1
+2013,"January","Gloves",127.831,"France",463,20130105,7,"2013-Jan","Europe",1
+2013,"January","Tires and Tubes",469.0267,"France",480,20130105,7,"2013-Jan","Europe",1
+2013,"January","Cleaners",20.7484,"France",484,20130106,7,"2013-Jan","Europe",1
+2013,"January","Fenders",57.3647,"France",485,20130111,7,"2013-Jan","Europe",1
+2013,"January","Bike Racks",104.3944,"France",483,20130111,7,"2013-Jan","Europe",1
+2013,"January","Shorts",121.7761,"France",474,20130117,7,"2013-Jan","Europe",1
+2013,"January","Hydration Packs",95.6775,"France",487,20130120,7,"2013-Jan","Europe",1
+2013,"February","Tires and Tubes",1763.0857,"France",480,20130201,7,"2013-Feb","Europe",2
+2013,"February","Hydration Packs",246.2807,"France",487,20130201,7,"2013-Feb","Europe",2
+2013,"February","Fenders",270.7117,"France",485,20130201,7,"2013-Feb","Europe",2
+2013,"February","Cleaners",53.4078,"France",484,20130201,7,"2013-Feb","Europe",2
+2013,"February","Mountain Bikes",39130.8379,"France",353,20130202,7,"2013-Feb","Europe",2
+2013,"February","Helmets",1214.4853,"France",214,20130202,7,"2013-Feb","Europe",2
+2013,"February","Road Bikes",27872.2638,"France",378,20130202,7,"2013-Feb","Europe",2
+2013,"February","Jerseys",1453.0403,"France",228,20130202,7,"2013-Feb","Europe",2
+2013,"February","Shorts",705.2858,"France",474,20130202,7,"2013-Feb","Europe",2
+2013,"February","Gloves",219.364,"France",463,20130202,7,"2013-Feb","Europe",2
+2013,"February","Socks",40.263,"France",481,20130203,7,"2013-Feb","Europe",2
+2013,"February","Touring Bikes",9494.6038,"France",561,20130203,7,"2013-Feb","Europe",2
+2013,"February","Caps",171.1178,"France",225,20130204,7,"2013-Feb","Europe",2
+2013,"February","Bottles and Cages",319.7752,"France",477,20130204,7,"2013-Feb","Europe",2
+2013,"February","Bike Stands",356.0523,"France",486,20130205,7,"2013-Feb","Europe",2
+2013,"February","Vests",284.3939,"France",471,20130205,7,"2013-Feb","Europe",2
+2013,"February","Bike Racks",268.7187,"France",483,20130213,7,"2013-Feb","Europe",2
+2013,"March","Road Bikes",24862.2716,"France",374,20130301,7,"2013-Mar","Europe",3
+2013,"March","Mountain Bikes",41326.0553,"France",353,20130301,7,"2013-Mar","Europe",3
+2013,"March","Bottles and Cages",374.4106,"France",477,20130301,7,"2013-Mar","Europe",3
+2013,"March","Jerseys",1082.0134,"France",228,20130301,7,"2013-Mar","Europe",3
+2013,"March","Helmets",1491.544,"France",214,20130301,7,"2013-Mar","Europe",3
+2013,"March","Tires and Tubes",1714.1129,"France",480,20130301,7,"2013-Mar","Europe",3
+2013,"March","Gloves",234.3568,"France",463,20130301,7,"2013-Mar","Europe",3
+2013,"March","Caps",125.1341,"France",225,20130301,7,"2013-Mar","Europe",3
+2013,"March","Touring Bikes",23402.9332,"France",560,20130302,7,"2013-Mar","Europe",3
+2013,"March","Hydration Packs",287.0325,"France",487,20130303,7,"2013-Mar","Europe",3
+2013,"March","Vests",55.242,"France",472,20130307,7,"2013-Mar","Europe",3
+2013,"March","Socks",15.6418,"France",481,20130308,7,"2013-Mar","Europe",3
+2013,"March","Bike Stands",138.3226,"France",486,20130310,7,"2013-Mar","Europe",3
+2013,"March","Fenders",114.7295,"France",485,20130311,7,"2013-Mar","Europe",3
+2013,"March","Cleaners",13.8323,"France",484,20130313,7,"2013-Mar","Europe",3
+2013,"March","Shorts",426.2163,"France",474,20130315,7,"2013-Mar","Europe",3
+2013,"March","Bike Racks",104.3944,"France",483,20130323,7,"2013-Mar","Europe",3
+2013,"April","Tires and Tubes",1748.3286,"France",480,20130401,7,"2013-Apr","Europe",4
+2013,"April","Bike Racks",268.7187,"France",483,20130401,7,"2013-Apr","Europe",4
+2013,"April","Mountain Bikes",23387.3265,"France",353,20130402,7,"2013-Apr","Europe",4
+2013,"April","Shorts",391.8254,"France",474,20130402,7,"2013-Apr","Europe",4
+2013,"April","Helmets",1332.0161,"France",214,20130402,7,"2013-Apr","Europe",4
+2013,"April","Road Bikes",31650.4038,"France",372,20130402,7,"2013-Apr","Europe",4
+2013,"April","Bottles and Cages",224.7384,"France",477,20130402,7,"2013-Apr","Europe",4
+2013,"April","Touring Bikes",23546.2064,"France",561,20130402,7,"2013-Apr","Europe",4
+2013,"April","Fenders",147.6609,"France",485,20130403,7,"2013-Apr","Europe",4
+2013,"April","Jerseys",750.0275,"France",228,20130404,7,"2013-Apr","Europe",4
+2013,"April","Gloves",164.523,"France",463,20130404,7,"2013-Apr","Europe",4
+2013,"April","Hydration Packs",369.421,"France",487,20130404,7,"2013-Apr","Europe",4
+2013,"April","Socks",30.1973,"France",481,20130404,7,"2013-Apr","Europe",4
+2013,"April","Caps",130.8548,"France",225,20130404,7,"2013-Apr","Europe",4
+2013,"April","Vests",284.3939,"France",472,20130406,7,"2013-Apr","Europe",4
+2013,"April","Bike Stands",356.0523,"France",486,20130409,7,"2013-Apr","Europe",4
+2013,"April","Cleaners",17.8026,"France",484,20130426,7,"2013-Apr","Europe",4
+2013,"May","Mountain Bikes",40933.2625,"France",353,20130501,7,"2013-May","Europe",5
+2013,"May","Bottles and Cages",351.844,"France",477,20130501,7,"2013-May","Europe",5
+2013,"May","Helmets",1430.6647,"France",214,20130501,7,"2013-May","Europe",5
+2013,"May","Tires and Tubes",1457.6941,"France",480,20130501,7,"2013-May","Europe",5
+2013,"May","Road Bikes",27128.6833,"France",374,20130501,7,"2013-May","Europe",5
+2013,"May","Jerseys",800.2007,"France",228,20130501,7,"2013-May","Europe",5
+2013,"May","Shorts",365.3283,"France",474,20130501,7,"2013-May","Europe",5
+2013,"May","Gloves",213.0516,"France",463,20130501,7,"2013-May","Europe",5
+2013,"May","Bike Stands",138.3226,"France",486,20130502,7,"2013-May","Europe",5
+2013,"May","Touring Bikes",28431.5605,"France",560,20130503,7,"2013-May","Europe",5
+2013,"May","Caps",148.5968,"France",225,20130504,7,"2013-May","Europe",5
+2013,"May","Cleaners",13.8323,"France",484,20130505,7,"2013-May","Europe",5
+2013,"May","Vests",276.2102,"France",471,20130507,7,"2013-May","Europe",5
+2013,"May","Fenders",95.6079,"France",485,20130507,7,"2013-May","Europe",5
+2013,"May","Bike Racks",104.3944,"France",483,20130507,7,"2013-May","Europe",5
+2013,"May","Hydration Packs",191.355,"France",487,20130513,7,"2013-May","Europe",5
+2013,"May","Socks",7.8209,"France",481,20130522,7,"2013-May","Europe",5
+2013,"June","Mountain Bikes",96987.3264,"France",353,20130601,7,"2013-Jun","Europe",6
+2013,"June","Hydration Packs",307.8508,"France",487,20130601,7,"2013-Jun","Europe",6
+2013,"June","Vests",426.5909,"France",471,20130601,7,"2013-Jun","Europe",6
+2013,"June","Tires and Tubes",2449.3261,"France",480,20130601,7,"2013-Jun","Europe",6
+2013,"June","Helmets",2781.5631,"France",214,20130601,7,"2013-Jun","Europe",6
+2013,"June","Road Bikes",53401.4573,"France",372,20130601,7,"2013-Jun","Europe",6
+2013,"June","Bottles and Cages",646.302,"France",477,20130601,7,"2013-Jun","Europe",6
+2013,"June","Caps",281.8411,"France",225,20130602,7,"2013-Jun","Europe",6
+2013,"June","Fenders",221.4914,"France",485,20130602,7,"2013-Jun","Europe",6
+2013,"June","Jerseys",2310.5329,"France",228,20130602,7,"2013-Jun","Europe",6
+2013,"June","Cleaners",35.6052,"France",484,20130603,7,"2013-Jun","Europe",6
+2013,"June","Touring Bikes",44600.4836,"France",561,20130603,7,"2013-Jun","Europe",6
+2013,"June","Socks",10.0658,"France",481,20130604,7,"2013-Jun","Europe",6
+2013,"June","Bike Racks",537.4374,"France",483,20130605,7,"2013-Jun","Europe",6
+2013,"June","Gloves",164.523,"France",463,20130605,7,"2013-Jun","Europe",6
+2013,"June","Shorts",391.8254,"France",474,20130613,7,"2013-Jun","Europe",6
+2013,"June","Bike Stands",356.0523,"France",486,20130627,7,"2013-Jun","Europe",6
+2013,"July","Tires and Tubes",1824.1969,"France",480,20130701,7,"2013-Jul","Europe",7
+2013,"July","Gloves",234.3568,"France",463,20130701,7,"2013-Jul","Europe",7
+2013,"July","Touring Bikes",18472.4629,"France",560,20130701,7,"2013-Jul","Europe",7
+2013,"July","Bottles and Cages",334.471,"France",477,20130701,7,"2013-Jul","Europe",7
+2013,"July","Hydration Packs",143.5162,"France",487,20130701,7,"2013-Jul","Europe",7
+2013,"July","Road Bikes",29583.2398,"France",374,20130702,7,"2013-Jul","Europe",7
+2013,"July","Helmets",1369.7853,"France",214,20130702,7,"2013-Jul","Europe",7
+2013,"July","Jerseys",1346.4271,"France",228,20130702,7,"2013-Jul","Europe",7
+2013,"July","Bike Racks",104.3944,"France",483,20130702,7,"2013-Jul","Europe",7
+2013,"July","Mountain Bikes",45687.9588,"France",353,20130703,7,"2013-Jul","Europe",7
+2013,"July","Vests",276.2102,"France",472,20130703,7,"2013-Jul","Europe",7
+2013,"July","Cleaners",41.4968,"France",484,20130703,7,"2013-Jul","Europe",7
+2013,"July","Caps",125.1341,"France",225,20130704,7,"2013-Jul","Europe",7
+2013,"July","Bike Stands",138.3226,"France",486,20130705,7,"2013-Jul","Europe",7
+2013,"July","Shorts",243.5522,"France",474,20130710,7,"2013-Jul","Europe",7
+2013,"July","Fenders",172.0942,"France",485,20130713,7,"2013-Jul","Europe",7
+2013,"July","Socks",7.8209,"France",482,20130728,7,"2013-Jul","Europe",7
+2013,"August","Road Bikes",73670.2251,"France",374,20130801,7,"2013-Aug","Europe",8
+2013,"August","Helmets",2546.5015,"France",214,20130801,7,"2013-Aug","Europe",8
+2013,"August","Mountain Bikes",64338.1736,"France",353,20130801,7,"2013-Aug","Europe",8
+2013,"August","Shorts",235.0953,"France",474,20130801,7,"2013-Aug","Europe",8
+2013,"August","Socks",50.3288,"France",481,20130801,7,"2013-Aug","Europe",8
+2013,"August","Hydration Packs",369.421,"France",487,20130801,7,"2013-Aug","Europe",8
+2013,"August","Tires and Tubes",2768.8774,"France",480,20130801,7,"2013-Aug","Europe",8
+2013,"August","Jerseys",1560.5054,"France",228,20130801,7,"2013-Aug","Europe",8
+2013,"August","Caps",221.4466,"France",225,20130801,7,"2013-Aug","Europe",8
+2013,"August","Bottles and Cages",475.1842,"France",477,20130801,7,"2013-Aug","Europe",8
+2013,"August","Touring Bikes",38230.6415,"France",560,20130801,7,"2013-Aug","Europe",8
+2013,"August","Cleaners",71.2105,"France",484,20130802,7,"2013-Aug","Europe",8
+2013,"August","Fenders",221.4914,"France",485,20130804,7,"2013-Aug","Europe",8
+2013,"August","Vests",213.2955,"France",472,20130816,7,"2013-Aug","Europe",8
+2013,"August","Gloves",137.1025,"France",463,20130816,7,"2013-Aug","Europe",8
+2013,"August","Bike Stands",356.0523,"France",486,20130819,7,"2013-Aug","Europe",8
+2013,"August","Bike Racks",134.3593,"France",483,20130829,7,"2013-Aug","Europe",8
+2013,"September","Mountain Bikes",43557.0163,"France",353,20130901,7,"2013-Sep","Europe",9
+2013,"September","Fenders",133.8511,"France",485,20130901,7,"2013-Sep","Europe",9
+2013,"September","Helmets",2069.8978,"France",214,20130901,7,"2013-Sep","Europe",9
+2013,"September","Tires and Tubes",1793.1047,"France",480,20130901,7,"2013-Sep","Europe",9
+2013,"September","Vests",386.6943,"France",471,20130901,7,"2013-Sep","Europe",9
+2013,"September","Jerseys",720.1823,"France",228,20130902,7,"2013-Sep","Europe",9
+2013,"September","Bottles and Cages",390.0698,"France",477,20130903,7,"2013-Sep","Europe",9
+2013,"September","Shorts",60.888,"France",476,20130905,7,"2013-Sep","Europe",9
+2013,"September","Road Bikes",41245.2888,"France",372,20130906,7,"2013-Sep","Europe",9
+2013,"September","Caps",195.5221,"France",225,20130906,7,"2013-Sep","Europe",9
+2013,"September","Touring Bikes",19449.934,"France",562,20130906,7,"2013-Sep","Europe",9
+2013,"September","Bike Racks",313.1833,"France",483,20130907,7,"2013-Sep","Europe",9
+2013,"September","Bike Stands",138.3226,"France",486,20130907,7,"2013-Sep","Europe",9
+2013,"September","Socks",23.4626,"France",481,20130909,7,"2013-Sep","Europe",9
+2013,"September","Hydration Packs",287.0325,"France",487,20130910,7,"2013-Sep","Europe",9
+2013,"September","Gloves",42.6103,"France",463,20130910,7,"2013-Sep","Europe",9
+2013,"September","Cleaners",6.9161,"France",484,20130923,7,"2013-Sep","Europe",9
+2013,"October","Road Bikes",49789.184,"France",372,20131001,7,"2013-Oct","Europe",10
+2013,"October","Bottles and Cages",671.9759,"France",477,20131001,7,"2013-Oct","Europe",10
+2013,"October","Mountain Bikes",78159.7642,"France",353,20131001,7,"2013-Oct","Europe",10
+2013,"October","Helmets",2585.6784,"France",214,20131001,7,"2013-Oct","Europe",10
+2013,"October","Jerseys",2100.0813,"France",228,20131001,7,"2013-Oct","Europe",10
+2013,"October","Tires and Tubes",2556.5112,"France",480,20131001,7,"2013-Oct","Europe",10
+2013,"October","Hydration Packs",61.5702,"France",487,20131001,7,"2013-Oct","Europe",10
+2013,"October","Bike Stands",712.1045,"France",486,20131002,7,"2013-Oct","Europe",10
+2013,"October","Touring Bikes",46740.7944,"France",561,20131002,7,"2013-Oct","Europe",10
+2013,"October","Cleaners",44.5065,"France",484,20131002,7,"2013-Oct","Europe",10
+2013,"October","Caps",251.6439,"France",225,20131003,7,"2013-Oct","Europe",10
+2013,"October","Shorts",235.0953,"France",474,20131003,7,"2013-Oct","Europe",10
+2013,"October","Fenders",270.7117,"France",485,20131005,7,"2013-Oct","Europe",10
+2013,"October","Gloves",274.205,"France",463,20131005,7,"2013-Oct","Europe",10
+2013,"October","Vests",213.2955,"France",472,20131008,7,"2013-Oct","Europe",10
+2013,"October","Socks",30.1973,"France",481,20131012,7,"2013-Oct","Europe",10
+2013,"October","Bike Racks",134.3593,"France",483,20131016,7,"2013-Oct","Europe",10
+2013,"November","Mountain Bikes",49298.2573,"France",353,20131101,7,"2013-Nov","Europe",11
+2013,"November","Helmets",2313.4152,"France",214,20131101,7,"2013-Nov","Europe",11
+2013,"November","Bike Racks",417.5777,"France",483,20131101,7,"2013-Nov","Europe",11
+2013,"November","Tires and Tubes",1617.0696,"France",480,20131101,7,"2013-Nov","Europe",11
+2013,"November","Jerseys",1202.0409,"France",228,20131101,7,"2013-Nov","Europe",11
+2013,"November","Touring Bikes",34751.8077,"France",561,20131101,7,"2013-Nov","Europe",11
+2013,"November","Bottles and Cages",331.8699,"France",477,20131101,7,"2013-Nov","Europe",11
+2013,"November","Caps",140.7759,"France",225,20131101,7,"2013-Nov","Europe",11
+2013,"November","Road Bikes",43230.0791,"France",372,20131102,7,"2013-Nov","Europe",11
+2013,"November","Socks",31.2835,"France",481,20131102,7,"2013-Nov","Europe",11
+2013,"November","Gloves",234.3568,"France",463,20131104,7,"2013-Nov","Europe",11
+2013,"November","Hydration Packs",191.355,"France",487,20131104,7,"2013-Nov","Europe",11
+2013,"November","Shorts",182.6641,"France",474,20131104,7,"2013-Nov","Europe",11
+2013,"November","Fenders",229.4589,"France",485,20131104,7,"2013-Nov","Europe",11
+2013,"November","Cleaners",13.8323,"France",484,20131106,7,"2013-Nov","Europe",11
+2013,"November","Bike Stands",276.6452,"France",486,20131111,7,"2013-Nov","Europe",11
+2013,"December","Mountain Bikes",101795.6666,"France",353,20131201,7,"2013-Dec","Europe",12
+2013,"December","Hydration Packs",246.2807,"France",487,20131201,7,"2013-Dec","Europe",12
+2013,"December","Gloves",246.7845,"France",463,20131201,7,"2013-Dec","Europe",12
+2013,"December","Touring Bikes",39261.7822,"France",560,20131201,7,"2013-Dec","Europe",12
+2013,"December","Bottles and Cages",627.2902,"France",477,20131201,7,"2013-Dec","Europe",12
+2013,"December","Road Bikes",63120.9116,"France",372,20131201,7,"2013-Dec","Europe",12
+2013,"December","Helmets",2468.1476,"France",214,20131201,7,"2013-Dec","Europe",12
+2013,"December","Tires and Tubes",2339.073,"France",480,20131201,7,"2013-Dec","Europe",12
+2013,"December","Vests",213.2955,"France",471,20131201,7,"2013-Dec","Europe",12
+2013,"December","Socks",20.1315,"France",481,20131201,7,"2013-Dec","Europe",12
+2013,"December","Cleaners",97.9144,"France",484,20131202,7,"2013-Dec","Europe",12
+2013,"December","Jerseys",1867.2366,"France",228,20131202,7,"2013-Dec","Europe",12
+2013,"December","Caps",221.4466,"France",225,20131202,7,"2013-Dec","Europe",12
+2013,"December","Bike Racks",403.078,"France",483,20131203,7,"2013-Dec","Europe",12
+2013,"December","Fenders",221.4914,"France",485,20131206,7,"2013-Dec","Europe",12
+2013,"December","Shorts",235.0953,"France",475,20131213,7,"2013-Dec","Europe",12
+2013,"January","Mountain Bikes",32947.1239,"United Kingdom",353,20130101,10,"2013-Jan","Europe",1
+2013,"January","Bottles and Cages",146.8134,"United Kingdom",477,20130101,10,"2013-Jan","Europe",1
+2013,"January","Road Bikes",61067.9718,"United Kingdom",372,20130101,10,"2013-Jan","Europe",1
+2013,"January","Jerseys",596.675,"United Kingdom",231,20130101,10,"2013-Jan","Europe",1
+2013,"January","Touring Bikes",14324.4026,"United Kingdom",560,20130101,10,"2013-Jan","Europe",1
+2013,"January","Tires and Tubes",666.3757,"United Kingdom",480,20130102,10,"2013-Jan","Europe",1
+2013,"January","Helmets",791.4315,"United Kingdom",214,20130102,10,"2013-Jan","Europe",1
+2013,"January","Caps",93.8506,"United Kingdom",225,20130103,10,"2013-Jan","Europe",1
+2013,"January","Hydration Packs",95.6775,"United Kingdom",487,20130103,10,"2013-Jan","Europe",1
+2013,"January","Fenders",57.3647,"United Kingdom",485,20130105,10,"2013-Jan","Europe",1
+2013,"January","Cleaners",34.5807,"United Kingdom",484,20130108,10,"2013-Jan","Europe",1
+2013,"January","Gloves",42.6103,"United Kingdom",463,20130109,10,"2013-Jan","Europe",1
+2013,"January","Vests",55.242,"United Kingdom",472,20130116,10,"2013-Jan","Europe",1
+2013,"January","Bike Stands",138.3226,"United Kingdom",486,20130131,10,"2013-Jan","Europe",1
+2013,"February","Tires and Tubes",2190.4604,"United Kingdom",480,20130201,10,"2013-Feb","Europe",2
+2013,"February","Cleaners",26.7039,"United Kingdom",484,20130201,10,"2013-Feb","Europe",2
+2013,"February","Mountain Bikes",44527.0226,"United Kingdom",353,20130202,10,"2013-Feb","Europe",2
+2013,"February","Bottles and Cages",336.5366,"United Kingdom",477,20130202,10,"2013-Feb","Europe",2
+2013,"February","Helmets",2037.2012,"United Kingdom",214,20130202,10,"2013-Feb","Europe",2
+2013,"February","Caps",241.5781,"United Kingdom",225,20130202,10,"2013-Feb","Europe",2
+2013,"February","Jerseys",978.3935,"United Kingdom",228,20130202,10,"2013-Feb","Europe",2
+2013,"February","Road Bikes",63633.4701,"United Kingdom",372,20130202,10,"2013-Feb","Europe",2
+2013,"February","Fenders",73.8305,"United Kingdom",485,20130203,10,"2013-Feb","Europe",2
+2013,"February","Gloves",219.364,"United Kingdom",463,20130204,10,"2013-Feb","Europe",2
+2013,"February","Socks",40.263,"United Kingdom",481,20130207,10,"2013-Feb","Europe",2
+2013,"February","Touring Bikes",8890.3227,"United Kingdom",561,20130208,10,"2013-Feb","Europe",2
+2013,"February","Shorts",156.7302,"United Kingdom",474,20130211,10,"2013-Feb","Europe",2
+2013,"February","Vests",142.197,"United Kingdom",471,20130212,10,"2013-Feb","Europe",2
+2013,"February","Bike Stands",178.0261,"United Kingdom",486,20130213,10,"2013-Feb","Europe",2
+2013,"February","Bike Racks",268.7187,"United Kingdom",483,20130219,10,"2013-Feb","Europe",2
+2013,"March","Mountain Bikes",47645.8066,"United Kingdom",353,20130301,10,"2013-Mar","Europe",3
+2013,"March","Road Bikes",37439.6683,"United Kingdom",372,20130301,10,"2013-Mar","Europe",3
+2013,"March","Bottles and Cages",330.1039,"United Kingdom",477,20130301,10,"2013-Mar","Europe",3
+2013,"March","Jerseys",1118.5428,"United Kingdom",228,20130301,10,"2013-Mar","Europe",3
+2013,"March","Tires and Tubes",2281.5401,"United Kingdom",480,20130301,10,"2013-Mar","Europe",3
+2013,"March","Helmets",2009.0185,"United Kingdom",214,20130301,10,"2013-Mar","Europe",3
+2013,"March","Hydration Packs",143.5162,"United Kingdom",487,20130301,10,"2013-Mar","Europe",3
+2013,"March","Caps",203.3429,"United Kingdom",225,20130302,10,"2013-Mar","Europe",3
+2013,"March","Shorts",426.2163,"United Kingdom",474,20130302,10,"2013-Mar","Europe",3
+2013,"March","Bike Racks",521.9721,"United Kingdom",483,20130302,10,"2013-Mar","Europe",3
+2013,"March","Cleaners",41.4968,"United Kingdom",484,20130303,10,"2013-Mar","Europe",3
+2013,"March","Touring Bikes",26631.9833,"United Kingdom",560,20130303,10,"2013-Mar","Europe",3
+2013,"March","Fenders",114.7295,"United Kingdom",485,20130305,10,"2013-Mar","Europe",3
+2013,"March","Gloves",234.3568,"United Kingdom",463,20130305,10,"2013-Mar","Europe",3
+2013,"March","Vests",220.9682,"United Kingdom",471,20130310,10,"2013-Mar","Europe",3
+2013,"March","Socks",31.2835,"United Kingdom",481,20130311,10,"2013-Mar","Europe",3
+2013,"March","Bike Stands",414.9678,"United Kingdom",486,20130312,10,"2013-Mar","Europe",3
+2013,"April","Mountain Bikes",67121.6626,"United Kingdom",353,20130401,10,"2013-Apr","Europe",4
+2013,"April","Bottles and Cages",632.8325,"United Kingdom",477,20130401,10,"2013-Apr","Europe",4
+2013,"April","Tires and Tubes",2412.0413,"United Kingdom",480,20130401,10,"2013-Apr","Europe",4
+2013,"April","Bike Racks",403.078,"United Kingdom",483,20130401,10,"2013-Apr","Europe",4
+2013,"April","Bike Stands",712.1045,"United Kingdom",486,20130401,10,"2013-Apr","Europe",4
+2013,"April","Touring Bikes",45482.7543,"United Kingdom",561,20130401,10,"2013-Apr","Europe",4
+2013,"April","Helmets",2154.732,"United Kingdom",214,20130401,10,"2013-Apr","Europe",4
+2013,"April","Jerseys",1932.1657,"United Kingdom",228,20130401,10,"2013-Apr","Europe",4
+2013,"April","Caps",301.9726,"United Kingdom",225,20130401,10,"2013-Apr","Europe",4
+2013,"April","Road Bikes",43788.0798,"United Kingdom",372,20130402,10,"2013-Apr","Europe",4
+2013,"April","Cleaners",53.4078,"United Kingdom",484,20130403,10,"2013-Apr","Europe",4
+2013,"April","Gloves",329.046,"United Kingdom",463,20130403,10,"2013-Apr","Europe",4
+2013,"April","Fenders",442.9828,"United Kingdom",485,20130405,10,"2013-Apr","Europe",4
+2013,"April","Socks",30.1973,"United Kingdom",482,20130406,10,"2013-Apr","Europe",4
+2013,"April","Vests",284.3939,"United Kingdom",471,20130406,10,"2013-Apr","Europe",4
+2013,"April","Shorts",313.4604,"United Kingdom",474,20130407,10,"2013-Apr","Europe",4
+2013,"April","Hydration Packs",246.2807,"United Kingdom",487,20130409,10,"2013-Apr","Europe",4
+2013,"May","Tires and Tubes",1822.4396,"United Kingdom",480,20130501,10,"2013-May","Europe",5
+2013,"May","Bottles and Cages",397.8819,"United Kingdom",477,20130501,10,"2013-May","Europe",5
+2013,"May","Touring Bikes",46217.2646,"United Kingdom",560,20130501,10,"2013-May","Europe",5
+2013,"May","Helmets",2130.7772,"United Kingdom",214,20130501,10,"2013-May","Europe",5
+2013,"May","Road Bikes",47046.7566,"United Kingdom",374,20130501,10,"2013-May","Europe",5
+2013,"May","Jerseys",1476.894,"United Kingdom",228,20130501,10,"2013-May","Europe",5
+2013,"May","Socks",70.3879,"United Kingdom",481,20130501,10,"2013-May","Europe",5
+2013,"May","Gloves",255.6619,"United Kingdom",463,20130501,10,"2013-May","Europe",5
+2013,"May","Fenders",191.2158,"United Kingdom",485,20130503,10,"2013-May","Europe",5
+2013,"May","Caps",179.8803,"United Kingdom",225,20130503,10,"2013-May","Europe",5
+2013,"May","Mountain Bikes",58601.4882,"United Kingdom",353,20130506,10,"2013-May","Europe",5
+2013,"May","Hydration Packs",239.1937,"United Kingdom",487,20130507,10,"2013-May","Europe",5
+2013,"May","Bike Stands",414.9678,"United Kingdom",486,20130508,10,"2013-May","Europe",5
+2013,"May","Vests",55.242,"United Kingdom",471,20130510,10,"2013-May","Europe",5
+2013,"May","Cleaners",34.5807,"United Kingdom",484,20130511,10,"2013-May","Europe",5
+2013,"May","Shorts",426.2163,"United Kingdom",474,20130511,10,"2013-May","Europe",5
+2013,"May","Bike Racks",313.1833,"United Kingdom",483,20130520,10,"2013-May","Europe",5
+2013,"June","Mountain Bikes",101456.9243,"United Kingdom",353,20130601,10,"2013-Jun","Europe",6
+2013,"June","Bottles and Cages",1049.9175,"United Kingdom",477,20130601,10,"2013-Jun","Europe",6
+2013,"June","Jerseys",2594.8708,"United Kingdom",228,20130601,10,"2013-Jun","Europe",6
+2013,"June","Helmets",3055.8018,"United Kingdom",214,20130601,10,"2013-Jun","Europe",6
+2013,"June","Caps",312.0384,"United Kingdom",225,20130601,10,"2013-Jun","Europe",6
+2013,"June","Gloves",219.364,"United Kingdom",463,20130601,10,"2013-Jun","Europe",6
+2013,"June","Road Bikes",76769.3353,"United Kingdom",372,20130601,10,"2013-Jun","Europe",6
+2013,"June","Tires and Tubes",2267.885,"United Kingdom",480,20130601,10,"2013-Jun","Europe",6
+2013,"June","Cleaners",80.1118,"United Kingdom",484,20130602,10,"2013-Jun","Europe",6
+2013,"June","Touring Bikes",52961.7664,"United Kingdom",560,20130602,10,"2013-Jun","Europe",6
+2013,"June","Fenders",467.5929,"United Kingdom",485,20130603,10,"2013-Jun","Europe",6
+2013,"June","Hydration Packs",430.9912,"United Kingdom",487,20130604,10,"2013-Jun","Europe",6
+2013,"June","Socks",60.3945,"United Kingdom",482,20130605,10,"2013-Jun","Europe",6
+2013,"June","Bike Stands",356.0523,"United Kingdom",486,20130606,10,"2013-Jun","Europe",6
+2013,"June","Shorts",235.0953,"United Kingdom",475,20130608,10,"2013-Jun","Europe",6
+2013,"June","Vests",284.3939,"United Kingdom",471,20130609,10,"2013-Jun","Europe",6
+2013,"July","Road Bikes",43147.6597,"United Kingdom",372,20130701,10,"2013-Jul","Europe",7
+2013,"July","Jerseys",1711.738,"United Kingdom",228,20130701,10,"2013-Jul","Europe",7
+2013,"July","Gloves",191.7465,"United Kingdom",463,20130701,10,"2013-Jul","Europe",7
+2013,"July","Fenders",248.5805,"United Kingdom",485,20130701,10,"2013-Jul","Europe",7
+2013,"July","Bottles and Cages",457.8043,"United Kingdom",477,20130701,10,"2013-Jul","Europe",7
+2013,"July","Tires and Tubes",1616.6521,"United Kingdom",480,20130701,10,"2013-Jul","Europe",7
+2013,"July","Helmets",2009.0185,"United Kingdom",214,20130701,10,"2013-Jul","Europe",7
+2013,"July","Caps",258.0891,"United Kingdom",225,20130701,10,"2013-Jul","Europe",7
+2013,"July","Mountain Bikes",41663.1188,"United Kingdom",353,20130702,10,"2013-Jul","Europe",7
+2013,"July","Hydration Packs",334.8712,"United Kingdom",487,20130702,10,"2013-Jul","Europe",7
+2013,"July","Touring Bikes",42675.3184,"United Kingdom",561,20130703,10,"2013-Jul","Europe",7
+2013,"July","Shorts",365.3283,"United Kingdom",474,20130704,10,"2013-Jul","Europe",7
+2013,"July","Cleaners",27.6645,"United Kingdom",484,20130704,10,"2013-Jul","Europe",7
+2013,"July","Vests",110.4841,"United Kingdom",472,20130704,10,"2013-Jul","Europe",7
+2013,"July","Socks",39.1044,"United Kingdom",481,20130705,10,"2013-Jul","Europe",7
+2013,"July","Bike Stands",138.3226,"United Kingdom",486,20130724,10,"2013-Jul","Europe",7
+2013,"July","Bike Racks",104.3944,"United Kingdom",483,20130725,10,"2013-Jul","Europe",7
+2013,"August","Mountain Bikes",97703.8983,"United Kingdom",353,20130801,10,"2013-Aug","Europe",8
+2013,"August","Hydration Packs",369.421,"United Kingdom",487,20130801,10,"2013-Aug","Europe",8
+2013,"August","Tires and Tubes",2382.7846,"United Kingdom",480,20130801,10,"2013-Aug","Europe",8
+2013,"August","Bottles and Cages",767.0351,"United Kingdom",477,20130801,10,"2013-Aug","Europe",8
+2013,"August","Caps",291.9069,"United Kingdom",225,20130801,10,"2013-Aug","Europe",8
+2013,"August","Jerseys",1504.5335,"United Kingdom",228,20130801,10,"2013-Aug","Europe",8
+2013,"August","Road Bikes",65811.2783,"United Kingdom",372,20130801,10,"2013-Aug","Europe",8
+2013,"August","Helmets",3055.8018,"United Kingdom",214,20130802,10,"2013-Aug","Europe",8
+2013,"August","Touring Bikes",61976.8081,"United Kingdom",560,20130802,10,"2013-Aug","Europe",8
+2013,"August","Shorts",313.4604,"United Kingdom",474,20130803,10,"2013-Aug","Europe",8
+2013,"August","Vests",355.4924,"United Kingdom",471,20130803,10,"2013-Aug","Europe",8
+2013,"August","Fenders",221.4914,"United Kingdom",485,20130805,10,"2013-Aug","Europe",8
+2013,"August","Gloves",137.1025,"United Kingdom",463,20130806,10,"2013-Aug","Europe",8
+2013,"August","Cleaners",71.2105,"United Kingdom",484,20130808,10,"2013-Aug","Europe",8
+2013,"August","Socks",50.3288,"United Kingdom",481,20130808,10,"2013-Aug","Europe",8
+2013,"August","Bike Stands",356.0523,"United Kingdom",486,20130814,10,"2013-Aug","Europe",8
+2013,"September","Mountain Bikes",62071.2718,"United Kingdom",353,20130901,10,"2013-Sep","Europe",9
+2013,"September","Jerseys",1429.9252,"United Kingdom",228,20130901,10,"2013-Sep","Europe",9
+2013,"September","Gloves",255.6619,"United Kingdom",463,20130901,10,"2013-Sep","Europe",9
+2013,"September","Tires and Tubes",1970.7579,"United Kingdom",480,20130901,10,"2013-Sep","Europe",9
+2013,"September","Hydration Packs",239.1937,"United Kingdom",487,20130901,10,"2013-Sep","Europe",9
+2013,"September","Helmets",2252.5359,"United Kingdom",214,20130901,10,"2013-Sep","Europe",9
+2013,"September","Caps",218.9847,"United Kingdom",225,20130901,10,"2013-Sep","Europe",9
+2013,"September","Touring Bikes",56490.5111,"United Kingdom",560,20130901,10,"2013-Sep","Europe",9
+2013,"September","Bottles and Cages",421.3185,"United Kingdom",477,20130901,10,"2013-Sep","Europe",9
+2013,"September","Cleaners",55.329,"United Kingdom",484,20130901,10,"2013-Sep","Europe",9
+2013,"September","Fenders",191.2158,"United Kingdom",485,20130903,10,"2013-Sep","Europe",9
+2013,"September","Shorts",243.5522,"United Kingdom",475,20130903,10,"2013-Sep","Europe",9
+2013,"September","Road Bikes",34703.4905,"United Kingdom",372,20130903,10,"2013-Sep","Europe",9
+2013,"September","Socks",31.2835,"United Kingdom",481,20130905,10,"2013-Sep","Europe",9
+2013,"September","Vests",165.7261,"United Kingdom",472,20130905,10,"2013-Sep","Europe",9
+2013,"September","Bike Racks",208.7888,"United Kingdom",483,20130906,10,"2013-Sep","Europe",9
+2013,"September","Bike Stands",276.6452,"United Kingdom",486,20130906,10,"2013-Sep","Europe",9
+2013,"October","Tires and Tubes",2583.1368,"United Kingdom",480,20131001,10,"2013-Oct","Europe",10
+2013,"October","Fenders",369.1523,"United Kingdom",485,20131001,10,"2013-Oct","Europe",10
+2013,"October","Caps",291.9069,"United Kingdom",225,20131001,10,"2013-Oct","Europe",10
+2013,"October","Jerseys",1887.3793,"United Kingdom",228,20131001,10,"2013-Oct","Europe",10
+2013,"October","Helmets",3094.9787,"United Kingdom",214,20131001,10,"2013-Oct","Europe",10
+2013,"October","Bottles and Cages",668.6281,"United Kingdom",477,20131001,10,"2013-Oct","Europe",10
+2013,"October","Vests",426.5909,"United Kingdom",471,20131001,10,"2013-Oct","Europe",10
+2013,"October","Touring Bikes",47018.7839,"United Kingdom",561,20131001,10,"2013-Oct","Europe",10
+2013,"October","Mountain Bikes",88710.7796,"United Kingdom",353,20131002,10,"2013-Oct","Europe",10
+2013,"October","Hydration Packs",492.5614,"United Kingdom",487,20131002,10,"2013-Oct","Europe",10
+2013,"October","Road Bikes",72763.6802,"United Kingdom",372,20131002,10,"2013-Oct","Europe",10
+2013,"October","Gloves",274.205,"United Kingdom",463,20131002,10,"2013-Oct","Europe",10
+2013,"October","Bike Racks",671.7967,"United Kingdom",483,20131004,10,"2013-Oct","Europe",10
+2013,"October","Socks",60.3945,"United Kingdom",481,20131004,10,"2013-Oct","Europe",10
+2013,"October","Shorts",78.3651,"United Kingdom",475,20131005,10,"2013-Oct","Europe",10
+2013,"October","Cleaners",44.5065,"United Kingdom",484,20131010,10,"2013-Oct","Europe",10
+2013,"October","Bike Stands",356.0523,"United Kingdom",486,20131026,10,"2013-Oct","Europe",10
+2013,"November","Road Bikes",61245.7816,"United Kingdom",374,20131101,10,"2013-Nov","Europe",11
+2013,"November","Helmets",2130.7772,"United Kingdom",214,20131101,10,"2013-Nov","Europe",11
+2013,"November","Jerseys",1382.9564,"United Kingdom",228,20131101,10,"2013-Nov","Europe",11
+2013,"November","Mountain Bikes",60410.0955,"United Kingdom",353,20131101,10,"2013-Nov","Europe",11
+2013,"November","Tires and Tubes",1817.6722,"United Kingdom",480,20131101,10,"2013-Nov","Europe",11
+2013,"November","Bottles and Cages",553.3774,"United Kingdom",477,20131101,10,"2013-Nov","Europe",11
+2013,"November","Caps",148.5968,"United Kingdom",225,20131101,10,"2013-Nov","Europe",11
+2013,"November","Touring Bikes",44828.7405,"United Kingdom",560,20131101,10,"2013-Nov","Europe",11
+2013,"November","Vests",165.7261,"United Kingdom",471,20131102,10,"2013-Nov","Europe",11
+2013,"November","Gloves",298.2723,"United Kingdom",463,20131102,10,"2013-Nov","Europe",11
+2013,"November","Fenders",229.4589,"United Kingdom",485,20131103,10,"2013-Nov","Europe",11
+2013,"November","Bike Racks",313.1833,"United Kingdom",483,20131103,10,"2013-Nov","Europe",11
+2013,"November","Socks",39.1044,"United Kingdom",481,20131104,10,"2013-Nov","Europe",11
+2013,"November","Shorts",304.4402,"United Kingdom",474,20131104,10,"2013-Nov","Europe",11
+2013,"November","Cleaners",48.4129,"United Kingdom",484,20131107,10,"2013-Nov","Europe",11
+2013,"November","Hydration Packs",287.0325,"United Kingdom",487,20131110,10,"2013-Nov","Europe",11
+2013,"November","Bike Stands",553.2904,"United Kingdom",486,20131114,10,"2013-Nov","Europe",11
+2013,"December","Mountain Bikes",139108.1747,"United Kingdom",353,20131201,10,"2013-Dec","Europe",12
+2013,"December","Tires and Tubes",2832.6421,"United Kingdom",480,20131201,10,"2013-Dec","Europe",12
+2013,"December","Helmets",3173.3326,"United Kingdom",214,20131201,10,"2013-Dec","Europe",12
+2013,"December","Jerseys",2068.7308,"United Kingdom",228,20131201,10,"2013-Dec","Europe",12
+2013,"December","Bottles and Cages",845.2994,"United Kingdom",477,20131201,10,"2013-Dec","Europe",12
+2013,"December","Gloves",575.8306,"United Kingdom",463,20131201,10,"2013-Dec","Europe",12
+2013,"December","Hydration Packs",800.4122,"United Kingdom",487,20131201,10,"2013-Dec","Europe",12
+2013,"December","Touring Bikes",65881.6602,"United Kingdom",560,20131201,10,"2013-Dec","Europe",12
+2013,"December","Road Bikes",62939.4817,"United Kingdom",372,20131201,10,"2013-Dec","Europe",12
+2013,"December","Fenders",442.9828,"United Kingdom",485,20131203,10,"2013-Dec","Europe",12
+2013,"December","Bike Stands",356.0523,"United Kingdom",486,20131203,10,"2013-Dec","Europe",12
+2013,"December","Caps",372.4329,"United Kingdom",225,20131203,10,"2013-Dec","Europe",12
+2013,"December","Bike Racks",537.4374,"United Kingdom",483,20131204,10,"2013-Dec","Europe",12
+2013,"December","Shorts",313.4604,"United Kingdom",474,20131205,10,"2013-Dec","Europe",12
+2013,"December","Socks",90.5918,"United Kingdom",481,20131206,10,"2013-Dec","Europe",12
+2013,"December","Cleaners",71.2105,"United Kingdom",484,20131208,10,"2013-Dec","Europe",12
+2013,"December","Vests",213.2955,"United Kingdom",472,20131211,10,"2013-Dec","Europe",12
+2013,"January","Mountain Bikes",31786.1883,"Germany",353,20130101,8,"2013-Jan","Europe",1
+2013,"January","Bottles and Cages",205.0306,"Germany",477,20130101,8,"2013-Jan","Europe",1
+2013,"January","Touring Bikes",18237.7059,"Germany",564,20130101,8,"2013-Jan","Europe",1
+2013,"January","Road Bikes",31367.7928,"Germany",372,20130103,8,"2013-Jan","Europe",1
+2013,"January","Helmets",700.1125,"Germany",214,20130103,8,"2013-Jan","Europe",1
+2013,"January","Jerseys",669.7337,"Germany",228,20130103,8,"2013-Jan","Europe",1
+2013,"January","Gloves",85.2206,"Germany",463,20130103,8,"2013-Jan","Europe",1
+2013,"January","Tires and Tubes",403.554,"Germany",480,20130103,8,"2013-Jan","Europe",1
+2013,"January","Caps",54.7462,"Germany",225,20130104,8,"2013-Jan","Europe",1
+2013,"January","Fenders",95.6079,"Germany",485,20130104,8,"2013-Jan","Europe",1
+2013,"January","Vests",220.9682,"Germany",471,20130104,8,"2013-Jan","Europe",1
+2013,"January","Bike Racks",104.3944,"Germany",483,20130111,8,"2013-Jan","Europe",1
+2013,"January","Hydration Packs",95.6775,"Germany",487,20130121,8,"2013-Jan","Europe",1
+2013,"January","Bike Stands",138.3226,"Germany",486,20130128,8,"2013-Jan","Europe",1
+2013,"January","Cleaners",6.9161,"Germany",484,20130129,8,"2013-Jan","Europe",1
+2013,"February","Tires and Tubes",1780.5748,"Germany",480,20130201,8,"2013-Feb","Europe",2
+2013,"February","Helmets",1762.9625,"Germany",214,20130201,8,"2013-Feb","Europe",2
+2013,"February","Jerseys",982.8722,"Germany",228,20130201,8,"2013-Feb","Europe",2
+2013,"February","Bottles and Cages",276.1532,"Germany",477,20130201,8,"2013-Feb","Europe",2
+2013,"February","Mountain Bikes",29601.9948,"Germany",353,20130202,8,"2013-Feb","Europe",2
+2013,"February","Caps",161.0521,"Germany",225,20130202,8,"2013-Feb","Europe",2
+2013,"February","Cleaners",26.7039,"Germany",484,20130202,8,"2013-Feb","Europe",2
+2013,"February","Bike Racks",268.7187,"Germany",483,20130203,8,"2013-Feb","Europe",2
+2013,"February","Road Bikes",31484.7387,"Germany",374,20130204,8,"2013-Feb","Europe",2
+2013,"February","Vests",142.197,"Germany",471,20130206,8,"2013-Feb","Europe",2
+2013,"February","Gloves",109.682,"Germany",463,20130206,8,"2013-Feb","Europe",2
+2013,"February","Touring Bikes",32789.7598,"Germany",561,20130207,8,"2013-Feb","Europe",2
+2013,"February","Fenders",196.8812,"Germany",485,20130208,8,"2013-Feb","Europe",2
+2013,"February","Bike Stands",178.0261,"Germany",486,20130214,8,"2013-Feb","Europe",2
+2013,"March","Mountain Bikes",33836.2425,"Germany",353,20130301,8,"2013-Mar","Europe",3
+2013,"March","Bottles and Cages",331.8525,"Germany",477,20130301,8,"2013-Mar","Europe",3
+2013,"March","Helmets",1461.1044,"Germany",214,20130301,8,"2013-Mar","Europe",3
+2013,"March","Jerseys",1162.0317,"Germany",228,20130301,8,"2013-Mar","Europe",3
+2013,"March","Socks",7.8209,"Germany",481,20130301,8,"2013-Mar","Europe",3
+2013,"March","Road Bikes",36547.4701,"Germany",372,20130301,8,"2013-Mar","Europe",3
+2013,"March","Caps",156.4176,"Germany",225,20130301,8,"2013-Mar","Europe",3
+2013,"March","Gloves",106.5258,"Germany",463,20130301,8,"2013-Mar","Europe",3
+2013,"March","Shorts",182.6641,"Germany",474,20130302,8,"2013-Mar","Europe",3
+2013,"March","Fenders",248.5805,"Germany",485,20130302,8,"2013-Mar","Europe",3
+2013,"March","Tires and Tubes",1472.031,"Germany",480,20130302,8,"2013-Mar","Europe",3
+2013,"March","Vests",165.7261,"Germany",471,20130302,8,"2013-Mar","Europe",3
+2013,"March","Touring Bikes",23088.7843,"Germany",561,20130302,8,"2013-Mar","Europe",3
+2013,"March","Cleaners",20.7484,"Germany",484,20130305,8,"2013-Mar","Europe",3
+2013,"March","Bike Racks",417.5777,"Germany",483,20130313,8,"2013-Mar","Europe",3
+2013,"March","Bike Stands",276.6452,"Germany",486,20130316,8,"2013-Mar","Europe",3
+2013,"March","Hydration Packs",47.8387,"Germany",487,20130324,8,"2013-Mar","Europe",3
+2013,"April","Mountain Bikes",42859.8695,"Germany",353,20130401,8,"2013-Apr","Europe",4
+2013,"April","Bottles and Cages",503.131,"Germany",477,20130401,8,"2013-Apr","Europe",4
+2013,"April","Helmets",1449.547,"Germany",214,20130401,8,"2013-Apr","Europe",4
+2013,"April","Fenders",295.3218,"Germany",485,20130401,8,"2013-Apr","Europe",4
+2013,"April","Tires and Tubes",1779.3432,"Germany",480,20130401,8,"2013-Apr","Europe",4
+2013,"April","Touring Bikes",29591.3692,"Germany",561,20130401,8,"2013-Apr","Europe",4
+2013,"April","Caps",191.2493,"Germany",225,20130401,8,"2013-Apr","Europe",4
+2013,"April","Hydration Packs",246.2807,"Germany",487,20130402,8,"2013-Apr","Europe",4
+2013,"April","Bike Stands",534.0784,"Germany",486,20130402,8,"2013-Apr","Europe",4
+2013,"April","Jerseys",1025.4081,"Germany",228,20130402,8,"2013-Apr","Europe",4
+2013,"April","Cleaners",53.4078,"Germany",484,20130403,8,"2013-Apr","Europe",4
+2013,"April","Road Bikes",38905.8755,"Germany",374,20130403,8,"2013-Apr","Europe",4
+2013,"April","Gloves",329.046,"Germany",463,20130406,8,"2013-Apr","Europe",4
+2013,"April","Bike Racks",134.3593,"Germany",483,20130407,8,"2013-Apr","Europe",4
+2013,"April","Vests",142.197,"Germany",471,20130416,8,"2013-Apr","Europe",4
+2013,"April","Socks",40.263,"Germany",481,20130420,8,"2013-Apr","Europe",4
+2013,"May","Tires and Tubes",1144.537,"Germany",480,20130501,8,"2013-May","Europe",5
+2013,"May","Helmets",1491.544,"Germany",214,20130501,8,"2013-May","Europe",5
+2013,"May","Road Bikes",40481.8089,"Germany",374,20130501,8,"2013-May","Europe",5
+2013,"May","Bottles and Cages",376.1766,"Germany",477,20130501,8,"2013-May","Europe",5
+2013,"May","Touring Bikes",29253.6666,"Germany",560,20130501,8,"2013-May","Europe",5
+2013,"May","Caps",172.0594,"Germany",225,20130501,8,"2013-May","Europe",5
+2013,"May","Mountain Bikes",26044.9473,"Germany",353,20130502,8,"2013-May","Europe",5
+2013,"May","Fenders",152.9726,"Germany",485,20130505,8,"2013-May","Europe",5
+2013,"May","Cleaners",20.7484,"Germany",484,20130505,8,"2013-May","Europe",5
+2013,"May","Jerseys",669.7337,"Germany",228,20130505,8,"2013-May","Europe",5
+2013,"May","Gloves",127.831,"Germany",463,20130511,8,"2013-May","Europe",5
+2013,"May","Socks",23.4626,"Germany",481,20130512,8,"2013-May","Europe",5
+2013,"May","Hydration Packs",191.355,"Germany",487,20130514,8,"2013-May","Europe",5
+2013,"May","Bike Stands",276.6452,"Germany",486,20130517,8,"2013-May","Europe",5
+2013,"May","Vests",55.242,"Germany",472,20130521,8,"2013-May","Europe",5
+2013,"June","Mountain Bikes",85257.8004,"Germany",353,20130601,8,"2013-Jun","Europe",6
+2013,"June","Bottles and Cages",563.5143,"Germany",477,20130601,8,"2013-Jun","Europe",6
+2013,"June","Fenders",467.5929,"Germany",485,20130601,8,"2013-Jun","Europe",6
+2013,"June","Helmets",2624.8553,"Germany",214,20130601,8,"2013-Jun","Europe",6
+2013,"June","Jerseys",1681.4064,"Germany",228,20130601,8,"2013-Jun","Europe",6
+2013,"June","Road Bikes",48262.6715,"Germany",374,20130601,8,"2013-Jun","Europe",6
+2013,"June","Gloves",301.6255,"Germany",463,20130601,8,"2013-Jun","Europe",6
+2013,"June","Touring Bikes",46416.115,"Germany",560,20130601,8,"2013-Jun","Europe",6
+2013,"June","Tires and Tubes",1939.0181,"Germany",480,20130602,8,"2013-Jun","Europe",6
+2013,"June","Caps",231.5123,"Germany",225,20130602,8,"2013-Jun","Europe",6
+2013,"June","Cleaners",80.1118,"Germany",484,20130602,8,"2013-Jun","Europe",6
+2013,"June","Socks",30.1973,"Germany",481,20130604,8,"2013-Jun","Europe",6
+2013,"June","Hydration Packs",246.2807,"Germany",487,20130607,8,"2013-Jun","Europe",6
+2013,"June","Bike Racks",134.3593,"Germany",483,20130607,8,"2013-Jun","Europe",6
+2013,"June","Vests",142.197,"Germany",471,20130614,8,"2013-Jun","Europe",6
+2013,"July","Road Bikes",41703.1192,"Germany",372,20130701,8,"2013-Jul","Europe",7
+2013,"July","Caps",172.0594,"Germany",225,20130701,8,"2013-Jul","Europe",7
+2013,"July","Helmets",1887.2598,"Germany",214,20130701,8,"2013-Jul","Europe",7
+2013,"July","Cleaners",48.4129,"Germany",484,20130701,8,"2013-Jul","Europe",7
+2013,"July","Mountain Bikes",53905.5225,"Germany",353,20130701,8,"2013-Jul","Europe",7
+2013,"July","Tires and Tubes",1811.6173,"Germany",480,20130701,8,"2013-Jul","Europe",7
+2013,"July","Bottles and Cages",350.9741,"Germany",477,20130701,8,"2013-Jul","Europe",7
+2013,"July","Gloves",213.0516,"Germany",463,20130701,8,"2013-Jul","Europe",7
+2013,"July","Jerseys",1078.5336,"Germany",228,20130701,8,"2013-Jul","Europe",7
+2013,"July","Fenders",229.4589,"Germany",485,20130702,8,"2013-Jul","Europe",7
+2013,"July","Touring Bikes",36630.7768,"Germany",560,20130702,8,"2013-Jul","Europe",7
+2013,"July","Hydration Packs",334.8712,"Germany",487,20130705,8,"2013-Jul","Europe",7
+2013,"July","Vests",331.4523,"Germany",471,20130710,8,"2013-Jul","Europe",7
+2013,"July","Bike Stands",276.6452,"Germany",486,20130710,8,"2013-Jul","Europe",7
+2013,"July","Socks",7.8209,"Germany",481,20130719,8,"2013-Jul","Europe",7
+2013,"July","Bike Racks",208.7888,"Germany",483,20130719,8,"2013-Jul","Europe",7
+2013,"August","Gloves",301.6255,"Germany",463,20130801,8,"2013-Aug","Europe",8
+2013,"August","Bottles and Cages",524.3821,"Germany",477,20130801,8,"2013-Aug","Europe",8
+2013,"August","Tires and Tubes",1863.3066,"Germany",480,20130801,8,"2013-Aug","Europe",8
+2013,"August","Helmets",2154.732,"Germany",214,20130801,8,"2013-Aug","Europe",8
+2013,"August","Jerseys",1840.3647,"Germany",228,20130801,8,"2013-Aug","Europe",8
+2013,"August","Caps",211.3808,"Germany",225,20130801,8,"2013-Aug","Europe",8
+2013,"August","Touring Bikes",30900.4995,"Germany",560,20130801,8,"2013-Aug","Europe",8
+2013,"August","Mountain Bikes",91645.4564,"Germany",353,20130802,8,"2013-Aug","Europe",8
+2013,"August","Road Bikes",36518.3772,"Germany",378,20130806,8,"2013-Aug","Europe",8
+2013,"August","Bike Stands",356.0523,"Germany",486,20130808,8,"2013-Aug","Europe",8
+2013,"August","Hydration Packs",246.2807,"Germany",487,20130809,8,"2013-Aug","Europe",8
+2013,"August","Vests",71.0985,"Germany",473,20130809,8,"2013-Aug","Europe",8
+2013,"August","Fenders",319.932,"Germany",485,20130811,8,"2013-Aug","Europe",8
+2013,"August","Socks",20.1315,"Germany",481,20130813,8,"2013-Aug","Europe",8
+2013,"August","Bike Racks",403.078,"Germany",483,20130813,8,"2013-Aug","Europe",8
+2013,"August","Cleaners",44.5065,"Germany",484,20130815,8,"2013-Aug","Europe",8
+2013,"August","Shorts",78.3651,"Germany",476,20130823,8,"2013-Aug","Europe",8
+2013,"September","Mountain Bikes",70570.6743,"Germany",353,20130901,8,"2013-Sep","Europe",9
+2013,"September","Fenders",267.7021,"Germany",485,20130901,8,"2013-Sep","Europe",9
+2013,"September","Tires and Tubes",1178.152,"Germany",480,20130901,8,"2013-Sep","Europe",9
+2013,"September","Caps",242.4474,"Germany",225,20130901,8,"2013-Sep","Europe",9
+2013,"September","Touring Bikes",39487.2171,"Germany",560,20130901,8,"2013-Sep","Europe",9
+2013,"September","Helmets",1765.5011,"Germany",214,20130901,8,"2013-Sep","Europe",9
+2013,"September","Bottles and Cages",506.4782,"Germany",477,20130902,8,"2013-Sep","Europe",9
+2013,"September","Cleaners",62.2452,"Germany",484,20130902,8,"2013-Sep","Europe",9
+2013,"September","Vests",276.2102,"Germany",471,20130902,8,"2013-Sep","Europe",9
+2013,"September","Jerseys",1151.5923,"Germany",228,20130902,8,"2013-Sep","Europe",9
+2013,"September","Road Bikes",36453.837,"Germany",372,20130903,8,"2013-Sep","Europe",9
+2013,"September","Hydration Packs",95.6775,"Germany",487,20130904,8,"2013-Sep","Europe",9
+2013,"September","Shorts",60.888,"Germany",474,20130918,8,"2013-Sep","Europe",9
+2013,"September","Socks",15.6418,"Germany",481,20130921,8,"2013-Sep","Europe",9
+2013,"September","Gloves",21.3052,"Germany",463,20130926,8,"2013-Sep","Europe",9
+2013,"October","Mountain Bikes",81280.1928,"Germany",353,20131001,8,"2013-Oct","Europe",10
+2013,"October","Jerseys",1719.4637,"Germany",228,20131001,8,"2013-Oct","Europe",10
+2013,"October","Tires and Tubes",2434.7593,"Germany",480,20131001,8,"2013-Oct","Europe",10
+2013,"October","Road Bikes",67867.0434,"Germany",372,20131001,8,"2013-Oct","Europe",10
+2013,"October","Caps",271.7754,"Germany",225,20131001,8,"2013-Oct","Europe",10
+2013,"October","Bike Stands",1068.1568,"Germany",486,20131001,8,"2013-Oct","Europe",10
+2013,"October","Socks",60.3945,"Germany",481,20131001,8,"2013-Oct","Europe",10
+2013,"October","Hydration Packs",246.2807,"Germany",487,20131001,8,"2013-Oct","Europe",10
+2013,"October","Touring Bikes",51652.6361,"Germany",560,20131001,8,"2013-Oct","Europe",10
+2013,"October","Bottles and Cages",493.0764,"Germany",477,20131001,8,"2013-Oct","Europe",10
+2013,"October","Cleaners",62.3091,"Germany",484,20131002,8,"2013-Oct","Europe",10
+2013,"October","Helmets",2311.4398,"Germany",214,20131002,8,"2013-Oct","Europe",10
+2013,"October","Fenders",246.1015,"Germany",485,20131004,8,"2013-Oct","Europe",10
+2013,"October","Vests",426.5909,"Germany",471,20131004,8,"2013-Oct","Europe",10
+2013,"October","Gloves",191.9435,"Germany",463,20131008,8,"2013-Oct","Europe",10
+2013,"October","Bike Racks",134.3593,"Germany",483,20131031,8,"2013-Oct","Europe",10
+2013,"November","Road Bikes",54563.1726,"Germany",374,20131101,8,"2013-Nov","Europe",11
+2013,"November","Bottles and Cages",457.8391,"Germany",477,20131101,8,"2013-Nov","Europe",11
+2013,"November","Gloves",298.2723,"Germany",463,20131101,8,"2013-Nov","Europe",11
+2013,"November","Mountain Bikes",75090.0307,"Germany",353,20131101,8,"2013-Nov","Europe",11
+2013,"November","Caps",211.1638,"Germany",225,20131101,8,"2013-Nov","Europe",11
+2013,"November","Jerseys",1179.4308,"Germany",228,20131101,8,"2013-Nov","Europe",11
+2013,"November","Tires and Tubes",1870.5393,"Germany",480,20131101,8,"2013-Nov","Europe",11
+2013,"November","Helmets",2130.7772,"Germany",214,20131101,8,"2013-Nov","Europe",11
+2013,"November","Touring Bikes",33636.4838,"Germany",561,20131101,8,"2013-Nov","Europe",11
+2013,"November","Vests",331.4523,"Germany",471,20131101,8,"2013-Nov","Europe",11
+2013,"November","Fenders",344.1884,"Germany",485,20131102,8,"2013-Nov","Europe",11
+2013,"November","Socks",39.1044,"Germany",481,20131102,8,"2013-Nov","Europe",11
+2013,"November","Bike Racks",313.1833,"Germany",483,20131102,8,"2013-Nov","Europe",11
+2013,"November","Cleaners",55.329,"Germany",484,20131104,8,"2013-Nov","Europe",11
+2013,"November","Bike Stands",138.3226,"Germany",486,20131123,8,"2013-Nov","Europe",11
+2013,"December","Mountain Bikes",112197.308,"Germany",353,20131201,8,"2013-Dec","Europe",12
+2013,"December","Helmets",3055.8018,"Germany",214,20131201,8,"2013-Dec","Europe",12
+2013,"December","Caps",362.3672,"Germany",225,20131201,8,"2013-Dec","Europe",12
+2013,"December","Tires and Tubes",2241.9648,"Germany",480,20131201,8,"2013-Dec","Europe",12
+2013,"December","Fenders",566.0335,"Germany",485,20131201,8,"2013-Dec","Europe",12
+2013,"December","Bottles and Cages",607.1475,"Germany",477,20131201,8,"2013-Dec","Europe",12
+2013,"December","Hydration Packs",246.2807,"Germany",487,20131201,8,"2013-Dec","Europe",12
+2013,"December","Road Bikes",60944.2342,"Germany",372,20131201,8,"2013-Dec","Europe",12
+2013,"December","Touring Bikes",45482.7543,"Germany",560,20131202,8,"2013-Dec","Europe",12
+2013,"December","Jerseys",1504.5335,"Germany",228,20131204,8,"2013-Dec","Europe",12
+2013,"December","Gloves",164.523,"Germany",465,20131204,8,"2013-Dec","Europe",12
+2013,"December","Bike Racks",403.078,"Germany",483,20131204,8,"2013-Dec","Europe",12
+2013,"December","Vests",142.197,"Germany",471,20131205,8,"2013-Dec","Europe",12
+2013,"December","Socks",50.3288,"Germany",481,20131207,8,"2013-Dec","Europe",12
+2013,"December","Shorts",156.7302,"Germany",474,20131211,8,"2013-Dec","Europe",12
+2013,"December","Cleaners",17.8026,"Germany",484,20131220,8,"2013-Dec","Europe",12
+2013,"January","Road Bikes",8760.8758,"Canada",374,20130101,6,"2013-Jan","North America",1
+2013,"January","Cleaners",20.7484,"Canada",484,20130101,6,"2013-Jan","North America",1
+2013,"January","Helmets",365.2761,"Canada",214,20130101,6,"2013-Jan","North America",1
+2013,"January","Mountain Bikes",18807.4124,"Canada",353,20130103,6,"2013-Jan","North America",1
+2013,"January","Fenders",114.7295,"Canada",485,20130103,6,"2013-Jan","North America",1
+2013,"January","Vests",165.7261,"Canada",472,20130103,6,"2013-Jan","North America",1
+2013,"January","Tires and Tubes",597.1796,"Canada",480,20130103,6,"2013-Jan","North America",1
+2013,"January","Jerseys",459.2485,"Canada",231,20130109,6,"2013-Jan","North America",1
+2013,"January","Touring Bikes",9587.7405,"Canada",561,20130110,6,"2013-Jan","North America",1
+2013,"January","Caps",31.2835,"Canada",225,20130110,6,"2013-Jan","North America",1
+2013,"January","Bottles and Cages",166.8136,"Canada",477,20130111,6,"2013-Jan","North America",1
+2013,"January","Shorts",365.3283,"Canada",474,20130111,6,"2013-Jan","North America",1
+2013,"January","Gloves",213.0516,"Canada",463,20130111,6,"2013-Jan","North America",1
+2013,"January","Hydration Packs",143.5162,"Canada",487,20130112,6,"2013-Jan","North America",1
+2013,"January","Bike Racks",313.1833,"Canada",483,20130129,6,"2013-Jan","North America",1
+2013,"February","Tires and Tubes",3125.6238,"Canada",480,20130201,6,"2013-Feb","North America",2
+2013,"February","Helmets",2428.9706,"Canada",214,20130201,6,"2013-Feb","North America",2
+2013,"February","Gloves",520.9896,"Canada",463,20130201,6,"2013-Feb","North America",2
+2013,"February","Bottles and Cages",724.4992,"Canada",477,20130201,6,"2013-Feb","North America",2
+2013,"February","Shorts",1645.6668,"Canada",474,20130201,6,"2013-Feb","North America",2
+2013,"February","Jerseys",1685.8851,"Canada",228,20130201,6,"2013-Feb","North America",2
+2013,"February","Fenders",959.796,"Canada",485,20130201,6,"2013-Feb","North America",2
+2013,"February","Mountain Bikes",21934.051,"Canada",353,20130201,6,"2013-Feb","North America",2
+2013,"February","Caps",191.2493,"Canada",225,20130203,6,"2013-Feb","North America",2
+2013,"February","Hydration Packs",923.5525,"Canada",487,20130204,6,"2013-Feb","North America",2
+2013,"February","Bike Racks",940.5154,"Canada",483,20130204,6,"2013-Feb","North America",2
+2013,"February","Cleaners",97.9144,"Canada",484,20130206,6,"2013-Feb","North America",2
+2013,"February","Bike Stands",178.0261,"Canada",486,20130207,6,"2013-Feb","North America",2
+2013,"February","Vests",213.2955,"Canada",472,20130209,6,"2013-Feb","North America",2
+2013,"February","Touring Bikes",13751.0743,"Canada",560,20130209,6,"2013-Feb","North America",2
+2013,"February","Road Bikes",7708.6435,"Canada",376,20130209,6,"2013-Feb","North America",2
+2013,"February","Socks",80.526,"Canada",481,20130210,6,"2013-Feb","North America",2
+2013,"March","Bike Racks",835.1554,"Canada",483,20130301,6,"2013-Mar","North America",3
+2013,"March","Tires and Tubes",2859.5025,"Canada",480,20130301,6,"2013-Mar","North America",3
+2013,"March","Helmets",1887.2598,"Canada",214,20130301,6,"2013-Mar","North America",3
+2013,"March","Gloves",511.3239,"Canada",463,20130301,6,"2013-Mar","North America",3
+2013,"March","Bottles and Cages",471.7236,"Canada",477,20130301,6,"2013-Mar","North America",3
+2013,"March","Shorts",852.4327,"Canada",474,20130301,6,"2013-Mar","North America",3
+2013,"March","Fenders",478.0395,"Canada",485,20130301,6,"2013-Mar","North America",3
+2013,"March","Jerseys",1577.7912,"Canada",228,20130301,6,"2013-Mar","North America",3
+2013,"March","Socks",93.8506,"Canada",481,20130301,6,"2013-Mar","North America",3
+2013,"March","Touring Bikes",10273.2465,"Canada",562,20130301,6,"2013-Mar","North America",3
+2013,"March","Caps",101.6715,"Canada",225,20130301,6,"2013-Mar","North America",3
+2013,"March","Hydration Packs",574.0649,"Canada",487,20130302,6,"2013-Mar","North America",3
+2013,"March","Mountain Bikes",23649.104,"Canada",355,20130302,6,"2013-Mar","North America",3
+2013,"March","Bike Stands",553.2904,"Canada",486,20130304,6,"2013-Mar","North America",3
+2013,"March","Cleaners",76.0774,"Canada",484,20130307,6,"2013-Mar","North America",3
+2013,"March","Vests",165.7261,"Canada",471,20130307,6,"2013-Mar","North America",3
+2013,"March","Road Bikes",11544.3878,"Canada",374,20130309,6,"2013-Mar","North America",3
+2013,"April","Tires and Tubes",2894.2458,"Canada",480,20130401,6,"2013-Apr","North America",4
+2013,"April","Helmets",2468.1476,"Canada",214,20130401,6,"2013-Apr","North America",4
+2013,"April","Jerseys",1215.7169,"Canada",228,20130401,6,"2013-Apr","North America",4
+2013,"April","Gloves",411.3075,"Canada",463,20130401,6,"2013-Apr","North America",4
+2013,"April","Caps",140.9206,"Canada",225,20130401,6,"2013-Apr","North America",4
+2013,"April","Shorts",1802.397,"Canada",474,20130401,6,"2013-Apr","North America",4
+2013,"April","Bottles and Cages",540.0126,"Canada",477,20130403,6,"2013-Apr","North America",4
+2013,"April","Fenders",615.2538,"Canada",485,20130403,6,"2013-Apr","North America",4
+2013,"April","Vests",142.197,"Canada",472,20130403,6,"2013-Apr","North America",4
+2013,"April","Road Bikes",13981.4894,"Canada",378,20130403,6,"2013-Apr","North America",4
+2013,"April","Mountain Bikes",18405.9986,"Canada",353,20130403,6,"2013-Apr","North America",4
+2013,"April","Hydration Packs",554.1315,"Canada",487,20130403,6,"2013-Apr","North America",4
+2013,"April","Socks",50.3288,"Canada",481,20130406,6,"2013-Apr","North America",4
+2013,"April","Touring Bikes",9721.5032,"Canada",560,20130407,6,"2013-Apr","North America",4
+2013,"April","Cleaners",80.1118,"Canada",484,20130411,6,"2013-Apr","North America",4
+2013,"April","Bike Stands",178.0261,"Canada",486,20130417,6,"2013-Apr","North America",4
+2013,"May","Bottles and Cages",520.3627,"Canada",477,20130501,6,"2013-May","North America",5
+2013,"May","Caps",140.7759,"Canada",225,20130501,6,"2013-May","North America",5
+2013,"May","Helmets",2161.2169,"Canada",214,20130501,6,"2013-May","North America",5
+2013,"May","Tires and Tubes",3311.7913,"Canada",480,20130501,6,"2013-May","North America",5
+2013,"May","Fenders",860.471,"Canada",485,20130501,6,"2013-May","North America",5
+2013,"May","Gloves",532.6291,"Canada",463,20130501,6,"2013-May","North America",5
+2013,"May","Mountain Bikes",36610.0459,"Canada",353,20130501,6,"2013-May","North America",5
+2013,"May","Cleaners",89.9097,"Canada",484,20130502,6,"2013-May","North America",5
+2013,"May","Jerseys",1191.6015,"Canada",228,20130502,6,"2013-May","North America",5
+2013,"May","Road Bikes",19460.2429,"Canada",382,20130502,6,"2013-May","North America",5
+2013,"May","Shorts",1156.8729,"Canada",474,20130502,6,"2013-May","North America",5
+2013,"May","Vests",662.9046,"Canada",471,20130504,6,"2013-May","North America",5
+2013,"May","Socks",70.3879,"Canada",481,20130505,6,"2013-May","North America",5
+2013,"May","Touring Bikes",12758.3297,"Canada",563,20130506,6,"2013-May","North America",5
+2013,"May","Bike Racks",521.9721,"Canada",483,20130510,6,"2013-May","North America",5
+2013,"May","Hydration Packs",143.5162,"Canada",487,20130511,6,"2013-May","North America",5
+2013,"May","Bike Stands",276.6452,"Canada",486,20130520,6,"2013-May","North America",5
+2013,"June","Tires and Tubes",3766.5067,"Canada",480,20130601,6,"2013-Jun","North America",6
+2013,"June","Helmets",2899.094,"Canada",214,20130601,6,"2013-Jun","North America",6
+2013,"June","Mountain Bikes",52397.6139,"Canada",353,20130601,6,"2013-Jun","North America",6
+2013,"June","Touring Bikes",28458.0481,"Canada",563,20130601,6,"2013-Jun","North America",6
+2013,"June","Gloves",548.4101,"Canada",463,20130601,6,"2013-Jun","North America",6
+2013,"June","Road Bikes",38694.853,"Canada",378,20130601,6,"2013-Jun","North America",6
+2013,"June","Bottles and Cages",839.7123,"Canada",477,20130602,6,"2013-Jun","North America",6
+2013,"June","Hydration Packs",615.7017,"Canada",487,20130602,6,"2013-Jun","North America",6
+2013,"June","Socks",50.3288,"Canada",481,20130602,6,"2013-Jun","North America",6
+2013,"June","Caps",181.1836,"Canada",225,20130602,6,"2013-Jun","North America",6
+2013,"June","Jerseys",1970.223,"Canada",228,20130602,6,"2013-Jun","North America",6
+2013,"June","Fenders",910.5757,"Canada",485,20130603,6,"2013-Jun","North America",6
+2013,"June","Vests",426.5909,"Canada",471,20130604,6,"2013-Jun","North America",6
+2013,"June","Shorts",1253.8414,"Canada",474,20130605,6,"2013-Jun","North America",6
+2013,"June","Cleaners",89.0131,"Canada",484,20130610,6,"2013-Jun","North America",6
+2013,"June","Bike Racks",403.078,"Canada",483,20130615,6,"2013-Jun","North America",6
+2013,"June","Bike Stands",356.0523,"Canada",486,20130617,6,"2013-Jun","North America",6
+2013,"July","Bike Racks",626.3665,"Canada",483,20130701,6,"2013-Jul","North America",7
+2013,"July","Tires and Tubes",3396.403,"Canada",480,20130701,6,"2013-Jul","North America",7
+2013,"July","Bottles and Cages",625.4705,"Canada",477,20130701,6,"2013-Jul","North America",7
+2013,"July","Fenders",745.7416,"Canada",485,20130701,6,"2013-Jul","North America",7
+2013,"July","Helmets",2161.2169,"Canada",214,20130701,6,"2013-Jul","North America",7
+2013,"July","Vests",497.1784,"Canada",471,20130701,6,"2013-Jul","North America",7
+2013,"July","Cleaners",124.4904,"Canada",484,20130702,6,"2013-Jul","North America",7
+2013,"July","Jerseys",2059.6498,"Canada",228,20130702,6,"2013-Jul","North America",7
+2013,"July","Gloves",532.6291,"Canada",463,20130702,6,"2013-Jul","North America",7
+2013,"July","Caps",187.7012,"Canada",225,20130702,6,"2013-Jul","North America",7
+2013,"July","Mountain Bikes",34230.7403,"Canada",353,20130702,6,"2013-Jul","North America",7
+2013,"July","Touring Bikes",35337.9041,"Canada",560,20130702,6,"2013-Jul","North America",7
+2013,"July","Socks",93.8506,"Canada",481,20130703,6,"2013-Jul","North America",7
+2013,"July","Hydration Packs",334.8712,"Canada",487,20130703,6,"2013-Jul","North America",7
+2013,"July","Shorts",1278.649,"Canada",474,20130703,6,"2013-Jul","North America",7
+2013,"July","Road Bikes",15995.6704,"Canada",382,20130703,6,"2013-Jul","North America",7
+2013,"July","Bike Stands",414.9678,"Canada",486,20130711,6,"2013-Jul","North America",7
+2013,"August","Bottles and Cages",734.5985,"Canada",477,20130801,6,"2013-Aug","North America",8
+2013,"August","Jerseys",2440.3912,"Canada",228,20130801,6,"2013-Aug","North America",8
+2013,"August","Gloves",603.2511,"Canada",463,20130801,6,"2013-Aug","North America",8
+2013,"August","Shorts",1410.5716,"Canada",474,20130801,6,"2013-Aug","North America",8
+2013,"August","Caps",221.4466,"Canada",225,20130801,6,"2013-Aug","North America",8
+2013,"August","Tires and Tubes",3248.5402,"Canada",480,20130801,6,"2013-Aug","North America",8
+2013,"August","Hydration Packs",800.4122,"Canada",487,20130801,6,"2013-Aug","North America",8
+2013,"August","Bike Stands",534.0784,"Canada",486,20130801,6,"2013-Aug","North America",8
+2013,"August","Fenders",812.1351,"Canada",485,20130801,6,"2013-Aug","North America",8
+2013,"August","Road Bikes",13150.2977,"Canada",384,20130801,6,"2013-Aug","North America",8
+2013,"August","Helmets",1802.1395,"Canada",214,20130802,6,"2013-Aug","North America",8
+2013,"August","Cleaners",80.1118,"Canada",484,20130802,6,"2013-Aug","North America",8
+2013,"August","Mountain Bikes",55131.3115,"Canada",353,20130802,6,"2013-Aug","North America",8
+2013,"August","Socks",60.3945,"Canada",481,20130804,6,"2013-Aug","North America",8
+2013,"August","Vests",497.6894,"Canada",471,20130804,6,"2013-Aug","North America",8
+2013,"August","Touring Bikes",23546.2064,"Canada",561,20130805,6,"2013-Aug","North America",8
+2013,"August","Bike Racks",268.7187,"Canada",483,20130813,6,"2013-Aug","North America",8
+2013,"September","Bottles and Cages",610.7161,"Canada",477,20130901,6,"2013-Sep","North America",9
+2013,"September","Jerseys",1868.2948,"Canada",228,20130901,6,"2013-Sep","North America",9
+2013,"September","Caps",140.7759,"Canada",225,20130901,6,"2013-Sep","North America",9
+2013,"September","Tires and Tubes",2680.4138,"Canada",480,20130901,6,"2013-Sep","North America",9
+2013,"September","Socks",54.7462,"Canada",481,20130901,6,"2013-Sep","North America",9
+2013,"September","Helmets",2009.0185,"Canada",214,20130901,6,"2013-Sep","North America",9
+2013,"September","Fenders",554.5258,"Canada",485,20130901,6,"2013-Sep","North America",9
+2013,"September","Vests",607.6625,"Canada",472,20130902,6,"2013-Sep","North America",9
+2013,"September","Road Bikes",12742.5487,"Canada",384,20130902,6,"2013-Sep","North America",9
+2013,"September","Touring Bikes",19762.8302,"Canada",560,20130903,6,"2013-Sep","North America",9
+2013,"September","Gloves",319.5774,"Canada",463,20130904,6,"2013-Sep","North America",9
+2013,"September","Shorts",852.4327,"Canada",474,20130904,6,"2013-Sep","North America",9
+2013,"September","Mountain Bikes",29211.1432,"Canada",353,20130904,6,"2013-Sep","North America",9
+2013,"September","Cleaners",89.9097,"Canada",484,20130906,6,"2013-Sep","North America",9
+2013,"September","Bike Racks",417.5777,"Canada",483,20130907,6,"2013-Sep","North America",9
+2013,"September","Bike Stands",414.9678,"Canada",486,20130909,6,"2013-Sep","North America",9
+2013,"September","Hydration Packs",287.0325,"Canada",487,20130910,6,"2013-Sep","North America",9
+2013,"October","Tires and Tubes",4445.7156,"Canada",480,20131001,6,"2013-Oct","North America",10
+2013,"October","Cleaners",106.8157,"Canada",484,20131001,6,"2013-Oct","North America",10
+2013,"October","Bike Stands",890.1307,"Canada",486,20131001,6,"2013-Oct","North America",10
+2013,"October","Jerseys",1645.5773,"Canada",228,20131001,6,"2013-Oct","North America",10
+2013,"October","Fenders",738.3046,"Canada",485,20131001,6,"2013-Oct","North America",10
+2013,"October","Bottles and Cages",677.563,"Canada",477,20131001,6,"2013-Oct","North America",10
+2013,"October","Helmets",2977.4479,"Canada",214,20131001,6,"2013-Oct","North America",10
+2013,"October","Caps",211.3808,"Canada",225,20131001,6,"2013-Oct","North America",10
+2013,"October","Gloves",575.8306,"Canada",463,20131001,6,"2013-Oct","North America",10
+2013,"October","Mountain Bikes",47016.5222,"Canada",353,20131001,6,"2013-Oct","North America",10
+2013,"October","Touring Bikes",39664.4908,"Canada",560,20131001,6,"2013-Oct","North America",10
+2013,"October","Vests",782.0834,"Canada",471,20131002,6,"2013-Oct","North America",10
+2013,"October","Socks",60.3945,"Canada",481,20131002,6,"2013-Oct","North America",10
+2013,"October","Shorts",1802.397,"Canada",474,20131003,6,"2013-Oct","North America",10
+2013,"October","Road Bikes",18682.4653,"Canada",384,20131004,6,"2013-Oct","North America",10
+2013,"October","Bike Racks",806.1561,"Canada",483,20131011,6,"2013-Oct","North America",10
+2013,"October","Hydration Packs",554.1315,"Canada",487,20131018,6,"2013-Oct","North America",10
+2013,"November","Tires and Tubes",2965.4193,"Canada",480,20131101,6,"2013-Nov","North America",11
+2013,"November","Bike Stands",414.9678,"Canada",486,20131101,6,"2013-Nov","North America",11
+2013,"November","Caps",203.3429,"Canada",225,20131101,6,"2013-Nov","North America",11
+2013,"November","Shorts",1095.9849,"Canada",474,20131101,6,"2013-Nov","North America",11
+2013,"November","Bottles and Cages",579.45,"Canada",477,20131101,6,"2013-Nov","North America",11
+2013,"November","Helmets",2282.9756,"Canada",214,20131101,6,"2013-Nov","North America",11
+2013,"November","Mountain Bikes",61578.0516,"Canada",353,20131101,6,"2013-Nov","North America",11
+2013,"November","Fenders",783.9847,"Canada",485,20131101,6,"2013-Nov","North America",11
+2013,"November","Jerseys",1607.361,"Canada",228,20131101,6,"2013-Nov","North America",11
+2013,"November","Gloves",447.4084,"Canada",463,20131102,6,"2013-Nov","North America",11
+2013,"November","Touring Bikes",16220.8839,"Canada",561,20131102,6,"2013-Nov","North America",11
+2013,"November","Vests",441.9364,"Canada",471,20131103,6,"2013-Nov","North America",11
+2013,"November","Road Bikes",28655.7997,"Canada",376,20131103,6,"2013-Nov","North America",11
+2013,"November","Cleaners",76.0774,"Canada",484,20131105,6,"2013-Nov","North America",11
+2013,"November","Hydration Packs",621.9037,"Canada",487,20131105,6,"2013-Nov","North America",11
+2013,"November","Bike Racks",521.9721,"Canada",483,20131110,6,"2013-Nov","North America",11
+2013,"November","Socks",31.2835,"Canada",481,20131114,6,"2013-Nov","North America",11
+2013,"December","Tires and Tubes",3311.4652,"Canada",480,20131201,6,"2013-Dec","North America",12
+2013,"December","Cleaners",133.5196,"Canada",484,20131201,6,"2013-Dec","North America",12
+2013,"December","Bike Stands",534.0784,"Canada",486,20131201,6,"2013-Dec","North America",12
+2013,"December","Caps",312.0384,"Canada",225,20131201,6,"2013-Dec","North America",12
+2013,"December","Jerseys",2879.2088,"Canada",228,20131201,6,"2013-Dec","North America",12
+2013,"December","Bottles and Cages",818.4164,"Canada",477,20131201,6,"2013-Dec","North America",12
+2013,"December","Helmets",2977.4479,"Canada",214,20131201,6,"2013-Dec","North America",12
+2013,"December","Touring Bikes",53666.6155,"Canada",561,20131201,6,"2013-Dec","North America",12
+2013,"December","Road Bikes",32573.4413,"Canada",382,20131201,6,"2013-Dec","North America",12
+2013,"December","Shorts",2037.4923,"Canada",474,20131202,6,"2013-Dec","North America",12
+2013,"December","Gloves",520.9896,"Canada",463,20131202,6,"2013-Dec","North America",12
+2013,"December","Fenders",639.864,"Canada",485,20131203,6,"2013-Dec","North America",12
+2013,"December","Mountain Bikes",41000.6385,"Canada",353,20131203,6,"2013-Dec","North America",12
+2013,"December","Vests",853.1818,"Canada",471,20131204,6,"2013-Dec","North America",12
+2013,"December","Hydration Packs",492.5614,"Canada",487,20131205,6,"2013-Dec","North America",12
+2013,"December","Bike Racks",671.7967,"Canada",483,20131209,6,"2013-Dec","North America",12
+2013,"December","Socks",70.4603,"Canada",481,20131214,6,"2013-Dec","North America",12
+2013,"January","Bike Stands",414.9678,"United States",486,20130116,4,"2013-Jan","North America",1
+2013,"December","Bike Stands",890.1307,"United States",486,20131212,4,"2013-Dec","North America",12
+2013,"January","Mountain Bikes",117439.6124,"United States",353,20130101,1,"2013-Jan","North America",1
+2013,"January","Tires and Tubes",1527.7254,"United States",480,20130101,1,"2013-Jan","North America",1
+2013,"January","Road Bikes",63723.3309,"United States",372,20130101,1,"2013-Jan","North America",1
+2013,"January","Cleaners",69.1613,"United States",484,20130101,1,"2013-Jan","North America",1
+2013,"January","Fenders",554.5258,"United States",485,20130102,1,"2013-Jan","North America",1
+2013,"January","Vests",331.4523,"United States",471,20130102,1,"2013-Jan","North America",1
+2013,"January","Jerseys",1537.7821,"United States",228,20130102,1,"2013-Jan","North America",1
+2013,"January","Caps",195.5221,"United States",225,20130102,1,"2013-Jan","North America",1
+2013,"January","Helmets",1369.7853,"United States",214,20130103,1,"2013-Jan","North America",1
+2013,"January","Touring Bikes",38098.6929,"United States",560,20130104,1,"2013-Jan","North America",1
+2013,"January","Bottles and Cages",553.3948,"United States",477,20130105,1,"2013-Jan","North America",1
+2013,"January","Hydration Packs",574.0649,"United States",487,20130107,1,"2013-Jan","North America",1
+2013,"January","Bike Racks",417.5777,"United States",483,20130109,1,"2013-Jan","North America",1
+2013,"January","Shorts",304.4402,"United States",474,20130110,1,"2013-Jan","North America",1
+2013,"January","Gloves",127.831,"United States",463,20130113,1,"2013-Jan","North America",1
+2013,"January","Socks",39.1044,"United States",481,20130120,1,"2013-Jan","North America",1
+2013,"February","Bottles and Cages",1436.6933,"United States",477,20130201,1,"2013-Feb","North America",2
+2013,"February","Caps",442.8932,"United States",225,20130201,1,"2013-Feb","North America",2
+2013,"February","Jerseys",3931.4888,"United States",228,20130201,1,"2013-Feb","North America",2
+2013,"February","Cleaners",213.6314,"United States",484,20130201,1,"2013-Feb","North America",2
+2013,"February","Tires and Tubes",7050.7753,"United States",480,20130201,1,"2013-Feb","North America",2
+2013,"February","Helmets",6150.7804,"United States",214,20130201,1,"2013-Feb","North America",2
+2013,"February","Hydration Packs",1046.6929,"United States",487,20130201,1,"2013-Feb","North America",2
+2013,"February","Socks",221.4466,"United States",481,20130201,1,"2013-Feb","North America",2
+2013,"February","Shorts",2664.413,"United States",474,20130201,1,"2013-Feb","North America",2
+2013,"February","Fenders",1476.6092,"United States",485,20130201,1,"2013-Feb","North America",2
+2013,"February","Bike Stands",1068.1568,"United States",486,20130201,1,"2013-Feb","North America",2
+2013,"February","Mountain Bikes",148348.7162,"United States",353,20130201,1,"2013-Feb","North America",2
+2013,"February","Touring Bikes",51652.6361,"United States",560,20130201,1,"2013-Feb","North America",2
+2013,"February","Bike Racks",1074.8748,"United States",483,20130202,1,"2013-Feb","North America",2
+2013,"February","Road Bikes",74048.9729,"United States",372,20130202,1,"2013-Feb","North America",2
+2013,"February","Gloves",959.7176,"United States",463,20130202,1,"2013-Feb","North America",2
+2013,"February","Vests",710.9849,"United States",471,20130204,1,"2013-Feb","North America",2
+2013,"March","Tires and Tubes",5710.0531,"United States",480,20130301,1,"2013-Mar","North America",3
+2013,"March","Fenders",1395.8752,"United States",485,20130301,1,"2013-Mar","North America",3
+2013,"March","Caps",359.7606,"United States",225,20130301,1,"2013-Mar","North America",3
+2013,"March","Helmets",4839.9082,"United States",214,20130301,1,"2013-Mar","North America",3
+2013,"March","Vests",662.9046,"United States",471,20130301,1,"2013-Mar","North America",3
+2013,"March","Road Bikes",72566.6261,"United States",372,20130301,1,"2013-Mar","North America",3
+2013,"March","Jerseys",3673.9704,"United States",228,20130301,1,"2013-Mar","North America",3
+2013,"March","Mountain Bikes",107506.0567,"United States",353,20130301,1,"2013-Mar","North America",3
+2013,"March","Bottles and Cages",1191.8363,"United States",477,20130301,1,"2013-Mar","North America",3
+2013,"March","Socks",132.955,"United States",481,20130302,1,"2013-Mar","North America",3
+2013,"March","Shorts",3105.2904,"United States",474,20130302,1,"2013-Mar","North America",3
+2013,"March","Gloves",681.7652,"United States",463,20130302,1,"2013-Mar","North America",3
+2013,"March","Bike Racks",1670.3108,"United States",483,20130302,1,"2013-Mar","North America",3
+2013,"March","Touring Bikes",40858.2291,"United States",560,20130302,1,"2013-Mar","North America",3
+2013,"March","Cleaners",214.4,"United States",484,20130304,1,"2013-Mar","North America",3
+2013,"March","Hydration Packs",1195.9686,"United States",487,20130304,1,"2013-Mar","North America",3
+2013,"March","Bike Stands",691.6131,"United States",486,20130308,1,"2013-Mar","North America",3
+2013,"April","Bottles and Cages",1618.9965,"United States",477,20130401,1,"2013-Apr","North America",4
+2013,"April","Tires and Tubes",7808.4053,"United States",480,20130401,1,"2013-Apr","North America",4
+2013,"April","Helmets",5876.5418,"United States",214,20130401,1,"2013-Apr","North America",4
+2013,"April","Gloves",850.0356,"United States",463,20130401,1,"2013-Apr","North America",4
+2013,"April","Bike Racks",1074.8748,"United States",483,20130401,1,"2013-Apr","North America",4
+2013,"April","Jerseys",5617.3738,"United States",228,20130401,1,"2013-Apr","North America",4
+2013,"April","Caps",483.1562,"United States",225,20130401,1,"2013-Apr","North America",4
+2013,"April","Shorts",3134.6035,"United States",474,20130401,1,"2013-Apr","North America",4
+2013,"April","Fenders",1944.2021,"United States",485,20130401,1,"2013-Apr","North America",4
+2013,"April","Cleaners",231.434,"United States",484,20130401,1,"2013-Apr","North America",4
+2013,"April","Mountain Bikes",156945.934,"United States",353,20130401,1,"2013-Apr","North America",4
+2013,"April","Bike Stands",1958.2874,"United States",486,20130401,1,"2013-Apr","North America",4
+2013,"April","Road Bikes",100877.8915,"United States",372,20130401,1,"2013-Apr","North America",4
+2013,"April","Vests",1635.2652,"United States",471,20130402,1,"2013-Apr","North America",4
+2013,"April","Touring Bikes",84567.115,"United States",560,20130402,1,"2013-Apr","North America",4
+2013,"April","Hydration Packs",923.5525,"United States",487,20130402,1,"2013-Apr","North America",4
+2013,"April","Socks",201.3151,"United States",481,20130403,1,"2013-Apr","North America",4
+2013,"May","Tires and Tubes",7011.0251,"United States",480,20130501,1,"2013-May","North America",5
+2013,"May","Bike Stands",1244.9035,"United States",486,20130501,1,"2013-May","North America",5
+2013,"May","Helmets",5631.3397,"United States",214,20130501,1,"2013-May","North America",5
+2013,"May","Bottles and Cages",1349.1761,"United States",477,20130501,1,"2013-May","North America",5
+2013,"May","Shorts",2191.9697,"United States",474,20130501,1,"2013-May","North America",5
+2013,"May","Vests",1104.841,"United States",471,20130501,1,"2013-May","North America",5
+2013,"May","Mountain Bikes",147985.682,"United States",353,20130501,1,"2013-May","North America",5
+2013,"May","Fenders",1472.3616,"United States",485,20130501,1,"2013-May","North America",5
+2013,"May","Cleaners",228.2323,"United States",484,20130501,1,"2013-May","North America",5
+2013,"May","Touring Bikes",81281.9685,"United States",560,20130501,1,"2013-May","North America",5
+2013,"May","Jerseys",4585.5077,"United States",228,20130501,1,"2013-May","North America",5
+2013,"May","Gloves",830.9013,"United States",463,20130501,1,"2013-May","North America",5
+2013,"May","Caps",383.2232,"United States",225,20130502,1,"2013-May","North America",5
+2013,"May","Socks",164.2385,"United States",481,20130502,1,"2013-May","North America",5
+2013,"May","Hydration Packs",813.2587,"United States",487,20130502,1,"2013-May","North America",5
+2013,"May","Road Bikes",107869.9495,"United States",372,20130502,1,"2013-May","North America",5
+2013,"May","Bike Racks",1357.1275,"United States",483,20130503,1,"2013-May","North America",5
+2013,"June","Jerseys",5328.5572,"United States",228,20130601,1,"2013-Jun","North America",6
+2013,"June","Tires and Tubes",9237.4625,"United States",480,20130601,1,"2013-Jun","North America",6
+2013,"June","Helmets",8109.6277,"United States",214,20130601,1,"2013-Jun","North America",6
+2013,"June","Bottles and Cages",2207.0762,"United States",477,20130601,1,"2013-Jun","North America",6
+2013,"June","Vests",1137.5758,"United States",471,20130601,1,"2013-Jun","North America",6
+2013,"June","Fenders",2042.6427,"United States",485,20130601,1,"2013-Jun","North America",6
+2013,"June","Road Bikes",141583.3537,"United States",372,20130601,1,"2013-Jun","North America",6
+2013,"June","Mountain Bikes",324238.702,"United States",353,20130601,1,"2013-Jun","North America",6
+2013,"June","Shorts",3369.6988,"United States",474,20130601,1,"2013-Jun","North America",6
+2013,"June","Gloves",1508.1277,"United States",463,20130601,1,"2013-Jun","North America",6
+2013,"June","Socks",201.3151,"United States",481,20130601,1,"2013-Jun","North America",6
+2013,"June","Touring Bikes",156340.6676,"United States",561,20130601,1,"2013-Jun","North America",6
+2013,"June","Caps",654.274,"United States",225,20130601,1,"2013-Jun","North America",6
+2013,"June","Hydration Packs",1416.1139,"United States",487,20130602,1,"2013-Jun","North America",6
+2013,"June","Bike Racks",1881.0308,"United States",483,20130603,1,"2013-Jun","North America",6
+2013,"June","Bike Stands",1780.2613,"United States",486,20130603,1,"2013-Jun","North America",6
+2013,"June","Cleaners",284.8418,"United States",484,20130604,1,"2013-Jun","North America",6
+2013,"July","Jerseys",4491.5701,"United States",228,20130701,1,"2013-Jul","North America",7
+2013,"July","Tires and Tubes",6513.8554,"United States",480,20130701,1,"2013-Jul","North America",7
+2013,"July","Helmets",4992.1066,"United States",214,20130701,1,"2013-Jul","North America",7
+2013,"July","Shorts",2070.1936,"United States",474,20130701,1,"2013-Jul","North America",7
+2013,"July","Socks",179.8803,"United States",481,20130701,1,"2013-Jul","North America",7
+2013,"July","Fenders",1873.9147,"United States",485,20130701,1,"2013-Jul","North America",7
+2013,"July","Vests",939.1148,"United States",471,20130701,1,"2013-Jul","North America",7
+2013,"July","Bottles and Cages",1560.2617,"United States",477,20130701,1,"2013-Jul","North America",7
+2013,"July","Mountain Bikes",183085.4972,"United States",353,20130701,1,"2013-Jul","North America",7
+2013,"July","Gloves",852.2065,"United States",463,20130701,1,"2013-Jul","North America",7
+2013,"July","Touring Bikes",93864.0021,"United States",560,20130701,1,"2013-Jul","North America",7
+2013,"July","Caps",367.5815,"United States",225,20130701,1,"2013-Jul","North America",7
+2013,"July","Road Bikes",75150.7796,"United States",372,20130701,1,"2013-Jul","North America",7
+2013,"July","Cleaners",276.6452,"United States",484,20130702,1,"2013-Jul","North America",7
+2013,"July","Hydration Packs",1291.6461,"United States",487,20130702,1,"2013-Jul","North America",7
+2013,"July","Bike Racks",626.3665,"United States",483,20130704,1,"2013-Jul","North America",7
+2013,"July","Bike Stands",968.2583,"United States",486,20130720,1,"2013-Jul","North America",7
+2013,"August","Tires and Tubes",8637.7271,"United States",480,20130801,1,"2013-Aug","North America",8
+2013,"August","Bottles and Cages",2159.0091,"United States",477,20130801,1,"2013-Aug","North America",8
+2013,"August","Shorts",3918.2544,"United States",474,20130801,1,"2013-Aug","North America",8
+2013,"August","Jerseys",5617.3738,"United States",228,20130801,1,"2013-Aug","North America",8
+2013,"August","Hydration Packs",1416.1139,"United States",487,20130801,1,"2013-Aug","North America",8
+2013,"August","Socks",211.3808,"United States",481,20130801,1,"2013-Aug","North America",8
+2013,"August","Cleaners",275.9405,"United States",484,20130801,1,"2013-Aug","North America",8
+2013,"August","Mountain Bikes",216793.7512,"United States",353,20130801,1,"2013-Aug","North America",8
+2013,"August","Fenders",1870.3716,"United States",485,20130801,1,"2013-Aug","North America",8
+2013,"August","Road Bikes",131804.5127,"United States",372,20130801,1,"2013-Aug","North America",8
+2013,"August","Vests",1848.5606,"United States",471,20130801,1,"2013-Aug","North America",8
+2013,"August","Helmets",7051.8502,"United States",214,20130802,1,"2013-Aug","North America",8
+2013,"August","Gloves",1398.4456,"United States",463,20130802,1,"2013-Aug","North America",8
+2013,"August","Caps",664.3398,"United States",225,20130802,1,"2013-Aug","North America",8
+2013,"August","Touring Bikes",169559.4773,"United States",561,20130802,1,"2013-Aug","North America",8
+2013,"August","Bike Racks",2015.3902,"United States",483,20130803,1,"2013-Aug","North America",8
+2013,"August","Bike Stands",534.0784,"United States",486,20130807,1,"2013-Aug","North America",8
+2013,"September","Tires and Tubes",6282.0302,"United States",480,20130901,1,"2013-Sep","North America",9
+2013,"September","Helmets",5631.3397,"United States",214,20130901,1,"2013-Sep","North America",9
+2013,"September","Gloves",937.4271,"United States",463,20130901,1,"2013-Sep","North America",9
+2013,"September","Bike Racks",1148.3387,"United States",483,20130901,1,"2013-Sep","North America",9
+2013,"September","Bottles and Cages",1707.9276,"United States",477,20130901,1,"2013-Sep","North America",9
+2013,"September","Jerseys",3971.4336,"United States",228,20130901,1,"2013-Sep","North America",9
+2013,"September","Cleaners",145.2387,"United States",484,20130901,1,"2013-Sep","North America",9
+2013,"September","Hydration Packs",1578.6786,"United States",487,20130901,1,"2013-Sep","North America",9
+2013,"September","Mountain Bikes",172542.5477,"United States",353,20130901,1,"2013-Sep","North America",9
+2013,"September","Fenders",1625.3342,"United States",485,20130901,1,"2013-Sep","North America",9
+2013,"September","Touring Bikes",108969.5621,"United States",560,20130901,1,"2013-Sep","North America",9
+2013,"September","Caps",406.6859,"United States",225,20130901,1,"2013-Sep","North America",9
+2013,"September","Road Bikes",117676.9619,"United States",372,20130901,1,"2013-Sep","North America",9
+2013,"September","Shorts",2557.298,"United States",474,20130902,1,"2013-Sep","North America",9
+2013,"September","Vests",828.6307,"United States",471,20130902,1,"2013-Sep","North America",9
+2013,"September","Socks",164.2385,"United States",481,20130903,1,"2013-Sep","North America",9
+2013,"September","Bike Stands",968.2583,"United States",486,20130905,1,"2013-Sep","North America",9
+2013,"October","Tires and Tubes",8654.8579,"United States",480,20131001,1,"2013-Oct","North America",10
+2013,"October","Fenders",2288.7443,"United States",485,20131001,1,"2013-Oct","North America",10
+2013,"October","Gloves",1562.9687,"United States",463,20131001,1,"2013-Oct","North America",10
+2013,"October","Bottles and Cages",2276.4392,"United States",477,20131001,1,"2013-Oct","North America",10
+2013,"October","Jerseys",7359.2308,"United States",228,20131001,1,"2013-Oct","North America",10
+2013,"October","Caps",694.537,"United States",225,20131001,1,"2013-Oct","North America",10
+2013,"October","Shorts",5015.3656,"United States",474,20131001,1,"2013-Oct","North America",10
+2013,"October","Helmets",8109.6277,"United States",214,20131001,1,"2013-Oct","North America",10
+2013,"October","Mountain Bikes",253582.2802,"United States",353,20131001,1,"2013-Oct","North America",10
+2013,"October","Vests",1919.6591,"United States",471,20131001,1,"2013-Oct","North America",10
+2013,"October","Touring Bikes",168301.4372,"United States",560,20131001,1,"2013-Oct","North America",10
+2013,"October","Road Bikes",159964.4846,"United States",372,20131001,1,"2013-Oct","North America",10
+2013,"October","Socks",211.3808,"United States",481,20131002,1,"2013-Oct","North America",10
+2013,"October","Cleaners",186.9274,"United States",484,20131002,1,"2013-Oct","North America",10
+2013,"October","Bike Stands",1780.2613,"United States",486,20131003,1,"2013-Oct","North America",10
+2013,"October","Bike Racks",1209.2341,"United States",483,20131008,1,"2013-Oct","North America",10
+2013,"October","Hydration Packs",1108.2631,"United States",487,20131009,1,"2013-Oct","North America",10
+2013,"November","Tires and Tubes",7113.0272,"United States",480,20131101,1,"2013-Nov","North America",11
+2013,"November","Bike Racks",1774.7052,"United States",483,20131101,1,"2013-Nov","North America",11
+2013,"November","Caps",500.5365,"United States",225,20131101,1,"2013-Nov","North America",11
+2013,"November","Helmets",7427.2805,"United States",214,20131101,1,"2013-Nov","North America",11
+2013,"November","Shorts",2496.41,"United States",474,20131101,1,"2013-Nov","North America",11
+2013,"November","Fenders",1873.9147,"United States",485,20131101,1,"2013-Nov","North America",11
+2013,"November","Bottles and Cages",1744.3699,"United States",477,20131101,1,"2013-Nov","North America",11
+2013,"November","Jerseys",5382.2285,"United States",228,20131101,1,"2013-Nov","North America",11
+2013,"November","Mountain Bikes",298604.3566,"United States",353,20131101,1,"2013-Nov","North America",11
+2013,"November","Gloves",1342.2252,"United States",463,20131101,1,"2013-Nov","North America",11
+2013,"November","Vests",1215.3251,"United States",471,20131101,1,"2013-Nov","North America",11
+2013,"November","Touring Bikes",132451.8873,"United States",560,20131101,1,"2013-Nov","North America",11
+2013,"November","Socks",148.5968,"United States",481,20131101,1,"2013-Nov","North America",11
+2013,"November","Road Bikes",129245.3778,"United States",380,20131101,1,"2013-Nov","North America",11
+2013,"November","Cleaners",248.9807,"United States",484,20131101,1,"2013-Nov","North America",11
+2013,"November","Hydration Packs",1100.2911,"United States",487,20131101,1,"2013-Nov","North America",11
+2013,"November","Bike Stands",829.9357,"United States",486,20131102,1,"2013-Nov","North America",11
+2013,"December","Caps",714.6685,"United States",225,20131201,1,"2013-Dec","North America",12
+2013,"December","Helmets",8383.8663,"United States",214,20131201,1,"2013-Dec","North America",12
+2013,"December","Jerseys",7070.4142,"United States",228,20131201,1,"2013-Dec","North America",12
+2013,"December","Tires and Tubes",8797.8499,"United States",480,20131201,1,"2013-Dec","North America",12
+2013,"December","Cleaners",275.9405,"United States",484,20131201,1,"2013-Dec","North America",12
+2013,"December","Gloves",1645.2302,"United States",463,20131201,1,"2013-Dec","North America",12
+2013,"December","Shorts",4231.7147,"United States",474,20131201,1,"2013-Dec","North America",12
+2013,"December","Bottles and Cages",2476.601,"United States",477,20131201,1,"2013-Dec","North America",12
+2013,"December","Mountain Bikes",317788.3562,"United States",353,20131201,1,"2013-Dec","North America",12
+2013,"December","Fenders",2362.5747,"United States",485,20131201,1,"2013-Dec","North America",12
+2013,"December","Bike Racks",1612.3121,"United States",483,20131201,1,"2013-Dec","North America",12
+2013,"December","Touring Bikes",174926.73,"United States",560,20131201,1,"2013-Dec","North America",12
+2013,"December","Road Bikes",179568.8566,"United States",372,20131201,1,"2013-Dec","North America",12
+2013,"December","Hydration Packs",1847.1051,"United States",487,20131202,1,"2013-Dec","North America",12
+2013,"December","Vests",1635.2652,"United States",471,20131202,1,"2013-Dec","North America",12
+2013,"December","Socks",221.4466,"United States",481,20131203,1,"2013-Dec","North America",12
+2013,"January","Road Bikes",84297.4015,"Australia",372,20130101,9,"2013-Jan","Pacific",1
+2013,"January","Helmets",1156.7076,"Australia",214,20130101,9,"2013-Jan","Pacific",1
+2013,"January","Gloves",149.1361,"Australia",463,20130101,9,"2013-Jan","Pacific",1
+2013,"January","Mountain Bikes",91565.6545,"Australia",353,20130101,9,"2013-Jan","Pacific",1
+2013,"January","Fenders",363.31,"Australia",485,20130101,9,"2013-Jan","Pacific",1
+2013,"January","Touring Bikes",16906.3899,"Australia",560,20130102,9,"2013-Jan","Pacific",1
+2013,"January","Bottles and Cages",482.1717,"Australia",477,20130102,9,"2013-Jan","Pacific",1
+2013,"January","Cleaners",55.329,"Australia",484,20130103,9,"2013-Jan","Pacific",1
+2013,"January","Tires and Tubes",1012.2431,"Australia",480,20130103,9,"2013-Jan","Pacific",1
+2013,"January","Jerseys",748.0208,"Australia",228,20130103,9,"2013-Jan","Pacific",1
+2013,"January","Hydration Packs",239.1937,"Australia",487,20130104,9,"2013-Jan","Pacific",1
+2013,"January","Caps",86.0297,"Australia",225,20130105,9,"2013-Jan","Pacific",1
+2013,"January","Vests",276.2102,"Australia",471,20130105,9,"2013-Jan","Pacific",1
+2013,"January","Socks",15.6418,"Australia",481,20130107,9,"2013-Jan","Pacific",1
+2013,"January","Bike Racks",417.5777,"Australia",483,20130111,9,"2013-Jan","Pacific",1
+2013,"January","Bike Stands",414.9678,"Australia",486,20130120,9,"2013-Jan","Pacific",1
+2013,"February","Road Bikes",118378.8791,"Australia",372,20130201,9,"2013-Feb","Pacific",2
+2013,"February","Helmets",2742.3862,"Australia",214,20130201,9,"2013-Feb","Pacific",2
+2013,"February","Tires and Tubes",3511.4591,"Australia",480,20130201,9,"2013-Feb","Pacific",2
+2013,"February","Bottles and Cages",753.5992,"Australia",477,20130201,9,"2013-Feb","Pacific",2
+2013,"February","Jerseys",2592.6427,"Australia",228,20130201,9,"2013-Feb","Pacific",2
+2013,"February","Shorts",783.6509,"Australia",474,20130202,9,"2013-Feb","Pacific",2
+2013,"February","Touring Bikes",36995.1401,"Australia",560,20130202,9,"2013-Feb","Pacific",2
+2013,"February","Hydration Packs",430.9912,"Australia",487,20130203,9,"2013-Feb","Pacific",2
+2013,"February","Cleaners",115.717,"Australia",484,20130203,9,"2013-Feb","Pacific",2
+2013,"February","Mountain Bikes",27770.7553,"Australia",353,20130203,9,"2013-Feb","Pacific",2
+2013,"February","Caps",291.9069,"Australia",225,20130203,9,"2013-Feb","Pacific",2
+2013,"February","Gloves",383.887,"Australia",463,20130203,9,"2013-Feb","Pacific",2
+2013,"February","Socks",60.3945,"Australia",481,20130205,9,"2013-Feb","Pacific",2
+2013,"February","Fenders",344.5421,"Australia",485,20130205,9,"2013-Feb","Pacific",2
+2013,"February","Bike Stands",890.1307,"Australia",486,20130208,9,"2013-Feb","Pacific",2
+2013,"February","Vests",426.5909,"Australia",471,20130214,9,"2013-Feb","Pacific",2
+2013,"March","Road Bikes",138284.3603,"Australia",372,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Helmets",2861.3294,"Australia",214,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Tires and Tubes",3237.4016,"Australia",480,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Fenders",535.4042,"Australia",485,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Hydration Packs",813.2587,"Australia",487,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Bottles and Cages",743.6363,"Australia",477,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Caps",305.0144,"Australia",225,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Shorts",791.5446,"Australia",474,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Touring Bikes",35475.7569,"Australia",560,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Mountain Bikes",106978.9605,"Australia",353,20130301,9,"2013-Mar","Pacific",3
+2013,"March","Gloves",681.7652,"Australia",463,20130302,9,"2013-Mar","Pacific",3
+2013,"March","Socks",86.0297,"Australia",481,20130302,9,"2013-Mar","Pacific",3
+2013,"March","Bike Stands",691.6131,"Australia",486,20130303,9,"2013-Mar","Pacific",3
+2013,"March","Jerseys",3185.1696,"Australia",228,20130303,9,"2013-Mar","Pacific",3
+2013,"March","Cleaners",138.3226,"Australia",484,20130303,9,"2013-Mar","Pacific",3
+2013,"March","Vests",386.6943,"Australia",471,20130303,9,"2013-Mar","Pacific",3
+2013,"March","Bike Racks",104.3944,"Australia",483,20130318,9,"2013-Mar","Pacific",3
+2013,"April","Road Bikes",154458.3155,"Australia",372,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Tires and Tubes",4044.7201,"Australia",480,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Jerseys",3141.1759,"Australia",228,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Helmets",4231.1101,"Australia",214,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Bottles and Cages",932.4762,"Australia",477,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Shorts",940.3811,"Australia",474,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Caps",251.6439,"Australia",225,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Vests",710.9849,"Australia",471,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Touring Bikes",76910.6813,"Australia",561,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Mountain Bikes",122642.034,"Australia",353,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Hydration Packs",1108.2631,"Australia",487,20130401,9,"2013-Apr","Pacific",4
+2013,"April","Cleaners",169.1248,"Australia",484,20130402,9,"2013-Apr","Pacific",4
+2013,"April","Gloves",904.8766,"Australia",463,20130402,9,"2013-Apr","Pacific",4
+2013,"April","Fenders",713.6944,"Australia",485,20130403,9,"2013-Apr","Pacific",4
+2013,"April","Bike Stands",890.1307,"Australia",486,20130403,9,"2013-Apr","Pacific",4
+2013,"April","Socks",130.8548,"Australia",481,20130403,9,"2013-Apr","Pacific",4
+2013,"April","Bike Racks",537.4374,"Australia",483,20130421,9,"2013-Apr","Pacific",4
+2013,"May","Tires and Tubes",3583.8171,"Australia",480,20130501,9,"2013-May","Pacific",5
+2013,"May","Bottles and Cages",767.0902,"Australia",477,20130501,9,"2013-May","Pacific",5
+2013,"May","Helmets",3074.4071,"Australia",214,20130501,9,"2013-May","Pacific",5
+2013,"May","Jerseys",2957.2853,"Australia",228,20130501,9,"2013-May","Pacific",5
+2013,"May","Gloves",362.1878,"Australia",463,20130501,9,"2013-May","Pacific",5
+2013,"May","Hydration Packs",1100.2911,"Australia",487,20130501,9,"2013-May","Pacific",5
+2013,"May","Cleaners",89.9097,"Australia",484,20130501,9,"2013-May","Pacific",5
+2013,"May","Mountain Bikes",107626.6322,"Australia",353,20130501,9,"2013-May","Pacific",5
+2013,"May","Touring Bikes",63221.8114,"Australia",561,20130501,9,"2013-May","Pacific",5
+2013,"May","Fenders",478.0395,"Australia",485,20130501,9,"2013-May","Pacific",5
+2013,"May","Road Bikes",123123.3756,"Australia",372,20130502,9,"2013-May","Pacific",5
+2013,"May","Caps",250.2682,"Australia",225,20130502,9,"2013-May","Pacific",5
+2013,"May","Shorts",852.4327,"Australia",474,20130502,9,"2013-May","Pacific",5
+2013,"May","Vests",276.2102,"Australia",471,20130502,9,"2013-May","Pacific",5
+2013,"May","Bike Stands",968.2583,"Australia",486,20130504,9,"2013-May","Pacific",5
+2013,"May","Socks",70.3879,"Australia",481,20130507,9,"2013-May","Pacific",5
+2013,"May","Bike Racks",313.1833,"Australia",483,20130518,9,"2013-May","Pacific",5
+2013,"June","Tires and Tubes",3795.797,"Australia",480,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Bike Stands",1424.2091,"Australia",486,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Socks",130.8548,"Australia",481,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Road Bikes",230109.5572,"Australia",372,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Jerseys",3577.7654,"Australia",228,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Caps",332.1699,"Australia",225,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Touring Bikes",130476.7289,"Australia",560,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Bottles and Cages",851.995,"Australia",477,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Bike Racks",537.4374,"Australia",483,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Gloves",603.2511,"Australia",463,20130601,9,"2013-Jun","Pacific",6
+2013,"June","Helmets",4113.5793,"Australia",214,20130602,9,"2013-Jun","Pacific",6
+2013,"June","Fenders",615.2538,"Australia",485,20130602,9,"2013-Jun","Pacific",6
+2013,"June","Cleaners",178.0261,"Australia",484,20130602,9,"2013-Jun","Pacific",6
+2013,"June","Shorts",1567.3018,"Australia",474,20130603,9,"2013-Jun","Pacific",6
+2013,"June","Mountain Bikes",28433.5387,"Australia",353,20130603,9,"2013-Jun","Pacific",6
+2013,"June","Vests",426.5909,"Australia",471,20130604,9,"2013-Jun","Pacific",6
+2013,"June","Hydration Packs",554.1315,"Australia",487,20130610,9,"2013-Jun","Pacific",6
+2013,"July","Tires and Tubes",3481.2322,"Australia",480,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Helmets",3226.6055,"Australia",214,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Jerseys",2939.8862,"Australia",228,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Caps",320.6562,"Australia",225,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Fenders",573.6474,"Australia",485,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Bottles and Cages",845.2991,"Australia",477,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Gloves",532.6291,"Australia",463,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Bike Racks",417.5777,"Australia",483,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Road Bikes",145167.0499,"Australia",372,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Mountain Bikes",106547.8812,"Australia",353,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Touring Bikes",74334.6762,"Australia",560,20130701,9,"2013-Jul","Pacific",7
+2013,"July","Cleaners",131.4065,"Australia",484,20130702,9,"2013-Jul","Pacific",7
+2013,"July","Hydration Packs",621.9037,"Australia",487,20130702,9,"2013-Jul","Pacific",7
+2013,"July","Shorts",791.5446,"Australia",474,20130704,9,"2013-Jul","Pacific",7
+2013,"July","Vests",718.1466,"Australia",471,20130705,9,"2013-Jul","Pacific",7
+2013,"July","Socks",86.0297,"Australia",481,20130707,9,"2013-Jul","Pacific",7
+2013,"July","Bike Stands",414.9678,"Australia",486,20130714,9,"2013-Jul","Pacific",7
+2013,"August","Tires and Tubes",4721.253,"Australia",480,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Fenders",566.0335,"Australia",485,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Cleaners",142.4209,"Australia",484,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Jerseys",3653.88,"Australia",228,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Caps",553.6165,"Australia",225,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Road Bikes",210082.9386,"Australia",372,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Bottles and Cages",1389.7683,"Australia",477,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Mountain Bikes",141861.4776,"Australia",353,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Helmets",4897.1182,"Australia",214,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Hydration Packs",1108.2631,"Australia",487,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Touring Bikes",113651.983,"Australia",560,20130801,9,"2013-Aug","Pacific",8
+2013,"August","Gloves",1124.2406,"Australia",463,20130802,9,"2013-Aug","Pacific",8
+2013,"August","Socks",100.6575,"Australia",481,20130802,9,"2013-Aug","Pacific",8
+2013,"August","Bike Stands",1068.1568,"Australia",486,20130803,9,"2013-Aug","Pacific",8
+2013,"August","Vests",782.0834,"Australia",471,20130806,9,"2013-Aug","Pacific",8
+2013,"August","Bike Racks",671.7967,"Australia",483,20130806,9,"2013-Aug","Pacific",8
+2013,"August","Shorts",705.2858,"Australia",474,20130808,9,"2013-Aug","Pacific",8
+2013,"September","Mountain Bikes",101531.2854,"Australia",353,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Helmets",3287.4848,"Australia",214,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Tires and Tubes",3472.8371,"Australia",480,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Bike Racks",730.761,"Australia",483,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Fenders",401.5532,"Australia",485,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Jerseys",3272.1475,"Australia",228,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Road Bikes",134797.5169,"Australia",372,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Bottles and Cages",773.1886,"Australia",477,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Caps",305.0144,"Australia",225,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Vests",662.9046,"Australia",471,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Touring Bikes",83043.1025,"Australia",561,20130901,9,"2013-Sep","Pacific",9
+2013,"September","Gloves",468.7136,"Australia",463,20130903,9,"2013-Sep","Pacific",9
+2013,"September","Hydration Packs",717.5812,"Australia",487,20130903,9,"2013-Sep","Pacific",9
+2013,"September","Shorts",1035.0968,"Australia",474,20130905,9,"2013-Sep","Pacific",9
+2013,"September","Bike Stands",691.6131,"Australia",486,20130906,9,"2013-Sep","Pacific",9
+2013,"September","Socks",39.1044,"Australia",481,20130907,9,"2013-Sep","Pacific",9
+2013,"September","Cleaners",62.2452,"Australia",484,20130911,9,"2013-Sep","Pacific",9
+2013,"October","Mountain Bikes",145273.5667,"Australia",353,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Bottles and Cages",1408.7801,"Australia",477,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Vests",782.0834,"Australia",471,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Tires and Tubes",4845.2443,"Australia",480,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Cleaners",178.0261,"Australia",484,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Helmets",5249.7107,"Australia",214,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Shorts",1332.2065,"Australia",475,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Gloves",1014.5586,"Australia",463,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Jerseys",3577.7654,"Australia",228,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Hydration Packs",923.5525,"Australia",487,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Road Bikes",213393.4744,"Australia",372,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Caps",291.9069,"Australia",225,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Touring Bikes",131861.1004,"Australia",560,20131001,9,"2013-Oct","Pacific",10
+2013,"October","Fenders",836.7452,"Australia",485,20131002,9,"2013-Oct","Pacific",10
+2013,"October","Socks",80.526,"Australia",481,20131004,9,"2013-Oct","Pacific",10
+2013,"October","Bike Racks",806.1561,"Australia",483,20131011,9,"2013-Oct","Pacific",10
+2013,"October","Bike Stands",712.1045,"Australia",486,20131013,9,"2013-Oct","Pacific",10
+2013,"November","Tires and Tubes",3682.8526,"Australia",480,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Bike Stands",968.2583,"Australia",486,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Helmets",3531.0022,"Australia",214,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Bottles and Cages",848.7789,"Australia",477,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Road Bikes",143841.0493,"Australia",372,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Caps",297.1935,"Australia",225,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Jerseys",3094.7118,"Australia",228,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Touring Bikes",97933.9231,"Australia",561,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Gloves",447.4084,"Australia",463,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Mountain Bikes",98979.2854,"Australia",353,20131101,9,"2013-Nov","Pacific",11
+2013,"November","Vests",718.1466,"Australia",471,20131102,9,"2013-Nov","Pacific",11
+2013,"November","Hydration Packs",1148.1299,"Australia",487,20131102,9,"2013-Nov","Pacific",11
+2013,"November","Fenders",554.5258,"Australia",485,20131102,9,"2013-Nov","Pacific",11
+2013,"November","Cleaners",165.9871,"Australia",484,20131104,9,"2013-Nov","Pacific",11
+2013,"November","Shorts",487.1044,"Australia",474,20131105,9,"2013-Nov","Pacific",11
+2013,"November","Socks",86.0297,"Australia",481,20131110,9,"2013-Nov","Pacific",11
+2013,"November","Bike Racks",626.3665,"Australia",483,20131112,9,"2013-Nov","Pacific",11
+2013,"December","Mountain Bikes",144865.4166,"Australia",353,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Bottles and Cages",1169.5421,"Australia",477,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Caps",382.4987,"Australia",225,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Tires and Tubes",5095.6901,"Australia",480,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Gloves",904.8766,"Australia",463,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Jerseys",5010.663,"Australia",228,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Road Bikes",212290.3394,"Australia",372,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Cleaners",249.2366,"Australia",484,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Helmets",5328.0646,"Australia",214,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Fenders",861.3554,"Australia",485,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Hydration Packs",1231.4034,"Australia",487,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Touring Bikes",138611.1123,"Australia",560,20131201,9,"2013-Dec","Pacific",12
+2013,"December","Shorts",940.3811,"Australia",474,20131202,9,"2013-Dec","Pacific",12
+2013,"December","Socks",80.526,"Australia",481,20131202,9,"2013-Dec","Pacific",12
+2013,"December","Bike Racks",537.4374,"Australia",483,20131206,9,"2013-Dec","Pacific",12
+2013,"December","Vests",639.8864,"Australia",471,20131206,9,"2013-Dec","Pacific",12
+2013,"December","Bike Stands",356.0523,"Australia",486,20131213,9,"2013-Dec","Pacific",12
+2012,"December","Bottles and Cages",124.1144,"Australia",477,20121228,9,"2012-Dec","Pacific",12
+2012,"December","Touring Bikes",6698.9218,"Australia",562,20121228,9,"2012-Dec","Pacific",12
+2012,"December","Helmets",274.2386,"Australia",214,20121228,9,"2012-Dec","Pacific",12
+2012,"December","Bottles and Cages",97.2762,"Germany",477,20121228,8,"2012-Dec","Europe",12
+2012,"December","Tires and Tubes",121.1249,"France",529,20121228,7,"2012-Dec","Europe",12
+2012,"December","Bike Stands",178.0261,"France",486,20121228,7,"2012-Dec","Europe",12
+2012,"December","Helmets",195.8847,"Germany",214,20121228,8,"2012-Dec","Europe",12
+2012,"December","Jerseys",176.8729,"Germany",231,20121228,8,"2012-Dec","Europe",12
+2012,"December","Helmets",117.5308,"France",214,20121228,7,"2012-Dec","Europe",12
+2012,"December","Jerseys",55.9719,"Canada",234,20121228,6,"2012-Dec","North America",12
+2012,"December","Jerseys",55.9719,"United States",234,20121228,1,"2012-Dec","North America",12
+2012,"December","Tires and Tubes",136.0724,"United States",480,20121228,1,"2012-Dec","North America",12
+2012,"December","Helmets",235.0617,"United States",217,20121228,1,"2012-Dec","North America",12
+2012,"December","Touring Bikes",6220.972,"Germany",571,20121228,8,"2012-Dec","Europe",12
+2012,"December","Tires and Tubes",110.1075,"Germany",480,20121228,8,"2012-Dec","Europe",12
+2012,"December","Touring Bikes",4029.5711,"United States",560,20121228,4,"2012-Dec","North America",12
+2012,"December","Gloves",27.4205,"Australia",467,20121229,9,"2012-Dec","Pacific",12
+2012,"December","Tires and Tubes",121.5392,"United Kingdom",529,20121229,10,"2012-Dec","Europe",12
+2012,"December","Fenders",24.6102,"Canada",485,20121229,6,"2012-Dec","North America",12
+2012,"December","Fenders",73.8305,"United States",485,20121229,4,"2012-Dec","North America",12
+2012,"December","Tires and Tubes",158.1409,"Australia",480,20121229,9,"2012-Dec","Pacific",12
+2012,"December","Jerseys",116.4224,"Australia",234,20121229,9,"2012-Dec","Pacific",12
+2012,"December","Caps",20.1315,"Australia",225,20121229,9,"2012-Dec","Pacific",12
+2012,"December","Bottles and Cages",42.4911,"United States",477,20121229,4,"2012-Dec","North America",12
+2012,"December","Caps",10.0658,"United States",225,20121229,4,"2012-Dec","North America",12
+2012,"December","Helmets",156.7078,"United Kingdom",214,20121229,10,"2012-Dec","Europe",12
+2012,"December","Touring Bikes",4331.7117,"United Kingdom",565,20121229,10,"2012-Dec","Europe",12
+2012,"December","Bottles and Cages",33.545,"United Kingdom",477,20121230,10,"2012-Dec","Europe",12
+2012,"December","Caps",20.1315,"United Kingdom",225,20121230,10,"2012-Dec","Europe",12
+2012,"December","Gloves",54.841,"United States",463,20121230,4,"2012-Dec","North America",12
+2012,"December","Socks",10.0658,"United Kingdom",482,20121230,10,"2012-Dec","Europe",12
+2012,"December","Fenders",24.6102,"Australia",485,20121230,9,"2012-Dec","Pacific",12
+2012,"December","Caps",10.0658,"Germany",225,20121230,8,"2012-Dec","Europe",12
+2012,"December","Socks",10.0658,"Germany",482,20121230,8,"2012-Dec","Europe",12
+2012,"December","Jerseys",60.4505,"United Kingdom",490,20121231,10,"2012-Dec","Europe",12
+2012,"December","Bottles and Cages",16.7725,"France",477,20121231,7,"2012-Dec","Europe",12
+2012,"December","Hydration Packs",61.5702,"France",487,20121231,7,"2012-Dec","Europe",12
+2012,"December","Caps",20.1315,"France",225,20121231,7,"2012-Dec","Europe",12
+2012,"December","Hydration Packs",61.5702,"Australia",487,20121231,9,"2012-Dec","Pacific",12
+2012,"December","Helmets",39.1769,"Canada",222,20121231,6,"2012-Dec","North America",12
+2012,"December","Vests",71.0985,"United States",471,20121231,4,"2012-Dec","North America",12
+2012,"December","Touring Bikes",2669.3507,"France",562,20121231,7,"2012-Dec","Europe",12
+2014,"January","Tires and Tubes",1901.4661,"Australia",480,20140101,9,"2014-Jan","Pacific",1
+2014,"January","Helmets",1126.2679,"Australia",214,20140101,9,"2014-Jan","Pacific",1
+2014,"January","Fenders",229.4589,"Australia",485,20140101,9,"2014-Jan","Pacific",1
+2014,"January","Shorts",547.9924,"Australia",474,20140101,9,"2014-Jan","Pacific",1
+2014,"January","Jerseys",1468.2032,"Australia",228,20140101,9,"2014-Jan","Pacific",1
+2014,"January","Helmets",2770.0104,"United States",214,20140101,1,"2014-Jan","North America",1
+2014,"January","Tires and Tubes",3967.7798,"United States",480,20140101,1,"2014-Jan","North America",1
+2014,"January","Bike Racks",835.1554,"United States",483,20140101,1,"2014-Jan","North America",1
+2014,"January","Cleaners",124.4904,"United States",484,20140101,1,"2014-Jan","North America",1
+2014,"January","Shorts",1643.9773,"United States",474,20140101,1,"2014-Jan","North America",1
+2014,"January","Bottles and Cages",568.9757,"United States",477,20140101,1,"2014-Jan","North America",1
+2014,"January","Jerseys",2317.1038,"United States",228,20140101,1,"2014-Jan","North America",1
+2014,"January","Caps",258.0891,"United States",225,20140101,1,"2014-Jan","North America",1
+2014,"January","Tires and Tubes",2239.2169,"Canada",480,20140101,6,"2014-Jan","North America",1
+2014,"January","Shorts",121.7761,"United Kingdom",474,20140101,10,"2014-Jan","Europe",1
+2014,"January","Jerseys",615.8053,"United Kingdom",228,20140101,10,"2014-Jan","Europe",1
+2014,"January","Bottles and Cages",68.6132,"United Kingdom",477,20140101,10,"2014-Jan","Europe",1
+2014,"January","Gloves",127.831,"United Kingdom",463,20140101,10,"2014-Jan","Europe",1
+2014,"January","Tires and Tubes",958.0972,"France",480,20140101,7,"2014-Jan","Europe",1
+2014,"January","Helmets",791.4315,"France",214,20140101,7,"2014-Jan","Europe",1
+2014,"January","Caps",86.0297,"France",225,20140101,7,"2014-Jan","Europe",1
+2014,"January","Helmets",1461.1044,"Canada",214,20140101,6,"2014-Jan","North America",1
+2014,"January","Gloves",127.831,"France",463,20140101,7,"2014-Jan","Europe",1
+2014,"January","Hydration Packs",47.8387,"France",487,20140101,7,"2014-Jan","Europe",1
+2014,"January","Bottles and Cages",59.9398,"France",477,20140101,7,"2014-Jan","Europe",1
+2014,"January","Fenders",458.9179,"Canada",485,20140101,6,"2014-Jan","North America",1
+2014,"January","Gloves",255.6619,"Australia",463,20140102,9,"2014-Jan","Pacific",1
+2014,"January","Bottles and Cages",171.1112,"Australia",477,20140102,9,"2014-Jan","Pacific",1
+2014,"January","Vests",331.4523,"Australia",471,20140102,9,"2014-Jan","Pacific",1
+2014,"January","Cleaners",41.4968,"Australia",484,20140102,9,"2014-Jan","Pacific",1
+2014,"January","Gloves",490.0187,"United States",463,20140102,1,"2014-Jan","North America",1
+2014,"January","Jerseys",1028.085,"Canada",228,20140102,6,"2014-Jan","North America",1
+2014,"January","Shorts",852.4327,"Canada",474,20140102,6,"2014-Jan","North America",1
+2014,"January","Bottles and Cages",341.4046,"Canada",477,20140102,6,"2014-Jan","North America",1
+2014,"January","Vests",331.4523,"Canada",471,20140102,6,"2014-Jan","North America",1
+2014,"January","Tires and Tubes",827.8739,"Germany",480,20140102,8,"2014-Jan","Europe",1
+2014,"January","Tires and Tubes",1132.2793,"United Kingdom",480,20140102,10,"2014-Jan","Europe",1
+2014,"January","Fenders",114.7295,"Germany",485,20140102,8,"2014-Jan","Europe",1
+2014,"January","Helmets",700.1125,"Germany",214,20140102,8,"2014-Jan","Europe",1
+2014,"January","Socks",23.4626,"France",481,20140102,7,"2014-Jan","Europe",1
+2014,"January","Caps",54.7462,"United Kingdom",225,20140102,10,"2014-Jan","Europe",1
+2014,"January","Bottles and Cages",102.4979,"Germany",477,20140102,8,"2014-Jan","Europe",1
+2014,"January","Bike Stands",691.6131,"Australia",486,20140103,9,"2014-Jan","Pacific",1
+2014,"January","Hydration Packs",478.3874,"United States",487,20140103,1,"2014-Jan","North America",1
+2014,"January","Vests",607.6625,"United States",471,20140103,1,"2014-Jan","North America",1
+2014,"January","Caps",109.4924,"Canada",225,20140103,6,"2014-Jan","North America",1
+2014,"January","Hydration Packs",191.355,"Canada",487,20140103,6,"2014-Jan","North America",1
+2014,"January","Fenders",745.7416,"United States",485,20140104,1,"2014-Jan","North America",1
+2014,"January","Caps",39.1044,"Germany",225,20140104,8,"2014-Jan","Europe",1
+2014,"January","Vests",110.4841,"Germany",472,20140104,8,"2014-Jan","Europe",1
+2014,"January","Hydration Packs",287.0325,"Australia",487,20140105,9,"2014-Jan","Pacific",1
+2014,"January","Socks",39.1044,"United States",481,20140105,1,"2014-Jan","North America",1
+2014,"January","Gloves",276.9671,"Canada",463,20140105,6,"2014-Jan","North America",1
+2014,"January","Vests",220.9682,"United Kingdom",471,20140105,10,"2014-Jan","Europe",1
+2014,"January","Helmets",456.5951,"United Kingdom",214,20140105,10,"2014-Jan","Europe",1
+2014,"January","Socks",15.6418,"Germany",481,20140105,8,"2014-Jan","Europe",1
+2014,"January","Jerseys",307.9027,"France",228,20140105,7,"2014-Jan","Europe",1
+2014,"January","Socks",39.1044,"Australia",481,20140106,9,"2014-Jan","Pacific",1
+2014,"January","Cleaners",20.7484,"United Kingdom",484,20140106,10,"2014-Jan","Europe",1
+2014,"January","Socks",62.5671,"Canada",481,20140107,6,"2014-Jan","North America",1
+2014,"January","Fenders",152.9726,"United Kingdom",485,20140107,10,"2014-Jan","Europe",1
+2014,"January","Cleaners",76.0774,"Canada",484,20140107,6,"2014-Jan","North America",1
+2014,"January","Shorts",121.7761,"France",474,20140108,7,"2014-Jan","Europe",1
+2014,"January","Bike Stands",276.6452,"Canada",486,20140109,6,"2014-Jan","North America",1
+2014,"January","Bike Racks",313.1833,"Germany",483,20140109,8,"2014-Jan","Europe",1
+2014,"January","Bike Stands",138.3226,"United Kingdom",486,20140109,10,"2014-Jan","Europe",1
+2014,"January","Gloves",85.2206,"Germany",463,20140110,8,"2014-Jan","Europe",1
+2014,"January","Bike Racks",208.7888,"Australia",483,20140111,9,"2014-Jan","Pacific",1
+2014,"January","Caps",101.6715,"Australia",225,20140111,9,"2014-Jan","Pacific",1
+2014,"January","Bike Racks",521.9721,"Canada",483,20140111,6,"2014-Jan","North America",1
+2014,"January","Shorts",121.7761,"Germany",474,20140111,8,"2014-Jan","Europe",1
+2014,"January","Bike Stands",414.9678,"United States",486,20140111,1,"2014-Jan","North America",1
+2014,"January","Jerseys",318.3421,"Germany",231,20140113,8,"2014-Jan","Europe",1
+2014,"January","Hydration Packs",95.6775,"Germany",487,20140114,8,"2014-Jan","Europe",1
+2014,"January","Fenders",95.6079,"France",485,20140116,7,"2014-Jan","Europe",1
+2014,"January","Socks",15.6418,"United Kingdom",481,20140117,10,"2014-Jan","Europe",1
+2014,"January","Vests",55.242,"France",472,20140124,7,"2014-Jan","Europe",1
+2014,"January","Bike Racks",104.3944,"France",483,20140125,7,"2014-Jan","Europe",1
+2014,"January","Bike Racks",104.3944,"United Kingdom",483,20140126,10,"2014-Jan","Europe",1
+2014,"January","Cleaners",6.9161,"Germany",484,20140128,8,"2014-Jan","Europe",1
+2010,"December","Mountain Bikes",3806.8369,"France",346,20101229,7,"2010-Dec","Europe",12
+2010,"December","Mountain Bikes",3806.8369,"United States",346,20101229,1,"2010-Dec","North America",12
+2010,"December","Mountain Bikes",11392.5192,"Australia",344,20101229,9,"2010-Dec","Pacific",12
+2011,"January","Mountain Bikes",5893.9178,"United Kingdom",346,20110106,10,"2011-Jan","Europe",1
+2011,"January","Mountain Bikes",11787.8356,"United States",344,20110106,1,"2011-Jan","North America",1
+2011,"January","Mountain Bikes",50130.9246,"Australia",344,20110106,9,"2011-Jan","Pacific",1
+2011,"January","Mountain Bikes",2957.8333,"Germany",344,20110119,8,"2011-Jan","Europe",1
+2011,"January","Mountain Bikes",5872.169,"France",348,20110124,7,"2011-Jan","Europe",1
+2011,"January","Mountain Bikes",2936.0845,"Canada",348,20110127,6,"2011-Jan","North America",1
+2011,"February","Mountain Bikes",64408.3204,"Australia",344,20110201,9,"2011-Feb","Pacific",2
+2011,"February","Mountain Bikes",15199.3561,"United Kingdom",344,20110212,10,"2011-Feb","Europe",2
+2011,"February","Mountain Bikes",19006.1929,"United States",344,20110212,1,"2011-Feb","North America",2
+2011,"February","Mountain Bikes",7557.6907,"Canada",349,20110219,6,"2011-Feb","North America",2
+2011,"February","Mountain Bikes",7585.6823,"France",344,20110223,7,"2011-Feb","Europe",2
+2011,"March","Mountain Bikes",11809.5844,"United Kingdom",344,20110304,10,"2011-Mar","Europe",3
+2011,"March","Mountain Bikes",14767.4178,"United States",344,20110304,1,"2011-Mar","North America",3
+2011,"March","Mountain Bikes",11809.5844,"Australia",344,20110309,9,"2011-Mar","Pacific",3
+2011,"March","Mountain Bikes",2936.0845,"France",349,20110321,7,"2011-Mar","Europe",3
+2011,"April","Mountain Bikes",56850.6297,"Australia",344,20110401,9,"2011-Apr","Pacific",4
+2011,"April","Mountain Bikes",7613.6738,"United Kingdom",345,20110404,10,"2011-Apr","Europe",4
+2011,"April","Mountain Bikes",18950.2099,"United States",345,20110404,1,"2011-Apr","North America",4
+2011,"April","Mountain Bikes",11364.5276,"Germany",345,20110410,8,"2011-Apr","Europe",4
+2011,"April","Mountain Bikes",3778.8454,"Canada",350,20110414,6,"2011-Apr","North America",4
+2011,"May","Mountain Bikes",14745.6689,"Germany",344,20110501,8,"2011-May","Europe",5
+2011,"May","Mountain Bikes",17703.5023,"United States",344,20110501,4,"2011-May","North America",5
+2011,"May","Mountain Bikes",53045.2602,"Australia",344,20110501,9,"2011-May","Pacific",5
+2011,"May","Mountain Bikes",2957.8333,"United Kingdom",344,20110513,10,"2011-May","Europe",5
+2011,"May","Mountain Bikes",5893.9178,"France",346,20110514,7,"2011-May","Europe",5
+2011,"May","Mountain Bikes",2957.8333,"Canada",346,20110521,6,"2011-May","North America",5
+2011,"June","Mountain Bikes",60573.492,"Australia",345,20110601,9,"2011-Jun","Pacific",6
+2011,"June","Mountain Bikes",49292.9389,"United States",344,20110602,1,"2011-Jun","North America",6
+2011,"June","Mountain Bikes",15143.373,"Germany",344,20110604,8,"2011-Jun","Europe",6
+2011,"June","Mountain Bikes",3778.8454,"France",348,20110607,7,"2011-Jun","Europe",6
+2011,"June","Mountain Bikes",3778.8454,"Canada",348,20110607,6,"2011-Jun","North America",6
+2011,"June","Mountain Bikes",11364.5276,"United Kingdom",346,20110612,10,"2011-Jun","Europe",6
+2011,"July","Mountain Bikes",55981.3447,"Australia",344,20110701,9,"2011-Jul","Pacific",7
+2011,"July","Mountain Bikes",14723.9201,"United Kingdom",344,20110703,10,"2011-Jul","Europe",7
+2011,"July","Mountain Bikes",20617.8379,"United States",344,20110703,1,"2011-Jul","North America",7
+2011,"July","Mountain Bikes",5893.9178,"Canada",344,20110706,6,"2011-Jul","North America",7
+2011,"July","Mountain Bikes",5915.6666,"France",344,20110715,7,"2011-Jul","Europe",7
+2011,"July","Mountain Bikes",2957.8333,"Germany",346,20110721,8,"2011-Jul","Europe",7
+2011,"August","Mountain Bikes",7557.6907,"France",348,20110803,7,"2011-Aug","Europe",8
+2011,"August","Mountain Bikes",22701.0637,"United States",345,20110805,1,"2011-Aug","North America",8
+2011,"August","Mountain Bikes",18978.2014,"Australia",344,20110805,9,"2011-Aug","Pacific",8
+2011,"August","Mountain Bikes",11364.5276,"Canada",344,20110806,6,"2011-Aug","North America",8
+2011,"August","Mountain Bikes",15199.3561,"United Kingdom",344,20110808,10,"2011-Aug","Europe",8
+2011,"August","Mountain Bikes",3778.8454,"Germany",349,20110813,8,"2011-Aug","Europe",8
+2011,"September","Mountain Bikes",56003.0936,"Australia",344,20110901,9,"2011-Sep","Pacific",9
+2011,"September","Mountain Bikes",11766.0868,"France",344,20110904,7,"2011-Sep","Europe",9
+2011,"September","Mountain Bikes",5872.169,"Germany",350,20110905,8,"2011-Sep","Europe",9
+2011,"September","Mountain Bikes",26555.2534,"United States",344,20110905,1,"2011-Sep","North America",9
+2011,"September","Mountain Bikes",5893.9178,"United Kingdom",345,20110908,10,"2011-Sep","Europe",9
+2011,"September","Mountain Bikes",2936.0845,"Canada",350,20110919,6,"2011-Sep","North America",9
+2011,"October","Mountain Bikes",87137.3757,"Australia",344,20111001,9,"2011-Oct","Pacific",10
+2011,"October","Mountain Bikes",30342.729,"United States",344,20111002,1,"2011-Oct","North America",10
+2011,"October","Mountain Bikes",22785.0383,"Germany",345,20111003,8,"2011-Oct","Europe",10
+2011,"October","Mountain Bikes",3778.8454,"Canada",351,20111009,6,"2011-Oct","North America",10
+2011,"October","Mountain Bikes",7557.6907,"United Kingdom",348,20111028,10,"2011-Oct","Europe",10
+2011,"November","Mountain Bikes",58895.6804,"Australia",345,20111101,9,"2011-Nov","Pacific",11
+2011,"November","Mountain Bikes",47107.8448,"United States",344,20111102,1,"2011-Nov","North America",11
+2011,"November","Mountain Bikes",8851.7511,"Germany",344,20111103,8,"2011-Nov","Europe",11
+2011,"November","Mountain Bikes",8851.7511,"United Kingdom",344,20111107,10,"2011-Nov","Europe",11
+2011,"November","Mountain Bikes",5872.169,"France",350,20111109,7,"2011-Nov","Europe",11
+2011,"November","Mountain Bikes",5893.9178,"Canada",345,20111111,6,"2011-Nov","North America",11
+2011,"December","Mountain Bikes",90378.3761,"Australia",344,20111201,9,"2011-Dec","Pacific",12
+2011,"December","Mountain Bikes",11392.5192,"United Kingdom",345,20111202,10,"2011-Dec","Europe",12
+2011,"December","Mountain Bikes",13658.8234,"Canada",346,20111202,6,"2011-Dec","North America",12
+2011,"December","Mountain Bikes",37900.4198,"United States",344,20111204,1,"2011-Dec","North America",12
+2011,"December","Mountain Bikes",15199.3561,"Germany",344,20111205,8,"2011-Dec","Europe",12
+2011,"December","Mountain Bikes",3778.8454,"France",349,20111217,7,"2011-Dec","Europe",12
+2012,"January","Mountain Bikes",7169.3181,"Canada",352,20120101,6,"2012-Jan","North America",1
+2012,"January","Mountain Bikes",5367.2793,"Germany",356,20120102,8,"2012-Jan","Europe",1
+2012,"January","Mountain Bikes",39372.9936,"Australia",354,20120102,9,"2012-Jan","Pacific",1
+2012,"January","Mountain Bikes",12517.1787,"United Kingdom",352,20120103,10,"2012-Jan","Europe",1
+2012,"January","Mountain Bikes",28677.2722,"United States",352,20120106,1,"2012-Jan","North America",1
+2012,"January","Mountain Bikes",3584.659,"France",352,20120111,7,"2012-Jan","Europe",1
+2012,"February","Mountain Bikes",18404.3509,"France",354,20120201,7,"2012-Feb","Europe",2
+2012,"February","Mountain Bikes",43841.5434,"United States",352,20120201,1,"2012-Feb","North America",2
+2012,"February","Mountain Bikes",57632.3104,"Australia",352,20120201,9,"2012-Feb","Pacific",2
+2012,"February","Mountain Bikes",11546.456,"United Kingdom",352,20120202,10,"2012-Feb","Europe",2
+2012,"February","Mountain Bikes",4638.5763,"Canada",356,20120203,6,"2012-Feb","North America",2
+2012,"February","Mountain Bikes",6882.8873,"Germany",358,20120211,8,"2012-Feb","Europe",2
+2012,"March","Mountain Bikes",12536.5973,"France",352,20120302,7,"2012-Mar","Europe",3
+2012,"March","Mountain Bikes",23290.5744,"Australia",352,20120302,9,"2012-Mar","Pacific",3
+2012,"March","Mountain Bikes",14358.0547,"United Kingdom",352,20120307,10,"2012-Mar","Europe",3
+2012,"March","Mountain Bikes",5386.6978,"Germany",352,20120308,8,"2012-Mar","Europe",3
+2012,"March","Mountain Bikes",26894.652,"United States",352,20120308,1,"2012-Mar","North America",3
+2012,"March","Mountain Bikes",1802.0388,"Canada",352,20120328,6,"2012-Mar","North America",3
+2012,"April","Mountain Bikes",36858.6865,"United States",352,20120401,1,"2012-Apr","North America",4
+2012,"April","Mountain Bikes",78480.9114,"Australia",352,20120401,9,"2012-Apr","Pacific",4
+2012,"April","Mountain Bikes",16160.0399,"United Kingdom",352,20120402,10,"2012-Apr","Europe",4
+2012,"April","Mountain Bikes",16135.0475,"France",356,20120404,7,"2012-Apr","Europe",4
+2012,"April","Mountain Bikes",6932.8721,"Canada",354,20120409,6,"2012-Apr","North America",4
+2012,"May","Mountain Bikes",17942.7137,"Germany",352,20120501,8,"2012-May","Europe",5
+2012,"May","Mountain Bikes",44837.3657,"United States",352,20120501,1,"2012-May","North America",5
+2012,"May","Mountain Bikes",3565.2404,"Canada",360,20120502,6,"2012-May","North America",5
+2012,"May","Mountain Bikes",8971.3569,"Australia",352,20120505,9,"2012-May","Pacific",5
+2012,"May","Mountain Bikes",10734.5585,"United Kingdom",354,20120509,10,"2012-May","Europe",5
+2012,"May","Mountain Bikes",1802.0388,"France",356,20120528,7,"2012-May","Europe",5
+2012,"June","Mountain Bikes",29950.8069,"United Kingdom",352,20120601,10,"2012-Jun","Europe",6
+2012,"June","Mountain Bikes",83019.5181,"United States",352,20120601,1,"2012-Jun","North America",6
+2012,"June","Mountain Bikes",85263.8291,"Australia",352,20120602,9,"2012-Jun","Pacific",6
+2012,"June","Mountain Bikes",18479.3281,"Germany",352,20120603,8,"2012-Jun","Europe",6
+2012,"June","Mountain Bikes",13790.7669,"Canada",352,20120604,6,"2012-Jun","North America",6
+2012,"June","Mountain Bikes",23042.9272,"France",352,20120609,7,"2012-Jun","Europe",6
+2012,"July","Mountain Bikes",5406.1164,"Germany",354,20120701,8,"2012-Jul","Europe",7
+2012,"July","Mountain Bikes",80606.2817,"Australia",352,20120701,9,"2012-Jul","Pacific",7
+2012,"July","Mountain Bikes",17903.8766,"United Kingdom",352,20120702,10,"2012-Jul","Europe",7
+2012,"July","Mountain Bikes",46581.1488,"United States",352,20120703,1,"2012-Jul","North America",7
+2012,"July","Mountain Bikes",7149.8995,"Canada",356,20120704,6,"2012-Jul","North America",7
+2012,"July","Mountain Bikes",12556.0159,"France",352,20120707,7,"2012-Jul","Europe",7
+2012,"August","Mountain Bikes",126836.0692,"Australia",352,20120801,9,"2012-Aug","Pacific",8
+2012,"August","Mountain Bikes",50724.4307,"United States",352,20120801,1,"2012-Aug","North America",8
+2012,"August","Mountain Bikes",13815.7594,"France",352,20120802,7,"2012-Aug","Europe",8
+2012,"August","Mountain Bikes",27731.4883,"Germany",352,20120802,8,"2012-Aug","Europe",8
+2012,"August","Mountain Bikes",18429.3433,"Canada",352,20120803,6,"2012-Aug","North America",8
+2012,"August","Mountain Bikes",25337.2229,"United Kingdom",352,20120804,10,"2012-Aug","Europe",8
+2012,"September","Mountain Bikes",14299.799,"United Kingdom",356,20120901,10,"2012-Sep","Europe",9
+2012,"September","Mountain Bikes",16160.0935,"Germany",352,20120901,8,"2012-Sep","Europe",9
+2012,"September","Mountain Bikes",91457.3517,"Australia",352,20120901,9,"2012-Sep","Pacific",9
+2012,"September","Mountain Bikes",14358.0547,"Canada",352,20120901,6,"2012-Sep","North America",9
+2012,"September","Mountain Bikes",39431.2493,"United States",352,20120901,1,"2012-Sep","North America",9
+2012,"September","Mountain Bikes",12497.7601,"France",356,20120904,7,"2012-Sep","Europe",9
+2012,"October","Mountain Bikes",11496.4712,"Canada",354,20121001,6,"2012-Oct","North America",10
+2012,"October","Mountain Bikes",18429.3433,"France",354,20121001,7,"2012-Oct","Europe",10
+2012,"October","Mountain Bikes",18454.3357,"United Kingdom",352,20121001,10,"2012-Oct","Europe",10
+2012,"October","Mountain Bikes",129405.2814,"Australia",352,20121001,9,"2012-Oct","Pacific",10
+2012,"October","Mountain Bikes",73867.3275,"United States",352,20121002,1,"2012-Oct","North America",10
+2012,"October","Mountain Bikes",23042.9272,"Germany",352,20121005,8,"2012-Oct","Europe",10
+2012,"November","Mountain Bikes",77079.8784,"United States",352,20121101,1,"2012-Nov","North America",11
+2012,"November","Mountain Bikes",16140.6749,"United Kingdom",352,20121101,10,"2012-Nov","Europe",11
+2012,"November","Mountain Bikes",23251.7372,"France",352,20121101,7,"2012-Nov","Europe",11
+2012,"November","Mountain Bikes",85934.7238,"Australia",352,20121101,9,"2012-Nov","Pacific",11
+2012,"November","Mountain Bikes",14319.2175,"Germany",352,20121102,8,"2012-Nov","Europe",11
+2012,"November","Mountain Bikes",10715.1399,"Canada",354,20121103,6,"2012-Nov","North America",11
+2012,"December","Mountain Bikes",42454.1697,"France",352,20121201,7,"2012-Dec","Europe",12
+2012,"December","Mountain Bikes",135708.9702,"Australia",352,20121201,9,"2012-Dec","Pacific",12
+2012,"December","Mountain Bikes",33177.017,"Germany",352,20121202,8,"2012-Dec","Europe",12
+2012,"December","Mountain Bikes",98947.4212,"United States",352,20121203,1,"2012-Dec","North America",12
+2012,"December","Mountain Bikes",7183.1952,"Canada",354,20121203,6,"2012-Dec","North America",12
+2012,"December","Mountain Bikes",28185.1488,"United Kingdom",355,20121204,10,"2012-Dec","Europe",12
+2010,"December","Road Bikes",12802.1034,"United States",311,20101229,4,"2010-Dec","North America",12
+2010,"December","Road Bikes",782.7531,"United Kingdom",330,20101231,10,"2010-Dec","Europe",12
+2011,"February","Road Bikes",4789.2032,"France",311,20110221,7,"2011-Feb","Europe",2
+2011,"March","Road Bikes",15564.6432,"Canada",311,20110301,6,"2011-Mar","North America",3
+2011,"March","Road Bikes",29232.7236,"France",311,20110302,7,"2011-Mar","Europe",3
+2011,"April","Road Bikes",12019.3503,"France",311,20110401,7,"2011-Apr","Europe",4
+2011,"April","Road Bikes",9578.4065,"Canada",312,20110421,6,"2011-Apr","North America",4
+2011,"May","Road Bikes",20502.1207,"United Kingdom",311,20110507,10,"2011-May","Europe",5
+2011,"June","Road Bikes",34399.8602,"France",312,20110602,7,"2011-Jun","Europe",6
+2011,"September","Road Bikes",21718.4866,"France",311,20110901,7,"2011-Sep","Europe",9
+2011,"September","Road Bikes",21790.5005,"United Kingdom",311,20110903,10,"2011-Sep","Europe",9
+2011,"November","Road Bikes",23006.8664,"United Kingdom",312,20111103,10,"2011-Nov","Europe",11
+2012,"January","Road Bikes",33352.1743,"France",323,20120101,7,"2012-Jan","Europe",1
+2012,"January","Road Bikes",25382.4038,"Germany",325,20120101,8,"2012-Jan","Europe",1
+2012,"January","Road Bikes",27884.2792,"United Kingdom",325,20120101,10,"2012-Jan","Europe",1
+2012,"January","Road Bikes",141224.1464,"United States",321,20120101,1,"2012-Jan","North America",1
+2012,"January","Road Bikes",68303.0795,"Australia",321,20120101,9,"2012-Jan","Pacific",1
+2012,"January","Road Bikes",38108.9888,"Canada",368,20120102,6,"2012-Jan","North America",1
+2012,"February","Road Bikes",68335.4901,"Canada",337,20120201,6,"2012-Feb","North America",2
+2012,"February","Road Bikes",144267.5007,"United States",333,20120201,1,"2012-Feb","North America",2
+2012,"February","Road Bikes",27823.9952,"Germany",323,20120201,8,"2012-Feb","Europe",2
+2012,"February","Road Bikes",100259.3459,"Australia",321,20120201,9,"2012-Feb","Pacific",2
+2012,"February","Road Bikes",54970.9592,"United Kingdom",327,20120202,10,"2012-Feb","Europe",2
+2012,"February","Road Bikes",29058.3069,"France",321,20120203,7,"2012-Feb","Europe",2
+2012,"March","Road Bikes",27854.3637,"Germany",325,20120301,8,"2012-Mar","Europe",3
+2012,"March","Road Bikes",28793.1871,"France",323,20120301,7,"2012-Mar","Europe",3
+2012,"March","Road Bikes",33260.579,"United Kingdom",325,20120301,10,"2012-Mar","Europe",3
+2012,"March","Road Bikes",45567.9748,"United States",321,20120301,1,"2012-Mar","North America",3
+2012,"March","Road Bikes",91136.3759,"Australia",321,20120301,9,"2012-Mar","Pacific",3
+2012,"March","Road Bikes",14031.7655,"Canada",321,20120307,6,"2012-Mar","North America",3
+2012,"April","Road Bikes",35884.3354,"Germany",321,20120401,8,"2012-Apr","Europe",4
+2012,"April","Road Bikes",120371.5906,"Australia",323,20120401,9,"2012-Apr","Pacific",4
+2012,"April","Road Bikes",43423.241,"United States",321,20120402,1,"2012-Apr","North America",4
+2012,"April","Road Bikes",33984.6874,"France",323,20120402,7,"2012-Apr","Europe",4
+2012,"April","Road Bikes",39207.3555,"United Kingdom",321,20120402,10,"2012-Apr","Europe",4
+2012,"April","Road Bikes",20801.4885,"Canada",339,20120406,6,"2012-Apr","North America",4
+2012,"May","Road Bikes",87522.8064,"Australia",321,20120501,9,"2012-May","Pacific",5
+2012,"May","Road Bikes",27733.6837,"Germany",325,20120502,8,"2012-May","Europe",5
+2012,"May","Road Bikes",34675.0995,"United Kingdom",321,20120502,10,"2012-May","Europe",5
+2012,"May","Road Bikes",48301.7211,"United States",321,20120503,1,"2012-May","North America",5
+2012,"May","Road Bikes",21655.177,"France",321,20120505,7,"2012-May","Europe",5
+2012,"May","Road Bikes",4465.328,"Canada",323,20120520,6,"2012-May","North America",5
+2012,"June","Road Bikes",65820.3951,"France",327,20120601,7,"2012-Jun","Europe",6
+2012,"June","Road Bikes",48036.6007,"United Kingdom",335,20120601,10,"2012-Jun","Europe",6
+2012,"June","Road Bikes",39283.2909,"Germany",325,20120601,8,"2012-Jun","Europe",6
+2012,"June","Road Bikes",66344.4889,"United States",321,20120601,1,"2012-Jun","North America",6
+2012,"June","Road Bikes",135637.1158,"Australia",323,20120601,9,"2012-Jun","Pacific",6
+2012,"June","Road Bikes",12922.2059,"Canada",333,20120603,6,"2012-Jun","North America",6
+2012,"July","Road Bikes",35810.5172,"United Kingdom",325,20120701,10,"2012-Jul","Europe",7
+2012,"July","Road Bikes",20976.0761,"France",331,20120701,7,"2012-Jul","Europe",7
+2012,"July","Road Bikes",25680.7,"Germany",321,20120701,8,"2012-Jul","Europe",7
+2012,"July","Road Bikes",84827.2314,"Australia",321,20120701,9,"2012-Jul","Pacific",7
+2012,"July","Road Bikes",42227.7447,"United States",323,20120701,1,"2012-Jul","North America",7
+2012,"July","Road Bikes",7019.3941,"Canada",368,20120702,6,"2012-Jul","North America",7
+2012,"August","Road Bikes",52337.183,"United Kingdom",323,20120801,10,"2012-Aug","Europe",8
+2012,"August","Road Bikes",50152.9087,"Germany",321,20120801,8,"2012-Aug","Europe",8
+2012,"August","Road Bikes",122303.9103,"Australia",321,20120801,9,"2012-Aug","Pacific",8
+2012,"August","Road Bikes",52677.0114,"United States",321,20120801,1,"2012-Aug","North America",8
+2012,"August","Road Bikes",39089.4692,"France",329,20120803,7,"2012-Aug","Europe",8
+2012,"August","Road Bikes",7175.1697,"Canada",333,20120804,6,"2012-Aug","North America",8
+2012,"September","Road Bikes",39031.3005,"United Kingdom",325,20120901,10,"2012-Sep","Europe",9
+2012,"September","Road Bikes",35014.8643,"Germany",327,20120901,8,"2012-Sep","Europe",9
+2012,"September","Road Bikes",45044.2128,"France",329,20120901,7,"2012-Sep","Europe",9
+2012,"September","Road Bikes",31109.8081,"United States",325,20120901,1,"2012-Sep","North America",9
+2012,"September","Road Bikes",77345.7572,"Australia",325,20120901,9,"2012-Sep","Pacific",9
+2012,"September","Road Bikes",7201.5406,"Canada",331,20120906,6,"2012-Sep","North America",9
+2012,"October","Road Bikes",46912.724,"France",321,20121001,7,"2012-Oct","Europe",10
+2012,"October","Road Bikes",62702.343,"United States",321,20121001,1,"2012-Oct","North America",10
+2012,"October","Road Bikes",111706.4289,"Australia",321,20121001,9,"2012-Oct","Pacific",10
+2012,"October","Road Bikes",53598.8536,"Germany",321,20121002,8,"2012-Oct","Europe",10
+2012,"October","Road Bikes",39086.8128,"United Kingdom",321,20121003,10,"2012-Oct","Europe",10
+2012,"October","Road Bikes",10494.4641,"Canada",321,20121010,6,"2012-Oct","North America",10
+2012,"November","Road Bikes",29077.8663,"France",321,20121101,7,"2012-Nov","Europe",11
+2012,"November","Road Bikes",31121.3611,"Germany",321,20121101,8,"2012-Nov","Europe",11
+2012,"November","Road Bikes",86057.3283,"Australia",321,20121101,9,"2012-Nov","Pacific",11
+2012,"November","Road Bikes",41478.3058,"United States",321,20121102,1,"2012-Nov","North America",11
+2012,"November","Road Bikes",7044.3509,"Canada",321,20121102,6,"2012-Nov","North America",11
+2012,"November","Road Bikes",45775.7197,"United Kingdom",321,20121103,10,"2012-Nov","Europe",11
+2012,"December","Road Bikes",53109.4553,"Germany",323,20121201,8,"2012-Dec","Europe",12
+2012,"December","Road Bikes",59794.3225,"France",327,20121201,7,"2012-Dec","Europe",12
+2012,"December","Road Bikes",58143.0322,"United States",321,20121201,1,"2012-Dec","North America",12
+2012,"December","Road Bikes",110403.6416,"Australia",325,20121201,9,"2012-Dec","Pacific",12
+2012,"December","Road Bikes",40787.7321,"United Kingdom",321,20121204,10,"2012-Dec","Europe",12
+2012,"December","Road Bikes",4262.5054,"Canada",333,20121204,6,"2012-Dec","North America",12
+2010,"December","Road Bikes",4006.4501,"Canada",310,20101229,6,"2010-Dec","North America",12
+2010,"December","Road Bikes",12019.3503,"Australia",310,20101230,9,"2010-Dec","Pacific",12
+2011,"January","Road Bikes",93315.8453,"United States",310,20110101,1,"2011-Jan","North America",1
+2011,"January","Road Bikes",31129.2864,"Germany",310,20110101,8,"2011-Jan","Europe",1
+2011,"January","Road Bikes",26119.795,"United Kingdom",310,20110102,10,"2011-Jan","Europe",1
+2011,"January","Road Bikes",130062.806,"Australia",310,20110102,9,"2011-Jan","Pacific",1
+2011,"January","Road Bikes",32345.6523,"France",310,20110108,7,"2011-Jan","Europe",1
+2011,"January","Road Bikes",16172.8261,"Canada",310,20110116,6,"2011-Jan","North America",1
+2011,"February","Road Bikes",131337.4156,"United States",310,20110201,1,"2011-Feb","North America",2
+2011,"February","Road Bikes",41630.0072,"Germany",310,20110201,8,"2011-Feb","Europe",2
+2011,"February","Road Bikes",164171.7695,"Australia",310,20110201,9,"2011-Feb","Pacific",2
+2011,"February","Road Bikes",45636.4573,"United Kingdom",310,20110202,10,"2011-Feb","Europe",2
+2011,"February","Road Bikes",20815.0036,"Canada",310,20110209,6,"2011-Feb","North America",2
+2011,"March","Road Bikes",46013.7327,"United Kingdom",310,20110301,10,"2011-Mar","Europe",3
+2011,"March","Road Bikes",128166.2432,"United States",310,20110301,1,"2011-Mar","North America",3
+2011,"March","Road Bikes",142514.5205,"Australia",310,20110301,9,"2011-Mar","Pacific",3
+2011,"March","Road Bikes",19285.7548,"Germany",310,20110302,8,"2011-Mar","Europe",3
+2011,"April","Road Bikes",183421.2668,"Australia",310,20110401,9,"2011-Apr","Pacific",4
+2011,"April","Road Bikes",174532.9291,"United States",310,20110402,1,"2011-Apr","North America",4
+2011,"April","Road Bikes",50425.6605,"United Kingdom",310,20110404,10,"2011-Apr","Europe",4
+2011,"April","Road Bikes",33617.107,"Germany",310,20110408,8,"2011-Apr","Europe",4
+2011,"May","Road Bikes",159295.5296,"United States",310,20110501,1,"2011-May","North America",5
+2011,"May","Road Bikes",23006.8664,"Germany",310,20110503,8,"2011-May","Europe",5
+2011,"May","Road Bikes",136288.6632,"Australia",310,20110503,9,"2011-May","Pacific",5
+2011,"May","Road Bikes",23006.8664,"Canada",310,20110504,6,"2011-May","North America",5
+2011,"May","Road Bikes",29232.7236,"France",310,20110505,7,"2011-May","Europe",5
+2011,"June","Road Bikes",47201.9636,"Germany",310,20110601,8,"2011-Jun","Europe",6
+2011,"June","Road Bikes",49642.9074,"United Kingdom",310,20110601,10,"2011-Jun","Europe",6
+2011,"June","Road Bikes",275476.9346,"United States",310,20110601,1,"2011-Jun","North America",6
+2011,"June","Road Bikes",36840.804,"Canada",310,20110601,6,"2011-Jun","North America",6
+2011,"June","Road Bikes",238636.1306,"Australia",310,20110601,9,"2011-Jun","Pacific",6
+2011,"July","Road Bikes",23006.8664,"France",310,20110701,7,"2011-Jul","Europe",7
+2011,"July","Road Bikes",161728.2614,"United States",310,20110701,1,"2011-Jul","North America",7
+2011,"July","Road Bikes",37963.3266,"Canada",310,20110701,6,"2011-Jul","North America",7
+2011,"July","Road Bikes",47302.1125,"United Kingdom",310,20110702,10,"2011-Jul","Europe",7
+2011,"July","Road Bikes",138113.2121,"Australia",310,20110702,9,"2011-Jul","Pacific",7
+2011,"July","Road Bikes",4937.4775,"Germany",310,20110705,8,"2011-Jul","Europe",7
+2011,"August","Road Bikes",42412.7603,"United Kingdom",310,20110801,10,"2011-Aug","Europe",8
+2011,"August","Road Bikes",173060.1072,"Canada",310,20110801,6,"2011-Aug","North America",8
+2011,"August","Road Bikes",115218.9308,"United States",310,20110801,1,"2011-Aug","North America",8
+2011,"August","Road Bikes",193782.4264,"Australia",310,20110801,9,"2011-Aug","Pacific",8
+2011,"August","Road Bikes",30393.4101,"France",310,20110802,7,"2011-Aug","Europe",8
+2011,"August","Road Bikes",53649.3575,"Germany",310,20110802,8,"2011-Aug","Europe",8
+2011,"September","Road Bikes",166129.5698,"United States",310,20110901,1,"2011-Sep","North America",9
+2011,"September","Road Bikes",133783.9176,"Australia",310,20110901,9,"2011-Sep","Pacific",9
+2011,"September","Road Bikes",47302.1125,"Germany",310,20110901,8,"2011-Sep","Europe",9
+2011,"September","Road Bikes",24903.4291,"Canada",310,20110903,6,"2011-Sep","North America",9
+2011,"October","Road Bikes",281831.6441,"United States",310,20111001,1,"2011-Oct","North America",10
+2011,"October","Road Bikes",76122.5518,"Canada",310,20111001,6,"2011-Oct","North America",10
+2011,"October","Road Bikes",32051.6008,"United Kingdom",310,20111001,10,"2011-Oct","Europe",10
+2011,"October","Road Bikes",168178.2196,"Australia",310,20111001,9,"2011-Oct","Pacific",10
+2011,"October","Road Bikes",37530.8727,"Germany",310,20111002,8,"2011-Oct","Europe",10
+2011,"October","Road Bikes",45636.4573,"France",310,20111003,7,"2011-Oct","Europe",10
+2011,"November","Road Bikes",176684.7216,"United States",310,20111101,1,"2011-Nov","North America",11
+2011,"November","Road Bikes",31737.4693,"Canada",310,20111101,6,"2011-Nov","North America",11
+2011,"November","Road Bikes",128774.4262,"Australia",310,20111101,9,"2011-Nov","Pacific",11
+2011,"November","Road Bikes",42292.6211,"France",310,20111101,7,"2011-Nov","Europe",11
+2011,"November","Road Bikes",36674.9468,"Germany",310,20111102,8,"2011-Nov","Europe",11
+2011,"December","Road Bikes",278110.9956,"United States",310,20111201,1,"2011-Dec","North America",12
+2011,"December","Road Bikes",60879.5046,"Canada",310,20111201,6,"2011-Dec","North America",12
+2011,"December","Road Bikes",46408.5177,"Germany",310,20111202,8,"2011-Dec","Europe",12
+2011,"December","Road Bikes",134172.0714,"Australia",310,20111202,9,"2011-Dec","Pacific",12
+2011,"December","Road Bikes",31958.9163,"France",310,20111203,7,"2011-Dec","Europe",12
+2011,"December","Road Bikes",25698.1372,"United Kingdom",310,20111206,10,"2011-Dec","Europe",12

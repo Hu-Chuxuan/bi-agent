@@ -1,0 +1,701 @@
+SurveyResponseKey,variable,value
+280,DateKey,20170319
+1626,DateKey,20170407
+2027,DateKey,20170305
+1255,DateKey,20170310
+1452,DateKey,20170425
+1108,DateKey,20170316
+1584,DateKey,20170323
+1634,DateKey,20170319
+2490,DateKey,20170324
+1301,DateKey,20170412
+2044,DateKey,20170326
+1070,DateKey,20170303
+1241,DateKey,20170317
+219,DateKey,20170312
+1258,DateKey,20170421
+2128,DateKey,20170304
+1180,DateKey,20170316
+540,DateKey,20170315
+344,DateKey,20170411
+535,DateKey,20170424
+2653,DateKey,20170408
+1503,DateKey,20170322
+2037,DateKey,20170402
+84,DateKey,20170424
+1632,DateKey,20170411
+2547,DateKey,20170417
+1361,DateKey,20170307
+206,DateKey,20170228
+906,DateKey,20170427
+2099,DateKey,20170322
+1060,DateKey,20170310
+1898,DateKey,20170404
+2217,DateKey,20170307
+74,DateKey,20170426
+2294,DateKey,20170330
+1211,DateKey,20170424
+1516,DateKey,20170304
+1488,DateKey,20170320
+2740,DateKey,20170326
+1526,DateKey,20170419
+1882,DateKey,20170417
+1721,DateKey,20170306
+2162,DateKey,20170318
+1620,DateKey,20170411
+648,DateKey,20170405
+153,DateKey,20170413
+2446,DateKey,20170401
+966,DateKey,20170320
+184,DateKey,20170311
+2430,DateKey,20170426
+1589,DateKey,20170413
+1462,DateKey,20170319
+2427,DateKey,20170325
+2500,DateKey,20170411
+1472,DateKey,20170316
+2630,DateKey,20170426
+431,DateKey,20170303
+1975,DateKey,20170420
+231,DateKey,20170317
+1668,DateKey,20170312
+380,DateKey,20170419
+57,DateKey,20170401
+2245,DateKey,20170322
+2658,DateKey,20170309
+2444,DateKey,20170303
+2047,DateKey,20170418
+2454,DateKey,20170327
+747,DateKey,20170325
+1334,DateKey,20170412
+1787,DateKey,20170406
+854,DateKey,20170403
+12,DateKey,20170303
+169,DateKey,20170306
+2289,DateKey,20170417
+2526,DateKey,20170311
+2375,DateKey,20170427
+1829,DateKey,20170406
+1988,DateKey,20170324
+2457,DateKey,20170409
+2255,DateKey,20170408
+220,DateKey,20170312
+2534,DateKey,20170413
+841,DateKey,20170312
+1547,DateKey,20170321
+875,DateKey,20170302
+484,DateKey,20170404
+2380,DateKey,20170411
+449,DateKey,20170315
+838,DateKey,20170411
+2367,DateKey,20170301
+2102,DateKey,20170403
+2306,DateKey,20170312
+1218,DateKey,20170312
+2448,DateKey,20170304
+911,DateKey,20170411
+2413,DateKey,20170419
+844,DateKey,20170309
+1782,DateKey,20170307
+2595,DateKey,20170414
+620,DateKey,20170228
+280,CustomerKey,13586
+1626,CustomerKey,28045
+2027,CustomerKey,19474
+1255,CustomerKey,23503
+1452,CustomerKey,25907
+1108,CustomerKey,21966
+1584,CustomerKey,27415
+1634,CustomerKey,28092
+2490,CustomerKey,29482
+1301,CustomerKey,23994
+2044,CustomerKey,13956
+1070,CustomerKey,21370
+1241,CustomerKey,23350
+219,CustomerKey,13008
+1258,CustomerKey,23521
+2128,CustomerKey,28787
+1180,CustomerKey,22849
+540,CustomerKey,16179
+344,CustomerKey,14212
+535,CustomerKey,16128
+2653,CustomerKey,15501
+1503,CustomerKey,26565
+2037,CustomerKey,19156
+84,CustomerKey,11641
+1632,CustomerKey,28079
+2547,CustomerKey,26799
+1361,CustomerKey,24714
+206,CustomerKey,12939
+906,CustomerKey,19581
+2099,CustomerKey,14971
+1060,CustomerKey,21221
+1898,CustomerKey,28734
+2217,CustomerKey,22795
+74,CustomerKey,11519
+2294,CustomerKey,15638
+1211,CustomerKey,23098
+1516,CustomerKey,26671
+1488,CustomerKey,26431
+2740,CustomerKey,28442
+1526,CustomerKey,26758
+1882,CustomerKey,12899
+1721,CustomerKey,28956
+2162,CustomerKey,24693
+1620,CustomerKey,27907
+648,CustomerKey,17050
+153,CustomerKey,12359
+2446,CustomerKey,13135
+966,CustomerKey,19961
+184,CustomerKey,12714
+2430,CustomerKey,28694
+1589,CustomerKey,27497
+1462,CustomerKey,26073
+2427,CustomerKey,12559
+2500,CustomerKey,11807
+1472,CustomerKey,26188
+2630,CustomerKey,28694
+431,CustomerKey,15139
+1975,CustomerKey,28155
+231,CustomerKey,13037
+1668,CustomerKey,28354
+380,CustomerKey,14626
+57,CustomerKey,11413
+2245,CustomerKey,16600
+2658,CustomerKey,25604
+2444,CustomerKey,11210
+2047,CustomerKey,19466
+2454,CustomerKey,21622
+747,CustomerKey,17895
+1334,CustomerKey,24478
+1787,CustomerKey,17740
+854,CustomerKey,18871
+12,CustomerKey,11037
+169,CustomerKey,12587
+2289,CustomerKey,20515
+2526,CustomerKey,28894
+2375,CustomerKey,27335
+1829,CustomerKey,14254
+1988,CustomerKey,16067
+2457,CustomerKey,14599
+2255,CustomerKey,11950
+220,CustomerKey,13008
+2534,CustomerKey,17805
+841,CustomerKey,18727
+1547,CustomerKey,26985
+875,CustomerKey,19095
+484,CustomerKey,15614
+2380,CustomerKey,27772
+449,CustomerKey,15217
+838,CustomerKey,18717
+2367,CustomerKey,22421
+2102,CustomerKey,25476
+2306,CustomerKey,23102
+1218,CustomerKey,23114
+2448,CustomerKey,24000
+911,CustomerKey,19609
+2413,CustomerKey,16485
+844,CustomerKey,18736
+1782,CustomerKey,29465
+2595,CustomerKey,25539
+620,CustomerKey,16743
+280,ProductCategoryKey,4
+1626,ProductCategoryKey,4
+2027,ProductCategoryKey,3
+1255,ProductCategoryKey,4
+1452,ProductCategoryKey,4
+1108,ProductCategoryKey,3
+1584,ProductCategoryKey,4
+1634,ProductCategoryKey,3
+2490,ProductCategoryKey,3
+1301,ProductCategoryKey,3
+2044,ProductCategoryKey,4
+1070,ProductCategoryKey,4
+1241,ProductCategoryKey,4
+219,ProductCategoryKey,4
+1258,ProductCategoryKey,4
+2128,ProductCategoryKey,3
+1180,ProductCategoryKey,4
+540,ProductCategoryKey,3
+344,ProductCategoryKey,4
+535,ProductCategoryKey,4
+2653,ProductCategoryKey,3
+1503,ProductCategoryKey,3
+2037,ProductCategoryKey,4
+84,ProductCategoryKey,4
+1632,ProductCategoryKey,4
+2547,ProductCategoryKey,4
+1361,ProductCategoryKey,3
+206,ProductCategoryKey,4
+906,ProductCategoryKey,3
+2099,ProductCategoryKey,4
+1060,ProductCategoryKey,3
+1898,ProductCategoryKey,4
+2217,ProductCategoryKey,3
+74,ProductCategoryKey,4
+2294,ProductCategoryKey,3
+1211,ProductCategoryKey,3
+1516,ProductCategoryKey,3
+1488,ProductCategoryKey,3
+2740,ProductCategoryKey,3
+1526,ProductCategoryKey,4
+1882,ProductCategoryKey,3
+1721,ProductCategoryKey,4
+2162,ProductCategoryKey,3
+1620,ProductCategoryKey,4
+648,ProductCategoryKey,3
+153,ProductCategoryKey,4
+2446,ProductCategoryKey,4
+966,ProductCategoryKey,4
+184,ProductCategoryKey,4
+2430,ProductCategoryKey,4
+1589,ProductCategoryKey,3
+1462,ProductCategoryKey,3
+2427,ProductCategoryKey,4
+2500,ProductCategoryKey,3
+1472,ProductCategoryKey,3
+2630,ProductCategoryKey,4
+431,ProductCategoryKey,4
+1975,ProductCategoryKey,3
+231,ProductCategoryKey,4
+1668,ProductCategoryKey,3
+380,ProductCategoryKey,4
+57,ProductCategoryKey,3
+2245,ProductCategoryKey,3
+2658,ProductCategoryKey,4
+2444,ProductCategoryKey,4
+2047,ProductCategoryKey,4
+2454,ProductCategoryKey,3
+747,ProductCategoryKey,3
+1334,ProductCategoryKey,4
+1787,ProductCategoryKey,4
+854,ProductCategoryKey,3
+12,ProductCategoryKey,4
+169,ProductCategoryKey,4
+2289,ProductCategoryKey,3
+2526,ProductCategoryKey,4
+2375,ProductCategoryKey,4
+1829,ProductCategoryKey,4
+1988,ProductCategoryKey,3
+2457,ProductCategoryKey,4
+2255,ProductCategoryKey,3
+220,ProductCategoryKey,4
+2534,ProductCategoryKey,4
+841,ProductCategoryKey,4
+1547,ProductCategoryKey,3
+875,ProductCategoryKey,4
+484,ProductCategoryKey,3
+2380,ProductCategoryKey,3
+449,ProductCategoryKey,4
+838,ProductCategoryKey,4
+2367,ProductCategoryKey,3
+2102,ProductCategoryKey,4
+2306,ProductCategoryKey,3
+1218,ProductCategoryKey,3
+2448,ProductCategoryKey,3
+911,ProductCategoryKey,4
+2413,ProductCategoryKey,4
+844,ProductCategoryKey,3
+1782,ProductCategoryKey,4
+2595,ProductCategoryKey,3
+620,ProductCategoryKey,4
+280,EnglishProductCategoryName,Accessories
+1626,EnglishProductCategoryName,Accessories
+2027,EnglishProductCategoryName,Clothing
+1255,EnglishProductCategoryName,Accessories
+1452,EnglishProductCategoryName,Accessories
+1108,EnglishProductCategoryName,Clothing
+1584,EnglishProductCategoryName,Accessories
+1634,EnglishProductCategoryName,Clothing
+2490,EnglishProductCategoryName,Clothing
+1301,EnglishProductCategoryName,Clothing
+2044,EnglishProductCategoryName,Accessories
+1070,EnglishProductCategoryName,Accessories
+1241,EnglishProductCategoryName,Accessories
+219,EnglishProductCategoryName,Accessories
+1258,EnglishProductCategoryName,Accessories
+2128,EnglishProductCategoryName,Clothing
+1180,EnglishProductCategoryName,Accessories
+540,EnglishProductCategoryName,Clothing
+344,EnglishProductCategoryName,Accessories
+535,EnglishProductCategoryName,Accessories
+2653,EnglishProductCategoryName,Clothing
+1503,EnglishProductCategoryName,Clothing
+2037,EnglishProductCategoryName,Accessories
+84,EnglishProductCategoryName,Accessories
+1632,EnglishProductCategoryName,Accessories
+2547,EnglishProductCategoryName,Accessories
+1361,EnglishProductCategoryName,Clothing
+206,EnglishProductCategoryName,Accessories
+906,EnglishProductCategoryName,Clothing
+2099,EnglishProductCategoryName,Accessories
+1060,EnglishProductCategoryName,Clothing
+1898,EnglishProductCategoryName,Accessories
+2217,EnglishProductCategoryName,Clothing
+74,EnglishProductCategoryName,Accessories
+2294,EnglishProductCategoryName,Clothing
+1211,EnglishProductCategoryName,Clothing
+1516,EnglishProductCategoryName,Clothing
+1488,EnglishProductCategoryName,Clothing
+2740,EnglishProductCategoryName,Clothing
+1526,EnglishProductCategoryName,Accessories
+1882,EnglishProductCategoryName,Clothing
+1721,EnglishProductCategoryName,Accessories
+2162,EnglishProductCategoryName,Clothing
+1620,EnglishProductCategoryName,Accessories
+648,EnglishProductCategoryName,Clothing
+153,EnglishProductCategoryName,Accessories
+2446,EnglishProductCategoryName,Accessories
+966,EnglishProductCategoryName,Accessories
+184,EnglishProductCategoryName,Accessories
+2430,EnglishProductCategoryName,Accessories
+1589,EnglishProductCategoryName,Clothing
+1462,EnglishProductCategoryName,Clothing
+2427,EnglishProductCategoryName,Accessories
+2500,EnglishProductCategoryName,Clothing
+1472,EnglishProductCategoryName,Clothing
+2630,EnglishProductCategoryName,Accessories
+431,EnglishProductCategoryName,Accessories
+1975,EnglishProductCategoryName,Clothing
+231,EnglishProductCategoryName,Accessories
+1668,EnglishProductCategoryName,Clothing
+380,EnglishProductCategoryName,Accessories
+57,EnglishProductCategoryName,Clothing
+2245,EnglishProductCategoryName,Clothing
+2658,EnglishProductCategoryName,Accessories
+2444,EnglishProductCategoryName,Accessories
+2047,EnglishProductCategoryName,Accessories
+2454,EnglishProductCategoryName,Clothing
+747,EnglishProductCategoryName,Clothing
+1334,EnglishProductCategoryName,Accessories
+1787,EnglishProductCategoryName,Accessories
+854,EnglishProductCategoryName,Clothing
+12,EnglishProductCategoryName,Accessories
+169,EnglishProductCategoryName,Accessories
+2289,EnglishProductCategoryName,Clothing
+2526,EnglishProductCategoryName,Accessories
+2375,EnglishProductCategoryName,Accessories
+1829,EnglishProductCategoryName,Accessories
+1988,EnglishProductCategoryName,Clothing
+2457,EnglishProductCategoryName,Accessories
+2255,EnglishProductCategoryName,Clothing
+220,EnglishProductCategoryName,Accessories
+2534,EnglishProductCategoryName,Accessories
+841,EnglishProductCategoryName,Accessories
+1547,EnglishProductCategoryName,Clothing
+875,EnglishProductCategoryName,Accessories
+484,EnglishProductCategoryName,Clothing
+2380,EnglishProductCategoryName,Clothing
+449,EnglishProductCategoryName,Accessories
+838,EnglishProductCategoryName,Accessories
+2367,EnglishProductCategoryName,Clothing
+2102,EnglishProductCategoryName,Accessories
+2306,EnglishProductCategoryName,Clothing
+1218,EnglishProductCategoryName,Clothing
+2448,EnglishProductCategoryName,Clothing
+911,EnglishProductCategoryName,Accessories
+2413,EnglishProductCategoryName,Accessories
+844,EnglishProductCategoryName,Clothing
+1782,EnglishProductCategoryName,Accessories
+2595,EnglishProductCategoryName,Clothing
+620,EnglishProductCategoryName,Accessories
+280,ProductSubcategoryKey,26
+1626,ProductSubcategoryKey,29
+2027,ProductSubcategoryKey,23
+1255,ProductSubcategoryKey,31
+1452,ProductSubcategoryKey,36
+1108,ProductSubcategoryKey,23
+1584,ProductSubcategoryKey,35
+1634,ProductSubcategoryKey,19
+2490,ProductSubcategoryKey,22
+1301,ProductSubcategoryKey,19
+2044,ProductSubcategoryKey,34
+1070,ProductSubcategoryKey,37
+1241,ProductSubcategoryKey,30
+219,ProductSubcategoryKey,26
+1258,ProductSubcategoryKey,29
+2128,ProductSubcategoryKey,23
+1180,ProductSubcategoryKey,29
+540,ProductSubcategoryKey,21
+344,ProductSubcategoryKey,35
+535,ProductSubcategoryKey,34
+2653,ProductSubcategoryKey,24
+1503,ProductSubcategoryKey,24
+2037,ProductSubcategoryKey,35
+84,ProductSubcategoryKey,34
+1632,ProductSubcategoryKey,33
+2547,ProductSubcategoryKey,31
+1361,ProductSubcategoryKey,22
+206,ProductSubcategoryKey,26
+906,ProductSubcategoryKey,18
+2099,ProductSubcategoryKey,33
+1060,ProductSubcategoryKey,23
+1898,ProductSubcategoryKey,33
+2217,ProductSubcategoryKey,24
+74,ProductSubcategoryKey,37
+2294,ProductSubcategoryKey,20
+1211,ProductSubcategoryKey,25
+1516,ProductSubcategoryKey,23
+1488,ProductSubcategoryKey,22
+2740,ProductSubcategoryKey,19
+1526,ProductSubcategoryKey,33
+1882,ProductSubcategoryKey,22
+1721,ProductSubcategoryKey,34
+2162,ProductSubcategoryKey,22
+1620,ProductSubcategoryKey,36
+648,ProductSubcategoryKey,24
+153,ProductSubcategoryKey,33
+2446,ProductSubcategoryKey,35
+966,ProductSubcategoryKey,30
+184,ProductSubcategoryKey,29
+2430,ProductSubcategoryKey,30
+1589,ProductSubcategoryKey,18
+1462,ProductSubcategoryKey,25
+2427,ProductSubcategoryKey,37
+2500,ProductSubcategoryKey,18
+1472,ProductSubcategoryKey,19
+2630,ProductSubcategoryKey,26
+431,ProductSubcategoryKey,26
+1975,ProductSubcategoryKey,18
+231,ProductSubcategoryKey,32
+1668,ProductSubcategoryKey,19
+380,ProductSubcategoryKey,35
+57,ProductSubcategoryKey,25
+2245,ProductSubcategoryKey,24
+2658,ProductSubcategoryKey,31
+2444,ProductSubcategoryKey,30
+2047,ProductSubcategoryKey,34
+2454,ProductSubcategoryKey,24
+747,ProductSubcategoryKey,18
+1334,ProductSubcategoryKey,29
+1787,ProductSubcategoryKey,32
+854,ProductSubcategoryKey,23
+12,ProductSubcategoryKey,32
+169,ProductSubcategoryKey,33
+2289,ProductSubcategoryKey,20
+2526,ProductSubcategoryKey,29
+2375,ProductSubcategoryKey,30
+1829,ProductSubcategoryKey,32
+1988,ProductSubcategoryKey,18
+2457,ProductSubcategoryKey,35
+2255,ProductSubcategoryKey,20
+220,ProductSubcategoryKey,30
+2534,ProductSubcategoryKey,28
+841,ProductSubcategoryKey,34
+1547,ProductSubcategoryKey,19
+875,ProductSubcategoryKey,27
+484,ProductSubcategoryKey,19
+2380,ProductSubcategoryKey,23
+449,ProductSubcategoryKey,29
+838,ProductSubcategoryKey,26
+2367,ProductSubcategoryKey,23
+2102,ProductSubcategoryKey,34
+2306,ProductSubcategoryKey,20
+1218,ProductSubcategoryKey,23
+2448,ProductSubcategoryKey,25
+911,ProductSubcategoryKey,27
+2413,ProductSubcategoryKey,31
+844,ProductSubcategoryKey,18
+1782,ProductSubcategoryKey,33
+2595,ProductSubcategoryKey,25
+620,ProductSubcategoryKey,36
+280,EnglishProductSubcategoryName,Bike Racks
+1626,EnglishProductSubcategoryName,Cleaners
+2027,EnglishProductSubcategoryName,Socks
+1255,EnglishProductSubcategoryName,Helmets
+1452,EnglishProductSubcategoryName,Pumps
+1108,EnglishProductSubcategoryName,Socks
+1584,EnglishProductSubcategoryName,Panniers
+1634,EnglishProductSubcategoryName,Caps
+2490,EnglishProductSubcategoryName,Shorts
+1301,EnglishProductSubcategoryName,Caps
+2044,EnglishProductSubcategoryName,Locks
+1070,EnglishProductSubcategoryName,Tires and Tubes
+1241,EnglishProductSubcategoryName,Fenders
+219,EnglishProductSubcategoryName,Bike Racks
+1258,EnglishProductSubcategoryName,Cleaners
+2128,EnglishProductSubcategoryName,Socks
+1180,EnglishProductSubcategoryName,Cleaners
+540,EnglishProductSubcategoryName,Jerseys
+344,EnglishProductSubcategoryName,Panniers
+535,EnglishProductSubcategoryName,Locks
+2653,EnglishProductSubcategoryName,Tights
+1503,EnglishProductSubcategoryName,Tights
+2037,EnglishProductSubcategoryName,Panniers
+84,EnglishProductSubcategoryName,Locks
+1632,EnglishProductSubcategoryName,Lights
+2547,EnglishProductSubcategoryName,Helmets
+1361,EnglishProductSubcategoryName,Shorts
+206,EnglishProductSubcategoryName,Bike Racks
+906,EnglishProductSubcategoryName,Bib-Shorts
+2099,EnglishProductSubcategoryName,Lights
+1060,EnglishProductSubcategoryName,Socks
+1898,EnglishProductSubcategoryName,Lights
+2217,EnglishProductSubcategoryName,Tights
+74,EnglishProductSubcategoryName,Tires and Tubes
+2294,EnglishProductSubcategoryName,Gloves
+1211,EnglishProductSubcategoryName,Vests
+1516,EnglishProductSubcategoryName,Socks
+1488,EnglishProductSubcategoryName,Shorts
+2740,EnglishProductSubcategoryName,Caps
+1526,EnglishProductSubcategoryName,Lights
+1882,EnglishProductSubcategoryName,Shorts
+1721,EnglishProductSubcategoryName,Locks
+2162,EnglishProductSubcategoryName,Shorts
+1620,EnglishProductSubcategoryName,Pumps
+648,EnglishProductSubcategoryName,Tights
+153,EnglishProductSubcategoryName,Lights
+2446,EnglishProductSubcategoryName,Panniers
+966,EnglishProductSubcategoryName,Fenders
+184,EnglishProductSubcategoryName,Cleaners
+2430,EnglishProductSubcategoryName,Fenders
+1589,EnglishProductSubcategoryName,Bib-Shorts
+1462,EnglishProductSubcategoryName,Vests
+2427,EnglishProductSubcategoryName,Tires and Tubes
+2500,EnglishProductSubcategoryName,Bib-Shorts
+1472,EnglishProductSubcategoryName,Caps
+2630,EnglishProductSubcategoryName,Bike Racks
+431,EnglishProductSubcategoryName,Bike Racks
+1975,EnglishProductSubcategoryName,Bib-Shorts
+231,EnglishProductSubcategoryName,Hydration Packs
+1668,EnglishProductSubcategoryName,Caps
+380,EnglishProductSubcategoryName,Panniers
+57,EnglishProductSubcategoryName,Vests
+2245,EnglishProductSubcategoryName,Tights
+2658,EnglishProductSubcategoryName,Helmets
+2444,EnglishProductSubcategoryName,Fenders
+2047,EnglishProductSubcategoryName,Locks
+2454,EnglishProductSubcategoryName,Tights
+747,EnglishProductSubcategoryName,Bib-Shorts
+1334,EnglishProductSubcategoryName,Cleaners
+1787,EnglishProductSubcategoryName,Hydration Packs
+854,EnglishProductSubcategoryName,Socks
+12,EnglishProductSubcategoryName,Hydration Packs
+169,EnglishProductSubcategoryName,Lights
+2289,EnglishProductSubcategoryName,Gloves
+2526,EnglishProductSubcategoryName,Cleaners
+2375,EnglishProductSubcategoryName,Fenders
+1829,EnglishProductSubcategoryName,Hydration Packs
+1988,EnglishProductSubcategoryName,Bib-Shorts
+2457,EnglishProductSubcategoryName,Panniers
+2255,EnglishProductSubcategoryName,Gloves
+220,EnglishProductSubcategoryName,Fenders
+2534,EnglishProductSubcategoryName,Bottles and Cages
+841,EnglishProductSubcategoryName,Locks
+1547,EnglishProductSubcategoryName,Caps
+875,EnglishProductSubcategoryName,Bike Stands
+484,EnglishProductSubcategoryName,Caps
+2380,EnglishProductSubcategoryName,Socks
+449,EnglishProductSubcategoryName,Cleaners
+838,EnglishProductSubcategoryName,Bike Racks
+2367,EnglishProductSubcategoryName,Socks
+2102,EnglishProductSubcategoryName,Locks
+2306,EnglishProductSubcategoryName,Gloves
+1218,EnglishProductSubcategoryName,Socks
+2448,EnglishProductSubcategoryName,Vests
+911,EnglishProductSubcategoryName,Bike Stands
+2413,EnglishProductSubcategoryName,Helmets
+844,EnglishProductSubcategoryName,Bib-Shorts
+1782,EnglishProductSubcategoryName,Lights
+2595,EnglishProductSubcategoryName,Vests
+620,EnglishProductSubcategoryName,Pumps
+280,Date,2017-03-19 00:00:00.000
+1626,Date,2017-04-07 00:00:00.000
+2027,Date,2017-03-05 00:00:00.000
+1255,Date,2017-03-10 00:00:00.000
+1452,Date,2017-04-25 00:00:00.000
+1108,Date,2017-03-16 00:00:00.000
+1584,Date,2017-03-23 00:00:00.000
+1634,Date,2017-03-19 00:00:00.000
+2490,Date,2017-03-24 00:00:00.000
+1301,Date,2017-04-12 00:00:00.000
+2044,Date,2017-03-26 00:00:00.000
+1070,Date,2017-03-03 00:00:00.000
+1241,Date,2017-03-17 00:00:00.000
+219,Date,2017-03-12 00:00:00.000
+1258,Date,2017-04-21 00:00:00.000
+2128,Date,2017-03-04 00:00:00.000
+1180,Date,2017-03-16 00:00:00.000
+540,Date,2017-03-15 00:00:00.000
+344,Date,2017-04-11 00:00:00.000
+535,Date,2017-04-24 00:00:00.000
+2653,Date,2017-04-08 00:00:00.000
+1503,Date,2017-03-22 00:00:00.000
+2037,Date,2017-04-02 00:00:00.000
+84,Date,2017-04-24 00:00:00.000
+1632,Date,2017-04-11 00:00:00.000
+2547,Date,2017-04-17 00:00:00.000
+1361,Date,2017-03-07 00:00:00.000
+206,Date,2017-02-28 00:00:00.000
+906,Date,2017-04-27 00:00:00.000
+2099,Date,2017-03-22 00:00:00.000
+1060,Date,2017-03-10 00:00:00.000
+1898,Date,2017-04-04 00:00:00.000
+2217,Date,2017-03-07 00:00:00.000
+74,Date,2017-04-26 00:00:00.000
+2294,Date,2017-03-30 00:00:00.000
+1211,Date,2017-04-24 00:00:00.000
+1516,Date,2017-03-04 00:00:00.000
+1488,Date,2017-03-20 00:00:00.000
+2740,Date,2017-03-26 00:00:00.000
+1526,Date,2017-04-19 00:00:00.000
+1882,Date,2017-04-17 00:00:00.000
+1721,Date,2017-03-06 00:00:00.000
+2162,Date,2017-03-18 00:00:00.000
+1620,Date,2017-04-11 00:00:00.000
+648,Date,2017-04-05 00:00:00.000
+153,Date,2017-04-13 00:00:00.000
+2446,Date,2017-04-01 00:00:00.000
+966,Date,2017-03-20 00:00:00.000
+184,Date,2017-03-11 00:00:00.000
+2430,Date,2017-04-26 00:00:00.000
+1589,Date,2017-04-13 00:00:00.000
+1462,Date,2017-03-19 00:00:00.000
+2427,Date,2017-03-25 00:00:00.000
+2500,Date,2017-04-11 00:00:00.000
+1472,Date,2017-03-16 00:00:00.000
+2630,Date,2017-04-26 00:00:00.000
+431,Date,2017-03-03 00:00:00.000
+1975,Date,2017-04-20 00:00:00.000
+231,Date,2017-03-17 00:00:00.000
+1668,Date,2017-03-12 00:00:00.000
+380,Date,2017-04-19 00:00:00.000
+57,Date,2017-04-01 00:00:00.000
+2245,Date,2017-03-22 00:00:00.000
+2658,Date,2017-03-09 00:00:00.000
+2444,Date,2017-03-03 00:00:00.000
+2047,Date,2017-04-18 00:00:00.000
+2454,Date,2017-03-27 00:00:00.000
+747,Date,2017-03-25 00:00:00.000
+1334,Date,2017-04-12 00:00:00.000
+1787,Date,2017-04-06 00:00:00.000
+854,Date,2017-04-03 00:00:00.000
+12,Date,2017-03-03 00:00:00.000
+169,Date,2017-03-06 00:00:00.000
+2289,Date,2017-04-17 00:00:00.000
+2526,Date,2017-03-11 00:00:00.000
+2375,Date,2017-04-27 00:00:00.000
+1829,Date,2017-04-06 00:00:00.000
+1988,Date,2017-03-24 00:00:00.000
+2457,Date,2017-04-09 00:00:00.000
+2255,Date,2017-04-08 00:00:00.000
+220,Date,2017-03-12 00:00:00.000
+2534,Date,2017-04-13 00:00:00.000
+841,Date,2017-03-12 00:00:00.000
+1547,Date,2017-03-21 00:00:00.000
+875,Date,2017-03-02 00:00:00.000
+484,Date,2017-04-04 00:00:00.000
+2380,Date,2017-04-11 00:00:00.000
+449,Date,2017-03-15 00:00:00.000
+838,Date,2017-04-11 00:00:00.000
+2367,Date,2017-03-01 00:00:00.000
+2102,Date,2017-04-03 00:00:00.000
+2306,Date,2017-03-12 00:00:00.000
+1218,Date,2017-03-12 00:00:00.000
+2448,Date,2017-03-04 00:00:00.000
+911,Date,2017-04-11 00:00:00.000
+2413,Date,2017-04-19 00:00:00.000
+844,Date,2017-03-09 00:00:00.000
+1782,Date,2017-03-07 00:00:00.000
+2595,Date,2017-04-14 00:00:00.000
+620,Date,2017-02-28 00:00:00.000

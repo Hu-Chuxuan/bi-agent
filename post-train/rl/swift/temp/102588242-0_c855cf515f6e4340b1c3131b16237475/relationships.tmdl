@@ -1,0 +1,190 @@
+﻿relationship 5cdb7f62-829c-4068-bb9c-b4d74d4a7ec7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date.Day_
+	toColumn: LocalDateTable_aa737577-e3c1-4ee5-a99f-dae5b5fa8f26.Date
+
+relationship a315fb39-5fc6-44e6-83cf-f25cafe7f118
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date.create_date
+	toColumn: LocalDateTable_ca47b0be-4e27-4e9d-be16-ce63c1201428.Date
+
+relationship 044b4215-f343-4ec8-aa17-0b7774f5911a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date.update_date
+	toColumn: LocalDateTable_54a1a867-67da-442b-abfc-0580928561df.Date
+
+relationship d758a49a-1ab4-4489-9543-0b34d20e9f64
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fact_Table.create_date
+	toColumn: LocalDateTable_40770d60-ff5e-4e8a-bc96-595e9f3d6c1e.Date
+
+relationship 8e81217a-9a18-4c68-841c-b1b24ae5ebc8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fact_Table.update_date
+	toColumn: LocalDateTable_cd6a46b4-d72d-4212-90a3-8679bfbeed39.Date
+
+relationship 26d7835c-2735-42b6-bab7-86373d915f29
+	fromColumn: Fact_Table.SKDate
+	toColumn: Dim_Date.SKDate
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5e602e57-6be5-40f3-85d0-8e400417ae14
+	fromColumn: Fact_Table.SKAccident_Severity
+	toColumn: Dim_Accident_Severity.SKAccident_Severity
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5881a958-4402-4954-b7c1-10e07ce7b5b0
+	fromColumn: Fact_Table.SKTime_Of_Day
+	toColumn: Dim_Time_Of_Day.SKTime_Of_Day
+
+	annotation PBI_IsFromSource = FS
+
+relationship 5a603192-838a-4df5-9d11-69a8321e87c1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date_Question6.Day_
+	toColumn: LocalDateTable_65f1c440-5f2c-45ef-9789-c47c33ba4aed.Date
+
+relationship 53e921a2-ce94-464f-86f7-9a9a52aa6fe6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date_Question6.create_date
+	toColumn: LocalDateTable_95c2af12-b096-457b-9df5-e430cb97613a.Date
+
+relationship 5f9efa31-6a20-4d66-949f-68694e28532c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dim_Date_Question6.update_date
+	toColumn: LocalDateTable_670a3366-7509-4426-b584-f83fa7ae1d59.Date
+
+relationship 9f2fca77-ef9b-41f1-b9e3-2fa2acc27396
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fact_Table_Question6.create_date
+	toColumn: LocalDateTable_a432b72c-bea7-46a6-a852-f28b3c99be9d.Date
+
+relationship cde310cc-3f66-47d5-990c-fd2b43a750c1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Fact_Table_Question6.update_date
+	toColumn: LocalDateTable_cf9525bf-aeea-4dea-87e2-e59af6064bfa.Date
+
+relationship 381c9ae5-5884-4ee4-95bd-4f9eb5c0f71f
+	fromColumn: Fact_Table_Question6.SKAge_Group
+	toColumn: Dim_Age_Group.SKAge_Group
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0b395984-d87c-4388-93a0-97c8cb280eee
+	fromColumn: Fact_Table_Question6.SKCasualty_Severity
+	toColumn: Dim_Casualties_Severity.SKCasualty_Severity
+
+	annotation PBI_IsFromSource = FS
+
+relationship f8bc954f-32cf-41a0-b646-2ece5a624f00
+	fromColumn: Fact_Table_Question6.SKCasualty_Type
+	toColumn: Dim_Casualty_Type.SKCasualty_Type
+
+	annotation PBI_IsFromSource = FS
+
+relationship 70f49316-8dce-4893-8e0a-8a5757c93cbb
+	fromColumn: Fact_Table_Question6.SKDate
+	toColumn: Dim_Date_Question6.SKDate
+
+	annotation PBI_IsFromSource = FS
+
+relationship 730c9bec-4494-4c4f-9509-bc650eab8dc6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques3_Dim_Date.Day_
+	toColumn: LocalDateTable_893a1b0f-f01e-4b58-b8dc-55e789558ca5.Date
+
+relationship e65fb420-514a-40d5-907f-452ca52af902
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques3_Dim_Date.create_date
+	toColumn: LocalDateTable_deae9ff1-b781-4a5a-b747-1ce764f0839e.Date
+
+relationship 7b340ada-143c-4450-8af8-7739b5b69e2c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques3_Dim_Date.update_date
+	toColumn: LocalDateTable_49ed6b4e-b3d1-43da-ac95-1dd48308b96f.Date
+
+relationship aab3bcac-e112-4ad8-aed7-e35f80d11c5b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques3_Fact_Table.create_date
+	toColumn: LocalDateTable_e7becc7e-83b0-46aa-bc7f-64b471edf00f.Date
+
+relationship 7e31f82a-ad35-412e-a1e0-d62e409c04b2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques3_Fact_Table.update_date
+	toColumn: LocalDateTable_97c9a941-058d-4abb-8af6-eca480cfb5c3.Date
+
+relationship 36d94b58-c711-4b2f-b077-60627fbb9e19
+	fromColumn: Ques3_Fact_Table.SKAge_Band
+	toColumn: Ques3_Dim_Age_Band.SKAge_Band
+
+	annotation PBI_IsFromSource = FS
+
+relationship a48735ad-11a8-47e7-b415-4d7dc776357f
+	fromColumn: Ques3_Fact_Table.SKCasualty_Severity
+	toColumn: Ques3_Dim_Casualties_Severity.SKCasualty_Severity
+
+	annotation PBI_IsFromSource = FS
+
+relationship aee1400d-ea15-46a6-a223-fe204ad1b0ca
+	fromColumn: Ques3_Fact_Table.SKCasualty_Type
+	toColumn: Ques3_Dim_Casualty_Type.SKCasualty_Type
+
+	annotation PBI_IsFromSource = FS
+
+relationship 918d818f-c02b-4fad-80f8-010f899f6f21
+	fromColumn: Ques3_Fact_Table.SKDate
+	toColumn: Ques3_Dim_Date.SKDate
+
+	annotation PBI_IsFromSource = FS
+
+relationship 1cfc74ac-ee67-4b51-b67f-178ba8c19e72
+	fromColumn: Ques3_Fact_Table.SKGender
+	toColumn: Ques3_Dim_Gender.SKGender
+
+	annotation PBI_IsFromSource = FS
+
+relationship ef9b9113-92f0-49a4-b4c6-3ca08ee5dfd2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques1_2_Dim_Date.Day_
+	toColumn: LocalDateTable_313bad8a-1494-4786-917d-5f9b553c9673.Date
+
+relationship c4ef4206-b49c-4d97-a48f-532fcf06c3e2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques1_2_Dim_Date.create_date
+	toColumn: LocalDateTable_ad142011-a013-440f-8e49-30cc389114e4.Date
+
+relationship 3ab880e6-17ac-4ec9-b43f-ab71f4443d2c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques1_2_Dim_Date.update_date
+	toColumn: LocalDateTable_88e43224-4668-415b-bda1-41401c7272bf.Date
+
+relationship bc8b4448-e915-4c1f-8a37-ef93adf37dc2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques1_2_Fact_Table.create_date
+	toColumn: LocalDateTable_4aaeb1fa-b9b0-4ddd-b9d5-2b85ba2f46ef.Date
+
+relationship 58386c95-f1a5-475b-b14b-582643187cb6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ques1_2_Fact_Table.update_date
+	toColumn: LocalDateTable_3b215759-fe01-476b-9a87-0cda2cfc8946.Date
+
+relationship 6dde3665-7368-4e60-9d6c-6f483b6cf440
+	fromColumn: Ques1_2_Fact_Table.SKCasualty_Severity
+	toColumn: Ques1_2_Dim_Casualties_Severity.SKCasualty_Severity
+
+	annotation PBI_IsFromSource = FS
+
+relationship 0e82e306-46e9-4b8d-bf5e-d2ae46ab25eb
+	fromColumn: Ques1_2_Fact_Table.SKDate
+	toColumn: Ques1_2_Dim_Date.SKDate
+
+	annotation PBI_IsFromSource = FS
+
+relationship c331a65f-ab86-4904-918d-f072d89dd069
+	fromColumn: Ques1_2_Fact_Table.SKLocal_Authority_District
+	toColumn: Ques1_2_Dim_Local_Authority_District.SKLocal_Authority_District
+
+	annotation PBI_IsFromSource = FS
+

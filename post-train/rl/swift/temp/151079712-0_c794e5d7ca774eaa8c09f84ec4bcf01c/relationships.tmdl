@@ -1,0 +1,4 @@
+﻿relationship b8625343-8e47-4e99-ad40-4486c689537b
+	fromColumn: TableA.Address1
+	toColumn: TableB.Address2
+

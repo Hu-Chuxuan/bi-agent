@@ -1,0 +1,19 @@
+Attribute A,Attribute B,variable,value
+A1,B1,ID,1
+A1,B2,ID,2
+A3,B3,ID,6
+A2,B3,ID,3
+A3,B2,ID,5
+A2,B1,ID,4
+A1,B1,Sales,10
+A1,B2,Sales,20
+A3,B3,Sales,320
+A2,B3,Sales,40
+A3,B2,Sales,160
+A2,B1,Sales,80
+A1,B1,Attribute C,C1
+A1,B2,Attribute C,C1
+A3,B3,Attribute C,C2
+A2,B3,Attribute C,C1
+A3,B2,Attribute C,C2
+A2,B1,Attribute C,C2

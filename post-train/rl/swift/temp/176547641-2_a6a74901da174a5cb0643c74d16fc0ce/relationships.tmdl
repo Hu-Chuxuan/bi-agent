@@ -1,0 +1,99 @@
+﻿relationship 15c001a9-5786-4565-9e8c-087af7f0805d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Customers_Lookup.BirthDate
+	toColumn: LocalDateTable_abde8df2-c8a5-493d-868b-37d40889dd12.Date
+
+relationship cb68c65d-9d2c-44ca-b58f-d206eaeba24f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calendar_Lookup.Date
+	toColumn: LocalDateTable_9135dd05-01a7-4f20-bcab-aae8164f4760.Date
+
+relationship 44171be5-ea12-459b-9a3b-a4750eb405db
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AW_Calendar_Lookup.'Start of Week'
+	toColumn: LocalDateTable_f70c78f1-a135-4dc6-8af3-83f57e040059.Date
+
+relationship b13db512-fa19-4f44-a56b-d5b238abe976
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Rolling Calendar'.'Rolling Date'
+	toColumn: LocalDateTable_c1f46737-0aef-4c14-a8ec-ca094f05a7ac.Date
+
+relationship 9869af03-3dd6-4e02-abf2-478904777776
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Rolling Calendar'.'Start of Year'
+	toColumn: LocalDateTable_ce34de7c-7cca-4fe2-98a9-044063591816.Date
+
+relationship 84a58e83-b54c-487d-9073-423b904681ab
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FiscalYear.Date
+	toColumn: LocalDateTable_850b0814-56b0-4c5f-a380-d53485e0a494.Date
+
+relationship 989b0cfe-ef76-4b02-b3b2-8be17d54e104
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Start of Week'.Date
+	toColumn: LocalDateTable_6d71f07f-e056-490a-8d9a-ace1371b003f.Date
+
+relationship c320a50a-7791-4098-afef-57494bebd048
+	fromColumn: AWSales.ProductKey
+	toColumn: AW-Products-Lookup.ProductKey
+
+relationship 11056f9b-3140-4b29-8767-3ae17e78cf7a
+	fromColumn: AWSales.CustomerKey
+	toColumn: AW_Customers_Lookup.CustomerKey
+
+relationship b2b64e42-d6b9-4a22-b2b9-759cf1bb9a8a
+	fromColumn: AW-Products-Lookup.ProductSubcategoryKey
+	toColumn: AW_Product_Subcategory_Lookup.ProductSubcategoryKey
+
+relationship e52b7e84-c126-4146-a7c0-580534331780
+	fromColumn: AW_Product_Subcategory_Lookup.ProductCategoryKey
+	toColumn: AW_Products_Category_Lookup.ProductCategoryKey
+
+relationship 68beb251-b4f0-4d89-8eae-cb0e8d8f9ef5
+	fromColumn: AWSales.TerritoryKey
+	toColumn: AW_Territories_Lookup.SalesTerritoryKey
+
+relationship dee50b5b-c947-43c4-946b-2ae23a910ac9
+	fromColumn: AW_Returns_Lookup.ProductKey
+	toColumn: AW-Products-Lookup.ProductKey
+
+relationship 289f3129-8789-4d52-bcba-72f6c57f4058
+	fromColumn: AW_Returns_Lookup.TerritoryKey
+	toColumn: AW_Territories_Lookup.SalesTerritoryKey
+
+relationship 55a968c4-401f-47e3-99d0-99a2cdbfcfcc
+	fromColumn: AW_Returns_Lookup.ReturnDate
+	toColumn: AW_Calendar_Lookup.Date
+
+relationship 97ec9c3e-6cae-4970-b615-d785d80d91ab
+	fromColumn: AWSales.OrderDate
+	toColumn: 'Rolling Calendar'.'Rolling Date'
+
+relationship ecfd093a-7cf2-4ac2-8fd7-e02bfdc194e9
+	fromColumn: AWSales.OrderDate
+	toColumn: AW_Calendar_Lookup.Date
+
+relationship 6106795b-957b-4e07-933e-09ed00c5225e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AWSales.StockDate
+	toColumn: LocalDateTable_e17e972c-5e12-43a5-a42a-b00e83d87201.Date
+
+relationship 74269baa-7fa4-4681-8100-17947337db78
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Rolling Calendar'.'Start of Month'
+	toColumn: LocalDateTable_ab4ea5bb-b99d-4c12-9c2e-27e4e1bc2cd5.Date
+
+relationship 60d892c3-61d3-4642-bcda-42ee9d72465d
+	fromColumn: AW_Returns_Lookup.ReturnDate
+	toColumn: 'Rolling Calendar'.'Rolling Date'
+
+relationship 3e0da110-a1c2-4e3a-a264-29787d5176ef
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Rolling Calendar'.'Start of Week'
+	toColumn: LocalDateTable_13a90ea4-e41d-4a9d-8826-b1241f6f2c84.Date
+
+relationship 1d36b42e-7638-472b-8e39-3a06d79618a7
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Rolling Calendar'.'Start of Day'
+	toColumn: LocalDateTable_44da8d2a-37b6-4dfe-ac60-a236bb6bc70f.Date
+

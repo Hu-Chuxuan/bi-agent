@@ -1,0 +1,62 @@
+﻿relationship e0e35a1f-7435-4f22-b75b-87ee1b6c9429
+	crossFilteringBehavior: bothDirections
+	fromColumn: Orders.Region
+	toColumn: Region_Cost.Region
+
+relationship 138df2fa-274d-417d-8bc7-8076d504ca86
+	crossFilteringBehavior: bothDirections
+	fromColumn: Orders.Region
+	toColumn: Region_Supervisor.Region
+
+relationship 28bd9691-9975-4791-a033-3bcc430954bb
+	crossFilteringBehavior: bothDirections
+	fromColumn: Orders.'Order ID'
+	toColumn: Returns.'Order ID'
+
+relationship 82d150c1-9ba8-4617-a8e2-d3b1078d9aa2
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Supervisor_Salary.Supervisor
+	toColumn: Region_Supervisor.Supervisor
+
+relationship fe94393f-a1df-4963-be71-266fb80790a6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Orders.'Order Date'
+	toColumn: LocalDateTable_929a9b3e-1325-46ee-b21e-a411ddd907ce.Date
+
+relationship 4672e59b-b138-41af-9726-f1c4e6e0304f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Orders.'Ship Date'
+	toColumn: LocalDateTable_726f98f7-18e9-42a7-8426-e747bae5dbaa.Date
+
+relationship b0f4a450-3e8d-487f-a5c7-b969db963b16
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Orders.Year
+	toColumn: LocalDateTable_95ba35ba-c588-4949-a988-2dfd000bf621.Date
+
+relationship 2de29603-a6e6-4412-8afb-04fda5d4328b
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Users.Region
+	toColumn: Region_Cost.Region
+
+relationship b5ce8ee2-a898-4921-91d4-2597ff3e5443
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Group Table'.Region
+	toColumn: Region_Cost.Region
+
+relationship 5e47e484-4703-4bfb-83a9-2060cacf5631
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Users.Region
+	toColumn: Region_Supervisor.Region
+
+relationship 4bbb8a88-b8f1-4abe-95af-0bd009255868
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Group Table'.Region
+	toColumn: Region_Supervisor.Region
+

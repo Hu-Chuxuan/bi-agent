@@ -1,0 +1,30 @@
+﻿relationship f1bd9a87-028a-4b9c-aa29-14beb08c7f8a
+	fromColumn: Sales.'Order Date'
+	toColumn: Calendar.Date
+
+relationship 02c01b77-b2ab-4117-9a48-3cded1186b82
+	fromColumn: Sales.'Customer Name Index'
+	toColumn: Customers.'Customer Index'
+
+relationship 05b14a47-6dc4-417d-9246-09391ce74bd6
+	fromColumn: Sales.'Delivery Region Index'
+	toColumn: Regions.Index
+
+relationship a1cd9c98-172c-4f27-9217-ebedb5ade793
+	fromColumn: Sales.'Product Description Index'
+	toColumn: Products.Index
+
+relationship a4c4fe20-0567-478e-b21f-3900534175b8
+	isActive: false
+	fromColumn: Invoices.'Clearing Date'
+	toColumn: Calendar.Date
+
+relationship 31843fc1-17f3-4866-b765-7001d9188fd6
+	isActive: false
+	fromColumn: Invoices.'Due Date'
+	toColumn: Calendar.Date
+
+relationship 7060fcb4-2bd0-4505-82b1-3559c0c1811a
+	fromColumn: 'Income Statement Data'.Month
+	toColumn: Calendar.Date
+

@@ -1,0 +1,11 @@
+Holiday,Month,Day,Month Num
+"New Year's Day","January","1",1
+"Birthday of Martin Luther King, Jr.","January","Third Monday",1
+"Washington's Birthday","February","Third Monday",2
+"Memorial Day","May","Last Monday",5
+"Independence Day","July","4",7
+"Labor Day","September","First Monday",9
+"Columbus Day","October","Second Monday",10
+"Veterans Day","November","11",11
+"Thanksgiving Day","November","Fourth Thursday",11
+"Christmas Day","December","25",12

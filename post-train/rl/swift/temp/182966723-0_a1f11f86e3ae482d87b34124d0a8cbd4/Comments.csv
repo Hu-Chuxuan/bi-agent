@@ -1,0 +1,23 @@
+DateID,Account,AccountID,CommentNum,Comment,Value,Invert,Comment marker,Comment title,Comment LF
+20180501,Revenue,1,1,"Register FREE at 
+👉 ZEBRA.BI/WEBINARS 👈",-98000,1,①,Revenue  -98K,"Register FREE at 
+👉 ZEBRA.BI/WEBINARS 👈
+ "
+20180301,Research and development,6,2,Development costs higher than planned because we had to change the outsourced partner to Xcutive Development Ltd which has 25% prices,600000,-1,②,Research and development  +600K,"Development costs higher than planned because we had to change the outsourced partner to Xcutive Development Ltd which has 25% prices
+ "
+20180401,Sales and marketing,7,3,Marketing costs higher that budgeted mostly due to unplanned advertising expenses in the US market.,607000,-1,③,Sales and marketing  +607K,"Marketing costs higher that budgeted mostly due to unplanned advertising expenses in the US market.
+ "
+20180301,Service and other revenue,2,1,Service revenue up +2.1M (+29.7%) vs PY driven by excellent sales of new consulting services launched this year.,2100000,1,①,"Service and other revenue  +2,100K","Service revenue up +2.1M (+29.7%) vs PY driven by excellent sales of new consulting services launched this year.
+ "
+20180501,"Other income, net",11,2,"See you at the webinar, 
+Cheers!",279000,1,②,"Other income, net  +279K","See you at the webinar, 
+Cheers!
+ "
+20180301,Sales and marketing,7,3,Marketing costs higher that budgeted mostly due to unplanned advertising expenses in the US market.,976500,-1,③,Sales and marketing  +977K,"Marketing costs higher that budgeted mostly due to unplanned advertising expenses in the US market.
+ "
+20180401,Research and development,6,2,Chuck Norris is doing a tremendous  job. 98% of our clients are now paying on time!,491000,-1,②,Research and development  +491K,"Chuck Norris is doing a tremendous  job. 98% of our clients are now paying on time!
+ "
+20180401,Service and other revenue,2,1,"Join us at our next Zebra BI webinar ""The Definitive Guide to Income Statements"" on December 3rd 2020! 👀",1500000,1,①,"Service and other revenue  +1,500K","Join us at our next Zebra BI webinar ""The Definitive Guide to Income Statements"" on December 3rd 2020! 👀
+ "
+20180401,General and administrative,8,4,Increased EBIT follows the result in EBITDA.,144000,-1,④,General and administrative  +144K,"Increased EBIT follows the result in EBITDA.
+ "

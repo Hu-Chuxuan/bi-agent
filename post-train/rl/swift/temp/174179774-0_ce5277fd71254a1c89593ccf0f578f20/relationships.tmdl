@@ -1,0 +1,30 @@
+﻿relationship be644763-434e-45b1-8a3c-0d9d71c50ace
+	joinOnDateBehavior: datePartOnly
+	fromColumn: tweets_processed.hourofdate
+	toColumn: LocalDateTable_c5375ba3-97d5-4aef-838c-da46a0791922.Date
+
+relationship a9583c3f-c852-451d-89a3-5ed46b9399d2
+	crossFilteringBehavior: bothDirections
+	fromColumn: tweets_attributeslicer.tweetid
+	toColumn: tweets_processed.tweetid
+
+relationship 8d938873-2e3a-401f-bd41-1a440f87a7ba
+	crossFilteringBehavior: bothDirections
+	fromColumn: tweets_networknavigator.tweetid
+	toColumn: tweets_processed.tweetid
+
+relationship ddb3bf9a-2075-4d57-b38a-f737ff1e05a2
+	crossFilteringBehavior: bothDirections
+	fromColumn: tweets_processed.masterid
+	toColumn: tweets_normalized.masterid
+
+relationship 6e8c919d-9b49-4bd1-b19a-9998d868921c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: banklist.'Closing Date'
+	toColumn: LocalDateTable_b0428a7a-d2b9-4092-98c2-7bc9bba3f13e.Date
+
+relationship c326b5f1-3450-4866-a124-fd8a73ce6b09
+	joinOnDateBehavior: datePartOnly
+	fromColumn: banklist.'Updated Date'
+	toColumn: LocalDateTable_9b28742d-f001-44b3-bc91-37bce2de77c9.Date
+

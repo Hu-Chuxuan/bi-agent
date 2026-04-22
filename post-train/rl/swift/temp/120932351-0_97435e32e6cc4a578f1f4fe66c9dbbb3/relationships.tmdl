@@ -1,0 +1,17 @@
+﻿relationship b87e5f80-ef0e-40d0-bc6f-b6ba6dd836d3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_f093d234-de4e-4770-a5b0-dcfeff4f5bff.Date
+
+relationship 044a320d-81ac-408e-848d-54b56ae2de22
+	fromColumn: Date.YM
+	toColumn: AyTablo2.YA
+
+relationship 0dcaa846-172c-47f6-9833-14505d31fe57
+	fromColumn: Date.YM
+	toColumn: AyTablo.YA
+
+relationship 2eec1bf8-412e-4f54-839c-27900dafece5
+	fromColumn: Liste.date
+	toColumn: Date.Date
+

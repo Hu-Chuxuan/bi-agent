@@ -1,0 +1,13 @@
+TasksID_new,Attribute,Value
+1,"ElectricalOrigin",True
+1,"FuelOrigin",True
+1,"GasOrigin",True
+1,"MechanicalRisks.ObjectsFall",True
+1,"MechanicalRisks.Perfuration",False
+1,"MechanicalRisks.Projections",True
+2,"ElectricalOrigin",False
+2,"FuelOrigin",True
+2,"GasOrigin",False
+2,"MechanicalRisks.ObjectsFall",False
+2,"MechanicalRisks.Perfuration",False
+2,"MechanicalRisks.Projections",False

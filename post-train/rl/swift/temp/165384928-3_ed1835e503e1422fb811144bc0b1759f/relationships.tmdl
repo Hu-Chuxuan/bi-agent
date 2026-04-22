@@ -1,0 +1,61 @@
+﻿relationship e1e86f08-cc1c-48f2-9aba-4fddf579fca6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Govt Measures'.'Entry date'
+	toColumn: LocalDateTable_88205f4b-f7a1-45b0-926f-f9aeda622848.Date
+
+relationship 21e6f44d-7bfc-44b6-90f5-c5b12555f93c
+	fromColumn: 'Govt Measures'.ISO
+	toColumn: Countries.ISO
+
+relationship 372580c9-5cdd-42e1-b7df-a310955cfc7f
+	fromColumn: 'Cases per country'.Country
+	toColumn: Countries.Country
+
+relationship c14fb59b-c328-4d1c-a16f-3a6785d951ee
+	fromColumn: 'Cases per US State'.State
+	toColumn: States.State
+
+relationship 11823667-7f2f-429a-b8ac-6dcac9e557f6
+	fromColumn: 'Cases per US State'.Date
+	toColumn: Dates.Date
+
+relationship 86a185cb-34f7-4885-84cf-00e80c51d513
+	fromColumn: 'Cases per country'.Date
+	toColumn: Dates.Date
+
+relationship 7b9dc434-4b9a-44b4-a37e-9c1070c8f7aa
+	fromColumn: 'Govt Measures'.'Date implemented'
+	toColumn: Dates.Date
+
+relationship 1957136d-e5f3-41f9-882f-43cf3fee2558
+	fromColumn: 'OWID COVID data'.date
+	toColumn: Dates.Date
+
+relationship 01f08640-cf1f-411c-a63c-59944b68ec84
+	fromColumn: 'OWID COVID data'.iso_code
+	toColumn: Countries.ISO
+
+relationship 9472a507-8991-430e-83d6-a8656c4d63f0
+	fromColumn: 'CGRT Mandates'.CountryName
+	toColumn: Countries.Country
+
+relationship 522630e3-279d-4eb5-84b0-619f26212b0c
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Days with restrictions'.CountryCode
+	toColumn: Countries.ISO
+
+relationship e784db96-1975-42e1-ba75-bd9bea95df5b
+	fromColumn: 'GDP History'.ISO
+	toColumn: Countries.ISO
+
+relationship c6a5f2eb-1ee1-418e-b460-a95554874641
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'Days with restrictions grouped'.CountryCode
+	toColumn: Countries.ISO
+
+relationship 865d7d72-6b99-4118-8e48-dc22864cd6c5
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Lats.State
+	toColumn: States.State
+

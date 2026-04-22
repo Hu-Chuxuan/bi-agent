@@ -1,0 +1,5 @@
+Acs_estado,nome_abrv,PK_Acs_Estado
+"Reuniões Extraordinárias do CEAS","ACS-1",1
+"Reuniões Ordinárias do CEAS","ACS-2",2
+"Resoluções Emitidas do CEAS","ACS-3",3
+"Reuniões Técnicas Realizadas pelo CEAS","ACS-4",4

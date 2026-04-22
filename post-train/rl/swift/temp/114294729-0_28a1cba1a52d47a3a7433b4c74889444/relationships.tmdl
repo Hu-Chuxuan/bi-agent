@@ -1,0 +1,25 @@
+﻿relationship 4996fbcf-d405-4410-b989-fea2adf2a0b1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.Date
+	toColumn: LocalDateTable_a5c16df2-370c-4ab8-9088-7c98f630233a.Date
+
+relationship 85d45619-9d32-47f8-8192-2cf0496e6a03
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Dates.WeekEnding
+	toColumn: LocalDateTable_ce1d4cd8-be72-47ca-aee2-97fdb74c0f10.Date
+
+relationship e4b19eb6-f557-4319-9093-c3ce04d927f2
+	isActive: false
+	fromColumn: Sheet1-Harsh.'Actual Date'
+	toColumn: Dates.Date
+
+relationship 1748d01c-aae7-428c-89c3-35f871f91512
+	isActive: false
+	fromColumn: Sheet1-Harsh.'Baseline Date'
+	toColumn: Dates.Date
+
+relationship 033bde6e-8a38-4794-b566-32bb83b31464
+	isActive: false
+	fromColumn: Sheet1-Harsh.'Forecast Date'
+	toColumn: Dates.Date
+

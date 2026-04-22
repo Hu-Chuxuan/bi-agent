@@ -1,0 +1,36 @@
+﻿relationship a10f3f0a-4c01-4994-bcb0-956caab143ff
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Pedidos.'Data.Pedido'
+	toColumn: LocalDateTable_d8271d04-fc9e-4752-946a-0c5cbbc75146.Date
+
+relationship cccc59ca-3c7f-4069-ad16-b5bffe7008a8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Pedidos.'Prazo.Entrega'
+	toColumn: LocalDateTable_ddf5a519-0617-4ceb-84d2-7b699d3aaab3.Date
+
+relationship c7b1cbeb-3320-4666-a4e8-3d67652e4987
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Pedidos.'Data.Entrega'
+	toColumn: LocalDateTable_529c24ac-2987-41eb-94ff-aae712c68c68.Date
+
+relationship 9977f272-e7e3-43af-b53c-c6732a373bf6
+	crossFilteringBehavior: bothDirections
+	fromColumn: DetalhesPedidos.Pedido
+	toColumn: Pedidos.Pedido
+
+relationship 9425b629-f1b4-4936-9a11-1c4ebcb10ae1
+	fromColumn: Pedidos.'Cod.Vendedor'
+	toColumn: Vendedores.'Cod.Vendedor'
+
+relationship 7b2ea8db-6a9a-4daf-bbe3-8fa4ce3a109c
+	fromColumn: Pedidos.'Cod.Unidade'
+	toColumn: Unidades.'Cod.Unidade'
+
+relationship 9d7ca48c-11fd-491c-8dd1-24f846a21e12
+	fromColumn: Pedidos.'Cod.Cliente'
+	toColumn: Clientes.'Cod.Cliente'
+
+relationship c5159995-ddad-46c4-8007-f7f2fab02e37
+	fromColumn: DetalhesPedidos.'Cod.Produto'
+	toColumn: Produtos.'Cod.Produto'
+

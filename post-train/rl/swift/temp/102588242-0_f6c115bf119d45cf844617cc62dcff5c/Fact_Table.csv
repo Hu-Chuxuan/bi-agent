@@ -1,0 +1,601 @@
+SKFact,variable,value
+23562,SKAccident_Severity,3
+19169,SKAccident_Severity,3
+17170,SKAccident_Severity,2
+12758,SKAccident_Severity,2
+13398,SKAccident_Severity,2
+12897,SKAccident_Severity,2
+18881,SKAccident_Severity,3
+12262,SKAccident_Severity,2
+10345,SKAccident_Severity,1
+14527,SKAccident_Severity,2
+17881,SKAccident_Severity,3
+17692,SKAccident_Severity,2
+22843,SKAccident_Severity,3
+21455,SKAccident_Severity,3
+23207,SKAccident_Severity,3
+14130,SKAccident_Severity,2
+16629,SKAccident_Severity,2
+14064,SKAccident_Severity,2
+17289,SKAccident_Severity,2
+20843,SKAccident_Severity,3
+19568,SKAccident_Severity,3
+19540,SKAccident_Severity,3
+15427,SKAccident_Severity,2
+10312,SKAccident_Severity,1
+12276,SKAccident_Severity,2
+19902,SKAccident_Severity,3
+20085,SKAccident_Severity,3
+18083,SKAccident_Severity,3
+10343,SKAccident_Severity,1
+12195,SKAccident_Severity,2
+22957,SKAccident_Severity,3
+20694,SKAccident_Severity,3
+14555,SKAccident_Severity,2
+22456,SKAccident_Severity,3
+19963,SKAccident_Severity,3
+15257,SKAccident_Severity,2
+23150,SKAccident_Severity,3
+20928,SKAccident_Severity,3
+22380,SKAccident_Severity,3
+23125,SKAccident_Severity,3
+14076,SKAccident_Severity,2
+21716,SKAccident_Severity,3
+19419,SKAccident_Severity,3
+16552,SKAccident_Severity,2
+16240,SKAccident_Severity,2
+15755,SKAccident_Severity,2
+21921,SKAccident_Severity,3
+21305,SKAccident_Severity,3
+12128,SKAccident_Severity,1
+16290,SKAccident_Severity,2
+21367,SKAccident_Severity,3
+17924,SKAccident_Severity,3
+13534,SKAccident_Severity,2
+15626,SKAccident_Severity,2
+13722,SKAccident_Severity,2
+19742,SKAccident_Severity,3
+11905,SKAccident_Severity,1
+21946,SKAccident_Severity,3
+12526,SKAccident_Severity,2
+12312,SKAccident_Severity,2
+21416,SKAccident_Severity,3
+21850,SKAccident_Severity,3
+16818,SKAccident_Severity,2
+14926,SKAccident_Severity,2
+22889,SKAccident_Severity,3
+22025,SKAccident_Severity,3
+14272,SKAccident_Severity,2
+22429,SKAccident_Severity,3
+21063,SKAccident_Severity,3
+13496,SKAccident_Severity,2
+18356,SKAccident_Severity,3
+22998,SKAccident_Severity,3
+20739,SKAccident_Severity,3
+18272,SKAccident_Severity,3
+22223,SKAccident_Severity,3
+17664,SKAccident_Severity,2
+10965,SKAccident_Severity,1
+19378,SKAccident_Severity,3
+12730,SKAccident_Severity,2
+17710,SKAccident_Severity,2
+20461,SKAccident_Severity,3
+16784,SKAccident_Severity,2
+22275,SKAccident_Severity,3
+19443,SKAccident_Severity,3
+18697,SKAccident_Severity,3
+11730,SKAccident_Severity,1
+18614,SKAccident_Severity,3
+14736,SKAccident_Severity,2
+16680,SKAccident_Severity,2
+18061,SKAccident_Severity,3
+12825,SKAccident_Severity,2
+19016,SKAccident_Severity,3
+22468,SKAccident_Severity,3
+17086,SKAccident_Severity,2
+15993,SKAccident_Severity,2
+20029,SKAccident_Severity,3
+18297,SKAccident_Severity,3
+18920,SKAccident_Severity,3
+10569,SKAccident_Severity,1
+11269,SKAccident_Severity,1
+23562,SKDate,4309
+19169,SKDate,3232
+17170,SKDate,4185
+12758,SKDate,3116
+13398,SKDate,3216
+12897,SKDate,3152
+18881,SKDate,3288
+12262,SKDate,2957
+10345,SKDate,3136
+14527,SKDate,3441
+17881,SKDate,2993
+17692,SKDate,4354
+22843,SKDate,4278
+21455,SKDate,3931
+23207,SKDate,4305
+14130,SKDate,3403
+16629,SKDate,4174
+14064,SKDate,3386
+17289,SKDate,4343
+20843,SKDate,3586
+19568,SKDate,3396
+19540,SKDate,3453
+15427,SKDate,3801
+10312,SKDate,3046
+12276,SKDate,2964
+19902,SKDate,3543
+20085,SKDate,3525
+18083,SKDate,3016
+10343,SKDate,3070
+12195,SKDate,2987
+22957,SKDate,4243
+20694,SKDate,3613
+14555,SKDate,3577
+22456,SKDate,4118
+19963,SKDate,3558
+15257,SKDate,3821
+23150,SKDate,4163
+20928,SKDate,3736
+22380,SKDate,4035
+23125,SKDate,4285
+14076,SKDate,3453
+21716,SKDate,3933
+19419,SKDate,3422
+16552,SKDate,4027
+16240,SKDate,3883
+15755,SKDate,3951
+21921,SKDate,3984
+21305,SKDate,3830
+12128,SKDate,4379
+16290,SKDate,4024
+21367,SKDate,3909
+17924,SKDate,2951
+13534,SKDate,3315
+15626,SKDate,3853
+13722,SKDate,3427
+19742,SKDate,3375
+11905,SKDate,4195
+21946,SKDate,3990
+12526,SKDate,3056
+12312,SKDate,2982
+21416,SKDate,3730
+21850,SKDate,3838
+16818,SKDate,4095
+14926,SKDate,3672
+22889,SKDate,4162
+22025,SKDate,4010
+14272,SKDate,3568
+22429,SKDate,4111
+21063,SKDate,3833
+13496,SKDate,3241
+18356,SKDate,3093
+22998,SKDate,4253
+20739,SKDate,3560
+18272,SKDate,3072
+22223,SKDate,3995
+17664,SKDate,4338
+10965,SKDate,3488
+19378,SKDate,3284
+12730,SKDate,2981
+17710,SKDate,4364
+20461,SKDate,3555
+16784,SKDate,4150
+22275,SKDate,3944
+19443,SKDate,3236
+18697,SKDate,3242
+11730,SKDate,4127
+18614,SKDate,3093
+14736,SKDate,3495
+16680,SKDate,4187
+18061,SKDate,3072
+12825,SKDate,3070
+19016,SKDate,3258
+22468,SKDate,4057
+17086,SKDate,4099
+15993,SKDate,3948
+20029,SKDate,3383
+18297,SKDate,3014
+18920,SKDate,3298
+10569,SKDate,3122
+11269,SKDate,3716
+23562,SKTime_Of_Day,4
+19169,SKTime_Of_Day,3
+17170,SKTime_Of_Day,3
+12758,SKTime_Of_Day,2
+13398,SKTime_Of_Day,3
+12897,SKTime_Of_Day,2
+18881,SKTime_Of_Day,1
+12262,SKTime_Of_Day,2
+10345,SKTime_Of_Day,1
+14527,SKTime_Of_Day,4
+17881,SKTime_Of_Day,1
+17692,SKTime_Of_Day,3
+22843,SKTime_Of_Day,1
+21455,SKTime_Of_Day,1
+23207,SKTime_Of_Day,2
+14130,SKTime_Of_Day,3
+16629,SKTime_Of_Day,1
+14064,SKTime_Of_Day,3
+17289,SKTime_Of_Day,1
+20843,SKTime_Of_Day,4
+19568,SKTime_Of_Day,2
+19540,SKTime_Of_Day,1
+15427,SKTime_Of_Day,2
+10312,SKTime_Of_Day,2
+12276,SKTime_Of_Day,2
+19902,SKTime_Of_Day,1
+20085,SKTime_Of_Day,2
+18083,SKTime_Of_Day,2
+10343,SKTime_Of_Day,2
+12195,SKTime_Of_Day,1
+22957,SKTime_Of_Day,2
+20694,SKTime_Of_Day,3
+14555,SKTime_Of_Day,2
+22456,SKTime_Of_Day,2
+19963,SKTime_Of_Day,1
+15257,SKTime_Of_Day,1
+23150,SKTime_Of_Day,4
+20928,SKTime_Of_Day,2
+22380,SKTime_Of_Day,3
+23125,SKTime_Of_Day,2
+14076,SKTime_Of_Day,2
+21716,SKTime_Of_Day,2
+19419,SKTime_Of_Day,1
+16552,SKTime_Of_Day,3
+16240,SKTime_Of_Day,4
+15755,SKTime_Of_Day,1
+21921,SKTime_Of_Day,2
+21305,SKTime_Of_Day,2
+12128,SKTime_Of_Day,4
+16290,SKTime_Of_Day,2
+21367,SKTime_Of_Day,1
+17924,SKTime_Of_Day,2
+13534,SKTime_Of_Day,2
+15626,SKTime_Of_Day,2
+13722,SKTime_Of_Day,1
+19742,SKTime_Of_Day,3
+11905,SKTime_Of_Day,3
+21946,SKTime_Of_Day,2
+12526,SKTime_Of_Day,2
+12312,SKTime_Of_Day,2
+21416,SKTime_Of_Day,4
+21850,SKTime_Of_Day,4
+16818,SKTime_Of_Day,3
+14926,SKTime_Of_Day,2
+22889,SKTime_Of_Day,3
+22025,SKTime_Of_Day,2
+14272,SKTime_Of_Day,1
+22429,SKTime_Of_Day,2
+21063,SKTime_Of_Day,1
+13496,SKTime_Of_Day,3
+18356,SKTime_Of_Day,2
+22998,SKTime_Of_Day,2
+20739,SKTime_Of_Day,4
+18272,SKTime_Of_Day,2
+22223,SKTime_Of_Day,3
+17664,SKTime_Of_Day,3
+10965,SKTime_Of_Day,3
+19378,SKTime_Of_Day,3
+12730,SKTime_Of_Day,4
+17710,SKTime_Of_Day,3
+20461,SKTime_Of_Day,3
+16784,SKTime_Of_Day,2
+22275,SKTime_Of_Day,4
+19443,SKTime_Of_Day,4
+18697,SKTime_Of_Day,1
+11730,SKTime_Of_Day,2
+18614,SKTime_Of_Day,3
+14736,SKTime_Of_Day,4
+16680,SKTime_Of_Day,1
+18061,SKTime_Of_Day,1
+12825,SKTime_Of_Day,3
+19016,SKTime_Of_Day,2
+22468,SKTime_Of_Day,3
+17086,SKTime_Of_Day,4
+15993,SKTime_Of_Day,2
+20029,SKTime_Of_Day,4
+18297,SKTime_Of_Day,3
+18920,SKTime_Of_Day,1
+10569,SKTime_Of_Day,4
+11269,SKTime_Of_Day,3
+23562,Number_of_Accidents,18
+19169,Number_of_Accidents,16
+17170,Number_of_Accidents,3
+12758,Number_of_Accidents,4
+13398,Number_of_Accidents,4
+12897,Number_of_Accidents,7
+18881,Number_of_Accidents,6
+12262,Number_of_Accidents,2
+10345,Number_of_Accidents,1
+14527,Number_of_Accidents,7
+17881,Number_of_Accidents,26
+17692,Number_of_Accidents,8
+22843,Number_of_Accidents,32
+21455,Number_of_Accidents,19
+23207,Number_of_Accidents,43
+14130,Number_of_Accidents,5
+16629,Number_of_Accidents,11
+14064,Number_of_Accidents,3
+17289,Number_of_Accidents,6
+20843,Number_of_Accidents,13
+19568,Number_of_Accidents,43
+19540,Number_of_Accidents,36
+15427,Number_of_Accidents,4
+10312,Number_of_Accidents,1
+12276,Number_of_Accidents,8
+19902,Number_of_Accidents,42
+20085,Number_of_Accidents,49
+18083,Number_of_Accidents,50
+10343,Number_of_Accidents,1
+12195,Number_of_Accidents,4
+22957,Number_of_Accidents,45
+20694,Number_of_Accidents,36
+14555,Number_of_Accidents,7
+22456,Number_of_Accidents,38
+19963,Number_of_Accidents,50
+15257,Number_of_Accidents,6
+23150,Number_of_Accidents,23
+20928,Number_of_Accidents,10
+22380,Number_of_Accidents,29
+23125,Number_of_Accidents,42
+14076,Number_of_Accidents,6
+21716,Number_of_Accidents,41
+19419,Number_of_Accidents,39
+16552,Number_of_Accidents,7
+16240,Number_of_Accidents,5
+15755,Number_of_Accidents,6
+21921,Number_of_Accidents,51
+21305,Number_of_Accidents,42
+12128,Number_of_Accidents,2
+16290,Number_of_Accidents,4
+21367,Number_of_Accidents,47
+17924,Number_of_Accidents,25
+13534,Number_of_Accidents,5
+15626,Number_of_Accidents,11
+13722,Number_of_Accidents,3
+19742,Number_of_Accidents,30
+11905,Number_of_Accidents,1
+21946,Number_of_Accidents,44
+12526,Number_of_Accidents,2
+12312,Number_of_Accidents,9
+21416,Number_of_Accidents,5
+21850,Number_of_Accidents,12
+16818,Number_of_Accidents,3
+14926,Number_of_Accidents,3
+22889,Number_of_Accidents,25
+22025,Number_of_Accidents,48
+14272,Number_of_Accidents,2
+22429,Number_of_Accidents,43
+21063,Number_of_Accidents,26
+13496,Number_of_Accidents,4
+18356,Number_of_Accidents,44
+22998,Number_of_Accidents,39
+20739,Number_of_Accidents,21
+18272,Number_of_Accidents,45
+22223,Number_of_Accidents,19
+17664,Number_of_Accidents,3
+10965,Number_of_Accidents,1
+19378,Number_of_Accidents,18
+12730,Number_of_Accidents,2
+17710,Number_of_Accidents,4
+20461,Number_of_Accidents,37
+16784,Number_of_Accidents,7
+22275,Number_of_Accidents,18
+19443,Number_of_Accidents,11
+18697,Number_of_Accidents,28
+11730,Number_of_Accidents,1
+18614,Number_of_Accidents,36
+14736,Number_of_Accidents,3
+16680,Number_of_Accidents,7
+18061,Number_of_Accidents,25
+12825,Number_of_Accidents,4
+19016,Number_of_Accidents,50
+22468,Number_of_Accidents,23
+17086,Number_of_Accidents,4
+15993,Number_of_Accidents,2
+20029,Number_of_Accidents,12
+18297,Number_of_Accidents,32
+18920,Number_of_Accidents,43
+10569,Number_of_Accidents,1
+11269,Number_of_Accidents,2
+23562,create_date,2021-12-06 20:11:53.530
+19169,create_date,2021-12-06 20:11:53.413
+17170,create_date,2021-12-06 20:11:53.413
+12758,create_date,2021-12-06 20:11:53.406
+13398,create_date,2021-12-06 20:11:53.410
+12897,create_date,2021-12-06 20:11:53.406
+18881,create_date,2021-12-06 20:11:53.413
+12262,create_date,2021-12-06 20:11:53.406
+10345,create_date,2021-12-06 20:11:53.406
+14527,create_date,2021-12-06 20:11:53.410
+17881,create_date,2021-12-06 20:11:53.413
+17692,create_date,2021-12-06 20:11:53.413
+22843,create_date,2021-12-06 20:11:53.530
+21455,create_date,2021-12-06 20:11:53.526
+23207,create_date,2021-12-06 20:11:53.530
+14130,create_date,2021-12-06 20:11:53.410
+16629,create_date,2021-12-06 20:11:53.410
+14064,create_date,2021-12-06 20:11:53.410
+17289,create_date,2021-12-06 20:11:53.413
+20843,create_date,2021-12-06 20:11:53.526
+19568,create_date,2021-12-06 20:11:53.413
+19540,create_date,2021-12-06 20:11:53.413
+15427,create_date,2021-12-06 20:11:53.410
+10312,create_date,2021-12-06 20:11:53.406
+12276,create_date,2021-12-06 20:11:53.406
+19902,create_date,2021-12-06 20:11:53.413
+20085,create_date,2021-12-06 20:11:53.526
+18083,create_date,2021-12-06 20:11:53.413
+10343,create_date,2021-12-06 20:11:53.406
+12195,create_date,2021-12-06 20:11:53.406
+22957,create_date,2021-12-06 20:11:53.530
+20694,create_date,2021-12-06 20:11:53.526
+14555,create_date,2021-12-06 20:11:53.410
+22456,create_date,2021-12-06 20:11:53.526
+19963,create_date,2021-12-06 20:11:53.413
+15257,create_date,2021-12-06 20:11:53.410
+23150,create_date,2021-12-06 20:11:53.530
+20928,create_date,2021-12-06 20:11:53.526
+22380,create_date,2021-12-06 20:11:53.526
+23125,create_date,2021-12-06 20:11:53.530
+14076,create_date,2021-12-06 20:11:53.410
+21716,create_date,2021-12-06 20:11:53.526
+19419,create_date,2021-12-06 20:11:53.413
+16552,create_date,2021-12-06 20:11:53.410
+16240,create_date,2021-12-06 20:11:53.410
+15755,create_date,2021-12-06 20:11:53.410
+21921,create_date,2021-12-06 20:11:53.526
+21305,create_date,2021-12-06 20:11:53.526
+12128,create_date,2021-12-06 20:11:53.406
+16290,create_date,2021-12-06 20:11:53.410
+21367,create_date,2021-12-06 20:11:53.526
+17924,create_date,2021-12-06 20:11:53.413
+13534,create_date,2021-12-06 20:11:53.410
+15626,create_date,2021-12-06 20:11:53.410
+13722,create_date,2021-12-06 20:11:53.410
+19742,create_date,2021-12-06 20:11:53.413
+11905,create_date,2021-12-06 20:11:53.406
+21946,create_date,2021-12-06 20:11:53.526
+12526,create_date,2021-12-06 20:11:53.406
+12312,create_date,2021-12-06 20:11:53.406
+21416,create_date,2021-12-06 20:11:53.526
+21850,create_date,2021-12-06 20:11:53.526
+16818,create_date,2021-12-06 20:11:53.410
+14926,create_date,2021-12-06 20:11:53.410
+22889,create_date,2021-12-06 20:11:53.530
+22025,create_date,2021-12-06 20:11:53.526
+14272,create_date,2021-12-06 20:11:53.410
+22429,create_date,2021-12-06 20:11:53.526
+21063,create_date,2021-12-06 20:11:53.526
+13496,create_date,2021-12-06 20:11:53.410
+18356,create_date,2021-12-06 20:11:53.413
+22998,create_date,2021-12-06 20:11:53.530
+20739,create_date,2021-12-06 20:11:53.526
+18272,create_date,2021-12-06 20:11:53.413
+22223,create_date,2021-12-06 20:11:53.526
+17664,create_date,2021-12-06 20:11:53.413
+10965,create_date,2021-12-06 20:11:53.406
+19378,create_date,2021-12-06 20:11:53.413
+12730,create_date,2021-12-06 20:11:53.406
+17710,create_date,2021-12-06 20:11:53.413
+20461,create_date,2021-12-06 20:11:53.526
+16784,create_date,2021-12-06 20:11:53.410
+22275,create_date,2021-12-06 20:11:53.526
+19443,create_date,2021-12-06 20:11:53.413
+18697,create_date,2021-12-06 20:11:53.413
+11730,create_date,2021-12-06 20:11:53.406
+18614,create_date,2021-12-06 20:11:53.413
+14736,create_date,2021-12-06 20:11:53.410
+16680,create_date,2021-12-06 20:11:53.410
+18061,create_date,2021-12-06 20:11:53.413
+12825,create_date,2021-12-06 20:11:53.406
+19016,create_date,2021-12-06 20:11:53.413
+22468,create_date,2021-12-06 20:11:53.526
+17086,create_date,2021-12-06 20:11:53.413
+15993,create_date,2021-12-06 20:11:53.410
+20029,create_date,2021-12-06 20:11:53.526
+18297,create_date,2021-12-06 20:11:53.413
+18920,create_date,2021-12-06 20:11:53.413
+10569,create_date,2021-12-06 20:11:53.406
+11269,create_date,2021-12-06 20:11:53.406
+23562,update_date,2021-12-06 20:11:53.530
+19169,update_date,2021-12-06 20:11:53.413
+17170,update_date,2021-12-06 20:11:53.413
+12758,update_date,2021-12-06 20:11:53.406
+13398,update_date,2021-12-06 20:11:53.410
+12897,update_date,2021-12-06 20:11:53.406
+18881,update_date,2021-12-06 20:11:53.413
+12262,update_date,2021-12-06 20:11:53.406
+10345,update_date,2021-12-06 20:11:53.406
+14527,update_date,2021-12-06 20:11:53.410
+17881,update_date,2021-12-06 20:11:53.413
+17692,update_date,2021-12-06 20:11:53.413
+22843,update_date,2021-12-06 20:11:53.530
+21455,update_date,2021-12-06 20:11:53.526
+23207,update_date,2021-12-06 20:11:53.530
+14130,update_date,2021-12-06 20:11:53.410
+16629,update_date,2021-12-06 20:11:53.410
+14064,update_date,2021-12-06 20:11:53.410
+17289,update_date,2021-12-06 20:11:53.413
+20843,update_date,2021-12-06 20:11:53.526
+19568,update_date,2021-12-06 20:11:53.413
+19540,update_date,2021-12-06 20:11:53.413
+15427,update_date,2021-12-06 20:11:53.410
+10312,update_date,2021-12-06 20:11:53.406
+12276,update_date,2021-12-06 20:11:53.406
+19902,update_date,2021-12-06 20:11:53.413
+20085,update_date,2021-12-06 20:11:53.526
+18083,update_date,2021-12-06 20:11:53.413
+10343,update_date,2021-12-06 20:11:53.406
+12195,update_date,2021-12-06 20:11:53.406
+22957,update_date,2021-12-06 20:11:53.530
+20694,update_date,2021-12-06 20:11:53.526
+14555,update_date,2021-12-06 20:11:53.410
+22456,update_date,2021-12-06 20:11:53.526
+19963,update_date,2021-12-06 20:11:53.413
+15257,update_date,2021-12-06 20:11:53.410
+23150,update_date,2021-12-06 20:11:53.530
+20928,update_date,2021-12-06 20:11:53.526
+22380,update_date,2021-12-06 20:11:53.526
+23125,update_date,2021-12-06 20:11:53.530
+14076,update_date,2021-12-06 20:11:53.410
+21716,update_date,2021-12-06 20:11:53.526
+19419,update_date,2021-12-06 20:11:53.413
+16552,update_date,2021-12-06 20:11:53.410
+16240,update_date,2021-12-06 20:11:53.410
+15755,update_date,2021-12-06 20:11:53.410
+21921,update_date,2021-12-06 20:11:53.526
+21305,update_date,2021-12-06 20:11:53.526
+12128,update_date,2021-12-06 20:11:53.406
+16290,update_date,2021-12-06 20:11:53.410
+21367,update_date,2021-12-06 20:11:53.526
+17924,update_date,2021-12-06 20:11:53.413
+13534,update_date,2021-12-06 20:11:53.410
+15626,update_date,2021-12-06 20:11:53.410
+13722,update_date,2021-12-06 20:11:53.410
+19742,update_date,2021-12-06 20:11:53.413
+11905,update_date,2021-12-06 20:11:53.406
+21946,update_date,2021-12-06 20:11:53.526
+12526,update_date,2021-12-06 20:11:53.406
+12312,update_date,2021-12-06 20:11:53.406
+21416,update_date,2021-12-06 20:11:53.526
+21850,update_date,2021-12-06 20:11:53.526
+16818,update_date,2021-12-06 20:11:53.410
+14926,update_date,2021-12-06 20:11:53.410
+22889,update_date,2021-12-06 20:11:53.530
+22025,update_date,2021-12-06 20:11:53.526
+14272,update_date,2021-12-06 20:11:53.410
+22429,update_date,2021-12-06 20:11:53.526
+21063,update_date,2021-12-06 20:11:53.526
+13496,update_date,2021-12-06 20:11:53.410
+18356,update_date,2021-12-06 20:11:53.413
+22998,update_date,2021-12-06 20:11:53.530
+20739,update_date,2021-12-06 20:11:53.526
+18272,update_date,2021-12-06 20:11:53.413
+22223,update_date,2021-12-06 20:11:53.526
+17664,update_date,2021-12-06 20:11:53.413
+10965,update_date,2021-12-06 20:11:53.406
+19378,update_date,2021-12-06 20:11:53.413
+12730,update_date,2021-12-06 20:11:53.406
+17710,update_date,2021-12-06 20:11:53.413
+20461,update_date,2021-12-06 20:11:53.526
+16784,update_date,2021-12-06 20:11:53.410
+22275,update_date,2021-12-06 20:11:53.526
+19443,update_date,2021-12-06 20:11:53.413
+18697,update_date,2021-12-06 20:11:53.413
+11730,update_date,2021-12-06 20:11:53.406
+18614,update_date,2021-12-06 20:11:53.413
+14736,update_date,2021-12-06 20:11:53.410
+16680,update_date,2021-12-06 20:11:53.410
+18061,update_date,2021-12-06 20:11:53.413
+12825,update_date,2021-12-06 20:11:53.406
+19016,update_date,2021-12-06 20:11:53.413
+22468,update_date,2021-12-06 20:11:53.526
+17086,update_date,2021-12-06 20:11:53.413
+15993,update_date,2021-12-06 20:11:53.410
+20029,update_date,2021-12-06 20:11:53.526
+18297,update_date,2021-12-06 20:11:53.413
+18920,update_date,2021-12-06 20:11:53.413
+10569,update_date,2021-12-06 20:11:53.406
+11269,update_date,2021-12-06 20:11:53.406

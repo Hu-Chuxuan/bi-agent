@@ -1,0 +1,16 @@
+﻿relationship c08292e1-6352-4174-909a-ed3e19dabe41
+	fromColumn: Store.GeographyKey
+	toColumn: Geography.GeographyKey
+
+relationship ab890953-7615-4057-a2f7-f3f0b1ce9958
+	fromColumn: Sales.StoreKey
+	toColumn: Store.StoreKey
+
+relationship 93a74960-50e7-476f-94ac-d984169c4cb9
+	fromColumn: Sales.ProductKey
+	toColumn: Product.ProductKey
+
+relationship e36ed45b-46e6-45ba-b360-508c942c0ef1
+	fromColumn: Sales.DateKey
+	toColumn: Date.Datekey
+

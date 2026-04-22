@@ -1,0 +1,8 @@
+DepartmentGroupKey,ParentDepartmentGroupKey,Department Name,Parent Department
+1,,"Corporate",""
+2,1,"Executive General and Administration","Corporate"
+3,1,"Inventory Management","Corporate"
+4,1,"Manufacturing","Corporate"
+5,1,"Quality Assurance","Corporate"
+6,1,"Research and Development","Corporate"
+7,1,"Sales and Marketing","Corporate"

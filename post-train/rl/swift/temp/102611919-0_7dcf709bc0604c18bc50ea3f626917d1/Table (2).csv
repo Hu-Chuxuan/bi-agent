@@ -1,0 +1,4 @@
+Income,Purchase evolution,p value purchase,Amount evolution,p value amount
+Low,—,,—,
+Medium,0.19,0.6,-960,<0.001
+High,3.8,<0.001,-799,<0.001

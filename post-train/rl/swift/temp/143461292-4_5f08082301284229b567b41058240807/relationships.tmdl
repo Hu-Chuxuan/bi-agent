@@ -1,0 +1,71 @@
+﻿relationship 385084dd-e6f6-4e98-8413-7f2fe9312d52
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Kalender.Date
+	toColumn: LocalDateTable_e66ff039-a969-4081-b35d-454ffdaca025.Date
+
+relationship 9ae00d70-3c13-4611-9705-be4d9708bd95
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Kalender.'Start of Year'
+	toColumn: LocalDateTable_b1e7ddff-2534-4417-9ffa-a428a067ddb5.Date
+
+relationship 7d0fd8c8-1f4d-4c2e-b873-d0e718534356
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Kalender.'End of Year'
+	toColumn: LocalDateTable_b691481b-10b3-4bdc-8c45-f41917facc1a.Date
+
+relationship 5f1ee8f2-58fd-45a8-9c4e-7fbc5b4ae825
+	toCardinality: many
+	fromColumn: 'Budget Verkoop voor DB 2020'.Maand
+	toColumn: Kalender.Month
+
+relationship 727d4840-3256-43d0-bc79-cda025c5f102
+	toCardinality: many
+	fromColumn: 'Budget Verhuur voor DB 2020'.Kenmerk
+	toColumn: Kalender.Month
+
+relationship e656a29b-8233-4915-8404-5e2f92526e06
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Kalender.'Start of Month'
+	toColumn: LocalDateTable_edb38757-5c3d-4237-8b59-af07a485c6aa.Date
+
+relationship d148ef3d-70fc-40fb-8c9f-073c8f1dd47a
+	toCardinality: many
+	fromColumn: 'Budget Service voor DB 2020'.Kenmerk
+	toColumn: Kalender.Month
+
+relationship 63fc07f9-c7de-43ff-b362-8590782a43bf
+	toCardinality: many
+	fromColumn: 'Financiele exports'.Jaar-Maand
+	toColumn: Kalender.JaarMaand
+
+relationship b9271796-eb62-48db-b1d3-abe8b8193ea4
+	toCardinality: many
+	fromColumn: 'Omzet 2020'.Jaar-Maand
+	toColumn: Kalender.JaarMaand
+
+relationship 0f11dcd6-34f9-49af-984d-127917cf39da
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: Mapping.Nummer
+	toColumn: 'Financiele exports'.Nummer
+
+relationship 85793f8a-2882-4453-9fda-9d7f46cd1d11
+	toCardinality: many
+	fromColumn: 'Begroting financieel'.Periode
+	toColumn: Kalender.JaarMaand
+
+relationship c07245e3-ab45-4083-9bb2-72a4f878489b
+	toCardinality: many
+	fromColumn: 'Marge 2020'.Jaar-Maand
+	toColumn: Kalender.JaarMaand
+
+relationship 208aeb43-b2ae-44f3-b00e-135337e95ce2
+	toCardinality: many
+	fromColumn: 'Lonen 2020'.Jaar-Maand
+	toColumn: Kalender.JaarMaand
+
+relationship 94a020ab-7105-4820-8984-11c50e56783a
+	toCardinality: many
+	fromColumn: 'Lonen 2020 tbv Verkoop'.Jaar-Maand
+	toColumn: Kalender.JaarMaand
+

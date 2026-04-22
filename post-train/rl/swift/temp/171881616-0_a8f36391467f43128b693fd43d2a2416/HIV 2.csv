@@ -1,0 +1,317 @@
+Year,Category,Group,Count
+2011,"Age at Year End","0-11",169
+2011,"Age at Year End","12-14",87
+2011,"Age at Year End","15-17",180
+2011,"Age at Year End","18-19",315
+2011,"Age at Year End","20-24",2971
+2011,"Age at Year End","25-29",6476
+2011,"Age at Year End","30-34",9144
+2011,"Age at Year End","35-39",11188
+2011,"Age at Year End","40-44",18025
+2011,"Age at Year End","45-49",23610
+2011,"Age at Year End","50-54",19850
+2011,"Age at Year End","55-59",13160
+2011,"Age at Year End","60-64",7588
+2011,"Age at Year End","65-74",4892
+2011,"Age at Year End",">= 75",832
+2012,"Age at Year End","0-11",154
+2012,"Age at Year End","12-14",79
+2012,"Age at Year End","15-17",159
+2012,"Age at Year End","18-19",307
+2012,"Age at Year End","20-24",3025
+2012,"Age at Year End","25-29",6792
+2012,"Age at Year End","30-34",9348
+2012,"Age at Year End","35-39",10996
+2012,"Age at Year End","40-44",16978
+2012,"Age at Year End","45-49",23025
+2012,"Age at Year End","50-54",21266
+2012,"Age at Year End","55-59",14362
+2012,"Age at Year End","60-64",8422
+2012,"Age at Year End","65-74",5698
+2012,"Age at Year End",">= 75",976
+2013,"Age at Year End","0-11",156
+2013,"Age at Year End","12-14",73
+2013,"Age at Year End","15-17",142
+2013,"Age at Year End","18-19",283
+2013,"Age at Year End","20-24",3008
+2013,"Age at Year End","25-29",6980
+2013,"Age at Year End","30-34",9544
+2013,"Age at Year End","35-39",10968
+2013,"Age at Year End","40-44",15848
+2013,"Age at Year End","45-49",22200
+2013,"Age at Year End","50-54",22495
+2013,"Age at Year End","55-59",15495
+2013,"Age at Year End","60-64",9304
+2013,"Age at Year End","65-74",6610
+2013,"Age at Year End",">= 75",1129
+2014,"Age at Year End","0-11",152
+2014,"Age at Year End","12-14",72
+2014,"Age at Year End","15-17",129
+2014,"Age at Year End","18-19",247
+2014,"Age at Year End","20-24",3074
+2014,"Age at Year End","25-29",7301
+2014,"Age at Year End","30-34",9820
+2014,"Age at Year End","35-39",11140
+2014,"Age at Year End","40-44",14739
+2014,"Age at Year End","45-49",20855
+2014,"Age at Year End","50-54",23348
+2014,"Age at Year End","55-59",16471
+2014,"Age at Year End","60-64",10184
+2014,"Age at Year End","65-74",7520
+2014,"Age at Year End",">= 75",1324
+2015,"Age at Year End","0-11",139
+2015,"Age at Year End","12-14",69
+2015,"Age at Year End","15-17",124
+2015,"Age at Year End","18-19",255
+2015,"Age at Year End","20-24",3098
+2015,"Age at Year End","25-29",7491
+2015,"Age at Year End","30-34",10072
+2015,"Age at Year End","35-39",11436
+2015,"Age at Year End","40-44",13630
+2015,"Age at Year End","45-49",19975
+2015,"Age at Year End","50-54",23887
+2015,"Age at Year End","55-59",17778
+2015,"Age at Year End","60-64",11118
+2015,"Age at Year End","65-74",8675
+2015,"Age at Year End",">= 75",1569
+2016,"Age at Year End","0-11",124
+2016,"Age at Year End","12-14",82
+2016,"Age at Year End","15-17",112
+2016,"Age at Year End","18-19",249
+2016,"Age at Year End","20-24",3088
+2016,"Age at Year End","25-29",7805
+2016,"Age at Year End","30-34",10432
+2016,"Age at Year End","35-39",11943
+2016,"Age at Year End","40-44",13036
+2016,"Age at Year End","45-49",19160
+2016,"Age at Year End","50-54",23746
+2016,"Age at Year End","55-59",19222
+2016,"Age at Year End","60-64",12248
+2016,"Age at Year End","65-74",9826
+2016,"Age at Year End",">= 75",1835
+2017,"Age at Year End","0-11",110
+2017,"Age at Year End","12-14",78
+2017,"Age at Year End","15-17",98
+2017,"Age at Year End","18-19",239
+2017,"Age at Year End","20-24",2950
+2017,"Age at Year End","25-29",7821
+2017,"Age at Year End","30-34",10726
+2017,"Age at Year End","35-39",12178
+2017,"Age at Year End","40-44",12839
+2017,"Age at Year End","45-49",18009
+2017,"Age at Year End","50-54",23054
+2017,"Age at Year End","55-59",20467
+2017,"Age at Year End","60-64",13331
+2017,"Age at Year End","65-74",11071
+2017,"Age at Year End",">= 75",2111
+2011,"Current Gender","Cisgender men",102868
+2011,"Current Gender","Cisgender women",14064
+2011,"Current Gender","Transgender women",1515
+2011,"Current Gender","Transgender men",35
+2011,"Current Gender","Alternative Gender",5
+2011,"Race/Ethnicity","American Indian/Alaska Native",359
+2011,"Race/Ethnicity","Asian*",3670
+2011,"Race/Ethnicity","Black/African American",20726
+2011,"Race/Ethnicity","Latinx*",38702
+2011,"Race/Ethnicity","Native Hawaiian/Pacific Islander",206
+2011,"Race/Ethnicity","White",51099
+2011,"Race/Ethnicity","Multiple races",3721
+2011,"Race/Ethnicity","Unknown race",4
+2011,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",79109
+2011,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5415
+2011,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",10028
+2011,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3317
+2011,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",2979
+2011,"Transmission Category: Male Adult or Adolescent","Perinatal",257
+2011,"Transmission Category: Male Adult or Adolescent","Unknown risk",2914
+2011,"Transmission Category: Male Adult or Adolescent","Other****",289
+2011,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",3030
+2011,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",7470
+2011,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",2359
+2011,"Transmission Category: Female Adult or Adolescent","Perinatal",294
+2011,"Transmission Category: Female Adult or Adolescent","Unknown risk",703
+2011,"Transmission Category: Female Adult or Adolescent","Other****",154
+2011,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",150
+2011,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",18
+2011,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",1
+2012,"Current Gender","Cisgender men",105646
+2012,"Current Gender","Cisgender women",14328
+2012,"Current Gender","Transgender women",1571
+2012,"Current Gender","Transgender men",37
+2012,"Current Gender","Alternative Gender",5
+2012,"Race/Ethnicity","American Indian/Alaska Native",362
+2012,"Race/Ethnicity","Asian*",3953
+2012,"Race/Ethnicity","Black/African American",21221
+2012,"Race/Ethnicity","Latinx*",40379
+2012,"Race/Ethnicity","Native Hawaiian/Pacific Islander",220
+2012,"Race/Ethnicity","White",51645
+2012,"Race/Ethnicity","Multiple races",3803
+2012,"Race/Ethnicity","Unknown race",4
+2012,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",81625
+2012,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5369
+2012,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9923
+2012,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3366
+2012,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",3177
+2012,"Transmission Category: Male Adult or Adolescent","Perinatal",265
+2012,"Transmission Category: Male Adult or Adolescent","Unknown risk",3145
+2012,"Transmission Category: Male Adult or Adolescent","Other****",278
+2012,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2983
+2012,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",7600
+2012,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",2494
+2012,"Transmission Category: Female Adult or Adolescent","Perinatal",304
+2012,"Transmission Category: Female Adult or Adolescent","Unknown risk",752
+2012,"Transmission Category: Female Adult or Adolescent","Other****",152
+2012,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",134
+2012,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",19
+2012,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",1
+2013,"Current Gender","Cisgender men",107989
+2013,"Current Gender","Cisgender women",14586
+2013,"Current Gender","Transgender women",1618
+2013,"Current Gender","Transgender men",37
+2013,"Current Gender","Alternative Gender",5
+2013,"Race/Ethnicity","American Indian/Alaska Native",360
+2013,"Race/Ethnicity","Asian*",4207
+2013,"Race/Ethnicity","Black/African American",21631
+2013,"Race/Ethnicity","Latinx*",41881
+2013,"Race/Ethnicity","Native Hawaiian/Pacific Islander",227
+2013,"Race/Ethnicity","White",52010
+2013,"Race/Ethnicity","Multiple races",3915
+2013,"Race/Ethnicity","Unknown race",4
+2013,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",83680
+2013,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5312
+2013,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9825
+2013,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3435
+2013,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",3389
+2013,"Transmission Category: Male Adult or Adolescent","Perinatal",273
+2013,"Transmission Category: Male Adult or Adolescent","Unknown risk",3355
+2013,"Transmission Category: Male Adult or Adolescent","Other****",270
+2013,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2922
+2013,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",7704
+2013,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",2644
+2013,"Transmission Category: Female Adult or Adolescent","Perinatal",316
+2013,"Transmission Category: Female Adult or Adolescent","Unknown risk",802
+2013,"Transmission Category: Female Adult or Adolescent","Other***",152
+2013,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",129
+2013,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",26
+2013,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",1
+2014,"Current Gender","Cisgender men",109804
+2014,"Current Gender","Cisgender women",14885
+2014,"Current Gender","Transgender women",1643
+2014,"Current Gender","Transgender men",39
+2014,"Current Gender","Alternative Gender",5
+2014,"Race/Ethnicity","American Indian/Alaska Native",356
+2014,"Race/Ethnicity","Asian*",4511
+2014,"Race/Ethnicity","Black/African American",21925
+2014,"Race/Ethnicity","Latinx*",43571
+2014,"Race/Ethnicity","Native Hawaiian/Pacific Islander",231
+2014,"Race/Ethnicity","White",51770
+2014,"Race/Ethnicity","Multiple races",4008
+2014,"Race/Ethnicity","Unknown race",4
+2014,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",85197
+2014,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5277
+2014,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9603
+2014,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3512
+2014,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",3626
+2014,"Transmission Category: Male Adult or Adolescent","Perinatal",283
+2014,"Transmission Category: Male Adult or Adolescent","Unknown risk",3618
+2014,"Transmission Category: Male Adult or Adolescent","Other****",265
+2014,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2872
+2014,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",7813
+2014,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",2850
+2014,"Transmission Category: Female Adult or Adolescent","Perinatal",322
+2014,"Transmission Category: Female Adult or Adolescent","Unknown risk",839
+2014,"Transmission Category: Female Adult or Adolescent","Other****",147
+2014,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",124
+2014,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",27
+2014,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",1
+2015,"Current Gender","Cisgender men",112405
+2015,"Current Gender","Cisgender women",15161
+2015,"Current Gender","Transgender women",1704
+2015,"Current Gender","Transgender men",42
+2015,"Current Gender","Alternative Gender",4
+2015,"Race/Ethnicity","American Indian/Alaska Native",357
+2015,"Race/Ethnicity","Asian*",4774
+2015,"Race/Ethnicity","Black/African American",22315
+2015,"Race/Ethnicity","Latinx*",45211
+2015,"Race/Ethnicity","Native Hawaiian/Pacific Islander",242
+2015,"Race/Ethnicity","White",52312
+2015,"Race/Ethnicity","Multiple races",4101
+2015,"Race/Ethnicity","Unknown race",4
+2015,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",87429
+2015,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5242
+2015,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9467
+2015,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3548
+2015,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",3891
+2015,"Transmission Category: Male Adult or Adolescent","Perinatal",290
+2015,"Transmission Category: Male Adult or Adolescent","Unknown risk",3932
+2015,"Transmission Category: Male Adult or Adolescent","Other****",251
+2015,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2820
+2015,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",7913
+2015,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",3028
+2015,"Transmission Category: Female Adult or Adolescent","Perinatal",338
+2015,"Transmission Category: Female Adult or Adolescent","Unknown risk",887
+2015,"Transmission Category: Female Adult or Adolescent","Other****",141
+2015,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",114
+2015,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",24
+2015,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",1
+2016,"Current Gender","Cisgender men",115540
+2016,"Current Gender","Cisgender women",15567
+2016,"Current Gender","Transgender women",1750
+2016,"Current Gender","Transgender men",47
+2016,"Current Gender","Alternative Gender",4
+2016,"Race/Ethnicity","American Indian/Alaska Native",370
+2016,"Race/Ethnicity","Asian*",5081
+2016,"Race/Ethnicity","Black/African American",22885
+2016,"Race/Ethnicity","Latinx*",47180
+2016,"Race/Ethnicity","Native Hawaiian/Pacific Islander",252
+2016,"Race/Ethnicity","White",52963
+2016,"Race/Ethnicity","Multiple races",4173
+2016,"Race/Ethnicity","Unknown race",4
+2016,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",89923
+2016,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5228
+2016,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9463
+2016,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3625
+2016,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",4200
+2016,"Transmission Category: Male Adult or Adolescent","Perinatal",297
+2016,"Transmission Category: Male Adult or Adolescent","Unknown risk",4255
+2016,"Transmission Category: Male Adult or Adolescent","Other****",246
+2016,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2806
+2016,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",8033
+2016,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",3267
+2016,"Transmission Category: Female Adult or Adolescent","Perinatal",353
+2016,"Transmission Category: Female Adult or Adolescent","Unknown risk",949
+2016,"Transmission Category: Female Adult or Adolescent","Other****",139
+2016,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",103
+2016,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",19
+2016,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",2
+2017,"Current Gender","Cisgender men",117421
+2017,"Current Gender","Cisgender women",15813
+2017,"Current Gender","Transgender women",1790
+2017,"Current Gender","Transgender men",53
+2017,"Current Gender","Alternative Gender",5
+2017,"Race/Ethnicity","American Indian/Alaska Native",376
+2017,"Race/Ethnicity","Asian*",5396
+2017,"Race/Ethnicity","Black/African American",23237
+2017,"Race/Ethnicity","Latinx*",48769
+2017,"Race/Ethnicity","Native Hawaiian/Pacific Islander",255
+2017,"Race/Ethnicity","White",52878
+2017,"Race/Ethnicity","Multiple races",4167
+2017,"Race/Ethnicity","Unknown race",4
+2017,"Transmission Category: Male Adult or Adolescent","Male-to-male sexual contact (MMSC)",91436
+2017,"Transmission Category: Male Adult or Adolescent","Injection drug use (IDU)",5181
+2017,"Transmission Category: Male Adult or Adolescent","MMSC and IDU",9294
+2017,"Transmission Category: Male Adult or Adolescent","High-risk heterosexual contact (HRH)**",3653
+2017,"Transmission Category: Male Adult or Adolescent","Heterosexual contact (Non-HRH)***",4443
+2017,"Transmission Category: Male Adult or Adolescent","Perinatal",293
+2017,"Transmission Category: Male Adult or Adolescent","Unknown risk",4623
+2017,"Transmission Category: Male Adult or Adolescent","Other****",240
+2017,"Transmission Category: Female Adult or Adolescent","Injection drug use (IDU)",2788
+2017,"Transmission Category: Female Adult or Adolescent","High-risk heterosexual contact (HRH)**",8098
+2017,"Transmission Category: Female Adult or Adolescent","Heterosexual contact (Non-HRH)***",3435
+2017,"Transmission Category: Female Adult or Adolescent","Perinatal",358
+2017,"Transmission Category: Female Adult or Adolescent","Unknown risk",994
+2017,"Transmission Category: Female Adult or Adolescent","Other****",136
+2017,"Transmission Category: Child (<12 Years Old at the End of Year)","Perinatal",92
+2017,"Transmission Category: Child (<12 Years Old at the End of Year)","Unknown risk",16
+2017,"Transmission Category: Child (<12 Years Old at the End of Year)","Other****",2
+,"","",

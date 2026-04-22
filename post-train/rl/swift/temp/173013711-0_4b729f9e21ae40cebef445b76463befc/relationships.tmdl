@@ -1,0 +1,9 @@
+﻿relationship 1f13abb9-7302-40ea-b8f9-286233c836e6
+	fromColumn: YourTable.'Assesment Date'
+	toColumn: Dates.Date
+
+relationship 84ea8741-7b7b-489b-ac0b-036fcfbd1ef6
+	isActive: false
+	fromColumn: YourTable.'Distribution Date'
+	toColumn: Dates.Date
+

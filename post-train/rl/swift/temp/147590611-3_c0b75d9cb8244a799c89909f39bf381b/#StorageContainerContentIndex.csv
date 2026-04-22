@@ -1,0 +1,201 @@
+Size,Interaction Name,File Name,variable,value
+4591,WebsiteVisited,ef6defc8-1689-48ba-979a-ebc933434768,Datestamp,2019-08-06 00:00:00.000
+970,WebsiteVisited,39c0e806-4bdc-4fc6-af52-8a0ae2cc21eb,Datestamp,2019-08-06 00:00:00.000
+13012,EmailDelivered,6defbde2-8472-49dd-a51e-a96a4469b1ae,Datestamp,2019-08-21 00:00:00.000
+1171,EmailHardBounced,c3cbf4a1-6c06-4a97-a41f-4ea6177633c2,Datestamp,2019-09-18 00:00:00.000
+1070,EmailHardBounced,99f24789-48a0-4382-b1da-8cdb87fb7be4,Datestamp,2019-08-12 00:00:00.000
+970,WebsiteVisited,cd65c677-ae5f-460b-9b98-7891fd8d5089,Datestamp,2019-08-06 00:00:00.000
+1984,WebsiteVisited,90be8fb5-d111-483e-bd42-254d01e8f79f,Datestamp,2019-08-06 00:00:00.000
+5322,EmailDelivered,30bcb1bc-4e4d-4804-b4f2-81224b71f380,Datestamp,2019-08-21 00:00:00.000
+4048,WebsiteVisited,a87d7e5c-7ded-4eac-ab73-bb6f6ddfe956,Datestamp,2019-08-06 00:00:00.000
+4465,EmailDelivered,94fad519-a7bd-463f-bc78-35d3631185c6,Datestamp,2019-08-21 00:00:00.000
+2998,WebsiteVisited,13dbbe53-f6c0-44da-b319-c9a1a5396831,Datestamp,2019-08-06 00:00:00.000
+4048,WebsiteVisited,58c4df65-8abd-4bf3-9ec6-1d66c0f48c46,Datestamp,2019-08-06 00:00:00.000
+965,EmailOpened,c4a61417-f204-494c-9c57-3c1ae218d8b4,Datestamp,2019-09-18 00:00:00.000
+72643,ActivityContactDispatched,8f4a5620-58ab-4b51-9484-a4f04d7027d2,Datestamp,2019-08-21 00:00:00.000
+515,SchedulerActivityContactProcessed,c2f06278-ce55-4ef4-a321-4b64d2f5784e,Datestamp,2019-08-06 00:00:00.000
+608,EmailSent,cb495ab7-c05b-448d-90f4-0e6f23c4ecd5,Datestamp,2019-08-12 00:00:00.000
+598,InvalidRecipientAddress,8e3ec277-cd38-4f24-92f6-b3439a903dcb,Datestamp,2019-08-23 00:00:00.000
+2563,WebsiteVisited,c36a0191-99bf-471c-8b00-b72046873c2e,Datestamp,2019-08-06 00:00:00.000
+7342,WebsiteVisited,e2cdce53-3d9e-43aa-bb25-3f753043c357,Datestamp,2019-08-06 00:00:00.000
+6070,WebsiteVisited,b08d5b70-a35a-4c3a-8c97-33e5d651a93b,Datestamp,2019-08-06 00:00:00.000
+12989,EmailDelivered,8e06930b-2469-4d16-8100-8de2224a1f32,Datestamp,2019-08-21 00:00:00.000
+9841,WebsiteVisited,ab9663ea-862a-46c6-8f95-3790f571110c,Datestamp,2019-08-06 00:00:00.000
+11173,EmailSent,229a18a9-47fc-4930-8802-d32766329d90,Datestamp,2019-08-13 00:00:00.000
+8320,WebsiteVisited,dc246e01-edc4-41e5-a62c-65c994ffb518,Datestamp,2019-08-06 00:00:00.000
+16820,EmailDelivered,28902385-cea5-463b-9bd5-633bc43958bc,Datestamp,2019-08-21 00:00:00.000
+1116,WebsiteVisited,bcde9690-1dfc-4da3-985f-37e045ae3edb,Datestamp,2019-08-06 00:00:00.000
+635,EmailDelivered,b70f4e8a-a242-47df-a68e-fb3a5e4e43f5,Datestamp,2019-07-31 00:00:00.000
+924,WebsiteVisited,fd2a6448-a0c8-44dd-a36c-6547bebbbc9e,Datestamp,2019-08-30 00:00:00.000
+875,WebsiteVisited,3aa0787f-87ce-4311-a89b-f39c65a7a657,Datestamp,2019-08-15 00:00:00.000
+14908,PassThroughActivityContactProcessed,89cd5918-3a50-4639-924d-2c987d2afb1a,Datestamp,2019-08-12 00:00:00.000
+41035,EmailDelivered,3a4f14c7-0cda-41b7-84da-fc892365bc24,Datestamp,2019-08-21 00:00:00.000
+4486,EmailDelivered,bb78c999-838f-44a3-84ad-ef21cd2446ab,Datestamp,2019-08-21 00:00:00.000
+85593,PassThroughActivityContactProcessed,c8fdcd54-8ea5-49f9-88c5-73dfa53100ca,Datestamp,2019-08-21 00:00:00.000
+2020,WebsiteVisited,251ca3fc-2b0f-403d-9231-07ab9ee42af3,Datestamp,2019-08-06 00:00:00.000
+2527,WebsiteVisited,c23de293-9173-4ad2-87ae-3d1de811efae,Datestamp,2019-08-06 00:00:00.000
+48073,PassThroughActivityContactProcessed,3a2dc514-961e-4597-8788-c83e4059191e,Datestamp,2019-08-21 00:00:00.000
+2479,WebsiteVisited,778e99a9-7ac4-4c5c-96d6-909268a4af74,Datestamp,2019-08-06 00:00:00.000
+251718,ActivityContactDispatched,e8eefc30-cf20-4941-9830-c3e3f2274271,Datestamp,2019-08-21 00:00:00.000
+82913,PassThroughActivityContactProcessed,aaefe5fb-0a0a-4d0d-bec7-14f747bf4081,Datestamp,2019-08-21 00:00:00.000
+1441,WebsiteVisited,d22d8c8b-5147-4390-8a16-64ad62051689,Datestamp,2019-08-06 00:00:00.000
+970,WebsiteVisited,db81b616-d3eb-4cc1-b2b2-a4d0760b4a0d,Datestamp,2019-08-06 00:00:00.000
+1960,WebsiteVisited,c34b0ea7-4759-4a34-8025-061ba14a6b79,Datestamp,2019-08-06 00:00:00.000
+2527,WebsiteVisited,6bde00af-835c-4109-9b7c-d970b8cb55bb,Datestamp,2019-08-06 00:00:00.000
+2527,WebsiteVisited,b7ed5c07-c397-4393-b1b3-19ecf3812c83,Datestamp,2019-08-06 00:00:00.000
+938,WebsiteVisited,9b4ae609-afea-4548-83b4-9397a9613e8e,Datestamp,2019-08-06 00:00:00.000
+4466,EmailDelivered,b7dbc302-a924-45ad-bf41-cf1afecd9ff3,Datestamp,2019-08-21 00:00:00.000
+7643,ActivityContactDispatched,3c3ef6aa-ae19-49e9-afa6-788538590025,Datestamp,2019-08-21 00:00:00.000
+7813,WebsiteVisited,88d59ca9-a3d6-4104-9328-0656305878a3,Datestamp,2019-08-06 00:00:00.000
+13009,EmailDelivered,2309d896-8859-4a60-888a-5178d0350c17,Datestamp,2019-08-21 00:00:00.000
+1175,FormVisited,08076217-361d-4afc-b652-18f241b9349c,Datestamp,2019-08-06 00:00:00.000
+6182,EmailDelivered,d72bd2b4-655f-4831-b48b-cbb915dd9979,Datestamp,2019-08-21 00:00:00.000
+1500,EmailDelivered,f5072e41-98fd-4951-9101-6175546663c7,Datestamp,2019-08-21 00:00:00.000
+98322,EmailSent,cf8a75af-d4f0-45c5-a7ee-1111b79aaed4,Datestamp,2019-08-21 00:00:00.000
+71858,PassThroughActivityContactProcessed,a81c4fc0-61f2-4a3f-bcae-9b750b59c7eb,Datestamp,2019-08-21 00:00:00.000
+934,WebsiteVisited,d64f21b9-baf8-4cf9-845e-82d8e694c8fe,Datestamp,2019-08-06 00:00:00.000
+21096,EmailDelivered,a3469a91-652e-4fd1-8ac4-f274219c7762,Datestamp,2019-08-21 00:00:00.000
+8320,WebsiteVisited,e31e9cb8-8c20-4829-b9f3-45519ebdc523,Datestamp,2019-08-06 00:00:00.000
+102868,ActivityContactDispatched,9711c0d2-ccc0-4607-975d-fb59b99e2b63,Datestamp,2019-08-21 00:00:00.000
+6548,EmailDelivered,be814e58-7d7c-4203-8f69-4d03be805938,Datestamp,2019-08-12 00:00:00.000
+3106,WebsiteVisited,b1017740-108b-4808-bf8a-75b1f3b9bc24,Datestamp,2019-08-06 00:00:00.000
+4484,EmailDelivered,8d130ed0-be6b-423d-a2fd-bfe578e52f86,Datestamp,2019-08-21 00:00:00.000
+655,EmailDelivered,f45addf3-7865-4e76-ae00-4a8e651049e8,Datestamp,2019-08-07 00:00:00.000
+4627,WebsiteVisited,fd95cb62-32cc-435c-8d6d-7c40e48bf08b,Datestamp,2019-08-06 00:00:00.000
+18944,EmailDelivered,64571bbd-b3e8-4f4a-a64d-765c0e70d2a7,Datestamp,2019-08-21 00:00:00.000
+970,WebsiteVisited,6369498f-7d97-486a-a4a9-14b1ebc01f95,Datestamp,2019-08-06 00:00:00.000
+644,InvalidRecipientAddress,cf67606c-407f-403b-bb44-86b54960d97e,Datestamp,2019-08-21 00:00:00.000
+425769,EmailDelivered,ceba3940-f3dc-49f2-9fe2-5b1a084ce424,Datestamp,2019-08-21 00:00:00.000
+141868,ActivityContactDispatched,20d63b4d-817e-4c1a-8799-b4b3f77ba528,Datestamp,2019-08-21 00:00:00.000
+8720,EmailDelivered,69ae03ea-ea78-4e0b-ad24-b953353c4a23,Datestamp,2019-08-21 00:00:00.000
+655,EmailDelivered,414a169f-3a5e-41ce-9ddb-91c9f67e5772,Datestamp,2019-08-07 00:00:00.000
+789,FormVisited,5d4f7d3e-4a05-4267-bc4b-0d60984df51d,Datestamp,2019-09-09 00:00:00.000
+32183,EmailDelivered,51dd527f-011e-41b9-8671-f8b93b1a3d5d,Datestamp,2019-08-21 00:00:00.000
+3976,WebsiteVisited,fb322a72-a1a2-498a-8a2b-d42994f63916,Datestamp,2019-08-06 00:00:00.000
+645,EmailSent,cb73ddcc-f11e-4f13-a30d-9c1ec22cd529,Datestamp,2019-08-21 00:00:00.000
+5641,WebsiteVisited,2e5facc8-e5ab-4139-9e45-33291b597303,Datestamp,2019-08-06 00:00:00.000
+190029,EmailDelivered,623280c1-f86c-40af-891f-33e58fb26e8a,Datestamp,2019-08-21 00:00:00.000
+5713,WebsiteVisited,982fd77f-bed1-4195-a1b5-7c83ae3c9c2a,Datestamp,2019-08-06 00:00:00.000
+5677,WebsiteVisited,c36f3ab3-8fa4-4b06-9a90-85ab2ee514b7,Datestamp,2019-08-06 00:00:00.000
+660,EmailSoftBounced,e5570c9c-02c6-4e35-8bac-95e639f0bc22,Datestamp,2019-08-12 00:00:00.000
+156818,ActivityContactDispatched,b7aba296-e268-4f66-8a14-55de90301bc6,Datestamp,2019-08-21 00:00:00.000
+5605,WebsiteVisited,19e9f915-77af-461e-9877-2b49ab4833ed,Datestamp,2019-08-06 00:00:00.000
+215238,PassThroughActivityContactProcessed,73ed9b70-1fad-4252-baaa-1dcc1382f1c7,Datestamp,2019-08-21 00:00:00.000
+1441,WebsiteVisited,25e30b86-4694-467c-a787-b0b1893ce37c,Datestamp,2019-08-06 00:00:00.000
+4541,InvalidRecipientAddress,3c8a6636-a382-4c9c-b2c8-355381a7c239,Datestamp,2019-08-21 00:00:00.000
+8711,EmailDelivered,54f851c3-6c2f-4853-93f7-06922075e9f1,Datestamp,2019-08-21 00:00:00.000
+4484,EmailDelivered,80430db6-f17a-454a-9c86-4b9e6ed026fb,Datestamp,2019-08-21 00:00:00.000
+4048,WebsiteVisited,8d87082e-984e-41a3-9c89-16720c098778,Datestamp,2019-08-06 00:00:00.000
+897,EmailOpened,89052b68-3a50-418e-b1a0-7fc15d82ba8e,Datestamp,2019-08-06 00:00:00.000
+2491,WebsiteVisited,6a5832ba-9044-41a9-b93c-f725e5f96b35,Datestamp,2019-08-06 00:00:00.000
+970,WebsiteVisited,da00f99c-7f53-4cd4-b2bd-199cb9f01c16,Datestamp,2019-08-06 00:00:00.000
+302994,EmailSent,4a93ffff-64b9-4363-bec6-af76e94306de,Datestamp,2019-08-21 00:00:00.000
+2987,EmailDelivered,483af28f-f9c0-4545-9967-3f9b0e2d9891,Datestamp,2019-08-12 00:00:00.000
+187368,ActivityContactDispatched,8978588a-b828-49b5-ba2a-95f9fb40d6d5,Datestamp,2019-08-21 00:00:00.000
+236579,EmailSent,b5ce1b80-219c-46e1-9512-24df7d33f9d6,Datestamp,2019-08-21 00:00:00.000
+2491,WebsiteVisited,f10571cf-800a-4414-b146-77b37c6a5a1d,Datestamp,2019-08-06 00:00:00.000
+78893,PassThroughActivityContactProcessed,48416021-0abc-4d22-8834-cc8a2ec9b360,Datestamp,2019-08-21 00:00:00.000
+970,WebsiteVisited,22ad5966-facc-4e06-abf6-ec95850878a2,Datestamp,2019-08-06 00:00:00.000
+649,EmailSoftBounced,ea704c52-a630-4bce-8944-9cf1e4e1ef35,Datestamp,2019-08-13 00:00:00.000
+1960,WebsiteVisited,e702e4ee-16e4-432e-b2c7-ebafcbb6aad5,Datestamp,2019-08-06 00:00:00.000
+5337,EmailDelivered,e8c62a5c-d122-4be1-9ee7-879a4dc2c9c7,Datestamp,2019-08-21 00:00:00.000
+4591,WebsiteVisited,ef6defc8-1689-48ba-979a-ebc933434768,DaysFromToday,-57
+970,WebsiteVisited,39c0e806-4bdc-4fc6-af52-8a0ae2cc21eb,DaysFromToday,-57
+13012,EmailDelivered,6defbde2-8472-49dd-a51e-a96a4469b1ae,DaysFromToday,-42
+1171,EmailHardBounced,c3cbf4a1-6c06-4a97-a41f-4ea6177633c2,DaysFromToday,-14
+1070,EmailHardBounced,99f24789-48a0-4382-b1da-8cdb87fb7be4,DaysFromToday,-51
+970,WebsiteVisited,cd65c677-ae5f-460b-9b98-7891fd8d5089,DaysFromToday,-57
+1984,WebsiteVisited,90be8fb5-d111-483e-bd42-254d01e8f79f,DaysFromToday,-57
+5322,EmailDelivered,30bcb1bc-4e4d-4804-b4f2-81224b71f380,DaysFromToday,-42
+4048,WebsiteVisited,a87d7e5c-7ded-4eac-ab73-bb6f6ddfe956,DaysFromToday,-57
+4465,EmailDelivered,94fad519-a7bd-463f-bc78-35d3631185c6,DaysFromToday,-42
+2998,WebsiteVisited,13dbbe53-f6c0-44da-b319-c9a1a5396831,DaysFromToday,-57
+4048,WebsiteVisited,58c4df65-8abd-4bf3-9ec6-1d66c0f48c46,DaysFromToday,-57
+965,EmailOpened,c4a61417-f204-494c-9c57-3c1ae218d8b4,DaysFromToday,-14
+72643,ActivityContactDispatched,8f4a5620-58ab-4b51-9484-a4f04d7027d2,DaysFromToday,-42
+515,SchedulerActivityContactProcessed,c2f06278-ce55-4ef4-a321-4b64d2f5784e,DaysFromToday,-57
+608,EmailSent,cb495ab7-c05b-448d-90f4-0e6f23c4ecd5,DaysFromToday,-51
+598,InvalidRecipientAddress,8e3ec277-cd38-4f24-92f6-b3439a903dcb,DaysFromToday,-40
+2563,WebsiteVisited,c36a0191-99bf-471c-8b00-b72046873c2e,DaysFromToday,-57
+7342,WebsiteVisited,e2cdce53-3d9e-43aa-bb25-3f753043c357,DaysFromToday,-57
+6070,WebsiteVisited,b08d5b70-a35a-4c3a-8c97-33e5d651a93b,DaysFromToday,-57
+12989,EmailDelivered,8e06930b-2469-4d16-8100-8de2224a1f32,DaysFromToday,-42
+9841,WebsiteVisited,ab9663ea-862a-46c6-8f95-3790f571110c,DaysFromToday,-57
+11173,EmailSent,229a18a9-47fc-4930-8802-d32766329d90,DaysFromToday,-50
+8320,WebsiteVisited,dc246e01-edc4-41e5-a62c-65c994ffb518,DaysFromToday,-57
+16820,EmailDelivered,28902385-cea5-463b-9bd5-633bc43958bc,DaysFromToday,-42
+1116,WebsiteVisited,bcde9690-1dfc-4da3-985f-37e045ae3edb,DaysFromToday,-57
+635,EmailDelivered,b70f4e8a-a242-47df-a68e-fb3a5e4e43f5,DaysFromToday,-63
+924,WebsiteVisited,fd2a6448-a0c8-44dd-a36c-6547bebbbc9e,DaysFromToday,-33
+875,WebsiteVisited,3aa0787f-87ce-4311-a89b-f39c65a7a657,DaysFromToday,-48
+14908,PassThroughActivityContactProcessed,89cd5918-3a50-4639-924d-2c987d2afb1a,DaysFromToday,-51
+41035,EmailDelivered,3a4f14c7-0cda-41b7-84da-fc892365bc24,DaysFromToday,-42
+4486,EmailDelivered,bb78c999-838f-44a3-84ad-ef21cd2446ab,DaysFromToday,-42
+85593,PassThroughActivityContactProcessed,c8fdcd54-8ea5-49f9-88c5-73dfa53100ca,DaysFromToday,-42
+2020,WebsiteVisited,251ca3fc-2b0f-403d-9231-07ab9ee42af3,DaysFromToday,-57
+2527,WebsiteVisited,c23de293-9173-4ad2-87ae-3d1de811efae,DaysFromToday,-57
+48073,PassThroughActivityContactProcessed,3a2dc514-961e-4597-8788-c83e4059191e,DaysFromToday,-42
+2479,WebsiteVisited,778e99a9-7ac4-4c5c-96d6-909268a4af74,DaysFromToday,-57
+251718,ActivityContactDispatched,e8eefc30-cf20-4941-9830-c3e3f2274271,DaysFromToday,-42
+82913,PassThroughActivityContactProcessed,aaefe5fb-0a0a-4d0d-bec7-14f747bf4081,DaysFromToday,-42
+1441,WebsiteVisited,d22d8c8b-5147-4390-8a16-64ad62051689,DaysFromToday,-57
+970,WebsiteVisited,db81b616-d3eb-4cc1-b2b2-a4d0760b4a0d,DaysFromToday,-57
+1960,WebsiteVisited,c34b0ea7-4759-4a34-8025-061ba14a6b79,DaysFromToday,-57
+2527,WebsiteVisited,6bde00af-835c-4109-9b7c-d970b8cb55bb,DaysFromToday,-57
+2527,WebsiteVisited,b7ed5c07-c397-4393-b1b3-19ecf3812c83,DaysFromToday,-57
+938,WebsiteVisited,9b4ae609-afea-4548-83b4-9397a9613e8e,DaysFromToday,-57
+4466,EmailDelivered,b7dbc302-a924-45ad-bf41-cf1afecd9ff3,DaysFromToday,-42
+7643,ActivityContactDispatched,3c3ef6aa-ae19-49e9-afa6-788538590025,DaysFromToday,-42
+7813,WebsiteVisited,88d59ca9-a3d6-4104-9328-0656305878a3,DaysFromToday,-57
+13009,EmailDelivered,2309d896-8859-4a60-888a-5178d0350c17,DaysFromToday,-42
+1175,FormVisited,08076217-361d-4afc-b652-18f241b9349c,DaysFromToday,-57
+6182,EmailDelivered,d72bd2b4-655f-4831-b48b-cbb915dd9979,DaysFromToday,-42
+1500,EmailDelivered,f5072e41-98fd-4951-9101-6175546663c7,DaysFromToday,-42
+98322,EmailSent,cf8a75af-d4f0-45c5-a7ee-1111b79aaed4,DaysFromToday,-42
+71858,PassThroughActivityContactProcessed,a81c4fc0-61f2-4a3f-bcae-9b750b59c7eb,DaysFromToday,-42
+934,WebsiteVisited,d64f21b9-baf8-4cf9-845e-82d8e694c8fe,DaysFromToday,-57
+21096,EmailDelivered,a3469a91-652e-4fd1-8ac4-f274219c7762,DaysFromToday,-42
+8320,WebsiteVisited,e31e9cb8-8c20-4829-b9f3-45519ebdc523,DaysFromToday,-57
+102868,ActivityContactDispatched,9711c0d2-ccc0-4607-975d-fb59b99e2b63,DaysFromToday,-42
+6548,EmailDelivered,be814e58-7d7c-4203-8f69-4d03be805938,DaysFromToday,-51
+3106,WebsiteVisited,b1017740-108b-4808-bf8a-75b1f3b9bc24,DaysFromToday,-57
+4484,EmailDelivered,8d130ed0-be6b-423d-a2fd-bfe578e52f86,DaysFromToday,-42
+655,EmailDelivered,f45addf3-7865-4e76-ae00-4a8e651049e8,DaysFromToday,-56
+4627,WebsiteVisited,fd95cb62-32cc-435c-8d6d-7c40e48bf08b,DaysFromToday,-57
+18944,EmailDelivered,64571bbd-b3e8-4f4a-a64d-765c0e70d2a7,DaysFromToday,-42
+970,WebsiteVisited,6369498f-7d97-486a-a4a9-14b1ebc01f95,DaysFromToday,-57
+644,InvalidRecipientAddress,cf67606c-407f-403b-bb44-86b54960d97e,DaysFromToday,-42
+425769,EmailDelivered,ceba3940-f3dc-49f2-9fe2-5b1a084ce424,DaysFromToday,-42
+141868,ActivityContactDispatched,20d63b4d-817e-4c1a-8799-b4b3f77ba528,DaysFromToday,-42
+8720,EmailDelivered,69ae03ea-ea78-4e0b-ad24-b953353c4a23,DaysFromToday,-42
+655,EmailDelivered,414a169f-3a5e-41ce-9ddb-91c9f67e5772,DaysFromToday,-56
+789,FormVisited,5d4f7d3e-4a05-4267-bc4b-0d60984df51d,DaysFromToday,-23
+32183,EmailDelivered,51dd527f-011e-41b9-8671-f8b93b1a3d5d,DaysFromToday,-42
+3976,WebsiteVisited,fb322a72-a1a2-498a-8a2b-d42994f63916,DaysFromToday,-57
+645,EmailSent,cb73ddcc-f11e-4f13-a30d-9c1ec22cd529,DaysFromToday,-42
+5641,WebsiteVisited,2e5facc8-e5ab-4139-9e45-33291b597303,DaysFromToday,-57
+190029,EmailDelivered,623280c1-f86c-40af-891f-33e58fb26e8a,DaysFromToday,-42
+5713,WebsiteVisited,982fd77f-bed1-4195-a1b5-7c83ae3c9c2a,DaysFromToday,-57
+5677,WebsiteVisited,c36f3ab3-8fa4-4b06-9a90-85ab2ee514b7,DaysFromToday,-57
+660,EmailSoftBounced,e5570c9c-02c6-4e35-8bac-95e639f0bc22,DaysFromToday,-51
+156818,ActivityContactDispatched,b7aba296-e268-4f66-8a14-55de90301bc6,DaysFromToday,-42
+5605,WebsiteVisited,19e9f915-77af-461e-9877-2b49ab4833ed,DaysFromToday,-57
+215238,PassThroughActivityContactProcessed,73ed9b70-1fad-4252-baaa-1dcc1382f1c7,DaysFromToday,-42
+1441,WebsiteVisited,25e30b86-4694-467c-a787-b0b1893ce37c,DaysFromToday,-57
+4541,InvalidRecipientAddress,3c8a6636-a382-4c9c-b2c8-355381a7c239,DaysFromToday,-42
+8711,EmailDelivered,54f851c3-6c2f-4853-93f7-06922075e9f1,DaysFromToday,-42
+4484,EmailDelivered,80430db6-f17a-454a-9c86-4b9e6ed026fb,DaysFromToday,-42
+4048,WebsiteVisited,8d87082e-984e-41a3-9c89-16720c098778,DaysFromToday,-57
+897,EmailOpened,89052b68-3a50-418e-b1a0-7fc15d82ba8e,DaysFromToday,-57
+2491,WebsiteVisited,6a5832ba-9044-41a9-b93c-f725e5f96b35,DaysFromToday,-57
+970,WebsiteVisited,da00f99c-7f53-4cd4-b2bd-199cb9f01c16,DaysFromToday,-57
+302994,EmailSent,4a93ffff-64b9-4363-bec6-af76e94306de,DaysFromToday,-42
+2987,EmailDelivered,483af28f-f9c0-4545-9967-3f9b0e2d9891,DaysFromToday,-51
+187368,ActivityContactDispatched,8978588a-b828-49b5-ba2a-95f9fb40d6d5,DaysFromToday,-42
+236579,EmailSent,b5ce1b80-219c-46e1-9512-24df7d33f9d6,DaysFromToday,-42
+2491,WebsiteVisited,f10571cf-800a-4414-b146-77b37c6a5a1d,DaysFromToday,-57
+78893,PassThroughActivityContactProcessed,48416021-0abc-4d22-8834-cc8a2ec9b360,DaysFromToday,-42
+970,WebsiteVisited,22ad5966-facc-4e06-abf6-ec95850878a2,DaysFromToday,-57
+649,EmailSoftBounced,ea704c52-a630-4bce-8944-9cf1e4e1ef35,DaysFromToday,-50
+1960,WebsiteVisited,e702e4ee-16e4-432e-b2c7-ebafcbb6aad5,DaysFromToday,-57
+5337,EmailDelivered,e8c62a5c-d122-4be1-9ee7-879a4dc2c9c7,DaysFromToday,-42

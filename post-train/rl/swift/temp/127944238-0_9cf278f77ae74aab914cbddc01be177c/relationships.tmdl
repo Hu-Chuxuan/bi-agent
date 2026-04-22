@@ -1,0 +1,49 @@
+﻿relationship b7b5d3d1-8875-4eac-92c6-c27c0c98a4d8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Interest Rates'.Date
+	toColumn: LocalDateTable_96160caa-cd02-4063-963c-323575767776.Date
+
+relationship 23f029d8-3191-4323-bcf1-3b11fd9bb7cc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Q1 interest rates'.Date
+	toColumn: LocalDateTable_2724e81c-464b-4fdb-9689-1fefe6e4b567.Date
+
+relationship fcb66fe1-7884-47e7-b80d-90171c6bfe63
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Q2 interest rates'.Date
+	toColumn: LocalDateTable_4eb87856-9e72-4510-9ebe-7da2100ff119.Date
+
+relationship c7854851-3457-4608-a3b5-beb8381ac1d4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Q3 interest rates'.Date
+	toColumn: LocalDateTable_300a06c2-efe5-4050-80fb-7e7c0072b78b.Date
+
+relationship 9df1b0a4-b94b-46dc-8f11-5cc03040708d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Appended interest rates'.Date
+	toColumn: LocalDateTable_b0e4927a-1173-487e-ba68-f0c16b17471b.Date
+
+relationship e359c3e5-d463-4901-9cc5-1b697078fc84
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Interest rates by month'.'Monthly Date'
+	toColumn: LocalDateTable_9591fb9f-4ff1-4505-8817-9c2631f82453.Date
+
+relationship ac5594d1-3cab-419b-b2a9-961fa7447f77
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Inflation rates (all countries)'.Date
+	toColumn: LocalDateTable_c95adf41-3dea-419f-af93-1ecb6134ad88.Date
+
+relationship 43f689db-8c07-43d8-8ec2-30947033e6df
+	fromColumn: 'Inflation rates (all countries)'.Country
+	toColumn: 'Gapminder region key'.Country
+
+relationship 4ab4e564-3c63-483f-b35f-3d11b13d7e22
+	joinOnDateBehavior: datePartOnly
+	fromColumn: '19. Dates'.'19. Dates'
+	toColumn: LocalDateTable_b0835d41-552d-4006-809a-2beecce6d38e.Date
+
+relationship e35d1d53-bf01-4532-9eda-318e94e74a06
+	joinOnDateBehavior: datePartOnly
+	fromColumn: '32. Dates (with variables)'.Dates
+	toColumn: LocalDateTable_f3b9f121-73f3-4ec1-a13f-74c07835b1f5.Date
+

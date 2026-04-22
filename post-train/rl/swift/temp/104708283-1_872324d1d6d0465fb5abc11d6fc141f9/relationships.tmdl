@@ -1,0 +1,27 @@
+﻿relationship 7d67e8e4-7cf4-4e0e-9d34-d4c1b74eb951
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Team_Attributes.date
+	toColumn: LocalDateTable_9b4e4a12-d0dd-473a-9a65-b456ee6fa7b1.Date
+
+relationship 539ea5c4-5738-462a-ae80-3f4a3a5cedb9
+	fromColumn: Team_Attributes.team_api_id
+	toColumn: Team.team_api_id
+
+relationship 3f40545a-2b2f-4d18-ad34-ee51142700e0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Match_Away.date
+	toColumn: LocalDateTable_7dc45124-e13f-4372-a6c8-d902b80df416.Date
+
+relationship f5a2c003-4d8d-4a6d-a269-2e2b3a8197af
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Match_Home.date
+	toColumn: LocalDateTable_71b11ef2-beab-4172-803d-fef702ff7f15.Date
+
+relationship c09dc220-ae1b-40dd-8c88-6912b6acd93d
+	fromColumn: Match_Home.home_team_api_id
+	toColumn: Team.team_api_id
+
+relationship 799657d3-f392-4b98-bc89-d4e548246570
+	fromColumn: Match_Away.away_team_api_id
+	toColumn: Team.team_api_id
+

@@ -1,0 +1,6 @@
+﻿relationship d53d20a1-53f6-404e-b1e6-9d0b71169d1c
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Table (2)'.Name
+	toColumn: Table.Name
+

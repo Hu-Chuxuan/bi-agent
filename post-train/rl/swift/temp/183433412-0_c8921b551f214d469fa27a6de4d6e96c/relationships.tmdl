@@ -1,0 +1,13 @@
+﻿relationship 9f1ab3a4-f2a2-4fb7-bffc-18f47d1c59dd
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Energy Consumptions'.Date
+	toColumn: LocalDateTable_109698cf-e7e1-489b-8422-047e65d47413.Date
+
+relationship 6d08bd7a-c8ba-463f-bab3-f4b30680f063
+	fromColumn: 'Energy Consumptions'.Building
+	toColumn: 'Building Master'.Building
+
+relationship fe34e5ec-5a4f-4f5d-b809-63d400a93123
+	fromColumn: 'Energy Consumptions'.Key
+	toColumn: Rates.Key
+

@@ -1,0 +1,46 @@
+﻿relationship 634ed933-998e-49d2-bff3-872b2dc21b0d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Purchase.PurchaseDateTime
+	toColumn: LocalDateTable_f178f579-1a3a-472c-aa2d-ef07a7fa9e5f.Date
+
+relationship 865b0310-d5d3-4d49-8eab-4dff4cef39de
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Purchase.PaymentDate
+	toColumn: LocalDateTable_e1f639d5-ff00-4111-b358-df71ba176d99.Date
+
+relationship 6e91f97d-0508-45a0-b34c-4905a39d3353
+	fromColumn: Centre.CentreTypeId
+	toColumn: CentreType.CentreTypeId
+
+relationship 4c491f69-4d6b-45d9-96dd-3108d90b48e4
+	fromColumn: Purchase.CentreId
+	toColumn: Centre.CentreId
+
+relationship e1d6fd0d-526c-4964-af26-0f851227a654
+	fromColumn: Centre.TownId
+	toColumn: Town.TownId
+
+relationship a4adec93-71b8-4e88-bd53-ac59b1e57c79
+	fromColumn: Habitat.EnvironmentId
+	toColumn: Environment.EnviromentId
+
+relationship 48ed9bd1-db5e-481a-9289-3d91bad1423c
+	fromColumn: Product.FamilyId
+	toColumn: Family.FamilyId
+
+relationship 9e73ad25-bcd1-42cd-843b-73a6dd073577
+	fromColumn: Product.HabitatId
+	toColumn: Habitat.HabitatId
+
+relationship f46104ac-8918-4514-8122-0c08f491bf97
+	fromColumn: Purchase.ProductId
+	toColumn: Product.ProductId
+
+relationship ae63c685-4a55-4136-801b-c2f07883758a
+	fromColumn: Town.RegionId
+	toColumn: Region.RegionId
+
+relationship acd33dc8-41ef-4d49-91b9-482dffa23e04
+	fromColumn: Purchase.PurchaseDate
+	toColumn: Calendar.DateKey
+
