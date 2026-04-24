@@ -16,7 +16,7 @@ esac
 echo "Starting RFT | model: $MODEL | mode: $MODE"
 
 # 70G*8
-RFT_DATA_DIR=$RFT_DATA_DIR \
+RFT_DATA_DIR="${RFT_DATA_DIR}/${MODE}" \
 BI_MODE=$MODE \
 CUDA_VISIBLE_DEVICES=0,1 \
 NPROC_PER_NODE=2 \

@@ -43,7 +43,6 @@ Thumbs.db
 *.feather
 *.pkl
 *.pickle
-results/
 output/
 
 # nested git repo — track only the files we care about, not the embedded repo

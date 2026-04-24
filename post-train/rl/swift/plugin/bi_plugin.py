@@ -27,6 +27,9 @@ from bi_lib.bi_utils import (
     parse_tool_call_string_sql
 )
 
+_RFT_DATA_DIR = os.environ.get("RFT_DATA_DIR", "rft_data")
+_SQLITE_DB_DIR = os.environ.get("SQLITE_DB_DIR", "./sqlite_db")
+
 if TYPE_CHECKING:
     from swift.llm.infer.protocol import ChatCompletionResponse
 
@@ -108,7 +111,7 @@ class GenRMPlugin(DefaultRMPlugin):
         pd.set_option('display.max_colwidth', None)
 
         temp_folder = create_temp_folder(folder)
-        with open("/datadrive/chuxuan/ms-swift/rft_data/training_cases.json", "r") as f:
+        with open(os.path.join(_RFT_DATA_DIR, "training_cases.json"), "r") as f:
             queries = json.load(f)
         query = queries[folder]["query"]
 
@@ -124,7 +127,8 @@ class GenRMPlugin(DefaultRMPlugin):
             except:
                 pass
         try:
-            db_path = f"/datadrive/chuxuan/ms-swift/swift/temp/sqlite_db/sqlite_db_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}.db"
+            os.makedirs(_SQLITE_DB_DIR, exist_ok=True)
+            db_path = os.path.join(_SQLITE_DB_DIR, f"sqlite_db_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}.db")
             conn = sqlite3.connect(db_path)
             for table_name, df in df_list.items():
                 df.to_sql(table_name, conn, if_exists='replace', index=False)
@@ -210,9 +214,9 @@ class GenRMPlugin(DefaultRMPlugin):
         if result is not None:
             if isinstance(result, (int, float, str)):
                 result = pd.DataFrame({"result": [result]})
-            pattern = f"/datadrive/chuxuan/ms-swift/rft_data/gt/{folder}_*.csv"
+            pattern = os.path.join(_RFT_DATA_DIR, "gt", f"{folder}_*.csv")
             file_paths = glob.glob(pattern)
-            gt = [pd.read_csv(f) for f in (file_paths or [f"/datadrive/chuxuan/ms-swift/rft_data/gt/{folder}.csv"])]
+            gt = [pd.read_csv(f) for f in (file_paths or [os.path.join(_RFT_DATA_DIR, "gt", f"{folder}.csv")])]
             try:
                 final_res = compare_with_timeout(gt, result)
             except:

@@ -11,6 +11,8 @@ import pandas as pd
 import concurrent.futures
 from .bi_utils import sanitize_name
 
+_RFT_DATA_DIR = os.environ.get("RFT_DATA_DIR", "rft_data")
+
 
 def execute_tool(tool_call, queries, id, conn, temp_folder, data_list):
 
@@ -64,7 +66,7 @@ def transform_tables(queries, id, temp_folder, conn):
         output_lines.append(f"=== Transformation: {transformation_name} ===\n")
         for table_name in table_list:
             original_path = os.path.join(temp_folder, table_name)
-            transformed_path = f"/datadrive/chuxuan/ms-swift/rft_data_eval/transformation/{id}/{transformation_name}/{table_name}"
+            transformed_path = os.path.join(_RFT_DATA_DIR, "transformation", id, transformation_name, table_name)
             table_name = os.path.basename(transformed_path)[:-4]
             table_name = sanitize_name(table_name)
 
@@ -205,7 +207,7 @@ def retrieve_relevant_tables(queries, id):
     }
 
 def discover_join_relationships(id, temp_folder, data_list):
-    relationships = parse_relationships(f"/datadrive/chuxuan/ms-swift/rft_data_eval/{id}/relationships.tmdl")
+    relationships = parse_relationships(os.path.join(_RFT_DATA_DIR, id, "relationships.tmdl"))
     merge_statements = generate_join_statements(relationships, temp_folder, data_list)
     return {
         "outputs": merge_statements

@@ -8,6 +8,8 @@ import pandas as pd
 
 from .bi_utils import sanitize_name
 
+_RFT_DATA_DIR = os.environ.get("RFT_DATA_DIR", "rft_data")
+
 def execute_tool(tool_call, queries, id, state, temp_folder, csv_list):
 
     tool_function_map = {
@@ -59,7 +61,7 @@ def transform_tables(queries, id, temp_folder):
         output_lines.append(f"=== Transformation: {transformation_name} ===\n")
         for table_name in table_list:
             original_path = os.path.join(temp_folder, table_name)
-            transformed_path = f"/datadrive/chuxuan/ms-swift/rft_data/transformation/{id}/{transformation_name}/{table_name}"
+            transformed_path = os.path.join(_RFT_DATA_DIR, "transformation", id, transformation_name, table_name)
 
             try:
                 df_before = pd.read_csv(original_path)
@@ -118,7 +120,7 @@ def retrieve_relevant_tables(queries, id, temp_folder):
     }
 
 def discover_join_relationships(id, temp_folder, table_list):
-    relationships = parse_relationships(f"/datadrive/chuxuan/ms-swift/rft_data/{id}/relationships.tmdl")
+    relationships = parse_relationships(os.path.join(_RFT_DATA_DIR, id, "relationships.tmdl"))
     merge_statements = generate_join_statements(relationships, temp_folder, table_list)
     return {
         "outputs": merge_statements

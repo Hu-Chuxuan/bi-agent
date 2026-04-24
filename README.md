@@ -110,34 +110,110 @@ See [`post-train/README.md`](post-train/README.md) for full details.
 
 ---
 
+## Paper Results
+
+Pre-computed result CSVs are in `results/`, grouped by the four model/system categories evaluated in the paper. Each file has one row per benchmark case (100 cases total); columns encode model, language, and tool-use configuration.
+
+| File | Contents |
+|---|---|
+| [`results/proprietary_models.csv`](results/proprietary_models.csv) | GPT-5.2, GPT-4o, o4-mini |
+| [`results/open_source_models.csv`](results/open_source_models.csv) | Llama-4 Maverick, Qwen3-8B (base) |
+| [`results/posttrained_models.csv`](results/posttrained_models.csv) | Qwen3-8B SFT & RFT |
+| [`results/nl2sql_systems.csv`](results/nl2sql_systems.csv) | Infly-RL-SQL-32B, XiYanSQL-QwenCoder-32B, Databao Agent |
+
+Summary of mean success rates (matching paper Table 3 / Table 4):
+
+**Proprietary models**
+
+| Model | Python (no tool) | Python (+ tools) | SQL (no tool) | SQL (+ tools) |
+|---|---|---|---|---|
+| GPT-4o | 30.8 % | 44.7 % | 27.1 % | 37.7 % |
+| o4-mini | 57.4 % | 66.3 % | 48.2 % | 61.9 % |
+| gpt-5.2 | 48.6 % | 60.2 % | 46.1 % | 55.2 % |
+
+**Open-source models**
+
+| Model | Python (no tool) | Python (+ tools) | SQL (no tool) | SQL (+ tools) |
+|---|---|---|---|---|
+| Llama-4-Maverick | 28.6 % | 38.8 % | 27.5 % | 31.2 % |
+| Qwen3-8B (base) | 5.4 % | 13.1 % | 5.2 % | 19.8 % |
+
+**Post-trained Qwen3-8B**
+
+| Checkpoint | Python (no tool) | Python (+ tools) | SQL (no tool) | SQL (+ tools) |
+|---|---|---|---|---|
+| SFT | 17.2 % | 22.6 % | 22.6 % | 27.2 % |
+| SFT + RL (RFT) | 19.5 % | 25.1 % | 23.5 % | 35.0 % |
+
+**NL2SQL systems**
+
+| System | SQL | Python |
+|---|---|---|
+| Infly-RL-SQL-32B | 6.0 % | 5.5 % |
+| XiYanSQL-QwenCoder-32B | 7.7 % | 13.2 % |
+| Databao Agent | 23.8 % (avg) | — |
+
+---
+
 ## Reproducing Paper Results
 
-### Step 1 — Run BI-Agent baselines and tools (Table 3)
+### Step 1 — Proprietary and open-source models (Table 3)
 
-Configure `tools/utils/llm_client.py` with your LLM endpoint, then run each case:
+Configure `tools/utils/llm_client.py` with your LLM endpoint, then run all cases:
 
 ```bash
 for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
-  python tools/run_large_models.py --id $id --model gpt-4o --language python --tool \
-    --log-csv results_gpt4o_py_tool.csv
+  for lang in python sql; do
+    for tool_flag in "" "--tool"; do
+      # proprietary models
+      for model in gpt-4o o4-mini gpt-5.2; do
+        python tools/run_large_models.py --id $id --model $model \
+          --language $lang $tool_flag \
+          --log-csv results/proprietary_models.csv
+      done
+      # open-source
+      python tools/run_large_models.py --id $id \
+        --model Llama-4-Maverick-17B-128E-Instruct-FP8 \
+        --language $lang $tool_flag \
+        --log-csv results/open_source_models.csv
+    done
+  done
 done
 ```
 
-### Step 2 — Post-train models (Table 4)
+### Step 2 — Post-trained models (Table 4)
 
 ```bash
 # Generate data, run SFT, then RFT as described in post-train/README.md
-# Then evaluate the checkpoint:
-POSTTRAINED_MODEL_PATH=/checkpoints/rft/py_tool \
-python tools/run_posttrained.py --id <id> --language python --tool \
-  --log-csv results_posttrained.csv
+# Evaluate each checkpoint:
+for lang in python sql; do
+  for tool_flag in "" "--tool"; do
+    POSTTRAINED_MODEL_PATH=/checkpoints/sft \
+    python tools/run_posttrained.py --id <id> \
+      --language $lang $tool_flag \
+      --log-csv results/posttrained_models.csv
+
+    POSTTRAINED_MODEL_PATH=/checkpoints/rft \
+    python tools/run_posttrained.py --id <id> \
+      --language $lang $tool_flag \
+      --log-csv results/posttrained_models.csv
+  done
+done
 ```
 
-### Step 3 — NL2SQL-system evaluation (Table 4)
+### Step 3 — NL2SQL systems (Table 4)
 
 ```bash
-python nl2sql/run.py --id <id> --model infy-32b --language sql \
-  --setting eval --queries-file bi-bench/queries.json --data-dir bi-bench
+for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
+  python nl2sql/run.py --id $id --model infy-32b \
+    --language sql --setting baseline \
+    --queries-file bi-bench/queries.json --data-dir bi-bench \
+    --log-csv results/nl2sql_systems.csv
+  python nl2sql/run.py --id $id --model xiyan-32b \
+    --language sql --setting baseline \
+    --queries-file bi-bench/queries.json --data-dir bi-bench \
+    --log-csv results/nl2sql_systems.csv
+done
 ```
 
 ---
