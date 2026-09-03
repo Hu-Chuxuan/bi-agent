@@ -81,7 +81,7 @@ python run.py \
 
 ---
 
-## Agent baselines: — Databao Agent & ktx
+## Agent baselines: Databao Agent & ktx
 
 The **Databao Agent** and **ktx** baselines are external systems and are not vendored in this repository. The adapters in [`agent_harness.py`](agent_harness.py) (`KtxAgent`, `DatabaoAgent`) are already implemented — you only need to install the underlying agent and point the harness at it. The harness builds the SQLite database, invokes the agent, grades against the ground truth, and logs a per-case success rate.
 

@@ -221,7 +221,6 @@ for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
       --log-csv results/nl2sql_systems.csv
   done
 done
-# Databao Agent (nl2sql/databao-agent/bi-bench.py) and ktx (nl2sql/run_ktx.py) are run via their own scripts.
 ```
 
 ---
