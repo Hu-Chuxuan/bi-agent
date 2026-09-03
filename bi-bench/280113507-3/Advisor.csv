@@ -1,21 +1,3 @@
-AdvisorID,DepartmentID,AdvisorName
-101,1000,"Giovanni Alford"
-102,1000,"Milana Hagan"
-103,1005,"Fletcher Barrett"
-104,1005,"Fariha Redfern"
-105,1006,"Rahim Contreras"
-106,1007,"Khalil Hilton"
-107,1007,"Dione Jefferson"
-108,1006,"Calum Ellwood"
-109,1008,"Sinead Coleman"
-110,1009,"Riaz Baldwin"
-111,1010,"Laura Richards"
-112,1006,"Henry Lord"
-113,1008,"Harry Wes"
-114,1000,"King Loius"
-115,1005,"Raymond Nash"
-116,1007,"John Abraham"
-117,1006,"Deppak Krishna"
-118,1008,"Chethan Kumar"
-119,1009,"Elizabeth Kingston"
-120,1010,"Aarti Mehta"
+version https://git-lfs.github.com/spec/v1
+oid sha256:33695bd99f8e2a913fda9fbbf08d31bcad888735c592c99058e65a30821d1dfb
+size 558

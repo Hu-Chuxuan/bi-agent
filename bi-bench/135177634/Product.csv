@@ -1,20 +1,3 @@
-ProductId,ProductName,Animal,HabitatId,Legs,FamilyId,WeightGrams,ProductionCost,Species Type
-1,"Sammy","Snake",1,0,1,950,7.19,"Reptile"
-2,"Pokyo","Penguin",4,2,3,850,4.5,"Bird"
-3,"Fenella","Frog",3,4,4,400,10.79,"Amphibian"
-4,"Layla","Lemur",2,2,5,550,4.28,"Mammal"
-5,"Dave","Dachsund",1,4,5,775,5.85,"Mammal"
-6,"Kylie","Camel",5,4,5,1200,3.15,"Mammal"
-7,"Jeremy","Jackdaw",7,2,3,295,7.65,"Bird"
-8,"Faye","Fox",6,4,5,420,4.95,"Mammal"
-9,"Oliver","Owl",7,2,3,380,6.75,"Bird"
-10,"Cleopatra","Clownfish",4,0,2,290,2.69,"Fish"
-11,"Oscar","Otter",3,4,5,340,13.72,"Mammal"
-12,"Bob","Butterfly",7,6,6,450,5.85,"Insect"
-13,"Englebert","Elephant",1,4,5,1450,3.15,"Mammal"
-14,"Petronella","Parakeet",2,2,3,520,4.05,"Bird"
-15,"Rheinhardt","Rattlesnake",5,0,1,890,7.65,"Reptile"
-16,"Nora","Natterjack toad",3,4,4,560,6.75,"Amphibian"
-17,"Yoko","Yak",1,4,5,1350,10.79,"Mammal"
-18,"Malcolm","Meerkat",1,4,5,670,14.85,"Mammal"
-19,"Imogen","Impala",1,4,5,990,3.59,"Mammal"
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f01612245089ea1cc60b35732c7f9aa1f78de43693aaae4102f1523d1027e7a
+size 977

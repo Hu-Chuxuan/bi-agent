@@ -1,7 +1,3 @@
-Sentiment,Order
-"Don't know/not relevant",1
-"Not important",2
-"Slightly important",3
-"Somewhat important",4
-"important",5
-"very important",6
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7557e10e2aed29d8592f66092940b2b09e15eaf4395af45c9d7a2da3b8561a
+size 148

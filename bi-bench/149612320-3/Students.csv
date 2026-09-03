@@ -1,20 +1,3 @@
-Name,Student ID," Year ID",Gender ID,Date of Birth,Department  ID,"Location "
-"Lokajit  Subbaraja",12001,1,"M",1997-04-09 00:00:00.000,13,"Pune"
-"Daniel Wintermeyer",12002,2,"M",1997-12-29 00:00:00.000,13,"Varanasi"
-"Rizvi Syed",12003,3,"M",1997-12-30 00:00:00.000,13,"Dubai"
-"Mayank Tiwari",12004,4,"M",1997-04-19 00:00:00.000,13,"Pune"
-"Ishaan Divekar",12005,1,"M",1997-04-20 00:00:00.000,13,"Pune"
-"Nikhil Chaudhary",15001,2,"M",1997-11-25 00:00:00.000,13,"Lucknow"
-"Kartik Jagtap",15002,3,"M",1997-12-27 00:00:00.000,13,"Mumbai"
-"Ayub Khan",15003,4,"M",1998-01-28 00:00:00.000,13,"Lucknow"
-"Nabeela Shah",15004,1,"F",1998-03-01 00:00:00.000,13,"Delhi"
-"Ayushi Sharma",15005,2,"F",1998-04-02 00:00:00.000,13,"Delhi"
-"Pawan Pandey",15006,3,"M",1997-04-19 00:00:00.000,13,"Kathmandu"
-"Ashutosh Panddey",14001,4,"M",1997-04-20 00:00:00.000,13,"Manali"
-"Abhinav Singh",14002,1,"M",1997-08-21 00:00:00.000,13,"Sharjah"
-"Sachin Santhosh",14003,2,"M",1997-09-22 00:00:00.000,13,"Pune"
-"Param Shah",14004,3,"M",1997-10-24 00:00:00.000,13,"Kolhapur"
-"Sanat Bhatt",14005,4,"M",1997-11-25 00:00:00.000,13,"Chandigarh"
-"Aalok Bhatawdekar",13001,1,"M",1997-12-27 00:00:00.000,13,"Nagpur"
-"Rajiv Patel",13002,2,"M",1998-01-28 00:00:00.000,13,"Cochin"
-"Samuel L",13003,3,"M",1997-04-27 00:00:00.000,13,"Colombo"
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d1f2ff9f8861c80123a554cf6c10d482806c0c55de4fc10d68c52b8aabefe7f
+size 1320

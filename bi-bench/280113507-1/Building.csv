@@ -1,21 +1,3 @@
-BuildingID,BuildingName,BuildingLocation,CampusID,DepartmentID
-800,"Smiths","Westside",200,1000
-801,"Shilman","Forsynth Avenue",201,1001
-802,"Robert Science Center","Brookline",202,1002
-803,"Margaret","Backbay",203,1003
-804,"Sundew","Milk Street",204,1004
-805,"Lavender","Park Street",205,1010
-806,"Bedford","Beacon Street",206,1010
-807,"Elliot","Mathews Street",207,1007
-808,"Spearow","Symphony Street",208,1008
-809,"Eagle","Eastside",209,1009
-810,"Marge","Heath Street",200,1000
-811,"Lincoln","Tremont Street",200,1000
-812,"Washington","Mission Main",201,1001
-813,"Berkshire","Sunset Boulevard",205,1002
-814,"Cassandra","Commonwealth Ave",205,1003
-815,"Fiona","Lexington Street",204,1003
-816,"Rivena","Causeway Ave",203,1004
-817,"Fiorano","Hemenway",203,1007
-818,"Florence","Boylston Street",208,1008
-819,"Curry","Riverway",207,1009
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf96d28699be083beef41a2c0c13dd5670940d709e7aeb53fb01586e6edc92f1
+size 856

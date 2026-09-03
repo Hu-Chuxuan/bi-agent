@@ -1,12 +1,3 @@
-SalesTerritoryKey,Region,Country,Group
-1,"Northwest","United States","North America"
-2,"Northeast","United States","North America"
-3,"Central","United States","North America"
-4,"Southwest","United States","North America"
-5,"Southeast","United States","North America"
-6,"Canada","Canada","North America"
-7,"France","France","Europe"
-8,"Germany","Germany","Europe"
-9,"Australia","Australia","Pacific"
-10,"United Kingdom","United Kingdom","Europe"
-11,"Corporate HQ","Corporate HQ","Corporate HQ"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2588cc7e32e7e3fd5fcfa9f25eb0c21ae169d36e4e6c0b9840f1ee37ec5f1e73
+size 505

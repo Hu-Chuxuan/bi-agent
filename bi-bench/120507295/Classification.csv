@@ -1,11 +1,3 @@
-SubCategory,Oil and Gas Field data Analysis and Visualization
-"Rheology Analysis","Drilling Fluid"
-"Volume Analysis","Drilling Fluid"
-"Material Consumption Analysis","Drilling Fluid"
-"Bottom Hole Assembly Analysis","Drilling Engineering"
-"Progress Chart Analysis","Drilling Engineering"
-"Rate of Penetration Analysis","Drilling Engineering"
-"Drilling Parameters Analysis","Drilling Engineering"
-"Time Break Down Analysis","Drilling Engineering"
-"Word Clouds Analysis","Drilling Engineering"
-"Non-Productive and Productive time Analysis","Drilling Engineering"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a504cf187daa497b3d572fab86bd08d96b52e4df064fe444edec0d8f23246ec8
+size 571

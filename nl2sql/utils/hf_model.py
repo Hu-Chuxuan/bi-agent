@@ -15,6 +15,8 @@ import torch
 MODEL_REGISTRY: dict[str, str] = {
     "infy-32b":  "infly/inf-rl-qwen-coder-32b-2746",
     "xiyan-32b": "XGenerationLab/XiYanSQL-QwenCoder-32B-2504",
+    "kwai-autosql-14b": "Kwai-AutoSQL/Kwai-AutoSQL-14B",
+    "kwai-autosql-32b": "Kwai-AutoSQL/Kwai-AutoSQL-32B",
     "llama3-8b": "meta-llama/Meta-Llama-3.1-8B-Instruct",
 }
 

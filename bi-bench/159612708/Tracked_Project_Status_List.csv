@@ -1,6 +1,3 @@
-Statuses,Status_Order
-"Backlog","1"
-"Blocked","2"
-"Awaiting Implementation","3"
-"In Progress","4"
-"Ready for Review","5"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a95fa701fdf6a4cc71fbf3586e3032e460698005f451e53de27795a1fdce479f
+size 127

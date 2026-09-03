@@ -1,7 +1,3 @@
-Agent,Sales,Year,Product,Region
-"Sam",1000,2019,"A","West"
-"Sam",200,2017,"B","West"
-"Sam",300,2019,"C","West"
-"Emily",3000,2019,"C","East"
-"Karen",1000,2018,"B","West"
-"Karen",200,2019,"C","West"
+version https://git-lfs.github.com/spec/v1
+oid sha256:150b0558a41a20fb42ced830571f3d4ba9b363636a798a50409da36af854842b
+size 204

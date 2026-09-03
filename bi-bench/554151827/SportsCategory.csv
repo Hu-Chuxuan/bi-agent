@@ -1,11 +1,3 @@
-CategoryID,CategoryName,ProductID
-"B169","Indoor","QX5146"
-"E246","Indoor","PT3839"
-"E541","Indoor","WD0398"
-"F837","Outdoor","KM5282"
-"G744","Indoor","WD1821"
-"K017","Indoor","FK8188"
-"L590","Outdoor","BV4975"
-"L753","Indoor","VS0198"
-"W150","Indoor","PO3619"
-"X084","Outdoor","IJ1040"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d8be853947654f4a337635a06b623b0886c00320c32af122c8654791a221ca0
+size 298

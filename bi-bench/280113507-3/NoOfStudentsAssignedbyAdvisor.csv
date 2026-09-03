@@ -1,21 +1,3 @@
-advisorid,advisorname,departmentid,NoOfStudents
-101,"Giovanni Alford",1000,18
-102,"Milana Hagan",1000,9
-103,"Fletcher Barrett",1005,13
-104,"Fariha Redfern",1005,9
-105,"Rahim Contreras",1006,14
-106,"Khalil Hilton",1007,16
-107,"Dione Jefferson",1007,16
-108,"Calum Ellwood",1006,13
-109,"Sinead Coleman",1008,18
-110,"Riaz Baldwin",1009,13
-111,"Laura Richards",1010,17
-112,"Henry Lord",1006,9
-113,"Harry Wes",1008,12
-114,"King Loius",1000,18
-115,"Raymond Nash",1005,17
-116,"John Abraham",1007,20
-117,"Deppak Krishna",1006,7
-118,"Chethan Kumar",1008,19
-119,"Elizabeth Kingston",1009,27
-120,"Aarti Mehta",1010,16
+version https://git-lfs.github.com/spec/v1
+oid sha256:504a9b29d29627b8e48198acb420f575aee641bb3117427b5d2399eef0863f3e
+size 627

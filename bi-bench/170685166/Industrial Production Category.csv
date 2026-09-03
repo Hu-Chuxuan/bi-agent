@@ -1,15 +1,3 @@
-IndexID,IndexKey,Category,Index Name,Sort,Name
-1,"IPUTIL","Industrial Production","IP Utilities",5,"Utilities"
-13,"INDPRO","Industrial Production","IP Total Index",1,"Total Index"
-2,"CAPUTLG21S","Capacity Utilization","CU Mining",13,"CU Mining"
-12,"IPFINAL","Industrial Production","IP Final Products",2,"Final Products"
-3,"MCUMFN","Capacity Utilization","CU Manufacturing",12,"CU Manufacturing"
-11,"IPCONGD","Industrial Production","IP Consumer Goods",7,"Consumer Goods"
-4,"TCU","Capacity Utilization","CU Total Index",11,"CU Total Index"
-10,"IPBUSEQ","Industrial Production","IP Business Equipment",6,"Business Equipment"
-5,"IPXXX001S","Industrial Production","IP Mfg Ex Vehicles & Parts",10,"Mfg Ex Vehicles & Parts"
-9,"IPMAN","Industrial Production","IP Manufacturing",3,"Manufacturing"
-6,"IPG3361T3S","Industrial Production","IP Vehicles & Parts",9,"Vehicles & Parts"
-8,"IPMINE","Industrial Production","IP Mining",4,"Mining"
-7,"IPB52300S","Industrial Production","IP Defense & Space",8,"Defense & Space"
-14,"CAPUTLG2211S","Capacity Utilization","CU Utilities",14,"CU Utilities"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e14596c0d161be95856e8001f5d034fee72c0351d66dff8466bf850809b13e9
+size 1099

@@ -1,13 +1,3 @@
-EventSubclass,Sub Class,Ordinal
-2,"Graph Finished",1
-1,"Process",20
-6,"Commit",100
-17,"ReadData",15
-25,"ExecuteSQL",10
-37,"Backup",200
-44,"Compress Segment",30
-52,"Metadata Traversal during Backup",150
-53,"VertiPaq",140
-57,"Tabular Transation Commit",130
-58,"Sequence point",2
-59,"Tabular object processing",110
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27245cb11c864c813b42233dcdd4981a3881de8abb90cd855f05ec4b7749356
+size 325

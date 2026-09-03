@@ -1,6 +1,3 @@
-Selection,First Name,Last Name,Department,Salary,Source
-"Office","ABC","Corp","NA",,""
-"A","Josephine","Darakjy","Payroll",42000,"Internal"
-"B","Lenna","Paprocki","Research",58000,"Internal"
-"C","Simona","Morasca","Real Estate",75000,"External"
-"D","Leota","Dilliard","Marketing",60000,"External"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d16abf17fa95c76f808abdced3e980dcc10975d5776073dd3f1f17c91442854c
+size 303

@@ -1,13 +1,3 @@
-Ordinal,Metric 1
-0,"New Orders"
-1,"New Orders Ex Transportation"
-2,"New Orders Ex Defense & Transportation"
-3,"Capital Goods"
-4,"Nondefense Capital Goods"
-5,"Nondefense Capital Goods Ex Aircraft"
-6,"Primary Metals"
-7,"Shipments"
-8,"Unfilled Orders"
-9,"Inventories"
-10,"Inventories Ex Defense Aircraft"
-11,"No selection"
+version https://git-lfs.github.com/spec/v1
+oid sha256:1212d95482b418c02867a0277924e23628497fb1bacb8a36fa4ec1583d20dc90
+size 333

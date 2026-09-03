@@ -1,6 +1,3 @@
-InvolvementCodeID,Involvement
-"A","Accomplice"
-"W","Witness"
-"V","Victim"
-"P","Perpetrator"
-"N","Not Applicable"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ee92d40af02e4677ab2920e0497d39066d82e13776e4aa5060e8ba4fd50f383
+size 119

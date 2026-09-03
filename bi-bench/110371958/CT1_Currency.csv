@@ -1,5 +1,3 @@
-Currency,Currency Rate,Currency Format
-"SEK",1,"0,000kr"
-"EUR",1.1,"€0,00"
-"USD",0.8,"$0,000"
-"CAD",1.2,"$0,000ca"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0d817d4a1cdde3b8bddf28cbff30cc5dc0e4cdcd8e57ce57064a27a3280843a
+size 122

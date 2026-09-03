@@ -1,11 +1,3 @@
-﻿Average of DateDiffInsulin,Min of DateDiffInsulin,Max of DateDiffInsulin,Profile ID,Count of Patient ID
-154.00,140,182,8,5
-128.00,28,252,10,10
-58.86,28,182,5,48
-85.27,28,140,7,13
-65.63,14,252,1,108
-100.40,14,336,2,46
-93.69,14,210,3,18
-58.15,14,252,4,43
-92.86,14,336,6,93
-119.54,14,294,9,33
+version https://git-lfs.github.com/spec/v1
+oid sha256:c95795be5c29a5cb0ee7c2c28e4e683776298ae745d24a6bef6c25d0b17a2ff0
+size 304

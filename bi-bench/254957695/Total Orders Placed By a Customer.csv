@@ -1,11 +1,3 @@
-CustomerRank,CustomerID,FirstName,LastName,Total Orders,Total Billing Amount
-1,5,"George","Kersey",4,302.915
-2,7,"John","Williams",3,207.75
-3,8,"Bridgette","Ross",2,152.975
-3,14,"Ann","Norvell",2,90
-5,16,"Thomas","Nance",1,60
-5,4,"Joseph","Tijerina",1,160
-5,9,"William","Brazier",1,129.95
-5,11,"Stephanie","Kimberling",1,83.67
-5,12,"Terry","Terry",1,61.98
-5,13,"Marina","Marina",1,129.91
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f00f9a8cb01bb9c35276d3e81016c4d07d9dfb0f7bb288fd78cbac39e4fd1a
+size 399

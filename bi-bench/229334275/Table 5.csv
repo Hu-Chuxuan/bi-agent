@@ -1,10 +1,3 @@
-Selection,First Name,Last Name,Department,Salary
-"A","Josephine","Darakjy","Payroll","42000"
-"B","Lenna","Paprocki","Research","58000"
-"C","Simona","Morasca","Real Estate","75000"
-"D","Leota","Dilliard","Marketing","60000"
-"","","","Minimum","42000"
-"","","","Maximum","75000"
-"","","","Average","58750"
-"Office","ABC","Corp","",""
-"Source:  and Internal and External","","","",""
+version https://git-lfs.github.com/spec/v1
+oid sha256:51befc1013097176afb880d73f24c34c7244d723a621611be4ccbb5c9113b69a
+size 391

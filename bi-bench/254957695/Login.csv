@@ -1,35 +1,3 @@
-LoginID,SecurityQuestion,LastLoginDateTime
-"emp1@gmail.com","Nick name:pops",2019-12-01 20:15:09.000
-"emp10@gmail.com","best friend:Sania",2020-09-11 13:15:09.000
-"emp11@gmail.com","best friend:Sami",2020-08-19 13:10:09.000
-"emp12@gmail.com","best friend:levi",2020-11-01 13:11:09.000
-"emp13@gmail.com","best friend:humaira",2020-11-23 07:11:09.000
-"emp14@gmail.com","best friend:lolo",2020-11-26 07:11:09.000
-"emp15@gmail.com","best friend:kelly",2020-11-23 09:11:09.000
-"emp16@gmail.com","best friend:kop",2020-11-23 10:11:09.000
-"emp17@gmail.com","nick name:kedi",2020-11-25 11:11:09.000
-"emp18@gmail.com","nick name:yarmi",2020-11-26 09:20:09.000
-"emp19@gmail.com","nick name:jenna",2020-11-26 21:20:09.000
-"emp2@gmail.com","favourite palce:Paris",2019-11-28 20:15:09.000
-"emp20@gmail.com","nick name:kaby",2020-11-26 22:20:09.000
-"emp21@gmail.com","nick name:and",2020-11-30 22:10:09.000
-"emp22@gmail.com","nick name:jan",2020-11-30 22:15:09.000
-"emp23@gmail.com","nick name:Steve",2020-08-19 01:10:09.000
-"emp24@gmail.com","nick name:Alexa",2020-08-19 01:10:09.000
-"emp3@gmail.com","favourite palce:London",2019-11-25 20:15:09.000
-"emp4@gmail.com","favourite palce:New York",2020-11-28 20:15:09.000
-"emp5@gmail.com","favourite palce:Mumbai",2020-08-28 23:15:09.000
-"emp6@gmail.com","favourite palce:Goa",2020-06-28 22:15:09.000
-"emp7@gmail.com","favourite palce:LA",2020-09-28 08:15:09.000
-"emp8@gmail.com","favourite palce:Boston",2020-12-01 11:15:09.000
-"emp9@gmail.com","favourite palce:NJ",2020-04-28 10:15:09.000
-"user1@gmail.com","Favourite Color:Blue",2020-06-18 10:50:09.000
-"user10@gmail.com","Nick name:sui",2020-06-18 11:50:09.000
-"user2@gmail.com","Favourite Color:Black",2020-06-18 10:50:09.000
-"user3@gmail.com","Favourite Fruit:Mango",2020-06-18 10:50:09.000
-"user4@gmail.com","Favourite Fruit:pear",2020-06-18 11:50:09.000
-"user5@gmail.com","Favourite Fruit:banana",2020-06-18 11:50:09.000
-"user6@gmail.com","Favourite day:sunday",2020-06-18 11:50:09.000
-"user7@gmail.com","Favourite day:friday",2020-06-18 11:50:09.000
-"user8@gmail.com","Favourite day:monday",2020-06-18 11:50:09.000
-"user9@gmail.com","Nick name:sandy",2020-06-18 11:50:09.000
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d377a130d0121762eb921fc5d26e35210c51f83f2c7cbc156934423705eb4de
+size 2202

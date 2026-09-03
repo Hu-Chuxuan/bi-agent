@@ -1,17 +1,3 @@
-VM Name,Software Names,Owner,Email,Subscription ID,Status
-"VM 1","Software 1","a","a@xyz.com","x","Missing"
-"VM 2","Software 1","b","b@xyz.com","y","Installed"
-"VM 3","Software 1","c","c@xyz.com","z","Installed"
-"VM 4","Software 1","NA","NA","NA","Missing"
-"VM 1","Software 2","a","a@xyz.com","x","Installed"
-"VM 2","Software 2","b","b@xyz.com","y","Missing"
-"VM 3","Software 2","c","c@xyz.com","z","Installed"
-"VM 4","Software 2","NA","NA","NA","Missing"
-"VM 1","Software 3","a","a@xyz.com","x","Missing"
-"VM 2","Software 3","b","b@xyz.com","y","Missing"
-"VM 3","Software 3","c","c@xyz.com","z","Installed"
-"VM 4","Software 3","NA","NA","NA","Missing"
-"VM 1","Software 4","a","a@xyz.com","x","Missing"
-"VM 2","Software 4","b","b@xyz.com","y","Missing"
-"VM 3","Software 4","c","c@xyz.com","z","Missing"
-"VM 4","Software 4","NA","NA","NA","Missing"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c2eb987e68a39de3a35cac67343b9cb386fcc08dfedd974582de708c6a5e304
+size 865

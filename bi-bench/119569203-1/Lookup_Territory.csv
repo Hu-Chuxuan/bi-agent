@@ -1,20 +1,3 @@
-Territory Key,Zone,State,Region
-1,"East","West Bengal","Kolkata"
-2,"East","Bihar","Patna"
-3,"East","Jharkhand","Raipur"
-4,"North","Delhi","Delhi"
-5,"North","Uttar Pradesh","Agra"
-6,"North","Rajasthan","Jaipur"
-7,"North","Punjab","Amritsar"
-8,"North","Uttar Pradesh","Varanasi"
-9,"South","Visakhapatnam","Vizag"
-10,"South","Kerla","Kochi"
-11,"South","Tamil Nadu","Madurai"
-12,"South","Tamil Nadu","Chennai"
-13,"South","Karnatka","Bengaluru"
-14,"West","Goa","Goa"
-15,"West","Maharashtra","Mumbai"
-16,"West","Maharashtra","Pune"
-17,"West","Maharashtra","Nagpur"
-18,"West","Gujrat","Ahmedabad"
-19,"West","Gujrat","Surat"
+version https://git-lfs.github.com/spec/v1
+oid sha256:cffe709a4025546505f2887f4c0c63a7d9cd6a71dc3f0383d04f37aa467f5493
+size 637

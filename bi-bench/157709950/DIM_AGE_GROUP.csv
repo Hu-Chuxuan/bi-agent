@@ -1,7 +1,3 @@
-age_group_id,age_group
-1,"5-14 years"
-2,"15-24 years"
-3,"25-34 years"
-4,"35-54 years"
-5,"55-74 years"
-6,"75+ years"
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa07df6bbb0b32e9456ef7c553b8cae54a7083781aa4773defd7833c37995946
+size 123

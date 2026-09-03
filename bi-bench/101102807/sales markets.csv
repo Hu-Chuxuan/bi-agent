@@ -1,16 +1,3 @@
-markets_code,markets_name,zone
-"Mark001","Chennai","South"
-"Mark002","Mumbai","Central"
-"Mark003","Ahmedabad","North"
-"Mark004","Delhi NCR","North"
-"Mark005","Kanpur","North"
-"Mark006","Bengaluru","South"
-"Mark007","Bhopal","Central"
-"Mark008","Lucknow","North"
-"Mark009","Patna","North"
-"Mark010","Kochi","South"
-"Mark011","Nagpur","Central"
-"Mark012","Surat","North"
-"Mark013","Bhopal","Central"
-"Mark014","Hyderabad","South"
-"Mark015","Bhubaneshwar","South"
+version https://git-lfs.github.com/spec/v1
+oid sha256:814c7615c28a061ede4b36d9783a823667114e0294bf8e87bdde47d988ebff6b
+size 477

@@ -1,23 +1,3 @@
-CampaignID,TrafficChannel,Device
-1,"Organic Search","Desktop"
-2,"Organic Search","Mobile"
-3,"Organic Search","Tablet"
-4,"SEO","Desktop"
-5,"SEO","Mobile"
-6,"SEO","Tablet"
-7,"Banner","Desktop"
-8,"Banner","Mobile"
-9,"Banner","Tablet"
-10,"Affliliate","Desktop"
-11,"Affliliate","Mobile"
-12,"Affliliate","Tablet"
-13,"SEM","Desktop"
-14,"SEM","Mobile"
-15,"SEM","Tablet"
-16,"Email","Tablet"
-17,"Email","Mobile"
-18,"Email","Desktop"
-19,"SMO","Tablet"
-20,"SMO","Desktop"
-21,"SMO","Mobile"
-22,"Mail","Paper"
+version https://git-lfs.github.com/spec/v1
+oid sha256:85f1fb17154fbf18fa4705136c581803d901a3f81bce3cda265b3d85513fdba3
+size 519

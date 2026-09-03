@@ -1,16 +1,3 @@
-Forecast Planning Level,Pricing Level,Detailed Pricing Level,Annuity vs.Non An
-"EA Add-On","01.New","EA Add-On","Annuity"
-"EA New","01.New","EA New","Annuity"
-"EA Recurring","03.Recurring","EA Recurring","Annuity"
-"EA Renewal","02.Renewal","EA Renewal","Annuity"
-"FPP/MLP","01.New","Other Non Annuity","Non Annuity"
-"VL Annuity Non-Recur w/o EA","01.New","Other Non Annuity","Non Annuity"
-"VL Annuity Recur w/o EA","03.Recurring","Other Annuity","Annuity"
-"VL Non-Annuity","01.New","Other Non Annuity","Non Annuity"
-"3rd Party Hosting","01.New","Other Non Annuity","Non Annuity"
-"Online Services","01.New","Other Non Annuity","Non Annuity"
-"EA Subscription Recurring","03.Recurring","EAS Recurring","Annuity"
-"Other Annuity","01.New","Other Annuity","Annuity"
-"Other Non-Annuity","01.New","Other Non Annuity","Non Annuity"
-"EA Subscription Non Recurring","01.New","EAS Non Recurring","Annuity"
-"Online Display","01.New","Other Non Annuity","Non Annuity"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f390e5b78b5dabc3d0b3be88969456bc98e4f3830a5eb7243c2915c03f8e1bea
+size 970

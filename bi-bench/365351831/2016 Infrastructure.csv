@@ -1,13 +1,3 @@
-Sector,Total              Infrastructure              Expenditures            2015–16 Interim1,2016–17 Plan:            Investment            in Capital            Assets2,2016–17 Plan:                          Transfers    and            Other Infrastructure            Expenditures3,2016–17 Plan:            Total            Infrastructure            Expenditures4
-"Transportation - Transit","3,293","4,701","688","5,389"
-"Transportation - Provincial Highways","2,206","2,108","43","2,150"
-"Transportation - Other Transportation, Property and    Planning","815","603","166","768"
-"Health - Hospitals","2,174","2,621","263","2,884"
-"Health - Other Health","258","60","248","308"
-"Education","1,930","1,834","171","2,005"
-"Postsecondary - Colleges and Other","385","608","4","613"
-"Postsecondary - Universities","209","–","187","187"
-"Social","373","8","305","312"
-"Justice","198","58","197","255"
-"Other Sectors5","1,101","436","934","1,369"
-"Total Infrastructure    Expenditures","12,941","13,037","3,203","16,240"
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3520bd07b297bbb482241ebaf207e70008072ec61d1c3a5112ea510fbe581ab
+size 1041

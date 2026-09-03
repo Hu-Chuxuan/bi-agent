@@ -1,21 +1,3 @@
-﻿Advisor,No. of Students,Average of CGPA,DepartmentName
-119,27,2.4344444444444444,Regulatory Laws
-116,20,2.9485,Information Science
-118,19,2.946315789473684,Health Informatics
-101,18,3.0455555555555556,Information Systems
-109,18,2.6905555555555556,Health Informatics
-114,18,3.086111111111111,Information Systems
-111,17,2.678235294117647,Bioinformatics
-115,17,2.7476470588235293,Law
-106,16,2.65125,Information Science
-107,16,2.529375,Information Science
-120,16,2.870625,Bioinformatics
-105,14,2.9214285714285713,Data Science
-103,13,3.081538461538462,Law
-108,13,2.770769230769231,Data Science
-110,13,2.4,Regulatory Laws
-113,12,2.6950000000000003,Health Informatics
-102,9,2.988888888888889,Information Systems
-104,9,2.937777777777778,Law
-112,9,2.714444444444444,Data Science
-117,7,3.15,Data Science
+version https://git-lfs.github.com/spec/v1
+oid sha256:6657bfaee544b4e214131f5c1c1fa641a09a7680f53b92eb8d604de5bb774c41
+size 818

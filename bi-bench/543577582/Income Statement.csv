@@ -1,25 +1,3 @@
-Date,2020-12-31 00:00:00.000,2019-12-31 00:00:00.000,2018-12-31 00:00:00.000,2017-12-31 00:00:00.000,2016-12-31 00:00:00.000
-Revenue,31536,24578,21461.27,11758.75,7000.13
-Total Revenue,31536,24578,21461.27,11758.75,7000.13
-"Cost of Revenue, Total",24906,20509,17419.25,9536.26,5400.88
-Gross Profit,6630,4069,4042.02,2222.49,1599.26
-"Selling/General/Admin. Expenses, Total",3145,2646,2834.49,2476.5,1432.19
-Research & Development,1491,1343,1460.37,1378.07,834.41
-Unusual Expense (Income),0.00,149.00,135.23,--,--
-Total Operating Expense,29542,24647,21849.34,13390.84,7667.47
-Operating Income,1994,-69,-388.07,-1632.09,-667.34
-"Interest Inc.(Exp.),Net-Non-Op., Total",-832,-593,-637.04,-399.27,-164.18
-"Other, Net",-8,-3,20.37,-177.67,85.17
-Net Income Before Taxes,1154,-665,-1004.75,-2209.03,-746.35
-Provision for Income Taxes,292,110,57.84,-691.1,26.7
-Net Income After Taxes,862,-775,-1062.58,-1517.93,-773.05
-Minority Interest,-172,-95,86.49,279.18,98.13
-Net Income Before Extra. Items,690,-870,-976.09,-1238.75,-674.91
-Net Income,690,-870,-976.09,-1961.4,-674.91
-Income Available to Com Excl ExtraOrd,690,-870,-976.09,-1238.75,-674.91
-Income Available to Com Incl ExtraOrd,690,-870,-976.09,-1961.4,-674.91
-Diluted Net Income,690,-870,-976.09,-1961.4,-674.91
-Diluted Weighted Average Shares,1083,887,852.63,828.79,721.06
-Diluted EPS Excluding ExtraOrd Items,0.64,-0.98,-1.14,-1.49,-0.94
-Diluted Normalized EPS,0.64,-0.87,-1.04,-1.49,-0.94
-Total Extraordinary Items,(722.65),--,--,--,--
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0a768497121f06bf4d4d2f3834fd5b8d3ec429a597ac44e478d55deec462005
+size 1512

@@ -1,6 +1,3 @@
-id_disability_type,label
-1,"In seeing"
-97,"In speech"
-193,"In hearing"
-289,"In movement"
-385,"Mental"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e251c66f156cad18b1f51321d8eaf4fe7b73043143057e1c4602668e670f1f5
+size 108

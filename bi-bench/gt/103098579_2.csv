@@ -1,18 +1,3 @@
-﻿Category,SubCategory,Budget,Sales
-Accessories,Bike Racks,36861,36960
-Accessories,Bike Stands,38757,37842
-Accessories,Bottles and Cages,57369,55031
-Accessories,Cleaners,6465,6869
-Accessories,Fenders,43670,44268
-Accessories,Helmets,221905,215923
-Accessories,Hydration Packs,39803,38823
-Accessories,Tires and Tubes,242777,231300
-Bikes,Mountain Bikes,6534364,9952760
-Bikes,Road Bikes,5257897,14520584
-Bikes,Touring Bikes,4055965,3844801
-Clothing,Caps,20371,18834
-Clothing,Gloves,33965,33380
-Clothing,Jerseys,170938,165066
-Clothing,Shorts,68453,67050
-Clothing,Socks,5449,4882
-Clothing,Vests,34565,33465
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e1908d54c8d293f046b726e7852bc05c5faa29000ccbe11d4cfcab03c608d8
+size 619

@@ -1,14 +1,3 @@
-RegID,Province&Territories
-"ON","Ontario, Canada"
-"QC","Quebec, Canada"
-"BC","British Columbia, Canada"
-"AB","Alberta, Canada"
-"MB","Manitoba, Canada"
-"SK","Saskatchewan, Canada"
-"NS","Nova Scotia, Canada"
-"NB","New Brunswick, Canada"
-"NL","Newfoundland and Labrador, Canada"
-"PE","Prince Edward Island, Canada"
-"NT","Northwest Territories, Canada"
-"YT","Yukon Territory, Canada"
-"NU","Nunavut, Canada"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c525240e3771028a6f0a4f294dffddb6be8e3e111ee8c453cc460d786df26b0
+size 417

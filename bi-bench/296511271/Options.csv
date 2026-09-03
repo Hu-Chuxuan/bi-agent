@@ -1,10 +1,3 @@
-OptionKey,OptionName
-"35B","Horn"
-"12A","Front Basket"
-"51G","Saddle Basket"
-"66F","Head Light"
-"77X","Tail Light"
-"21G","Sticker PKG"
-"89K","Grip Streamers"
-"5FR","Fork Springs"
-"53F","Leather Seat"
+version https://git-lfs.github.com/spec/v1
+oid sha256:101004105001340e5a188521aa1e2a033ff5f8e297e7b3c168d15d89e3c72e65
+size 210

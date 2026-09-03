@@ -1,5 +1,3 @@
-Type,Material,Description
-"A","X","plastic"
-"A","X","plastic"
-"B","Y","metal"
-"B","Z","rubber"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e15d2445e811d2bf8cca365d01b8edc98abb94c0a358a63f027d29c72471fc
+size 100

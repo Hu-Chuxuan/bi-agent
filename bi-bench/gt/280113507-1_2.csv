@@ -1,21 +1,3 @@
-AdvisorID,AdvisorName,NumberOfStudents,AverageCGPA,DepartmentName
-101,Giovanni Alford,18,3.0455555555555556,Information Systems
-102,Milana Hagan,9,2.988888888888889,Information Systems
-103,Fletcher Barrett,13,3.081538461538462,Law
-104,Fariha Redfern,9,2.937777777777778,Law
-105,Rahim Contreras,14,2.9214285714285713,Data Science
-106,Khalil Hilton,16,2.65125,Information Science
-107,Dione Jefferson,16,2.529375,Information Science
-108,Calum Ellwood,13,2.770769230769231,Data Science
-109,Sinead Coleman,18,2.6905555555555556,Health Informatics
-110,Riaz Baldwin,13,2.4,Regulatory Laws
-111,Laura Richards,17,2.678235294117647,Bioinformatics
-112,Henry Lord,9,2.714444444444444,Data Science
-113,Harry Wes,12,2.6950000000000003,Health Informatics
-114,King Loius,18,3.086111111111111,Information Systems
-115,Raymond Nash,17,2.7476470588235293,Law
-116,John Abraham,20,2.9485,Information Science
-117,Deppak Krishna,7,3.15,Data Science
-118,Chethan Kumar,19,2.9463157894736844,Health Informatics
-119,Elizabeth Kingston,27,2.4344444444444444,Regulatory Laws
-120,Aarti Mehta,16,2.870625,Bioinformatics
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fef1d1c7c045bd6afbd084f3d6648b38e289343330049946dd6fb8f654b61c2
+size 1088

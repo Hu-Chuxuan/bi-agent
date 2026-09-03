@@ -1,5 +1,3 @@
-Item,Unit of Measure,Quantity
-"A","kg",1
-"B","mg",1000000
-"C","mg",1000000
-"A","mg",1000000
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b2b4025aaf6598dad3b354351b70e60aa0c41094421328eefaece60afef5a0
+size 97

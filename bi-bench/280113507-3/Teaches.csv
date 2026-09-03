@@ -1,21 +1,3 @@
-CourseID,ProfessorID,Semester,Term
-6000,500,"1","Fall"
-6000,511,"4","Summer"
-6001,509,"1","Fall"
-6001,517,"2","Spring"
-6002,500,"3","Summer"
-6002,506,"2","Spring"
-6003,503,"4","Fall"
-6003,514,"3","Summer"
-6004,511,"4","Fall"
-6004,518,"1","Spring"
-6005,505,"2","Summer"
-6005,511,"1","Spring"
-6006,506,"3","Fall"
-6006,517,"2","Summer"
-6007,503,"4","Spring"
-6007,518,"3","Fall"
-6008,508,"4","Spring"
-6009,509,"2","Fall"
-6010,508,"1","Summer"
-6010,514,"3","Spring"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2415e1714ad0c490a42e0bb7aaac249e7886c69f8c521fd3fbe660f381b0e9f9
+size 482

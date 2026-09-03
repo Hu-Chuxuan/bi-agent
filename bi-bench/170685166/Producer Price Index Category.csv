@@ -1,7 +1,3 @@
-Index Name,IndexKey,IndexID,Name
-"Final Demand Overall","PPIFinalDemandOverall",1,"Overall"
-"Final Demand Goods","PPIFinalDemandGoods",2,"Goods"
-"Final Demand Trade Services","PPIFinalDemandTradeServices",4,"Trade Services"
-"Final Demand Services Less TTW","PPIFinalDemandServicesLessTTW",6,"Services Less TTW"
-"Final Demand Transportation & Warehousing","PPIFinalDemandTransportationWarehousing",5,"Transportation & Warehousing"
-"Final Demand Construction","PPIFinalDemandConstruction",3,"Construction"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0afef986b0ac5092f3bed239d23defeb14be8f8fac821b4a1c74b99df0ff444c
+size 511

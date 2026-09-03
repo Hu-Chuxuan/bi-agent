@@ -1,4 +1,3 @@
-id,symbol,totalAmount,allTimeHighWorth,buyPrice,buyDate,buyAmount,coinWorthNow,currentWorth,totalInvested,coinCount,totalWorth,numberOfCoinsThatWentToZero,coinsThatWentToZero
-"1958","TRX","1670.684853","40.18933443","0.026271205","1.2.2019","543.7784104","543.7784104","109.3091559","31300","37","2923849.056","0","[List]"
-"1958","TRX","1670.684853","40.18933443","0.026800241","8.2.2019","533.0442446","533.0442446","109.3091559","31300","37","2923849.056","0","[List]"
-"1958","TRX","1670.684853","40.18933443","0.024055605","15.2.2019","593.8621976","593.8621976","109.3091559","31300","37","2923849.056","0","[List]"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3842370ad386d73b570e802d303e5c3ed6861197b02517078728de09105f85b
+size 624

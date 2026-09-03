@@ -1,11 +1,3 @@
-professorID,professorName,CountOfCourses
-500,"Jadon Ponce",2
-503,"Jacob Porter",2
-505,"Haidar Jacobs",1
-506,"Shakir Goulding",2
-508,"Ranveer Stamp",2
-509,"Sumaiyah Herman",2
-511,"Vinny Norton",3
-514,"Ann Storey",2
-517,"Alara Rivera",2
-518,"Angela Weston",2
+version https://git-lfs.github.com/spec/v1
+oid sha256:338acd7769b54a3dbeb52fa47c9d4fac95bb3f3ce11e099ff8783565aa3450bd
+size 268

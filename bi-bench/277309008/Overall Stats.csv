@@ -1,9 +1,3 @@
-TOP X COINS,$ VALUE,COINS IN WALLET,NOTES
-1,1102104,1,"BTC"
-2,1462443,4,"BTC, XRP, LTC, ETH"
-3,1310552,11,"(Various Coins)"
-5,2490189,23,"(Various Coins)"
-7,2923849,37,"(Various Coins)"
-10,2316169,55,"(Various Coins)"
-20,1619756,130,"(Various Coins)"
-50,979086,381,"(Various Coins)"
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f37f341134b34241a68aeae28b76658f3740c885ea5bf273987dbfd1c963aba
+size 292

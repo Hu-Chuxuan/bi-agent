@@ -1,10 +1,3 @@
-Name,Proffessor ID,Qualifications,Location
-"Mayank Pandey","T001","Ph.D,B.Tech","Lucknow"
-"Tyagi Patil","T002","Ph.D,B.Tech","Patna"
-"Misra Ganesh","T003","Ph.D ,M.Tech","Ghaziabad"
-"Sarvesh Gupta","T004","Ph.D ,M.Tech","Mumbai"
-"Vikas Shilke","T005","Ph.D ,M.Tech","Noida"
-" Kolhi","T006","Ph.D, Msc","Delhi"
-"Sachin Tendulkar","T007","Bsc. ,M.sc","Allahabad"
-"Pragya M","T008","Bsc., M.sc","Varanasi"
-"Rajnikanth Gaikwad","T009","Bsc. ,M.sc","Chennai"
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac0e0cfd08de22fbb3a77eaaacd16d8acfd50837373eb30fe9bb03177ec9f3b
+size 464

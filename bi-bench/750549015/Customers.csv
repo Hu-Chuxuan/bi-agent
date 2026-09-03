@@ -1,29 +1,3 @@
-CustomerCode,variable,value
-A0001,CustomerName,ABC Tunnels plc
-MID01,CustomerName,Midlands Customer
-EDIN001,CustomerName,Edinburgh Customer
-PEN099,CustomerName,Penzance Customer
-A0001,CustomerAddress1,123 Any Street
-MID01,CustomerAddress1,1 Jury Street
-EDIN001,CustomerAddress1,Princes Street
-PEN099,CustomerAddress1,
-A0001,CustomerAddress2,Any District
-MID01,CustomerAddress2,Warwickshire
-EDIN001,CustomerAddress2,Ednburgh
-PEN099,CustomerAddress2,
-A0001,CustomerAddress3,Any Town
-MID01,CustomerAddress3,
-EDIN001,CustomerAddress3,
-PEN099,CustomerAddress3,
-A0001,CustomerAddress4,
-MID01,CustomerAddress4,
-EDIN001,CustomerAddress4,
-PEN099,CustomerAddress4,
-A0001,CustomerCountry,UK
-MID01,CustomerCountry,UK
-EDIN001,CustomerCountry,
-PEN099,CustomerCountry,
-A0001,UKCustomerPostCode,CV35 8EN
-MID01,UKCustomerPostCode,CV35 8EN
-EDIN001,UKCustomerPostCode,
-PEN099,UKCustomerPostCode,
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f366ff9f60fda26a1dc1394686c1c182048b48d2d1223d1b11cfebde5330b8
+size 906

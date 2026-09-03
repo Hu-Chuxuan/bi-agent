@@ -1,2 +1,3 @@
-id,symbol,totalAmount,allTimeHighWorth,buyPrice,buyDate,buyAmount,coinWorthNow,currentWorth,totalInvested,coinCount,totalWorth,numberOfCoinsThatWentToZero,coinsThatWentToZero
-"372","BCN","196096.7314","7.28503E-05","7.28503E-05","8.8.2015","196096.7314","196096.7314","280.7502512","31300","37","2923849.056","0","[List]"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba02159831c4ca4511858286fa2be0d73600373195c7a1cb0d2500d99089f8e
+size 324

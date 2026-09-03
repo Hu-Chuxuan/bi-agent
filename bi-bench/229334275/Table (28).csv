@@ -1,11 +1,3 @@
-Product,Month,Net Revenue
-"Aluminum","January",100
-"Steel","January",50
-"Aluminum","January",120
-"Wood","January",30
-"Steel","February",60
-"Steel","February",75
-"Aluminum","February",115
-"Wood","March",20
-"Wood","March",25
-"Aluminum","March",150
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f772a206709938b0fb240e94925ddcf7e3204d778db0f16bbc4f0d495be745
+size 257

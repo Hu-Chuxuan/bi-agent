@@ -1,8 +1,3 @@
-HabitatId,HabitatName,EnvironmentId
-1,"Grasslands",1
-2,"Forest",1
-3,"Fresh water",3
-4,"Salt water",3
-5,"Desert",1
-6,"Urban",1
-7,"Sky",2
+version https://git-lfs.github.com/spec/v1
+oid sha256:583bc7069f9063bb44376744b099e070d84eb6cfb3a1b8c6bf691d99cc8dc3ae
+size 144

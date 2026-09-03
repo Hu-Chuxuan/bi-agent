@@ -1,7 +1,3 @@
-Id_Product,Product,Group,Subgroup,Value_Sold,Date_Sold
-1,"Computer","Eletronics","IT",1000,2018-05-01 00:00:00.000
-1,"Computer","Eletronics","IT",1000,2017-06-01 00:00:00.000
-1,"Computer","Eletronics","IT",1000,2017-07-01 00:00:00.000
-2,"Mouse","Eletronics","Peripherals",25,2018-05-01 00:00:00.000
-2,"Mouse","Eletronics","Peripherals",25,2018-06-01 00:00:00.000
-3,"Headphone","Eletronics","Sound",35,2018-12-01 00:00:00.000
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4d4df63adc821196f69d9df5b4040a5343aef897f65ffaf151903d83404cd8
+size 432

@@ -1,10 +1,3 @@
-StoreID,StoreName,Offer,DiscountPercentage
-1001,"Rainbow Shops","Thanks Giving",50
-1002,"Evolve Residential Retail","Black Friday Sale",75
-1003,"For Now","Black Friday Sale",75
-1004,"Almany Market","Thanks Giving",50
-1005,"Shawmut Groceries","Black Friday Sale",75
-1007,"Liriano Grocery","Thanks Giving",50
-1007,"Liriano Grocery","Black Friday Sale",75
-1009,"The Food Basket","Black Friday Sale",75
-1010,"Senado Market","Thanks Giving",50
+version https://git-lfs.github.com/spec/v1
+oid sha256:0082041e321ac23ff50ff597da563403b02db75e247c6447f7518a33d362c3c4
+size 449

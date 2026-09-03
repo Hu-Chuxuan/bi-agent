@@ -1,5 +1,3 @@
-ProductCategoryKey,ProductCategoryAlternateKey,EnglishProductCategoryName,SpanishProductCategoryName,FrenchProductCategoryName
-1,1,"Bikes","Bicicleta","Vélo"
-2,2,"Components","Componente","Composant"
-3,3,"Clothing","Prenda","Vêtements"
-4,4,"Accessories","Accesorio","Accessoire"
+version https://git-lfs.github.com/spec/v1
+oid sha256:03ac9d2ed952b939a78ddbe19dec9701a83b41c132fbd049d96f847783370984
+size 286

@@ -1,8 +1,3 @@
-﻿Datestamp,Email Opened,Email Clicked,Email Forwarded,Email Sent
-2018-11-12 00:00:00,,,2,
-2018-11-13 00:00:00,,,2,
-2018-11-19 00:00:00,,10,8,
-2018-11-20 00:00:00,4,,,
-2018-11-21 00:00:00,5,,,
-2018-11-27 00:00:00,1,,,
-2018-12-02 00:00:00,,,,11
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec00edfd8fd3bba9c82f91ac51edf75774b971cc50d2be8063f17de2a418d9cb
+size 253

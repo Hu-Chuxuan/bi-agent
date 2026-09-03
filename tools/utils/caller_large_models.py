@@ -2,8 +2,14 @@ from utils.llm_client import query_chat_endpoint
 from utils.py_tools import execute_tool as execute_py_tool
 from utils.sql_tools import execute_tool as execute_sql_tool
 
-PROPRIETARY = {"gpt-4o", "o4-mini", "gpt-5.2"}
-OPEN_SOURCE  = {"Llama-4-Maverick-17B-128E-Instruct-FP8"}
+PROPRIETARY = {"gpt-4o", "o4-mini", "gpt-5.2", "gpt-5.5"}
+OPEN_SOURCE  = {
+    "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "deepseek-v4-pro",
+    "mistral-large-3",
+    "gpt-oss-120b",
+    "kimi-k2-6",
+}
 ALL_MODELS   = PROPRIETARY | OPEN_SOURCE
 
 

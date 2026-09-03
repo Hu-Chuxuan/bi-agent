@@ -1,8 +1,3 @@
-ScheduleCode,Weekdays,StartTime,EndTime
-"FrSa1830-2030","Friday, Saturday",1899-12-30 18:00:00.000,1899-12-30 20:00:00.000
-"MoWeFr0900-1200","Monday, Wednesday, Friday",1899-12-30 09:00:00.000,1899-12-30 11:00:00.000
-"MoWeFr1300-1500","Monday, Wednesday, Friday",1899-12-30 13:00:00.000,1899-12-30 15:00:00.000
-"MoWeFr1600-1800","Monday, Wednesday, Friday",1899-12-30 16:00:00.000,1899-12-30 18:00:00.000
-"TuThSa1030-1230","Tuesday, Thursday, Saturday",1899-12-30 10:30:00.000,1899-12-30 12:30:00.000
-"TuThSa1300-1500","Tuesday, Thursday, Saturday",1899-12-30 13:00:00.000,1899-12-30 15:00:00.000
-"TuThSa1600-1800","Tuesday, Thursday, Saturday",1899-12-30 16:00:00.000,1899-12-30 18:00:00.000
+version https://git-lfs.github.com/spec/v1
+oid sha256:4332edeca4886dca0c476f5f0bc43b7a2a8e2a41cce71449b327cba98cfdf422
+size 701

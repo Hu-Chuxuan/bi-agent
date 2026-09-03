@@ -1,11 +1,3 @@
-﻿Calendar Year,Product Category,Total Sales
-2013,Bikes,$15359502.36
-2011,Bikes,$7075525.9291
-2012,Bikes,$5839695.3252
-2013,Accessories,$668241.53
-2013,Clothing,$323806.45
-2010,Bikes,$43421.0364
-2014,Accessories,$30371.35
-2014,Clothing,$15323.37
-2012,Accessories,$2147.08
-2012,Clothing,$642.79
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d6b5d6daec44a82e2ea390299c8182f6b0f4f185fa93877d161d84738cb922
+size 306

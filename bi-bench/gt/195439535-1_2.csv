@@ -1,13 +1,3 @@
-PartOfDay,AccidentSeverity,Count
-Afternoon,Fatal,397
-Afternoon,Serious,5721
-Afternoon,Slight,35915
-Evening,Fatal,295
-Evening,Serious,4453
-Evening,Slight,26123
-Morning,Fatal,365
-Morning,Serious,4774
-Morning,Slight,31689
-Night,Fatal,308
-Night,Serious,2592
-Night,Slight,11449
+version https://git-lfs.github.com/spec/v1
+oid sha256:1825636c989a35457b025e79624ddb4372f72386c9e8e6e2e99dcffc532ee938
+size 272

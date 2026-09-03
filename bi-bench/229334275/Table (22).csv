@@ -1,13 +1,3 @@
-id,results,threshold,number
-1,101,,
-1,104,,
-1,600,0.9,40
-1,101,,
-1,500,0.4,0
-2,101,,
-2,101,,
-2,101,,
-2,101,,
-3,500,0.2,0
-3,101,,
-3,101,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:81711b1f5765e009944d155a0d70374ade914410de69089c2c114c0d26e5feb5
+size 150

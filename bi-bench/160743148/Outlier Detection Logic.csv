@@ -1,3 +1,3 @@
-Grouping,Profits Margins Min,Profit Margins Max,Total Sales Min,Total Sales Max
-"Outlier",0.3,1,10000,500000
-"Non-Outlier",0,0.3,0,10000
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c54ef12ab453c25da8653cfe68259c8e2ac864c77dcd046dff0f2405a500c1e
+size 140

@@ -1,12 +1,3 @@
-CourseID,CourseName,CourseDescription,Credits,CourseType
-6000,"Web Design","Introduction to basics of HTML,CSS and JavaScript",4,"InPerson"
-6001,"Web Tools and Methods","Introductory course diving into REST API and Java",4,"InPerson"
-6002,"UX Design and Testing","Deals with wireframing and testing softwares",4,"Online"
-6003,"Database Management and Design","Deals with designing databases and running complex queries",4,"Online"
-6004,"Design Patterns","Introducses to the best practices used by experienced object-oriented software developers",4,"Online"
-6005,"Datawarehousing and Business Intelligence","Examines the technical and management aspects of building a data warehouse",4,"InPerson"
-6006,"Data Science Methods and Tools","Introduces the fundamental techniques for machine learning and data science engineering",4,"InPerson"
-6007,"Application Engineering Development"," Employs the object-oriented paradigm, visual user experience, and system design principles to put together complicated, powerful, real-world applications",4,"Online"
-6008,"Network Structures and Cloud Computing","focuses on the fundamentals of cloud computing, the principal areas of cloud architectures, cloud security, cloud governance, cloud storage, cloud virtualization and cloud capacity",4,"Online"
-6009,"Big Data Systems","Offers students an opportunity to learn a hands-on approach to understanding how large-scale data sets are processed and how data science algorithms are adopted in the industry through case studies and labs",4,"InPerson"
-6010,"Program Structures and Algorithms","Presents data structures and related algorithms, beginning with a brief review of dynamic memory allocation",4,"InPerson"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6715515c78f607ede0bd82c94b5e0c32a76e40f58d411ac4c37eaab6674c18
+size 1710

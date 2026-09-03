@@ -1,21 +1,3 @@
-﻿Year,Number of Disabled,Type of Disability,Gender
-2001,853908,Mental,Female
-2001,1279794,Mental,Male
-2011,867133,Mental,Female
-2011,1190675,Mental,Male
-2001,658317,In speech,Female
-2001,891287,In speech,Male
-2011,829244,In speech,Female
-2011,1062940,In speech,Male
-2001,4612020,In seeing,Female
-2001,5396786,In seeing,Male
-2011,2222170,In seeing,Female
-2011,2452590,In seeing,Male
-2001,2076956,In movement,Female
-2001,3701842,In movement,Male
-2011,1911151,In movement,Female
-2011,3141857,In movement,Male
-2001,539939,In hearing,Female
-2001,616262,In hearing,Male
-2011,2217414,In hearing,Female
-2011,2485868,In hearing,Male
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f30b88f1a7ce1f65f4192fe82081ca2f99d3200f718f0f7815c45ce679680b
+size 647

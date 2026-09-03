@@ -1,4 +1,3 @@
-id,symbol,totalAmount,allTimeHighWorth,buyPrice,buyDate,buyAmount,coinWorthNow,currentWorth,totalInvested,coinCount,totalWorth,numberOfCoinsThatWentToZero,coinsThatWentToZero
-"1214","LSK","103.2885277","47.61700813","0.337990969","1.6.2016","42.26655615","42.26655615","283.5813826","31300","37","2923849.056","0","[List]"
-"1214","LSK","103.2885277","47.61700813","0.475650042","8.6.2016","30.03408602","30.03408602","283.5813826","31300","37","2923849.056","0","[List]"
-"1214","LSK","103.2885277","47.61700813","0.461009651","15.6.2016","30.98788548","30.98788548","283.5813826","31300","37","2923849.056","0","[List]"
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b40f1673e2fbaeb8d3ede9e1d6e3cc0440f39e7b74f781e3257b4fc9fb90942
+size 624

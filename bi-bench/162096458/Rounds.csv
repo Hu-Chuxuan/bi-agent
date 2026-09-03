@@ -1,8 +1,3 @@
-MaxPoints,RoundName,RoundID,RoundNumber,statecode_display,IconURL,Form ID,QuizGUID
-21,"Round 1: Spin up your Instances","9feb3b29-3d84-ea11-a811-000d3a37ef1b","1","Active","https://i.ibb.co/rGfjj6g/round1.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxURVhWMFBJVUo4QkpFUURLMDNJVDJYUUo1OC4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-19,"Round 2: Start your Power Apps","275496eb-4b84-ea11-a811-000d3a37ef1b","2","Active","https://i.ibb.co/Vj0w8Tk/Round2.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxUQ01FVVNJT1ZOSzQyR0lDSlQxRkcyOVVGNC4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-18,"Round 3: Getting into the flow ​","602f10f4-4b84-ea11-a811-000d3a37ef1b","3","Active","https://i.ibb.co/SysPzJM/Round3.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxUMkVKWUY4OEQ0NFBLUlEyREtTQVpZUUc0Wi4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-16,"Round 4: Who said it?","9e572429-4c84-ea11-a811-000d3a37ef1b","4","Active","https://i.ibb.co/RN1wwLb/Round4.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxURFBZNlZUUk9BVldRMUJWWVE3RzhRVFpUUi4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-21,"Round 5: Enter the robots​","bfbf4e31-4c84-ea11-a811-000d3a37ef1b","5","Active","https://i.ibb.co/GpS4n80/Round5.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxUQ0FPNDRPV05TSlY5Uk1PWllVOUYzSjk3Wi4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-20,"Round 6: Let's get visual","6cee8687-ca9c-ea11-a812-000d3a37ef1b","6","Active","https://i.ibb.co/wwLYt96/Round6.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxUMENHR0E0SURTMERSQzIzVTVLUkdDR0dEQi4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
-19,"Round 7: Welcome to the Lemonade Factory","d6fad83d-4c84-ea11-a811-000d3a37ef1b","7","Active","https://i.ibb.co/7tjJpRd/Round7.png","P5eAMErO10m09Qhas7Wqpq_djspW2ztEv0jYwXssYYxURFRPNUlKTFBLTVkwU0lROFozMEY5MERGQi4u","15878e40-38b8-ea11-a812-000d3a37ef1b"
+version https://git-lfs.github.com/spec/v1
+oid sha256:587037ad7966a4bfa46ee962310b4b3100e62678163a5cadbb6e4b74949591d2
+size 1826

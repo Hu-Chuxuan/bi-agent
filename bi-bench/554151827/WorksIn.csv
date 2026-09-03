@@ -1,11 +1,3 @@
-Designation,StoreID,EmployeeID
-"Help-desk Officer",1532,570
-"General Manager",2026,240
-"Marketing Manager",2714,345
-"Warehouse Operator",2909,614
-"Cashier",3072,805
-"Sales Associate",4896,547
-"General Manager",6714,177
-"Help-desk Officer",8443,162
-"Accountant",8815,440
-"Marketing Manager",9272,910
+version https://git-lfs.github.com/spec/v1
+oid sha256:98c56990eb77e6564c236f464189bf153a0688a1d3674845a54e014fa076a8c2
+size 310

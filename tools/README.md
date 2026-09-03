@@ -53,7 +53,14 @@ Supported models in `run_large_models.py`:
 | `gpt-4o` | Chat Completions |
 | `o4-mini` | Chat Completions |
 | `gpt-5.2` | Responses API |
+| `gpt-5.5` | Chat Completions |
 | `Llama-4-Maverick-17B-128E-Instruct-FP8` | Azure AI Inference |
+| `deepseek-v4-pro` | Azure AI Inference |
+| `mistral-large-3` | Azure AI Inference |
+| `gpt-oss-120b` | Azure AI Inference |
+| `kimi-k2-6` | Azure AI Inference |
+
+> The exact endpoint/model-id string and tool-call style for each open-weight model depend on how you serve it. Configure the endpoint in `utils/llm_client.py`; membership in `utils/caller_large_models.py` controls tool-call parsing (`PROPRIETARY` → native tool calls, `OPEN_SOURCE` → text-parsed).
 
 ### 3. Configure the benchmark path
 
@@ -77,7 +84,7 @@ Both scripts share the same interface. The only difference is that `run_large_mo
 ```bash
 python run_large_models.py \
   --id <case_id> \
-  --model <gpt-4o|o4-mini|gpt-5.2|Llama-4-Maverick-17B-128E-Instruct-FP8> \
+  --model <gpt-4o|o4-mini|gpt-5.2|gpt-5.5|Llama-4-Maverick-17B-128E-Instruct-FP8|deepseek-v4-pro|mistral-large-3|gpt-oss-120b|kimi-k2-6> \
   --language <python|sql> \
   [--tool] \
   [--runs N] \

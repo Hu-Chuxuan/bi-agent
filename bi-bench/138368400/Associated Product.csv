@@ -1,25 +1,3 @@
-ProductID,Product Image,Product,Segmented by
-1,"https://imagizer.imageshack.com/img924/1886/6GicgJ.png","Access","#ffffff"
-2,"https://imagizer.imageshack.com/img921/194/Ct0TbH.png","Excel","#ffffff"
-3,"https://imagizer.imageshack.com/img923/8397/KqkzRH.png","Exchange","#ffffff"
-4,"https://imagizer.imageshack.com/img924/6352/IgqkPK.png","OneNote","#ffffff"
-5,"https://imagizer.imageshack.com/img923/3964/i6FdE1.png","Outlook","#ffffff"
-6,"https://imagizer.imageshack.com/img921/6121/Rduw5j.png","PowerPoint","#ffffff"
-7,"https://imagizer.imageshack.com/img924/7679/kRirRC.png","Publisher","#ffffff"
-8,"https://imagizer.imageshack.com/img921/1056/c3U7IJ.png","SharePoint","#ffffff"
-9,"https://imagizer.imageshack.com/img923/7152/vZIXrl.png","Skype","#ffffff"
-10,"https://imagizer.imageshack.com/img921/1928/Ennmwi.png","Visio","#ffffff"
-11,"https://imagizer.imageshack.com/img924/8017/A8NfqE.png","Word","#ffffff"
-12,"https://imagizer.imageshack.com/img922/3189/3Ji8jj.png","XBOX","#ffffff"
-13,"https://imagizer.imageshack.com/img922/115/myOr0I.png","OneDrive","#ffffff"
-14,"https://imagizer.imageshack.com/img924/816/V0NPfb.png","Yammer","#ffffff"
-15,"https://imagizer.imageshack.com/img921/4173/hvJCL9.png","XBOX ONE","#ffffff"
-16,"https://imagizer.imageshack.com/img922/2548/zs7NA0.png","Power BI","#ffffff"
-17,"https://imagizer.imageshack.com/img924/1227/Sxqpkf.png","Kaizala","#ffffff"
-18,"https://imagizer.imageshack.com/img923/4840/nmNZMu.png","Planner","#ffffff"
-19,"https://imagizer.imageshack.com/img921/6364/58xY5z.png","Forms","#ffffff"
-20,"https://imagizer.imageshack.com/img922/6118/bWsAq7.png","PowerApps","#ffffff"
-21,"https://imagizer.imageshack.com/img922/8296/B51Yr5.png","Teams","#ffffff"
-22,"https://imagizer.imageshack.com/img924/1491/QS6Xip.png","Stream","#ffffff"
-23,"https://imagizer.imageshack.com/img923/1818/dEjLnm.png","To-Do","#ffffff"
-24,"https://imagizer.imageshack.com/img924/6594/XttjLg.png","Flow","#ffffff"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6d7ecb7d97b0fcecce6b15d961f4629273a30ae6572ac12f701cd3e5bb7203
+size 1968

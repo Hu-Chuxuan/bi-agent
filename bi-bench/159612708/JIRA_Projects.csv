@@ -1,2 +1,3 @@
-jira_proj_dwkey,jira_proj_name,jira_proj_category_name,jira_proj_type_desc,jira_proj_lead,jira_proj_key_cd,product_owner_name,source_jira_proj_id,proj_active_indicator,created_by_id,created_dt,modified_by_id,modified_dt,active_flg
-319,"Cloud Foundry","","software","cklein3","CF","",15201,"Y","20171128105209",2017-11-28 18:52:14.350,"20171128105209",2017-11-28 18:52:14.350,"Y"
+version https://git-lfs.github.com/spec/v1
+oid sha256:b44f3c52d98fad4b9f023644a0c117e4fb161a216d58c3c62708cbcde0473ec5
+size 381

@@ -1,5 +1,3 @@
-RECORD_ID,TAG
-1,"TAG1"
-1,"TAG2"
-2,"TAG1"
-2,"TAG3"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab521c8d5320e5ec428ec42a910bf28a52290ce36cf54282b42a5bac7a8f4e63
+size 55

@@ -1,6 +1,3 @@
-TrainerID,TrName,TrPhone,TrGender
-111,"Emma Watson","0400012343","Female"
-222,"Steve Jobs","0421314151","Male"
-333,"William Miller","0455555555","Male"
-444,"Hannah Dang","0478567821","Female"
-555,"Vin Diesel","0488881722","Male"
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7a83cf12fd61bcf6827938b8e58c65475452d607b755e53f99944a9f26e1b0
+size 235

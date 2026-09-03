@@ -1,25 +1,3 @@
-BrandName,ProductCategoryName,ProductSubcategoryName,SalesAmount
-Adventure Works,Home Appliances,Coffee Machines,1064704.41
-Adventure Works,Home Appliances,Lamps,1078605.97
-Adventure Works,TV and Video,Televisions,21969810.99
-Contoso,Home Appliances,Air Conditioners,1875521.48
-Contoso,Home Appliances,Coffee Machines,1019965.59
-Contoso,Home Appliances,Microwaves,524980.73
-Contoso,Home Appliances,Washers & Dryers,16600690.44
-Contoso,Home Appliances,Water Heaters,4082254.92
-Contoso,TV and Video,Home Theater System,7372511.06
-Fabrikam,Home Appliances,Coffee Machines,884270.76
-Fabrikam,Home Appliances,Microwaves,813544.61
-Fabrikam,Home Appliances,Refrigerators,2392773.97
-Litware,Home Appliances,Fans,488274.53
-Litware,Home Appliances,Lamps,697734.84
-Litware,Home Appliances,Microwaves,1332149.23
-Litware,Home Appliances,Refrigerators,3868020.12
-Litware,Home Appliances,Washers & Dryers,10973781.6
-Litware,TV and Video,Home Theater System,4961415.87
-Northwind Traders,Home Appliances,Washers & Dryers,15195788.74
-Proseware,Home Appliances,Air Conditioners,1039667.59
-Proseware,Home Appliances,Lamps,995836.03
-Southridge Video,TV and Video,Car Video,3038744.22
-Southridge Video,TV and Video,VCD & DVD,5201266.79
-Wide World Importers,Home Appliances,Lamps,1411775.72
+version https://git-lfs.github.com/spec/v1
+oid sha256:903ca165d1e36053e8fde6ef0a4e3d362014b2e57a923c17a019eab24083eff0
+size 1268

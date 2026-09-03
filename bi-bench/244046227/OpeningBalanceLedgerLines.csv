@@ -1,26 +1,3 @@
-Source.Name,nr,accID,amnt,amntTp,Link,Debet,Credit,Beginbalans
-"ExactOnline_V32_2016.xaf","","",,"","",0,0,
-"Multivers_V32_2017.xaf","1","0020",516225,"D","Multivers_V32_2017.xaf-0020",516225,0,516225
-"Multivers_V32_2017.xaf","2","0025",260000,"D","Multivers_V32_2017.xaf-0025",260000,0,260000
-"Multivers_V32_2017.xaf","3","0030",7080,"D","Multivers_V32_2017.xaf-0030",7080,0,7080
-"Multivers_V32_2017.xaf","4","0035",99972,"D","Multivers_V32_2017.xaf-0035",99972,0,99972
-"Multivers_V32_2017.xaf","5","0040",110657,"D","Multivers_V32_2017.xaf-0040",110657,0,110657
-"Multivers_V32_2017.xaf","6","0050",18850,"D","Multivers_V32_2017.xaf-0050",18850,0,18850
-"Multivers_V32_2017.xaf","7","0120",11676,"C","Multivers_V32_2017.xaf-0120",0,11676,-11676
-"Multivers_V32_2017.xaf","8","0130",2737,"C","Multivers_V32_2017.xaf-0130",0,2737,-2737
-"Multivers_V32_2017.xaf","9","0135",34423,"C","Multivers_V32_2017.xaf-0135",0,34423,-34423
-"Multivers_V32_2017.xaf","10","0140",24214,"C","Multivers_V32_2017.xaf-0140",0,24214,-24214
-"Multivers_V32_2017.xaf","11","0150",7192,"C","Multivers_V32_2017.xaf-0150",0,7192,-7192
-"Multivers_V32_2017.xaf","12","0610",65716.27,"C","Multivers_V32_2017.xaf-0610",0,65716.27,-65716.27
-"Multivers_V32_2017.xaf","13","1000",800,"D","Multivers_V32_2017.xaf-1000",800,0,800
-"Multivers_V32_2017.xaf","14","1100",3467.97,"D","Multivers_V32_2017.xaf-1100",3467.97,0,3467.97
-"Multivers_V32_2017.xaf","15","1110",2300.8,"D","Multivers_V32_2017.xaf-1110",2300.8,0,2300.8
-"Multivers_V32_2017.xaf","16","1200",61530.7,"D","Multivers_V32_2017.xaf-1200",61530.7,0,61530.7
-"Multivers_V32_2017.xaf","17","1710",28869.75,"D","Multivers_V32_2017.xaf-1710",28869.75,0,28869.75
-"Multivers_V32_2017.xaf","18","1760",2272.53,"C","Multivers_V32_2017.xaf-1760",0,2272.53,-2272.53
-"Multivers_V32_2017.xaf","19","1770",27363.92,"C","Multivers_V32_2017.xaf-1770",0,27363.92,-27363.92
-"Multivers_V32_2017.xaf","20","1810",289.34,"C","Multivers_V32_2017.xaf-1810",0,289.34,-289.34
-"Multivers_V32_2017.xaf","21","1820",1327.16,"C","Multivers_V32_2017.xaf-1820",0,1327.16,-1327.16
-"Multivers_V32_2017.xaf","22","2000",932542,"C","Multivers_V32_2017.xaf-2000",0,932542,-932542
-"Twinfield_V31_2016.xaf","","",,"","",0,0,
-"XmlAuditfileFinancieel3.2_test.xaf","String","String",3.14,"C","XmlAuditfileFinancieel3.2_test.xaf-String",0,3.14,-3.14
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc203489306d2154470c7c3d09487d01234ecf85b03358da835342f7658fa9b0
+size 2356

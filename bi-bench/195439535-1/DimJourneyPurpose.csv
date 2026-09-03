@@ -1,9 +1,3 @@
-PurposeKey,PurposeNK,PurposeName
-1,1,"Journey as part of work"
-2,2,"Commuting to/from work"
-3,3,"Taking pupil to/from school"
-4,4,"Pupil riding to/from school"
-5,5,"Other"
-6,6,"Not known"
-7,7,"Other/Not known (2005-10)"
-8,8,"Data missing or out of range"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce40b65cc6af59580be40d55fea5260835c5ea6a2c2b335e6cbe453613fee817
+size 264

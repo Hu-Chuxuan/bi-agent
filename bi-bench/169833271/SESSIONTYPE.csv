@@ -1,7 +1,3 @@
-TypeCode,TypeDesc,Capacity
-"AER10","Group aerobic Endurance Exercise",10
-"CAR1","Individual cardiovascular exercise",1
-"CAR5","Group cardiovascular exercise",5
-"STR1","Individual strength training to recruit muscles",1
-"STR5","Group strength training to recruit muscles",5
-"YOG10","Flexibility Yoga",10
+version https://git-lfs.github.com/spec/v1
+oid sha256:afefd36f9da8b4e8b8d1c1edebe7b7af7f5c023fcc0a7fbf60c2abfd625ca80f
+size 310

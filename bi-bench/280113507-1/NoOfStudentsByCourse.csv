@@ -1,11 +1,3 @@
-courseid,coursename,TotalStudents
-6000,"Web Design",121
-6001,"Web Tools and Methods",17
-6002,"UX Design and Testing",60
-6003,"Database Management and Design",53
-6004,"Design Patterns",57
-6005,"Datawarehousing and Business Intelligence",106
-6007,"Application Engineering Development",54
-6008,"Network Structures and Cloud Computing",10
-6009,"Big Data Systems",56
-6010,"Program Structures and Algorithms",13
+version https://git-lfs.github.com/spec/v1
+oid sha256:46afbc26639c63bae49ce9c1863d12c9fcd845ffdca08302649bb8b5ba1b685b
+size 417

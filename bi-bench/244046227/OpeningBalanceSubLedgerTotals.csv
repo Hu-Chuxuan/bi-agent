@@ -1,5 +1,3 @@
-Source.Name,sbType,linesCount,totalDebit,totalCredit
-"ExactOnline_V32_2016.xaf","",,,
-"Multivers_V32_2017.xaf","",,,
-"Twinfield_V31_2016.xaf","",,,
-"XmlAuditfileFinancieel3.2_test.xaf","CS",1,3.14,3.14
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e29cc02783fdc54aeebe8266c0295713c47e3bda9d18ecc587056f71d9e6c61
+size 207

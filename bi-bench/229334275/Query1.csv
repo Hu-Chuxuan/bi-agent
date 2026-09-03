@@ -1,10 +1,3 @@
-Type,Material,Description
-"A","X","plastic"
-"A","X","plastic"
-"B","Y","metal"
-"B","Z","rubber"
-"A","1","cover"
-"A","2","top"
-"B","3","middle"
-"A","a","type1"
-"A","b","type2"
+version https://git-lfs.github.com/spec/v1
+oid sha256:11d5f0cc0ff2674256ac8e92be7483f2831ed6966a75833c078127a18be38e26
+size 184

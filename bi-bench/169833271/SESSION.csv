@@ -1,7 +1,3 @@
-ScheduleCode,TrainerID,MonthlyFee,TypeCode
-"FrSa1830-2030",111,50,"YOG10"
-"FrSa1830-2030",222,79.95,"STR1"
-"MoWeFr1300-1500",111,50,"YOG10"
-"MoWeFr1300-1500",444,60,"CAR5"
-"TuThSa1300-1500",333,60,"STR5"
-"TuThSa1600-1800",444,75.95,"CAR1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebee1ecc5a47b527248f0116b414ce5da2a93e1b96614e245c21f0929fe1477d
+size 246

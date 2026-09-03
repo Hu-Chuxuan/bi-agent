@@ -1,6 +1,6 @@
-# BI-Agent
+# BI-Agent and BI-Bench
 
-This repository contains the reproduction artifact for the SIGMOD 2027 Round 2 submission (Paper ID 406): **BI-Agent: Automating End-to-end Business Intelligence**
+This repository contains the reproduction artifact for **BI-Agent and BI-Bench: Automating End-to-end Business Intelligence**
 
 
 ## Repository Structure
@@ -38,7 +38,7 @@ Two runners:
 
 | Script | Models |
 |---|---|
-| `run_large_models.py` | Proprietary / large open-source: `gpt-4o`, `o4-mini`, `gpt-5.2`, `Llama-4-Maverick` |
+| `run_large_models.py` | Proprietary: `gpt-4o`, `o4-mini`, `gpt-5.2`, `gpt-5.5`; large open-source: `Llama-4-Maverick`, `deepseek-v4-pro`, `mistral-large-3`, `gpt-oss-120b`, `kimi-k2-6` |
 | `run_posttrained.py` | Locally-loaded post-trained checkpoint (`POSTTRAINED_MODEL_PATH` env var) |
 
 Quick start:
@@ -112,14 +112,14 @@ See [`post-train/README.md`](post-train/README.md) for full details.
 
 ## Paper Results
 
-Pre-computed result CSVs are in `results/`, grouped by the four model/system categories evaluated in the paper. Each file has one row per benchmark case (100 cases total); columns encode model, language, and tool-use configuration.
+Pre-computed result CSVs are in `results/`, grouped by model/system category. Each file has one row per benchmark case (100 cases total); columns encode model, language, and tool-use configuration.
 
 | File | Contents |
 |---|---|
-| [`results/proprietary_models.csv`](results/proprietary_models.csv) | GPT-5.2, GPT-4o, o4-mini |
-| [`results/open_source_models.csv`](results/open_source_models.csv) | Llama-4 Maverick, Qwen3-8B (base) |
-| [`results/posttrained_models.csv`](results/posttrained_models.csv) | Qwen3-8B SFT & RFT |
-| [`results/nl2sql_systems.csv`](results/nl2sql_systems.csv) | Infly-RL-SQL-32B, XiYanSQL-QwenCoder-32B, Databao Agent |
+| [`results/proprietary_models.csv`](results/proprietary_models.csv) | GPT-4o, o4-mini, GPT-5.2, GPT-5.5 |
+| [`results/open_source_models.csv`](results/open_source_models.csv) | Llama-4 Maverick, Qwen3-8B (base), DeepSeek-V4-Pro, Mistral-Large-3, GPT-OSS-120B, Kimi-K2.6 |
+| [`results/posttrained_models.csv`](results/posttrained_models.csv) | Qwen3-8B SFT & RFT, plus RL reward-design ablation columns (`abl_*_python_tool`) |
+| [`results/nl2sql_systems.csv`](results/nl2sql_systems.csv) | Infly-RL-SQL-32B, XiYanSQL-QwenCoder-32B, Databao Agent, Kwai-AutoSQL-14B/32B, ktx |
 
 Summary of mean success rates (matching paper Table 3 / Table 4):
 
@@ -130,6 +130,7 @@ Summary of mean success rates (matching paper Table 3 / Table 4):
 | GPT-4o | 30.8 % | 44.7 % | 27.1 % | 37.7 % |
 | o4-mini | 57.4 % | 66.3 % | 48.2 % | 61.9 % |
 | gpt-5.2 | 48.6 % | 60.2 % | 46.1 % | 55.2 % |
+| GPT-5.5 | 59.5 % | 65.4 % | 46.7 % | 60.2 % |
 
 **Open-source models**
 
@@ -137,6 +138,10 @@ Summary of mean success rates (matching paper Table 3 / Table 4):
 |---|---|---|---|---|
 | Llama-4-Maverick | 28.6 % | 38.8 % | 27.5 % | 31.2 % |
 | Qwen3-8B (base) | 5.4 % | 13.1 % | 5.2 % | 19.8 % |
+| DeepSeek-V4-Pro | 53.2 % | 57.6 % | 23.5 % | 30.8 % |
+| Mistral-Large-3 | 35.0 % | 51.1 % | 36.2 % | 44.8 % |
+| GPT-OSS-120B | 3.1 % | 27.3 % | 5.3 % | 45.3 % |
+| Kimi-K2.6 | 55.6 % | 62.7 % | 20.0 % | 36.7 % |
 
 **Post-trained Qwen3-8B**
 
@@ -151,7 +156,10 @@ Summary of mean success rates (matching paper Table 3 / Table 4):
 |---|---|---|
 | Infly-RL-SQL-32B | 6.0 % | 5.5 % |
 | XiYanSQL-QwenCoder-32B | 7.7 % | 13.2 % |
-| Databao Agent | 23.8 % (avg) | — |
+| Kwai-AutoSQL-14B | 7.8 % | 4.0 % |
+| Kwai-AutoSQL-32B | 17.3 % | 9.2 % |
+| Databao Agent | 23.8 % | — |
+| ktx | 26.3 % | — |
 
 ---
 
@@ -166,16 +174,17 @@ for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
   for lang in python sql; do
     for tool_flag in "" "--tool"; do
       # proprietary models
-      for model in gpt-4o o4-mini gpt-5.2; do
+      for model in gpt-4o o4-mini gpt-5.2 gpt-5.5; do
         python tools/run_large_models.py --id $id --model $model \
           --language $lang $tool_flag \
           --log-csv results/proprietary_models.csv
       done
-      # open-source
-      python tools/run_large_models.py --id $id \
-        --model Llama-4-Maverick-17B-128E-Instruct-FP8 \
-        --language $lang $tool_flag \
-        --log-csv results/open_source_models.csv
+      # large open-source models
+      for model in Llama-4-Maverick-17B-128E-Instruct-FP8 deepseek-v4-pro mistral-large-3 gpt-oss-120b kimi-k2-6; do
+        python tools/run_large_models.py --id $id --model $model \
+          --language $lang $tool_flag \
+          --log-csv results/open_source_models.csv
+      done
     done
   done
 done
@@ -205,15 +214,14 @@ done
 
 ```bash
 for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
-  python nl2sql/run.py --id $id --model infy-32b \
-    --language sql --setting baseline \
-    --queries-file bi-bench/queries.json --data-dir bi-bench \
-    --log-csv results/nl2sql_systems.csv
-  python nl2sql/run.py --id $id --model xiyan-32b \
-    --language sql --setting baseline \
-    --queries-file bi-bench/queries.json --data-dir bi-bench \
-    --log-csv results/nl2sql_systems.csv
+  for model in infy-32b xiyan-32b kwai-autosql-14b kwai-autosql-32b; do
+    python nl2sql/run.py --id $id --model $model \
+      --language sql --setting baseline \
+      --queries-file bi-bench/queries.json --data-dir bi-bench \
+      --log-csv results/nl2sql_systems.csv
+  done
 done
+# Databao Agent (nl2sql/databao-agent/bi-bench.py) and ktx (nl2sql/run_ktx.py) are run via their own scripts.
 ```
 
 ---

@@ -2,12 +2,12 @@
 
 Benchmark runner for evaluating NL-to-SQL / NL-to-Python models on BI tabular queries.
 
-Two evaluation paths are provided:
+Models are evaluated via `run.py`:
 
 | Path | Script | Models |
 |---|---|---|
-| **HuggingFace models** | `run.py` | `infy-32b`, `xiyan-32b`, or any HF model ID |
-| **Databao agent** | `databao-agent/bi-bench.py` | Any LLM via the databao LLM config |
+| **HuggingFace models** | `run.py` | `infy-32b`, `xiyan-32b`, `kwai-autosql-14b`, `kwai-autosql-32b`, or any HF model ID |
+| **External agents** | `agent_harness.py` | ktx, Databao Agent (install upstream, then implement the adapter) |
 
 ---
 
@@ -21,6 +21,8 @@ Evaluates a local HuggingFace model by loading it on GPU (lazy — loaded on fir
 |---|---|
 | `infy-32b` | `infly/inf-rl-qwen-coder-32b-2746` |
 | `xiyan-32b` | `XGenerationLab/XiYanSQL-QwenCoder-32B-2504` |
+| `kwai-autosql-14b` | `Kwai-AutoSQL/Kwai-AutoSQL-14B` |
+| `kwai-autosql-32b` | `Kwai-AutoSQL/Kwai-AutoSQL-32B` |
 
 You can also pass a full HuggingFace model ID or a local path directly as `--model`.
 
@@ -29,7 +31,7 @@ You can also pass a full HuggingFace model ID or a local path directly as `--mod
 ```bash
 python run.py \
   --id <case_id> \
-  --model <infy-32b|xiyan-32b|HF-model-id|local/path> \
+  --model <infy-32b|xiyan-32b|kwai-autosql-14b|kwai-autosql-32b|HF-model-id|local/path> \
   --language <python|sql> \
   --setting <experiment_tag> \
   --queries-file <path/to/queries.json> \
@@ -79,49 +81,33 @@ python run.py \
 
 ---
 
-## Databao Agent — `databao-agent/bi-bench.py`
+## Agent baselines: — Databao Agent & ktx
 
-Evaluates the databao multi-step agent (transform → retrieve → join → execute) on the BI benchmark.
+The **Databao Agent** and **ktx** baselines are external systems and are not vendored in this repository. The adapters in [`agent_harness.py`](agent_harness.py) (`KtxAgent`, `DatabaoAgent`) are already implemented — you only need to install the underlying agent and point the harness at it. The harness builds the SQLite database, invokes the agent, grades against the ground truth, and logs a per-case success rate.
 
-### Setup
-
-```bash
-cd databao-agent
-pip install -e .
-```
-
-Set the environment variable for token usage logging:
-```
-TOKEN_CSV_PATH=token_usage.csv   # optional, defaults to token_usage.csv
-```
-
-Configure the LLM in `databao/agent/configs/llm.py` by setting:
-```
-AZURE_OPENAI_GPT_ENDPOINTS='["https://your-endpoint.openai.azure.com/"]'
-```
-Authentication uses Azure CLI credentials (`az login`).
-
-### Usage
+**ktx.** Install ktx per <https://github.com/Kaelio/ktx> (Node 22, `npm install -g @kaelio/ktx`, `ktx admin runtime install --feature local-embeddings`) so the `ktx` CLI is on your `PATH`, then `pip install openai` for the answering model:
 
 ```bash
-python bi-bench.py \
-  --queries-file <path/to/queries.json> \
-  --data-dir <path/to/data> \
-  --model <model_name> \
-  --runs <N> \
-  --result-csv results.csv \
-  --log-dir logs
+export OPENAI_API_KEY=...      
+python agent_harness.py --agent ktx --id 101248502 \
+  --queries-file ../bi-bench/queries.json --data-dir ../bi-bench \
+  --log-csv ../results/ktx.csv
 ```
 
-| Argument | Description |
-|---|---|
-| `--queries-file` | JSON file mapping case IDs to queries |
-| `--data-dir` | Directory containing case folders and a `gt/` subfolder |
-| `--model` | LLM name passed to databao LLMConfig (e.g. `gpt-4o`) |
-| `--temperature` | Sampling temperature (default: 0) |
-| `--runs` | Runs per case for pass@k estimation (default: 10) |
-| `--result-csv` | Output CSV path |
-| `--log-dir` | Directory for per-case `.log` files |
+ktx's own semantic layer runs on gpt-5.5 via the `codex` backend (set in `KtxAgent`); the query is answered by `--model`.
+
+**Databao Agent.** Install it from its upstream repository (it ships its own `bi-bench.py` runner), then point the adapter at that script:
+
+```bash
+export DATABAO_BIBENCH=/path/to/databao/bi-bench.py
+python agent_harness.py --agent databao --id 101248502 --model gpt-5.2 \
+  --queries-file ../bi-bench/queries.json --data-dir ../bi-bench \
+  --log-csv ../results/databao.csv
+```
+
+Because databao ships a complete benchmark runner, you can also run its `bi-bench.py` directly; adjust `DatabaoAgent.run` if your databao version's flags/output differ.
+
+Their pre-computed BI-Bench scores are in [`../results/nl2sql_systems.csv`](../results/nl2sql_systems.csv) (the `databao` and `ktx` columns).
 
 ---
 

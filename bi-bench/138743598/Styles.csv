@@ -1,26 +1,3 @@
-StyleID,Style,Distance
-1,"Backstroke",100
-2,"Breaststroke",100
-3,"Butterfly Stroke",100
-4,"Front Crawl",100
-5,"Sidestroke",100
-6,"Backstroke",200
-7,"Breaststroke",200
-8,"Butterfly Stroke",200
-9,"Front Crawl",200
-10,"Sidestroke",200
-11,"Backstroke",400
-12,"Breaststroke",400
-13,"Butterfly Stroke",400
-14,"Front Crawl",400
-15,"Sidestroke",400
-16,"Backstroke",50
-17,"Breaststroke",50
-18,"Butterfly Stroke",50
-19,"Front Crawl",50
-20,"Sidestroke",50
-21,"Backstroke",800
-22,"Breaststroke",800
-23,"Butterfly Stroke",800
-24,"Front Crawl",800
-25,"Sidestroke",800
+version https://git-lfs.github.com/spec/v1
+oid sha256:d64620bb88934e54c0ec027b82af3c38fd47b51166c86529f4a32192a89d44d6
+size 580

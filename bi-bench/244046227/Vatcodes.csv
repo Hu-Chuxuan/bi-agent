@@ -1,21 +1,3 @@
-Source.Name,vatID,vatDesc,vatToPayAccID,vatToClaimAccID,Link
-"ExactOnline_V32_2016.xaf","0","Geen BTW","","","ExactOnline_V32_2016.xaf-0"
-"ExactOnline_V32_2016.xaf","1","BTW laag tarief, exclusief","1510","1520","ExactOnline_V32_2016.xaf-1"
-"ExactOnline_V32_2016.xaf","10","Verwerving binnen de EU","1512","1520","ExactOnline_V32_2016.xaf-10"
-"ExactOnline_V32_2016.xaf","11","BTW prive gebruik","1513","1520","ExactOnline_V32_2016.xaf-11"
-"ExactOnline_V32_2016.xaf","12","BTW overige tarieven","1500","1520","ExactOnline_V32_2016.xaf-12"
-"ExactOnline_V32_2016.xaf","2","BTW hoog tarief, exclusief","1500","1520","ExactOnline_V32_2016.xaf-2"
-"ExactOnline_V32_2016.xaf","20","BTW 0% (alleen grondslag)","","","ExactOnline_V32_2016.xaf-20"
-"ExactOnline_V32_2016.xaf","3","BTW laag tarief, inclusief","1510","1520","ExactOnline_V32_2016.xaf-3"
-"ExactOnline_V32_2016.xaf","4","BTW hoog tarief, inclusief","1500","1520","ExactOnline_V32_2016.xaf-4"
-"ExactOnline_V32_2016.xaf","5","BTW Verlegd","1500","1520","ExactOnline_V32_2016.xaf-5"
-"ExactOnline_V32_2016.xaf","6","Verkoop buiten de EU","","","ExactOnline_V32_2016.xaf-6"
-"ExactOnline_V32_2016.xaf","7","Verkoop binnen de EU","","","ExactOnline_V32_2016.xaf-7"
-"ExactOnline_V32_2016.xaf","8","Installatie/televerkoop in de EU","","","ExactOnline_V32_2016.xaf-8"
-"ExactOnline_V32_2016.xaf","9","Verwerving buiten de EU (invoer)","1511","1520","ExactOnline_V32_2016.xaf-9"
-"Multivers_V32_2017.xaf","0","","1750","1710","Multivers_V32_2017.xaf-0"
-"Multivers_V32_2017.xaf","1","Laag tarief","1760","1710","Multivers_V32_2017.xaf-1"
-"Multivers_V32_2017.xaf","2","Hoog tarief","1770","1710","Multivers_V32_2017.xaf-2"
-"Twinfield_V31_2016.xaf","BV","BTW Verlegd","1516","","Twinfield_V31_2016.xaf-BV"
-"Twinfield_V31_2016.xaf","VH","BTW verhoop hoog","1531","","Twinfield_V31_2016.xaf-VH"
-"XmlAuditfileFinancieel3.2_test.xaf","String","String","String","String","XmlAuditfileFinancieel3.2_test.xaf-String"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d904348f37c7e0127af3d48589fc24eaa8e99dcb401fc6a2fcd7b681b0920ba
+size 1967

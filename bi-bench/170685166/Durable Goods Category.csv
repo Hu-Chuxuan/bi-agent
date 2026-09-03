@@ -1,13 +1,3 @@
-IndexKey,Index Name,Name,IndexID
-"DGNO","Durable Goods New Orders","New Orders",1
-"DGNOXT","Durable Goods New Orders Ex Transportation","New Orders Ex Transportation",2
-"DGNOPM","Durable Goods New Orders Primary Metals","Primary Metals",3
-"DGIXDAP","Durable Goods Inventories Ex Defense Aircraft & Parts","Inventories Ex Defense Aircraft",4
-"DGS","Durable Goods Shipments","Shipments",5
-"DGCG","Durable Goods Capital Goods","Capital Goods",6
-"DGUO","Durable Goods Unfilled Orders","Unfilled Orders",7
-"DGNCG","Durable Goods Nondefense Capital Goods","Nondefense Capital Goods",8
-"DGNCGXA","Durable Goods Nondefense Capital Goods Ex Aircraft","Nondefense Capital Goods Ex Aircraft",9
-"DGNOXD","Durable Goods New Orders Ex Defense","New Orders Ex Defense",10
-"DGNOCD","Durable Goods New Orders Consumer Durables","Consumer Durables",11
-"DGI","Durable Goods Inventories","Inventories",12
+version https://git-lfs.github.com/spec/v1
+oid sha256:22695c4f256134aba2c21c2b11f21ebc00e87dd485b1e4078e4716b40678b575
+size 898

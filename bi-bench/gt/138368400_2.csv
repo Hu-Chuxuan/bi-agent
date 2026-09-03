@@ -1,25 +1,3 @@
-﻿Category,Segment,Product,Return_Amount
-Office 365,Blue,OneDrive,2432
-Office 365,Blue,Yammer,5632
-Office 365,Cyan,Exchange,22100
-Office 365,Cyan,Kaizala,34000
-Office 365,Cyan,Outlook,14112
-Office 365,Cyan,Skype,7110
-Office 365,Jade,Excel,14900
-Office 365,Jade,Planner,17186
-Office 365,Magenta,OneNote,97412
-Office 365,Orange,PowerPoint,17680
-Office 365,Purple,Teams,13328
-Office 365,Red,Access,22900
-Office 365,Red,Stream,25944
-Office 365,Royal Blue,To-Do,3498
-Office 365,Royal Blue,Visio,12800
-Office 365,Royal Blue,Word,25480
-Office 365,Turquoise,Forms,4860
-Office 365,Turquoise,Publisher,45730
-Office 365,Turquoise,SharePoint,30420
-Power Platform,Magenta,PowerApps,34380
-Power Platform,Neon Blue,Flow,5713
-Power Platform,Yellow,Power BI,3910
-XBOX,Green,XBOX,1440
-XBOX,Green,XBOX ONE,1040
+version https://git-lfs.github.com/spec/v1
+oid sha256:beee392d9a01ec22cd9dc99146affd8f5482a466d272c0471d0234dec1496852
+size 818

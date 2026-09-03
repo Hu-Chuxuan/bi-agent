@@ -1,13 +1,3 @@
-Sector,TotalInfrastructure Expenditures2017–18 Interim1,2018–19 Plan — Investment in Capital Assets2,2018–19 Plan — Transfers and Other Infrastructure Expenditures3,2018–19 Plan — Total Infrastructure Expenditures4
-"Transportation — Transit",5099,"5,978",1536,7514
-"Transportation — Provincial Highways",2757,"2,707",294,3000
-"Transportation — Other Transportation, Property and Planning",251,"223",162,384
-"Health — Hospitals",2745,"2,675",66,2741
-"Other Health",275,"84",192,276
-"Education",2825,"2,496",511,3007
-"Postsecondary — Colleges and Other",886,"783",10,793
-"Postsecondary — Universities",353,"–",317,317
-"Social",607,"14",475,489
-"Justice",298,"292",275,567
-"Other Sectors5",1129,"843",1181,2024
-"Total Infrastructure Expenditures",17226,"16,094",5018,21112
+version https://git-lfs.github.com/spec/v1
+oid sha256:5acf92f0c12ad17c8010ead6448aabd5d4e135dc375408a43b885b68bce3560c
+size 812

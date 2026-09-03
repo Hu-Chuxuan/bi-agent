@@ -1,10 +1,3 @@
-StoreID,AddressID,ManagerID,PhoneNumber,StoreName,EmailID,OpeningTime,ClosingTime
-1001,1,13,"2342023328","Rainbow Shops","rainbowshops@gmail.com",1899-12-30 10:00:00.000,1899-12-30 22:00:00.000
-1002,2,13,"6174240033","Evolve Residential Retail","evolveresidential@gmail.com",1899-12-30 09:00:00.000,1899-12-30 21:00:00.000
-1003,3,13,"8572334639","For Now","fornow@gmail.com",1899-12-30 09:00:00.000,1899-12-30 21:00:00.000
-1004,4,18,"6175168388","Almany Market","almanymarket@gmail.com",1899-12-30 10:00:00.000,1899-12-30 22:00:00.000
-1005,5,18,"6174425964","Shawmut Groceries","shawmutgrocery@gmail.com",1899-12-30 08:00:00.000,1899-12-30 20:00:00.000
-1006,6,21,"6174427439","Tropical Foods","tropicalfoods@gmail.com",1899-12-30 07:00:00.000,1899-12-30 23:00:00.000
-1007,7,21,"6175416728","Liriano Grocery","lirianogrocery@gmail.com",1899-12-30 08:00:00.000,1899-12-30 21:00:00.000
-1009,9,21,"6178679094","The Food Basket","thfoodbasket@gmail.com",1899-12-30 07:00:00.000,1899-12-30 23:00:00.000
-1010,10,21,"6172385218","Senado Market","senadomarket@gmail.com",1899-12-30 10:00:00.000,1899-12-30 22:00:00.000
+version https://git-lfs.github.com/spec/v1
+oid sha256:6034458650f97dbeff96a4a8746e1d819bfefef0b786b935fea25e8380f3e3de
+size 1120

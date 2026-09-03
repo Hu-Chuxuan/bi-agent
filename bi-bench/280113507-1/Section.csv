@@ -1,21 +1,3 @@
-SectionID,Location
-1,"Ell Hall"
-2,"Hayden Hall"
-3,"West Village"
-4,"East Village"
-5,"Dodge Hall"
-6,"Richards Hall"
-7,"Dodge Hall"
-8,"Robinson Hall"
-9,"Churchill Hall"
-10,"Dodge Hall"
-11,"The Fenway"
-12,"Alumni Center"
-13,"Lake Hall"
-14,"Hurtig Hall"
-15,"Holmes Hall"
-16,"Hastings Hall"
-17,"Meserve Hall"
-18,"Shillman Hall"
-19,"Snell Library"
-20,"Forsyth Building"
+version https://git-lfs.github.com/spec/v1
+oid sha256:57483a2aee499267c955415ba525b95fd8a8f2025a0f83109bc09eb0ea22166d
+size 385

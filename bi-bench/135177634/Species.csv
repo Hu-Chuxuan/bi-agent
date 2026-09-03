@@ -1,7 +1,3 @@
-FamilyId,FamilyName
-1,"Reptile"
-2,"Fish"
-3,"Bird"
-4,"Amphibian"
-5,"Mammal"
-6,"Insect"
+version https://git-lfs.github.com/spec/v1
+oid sha256:22a735b685fe7f57b5de017be6b1026670bb470681391d458d25dad7126df316
+size 93

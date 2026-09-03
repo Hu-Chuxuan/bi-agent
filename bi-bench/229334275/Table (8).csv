@@ -1,5 +1,3 @@
-Type,Material,Description
-"A","a","type1"
-"A","b","type2"
-"B","",""
-"B","",""
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd0ec8f01d9799be843fe01d1b16d829ee45aa77ea1c973c554f71054196f0c
+size 83

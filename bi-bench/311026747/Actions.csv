@@ -1,23 +1,3 @@
-ActionID,Action
-"ID","In-school Suspension"
-"ES","Restorative Dialogue"
-"RJ","Restorative Justice"
-"EY","Expelled Remainder Of School/yr"
-"As","Tcher/parent/student Conference"
-"IS","In-school Detention"
-"LD","Lunch Detention"
-"PC","Parent Contact"
-"EL","Expelled Less Than School Year"
-"AC","Behavior/Attendance Contract"
-"VB","Verbal Warning"
-"SF","Suspension 5 Days Or Less"
-"RS","Referral To Social Worker"
-"SM","Suspension More Than Five Days"
-"SS","Saturday School"
-"AP","Admin/Prnt/Gurdn/Stu Conference"
-"RF","Referral To Counseling"
-"DB","Detention Before/after School"
-"LP","Loss of Privileges"
-"IA","In-school Alternative"
-"Cn","Ref Police - No charges filed"
-"EN","Expelled Into Next School Year"
+version https://git-lfs.github.com/spec/v1
+oid sha256:41aa3b3519c5135ca0cdfbcd169e7db6843792f2d97dc3dd90fe45017b38ca09
+size 731
