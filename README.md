@@ -165,7 +165,7 @@ Summary of mean success rates (matching paper Table 3 / Table 4):
 
 ## Reproducing Paper Results
 
-### Step 1 — Proprietary and open-source models (Table 3)
+### Step 1 — Proprietary and open-source models
 
 Configure `tools/utils/llm_client.py` with your LLM endpoint, then run all cases:
 
@@ -190,7 +190,7 @@ for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
 done
 ```
 
-### Step 2 — Post-trained models (Table 4)
+### Step 2 — Post-trained models
 
 ```bash
 # Generate data, run SFT, then RFT as described in post-train/README.md
@@ -210,7 +210,7 @@ for lang in python sql; do
 done
 ```
 
-### Step 3 — NL2SQL systems (Table 4)
+### Step 3 — NL2SQL systems
 
 ```bash
 for id in $(ls bi-bench/ | grep -v 'gt\|queries'); do
