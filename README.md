@@ -1,6 +1,8 @@
 # BI-Agent and BI-Bench
 
-This repository contains the reproduction artifact for **BI-Agent and BI-Bench: Automating End-to-end Business Intelligence**
+[![arXiv](https://img.shields.io/badge/arXiv-2609.20886-b31b1b.svg)](https://arxiv.org/abs/2609.20886)
+
+This repository contains the reproduction artifact for **BI-Agent and BI-Bench: Automating End-to-end Business Intelligence**.
 
 
 ## Repository Structure
@@ -232,3 +234,19 @@ done
 - `openai`, `azure-ai-inference`, `transformers`, `peft`, `pandas`, `numpy`, `python-dotenv`
 
 LLM access requires an Azure OpenAI or Azure AI Foundry endpoint. See each component's README for environment variable details.
+
+---
+
+## Citation
+
+```bibtex
+@misc{hu2026biagentbibenchautomatingendtoend,
+      title={BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence}, 
+      author={Chuxuan Hu and Yeye He and Penny Zhou and Wee Hyong Tok and Daniel Kang and Surajit Chaudhuri},
+      year={2026},
+      eprint={2609.20886},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.20886}, 
+}
+```
