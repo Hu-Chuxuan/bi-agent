@@ -1,6 +1,11 @@
 # BI-Agent and BI-Bench
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.20886-b31b1b.svg)](https://arxiv.org/abs/2609.20886)
+[![Hugging Face Paper](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://huggingface.co/papers/2609.20886)
+
+<p align="center">
+  <img src="assets/fig1.png" width="720" alt="BI-Agent and BI-Bench overview">
+</p>
 
 This repository contains the reproduction artifact for **BI-Agent and BI-Bench: Automating End-to-end Business Intelligence**.
 
